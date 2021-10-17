@@ -58,5 +58,5 @@ mv orario.json ../orario.json
 mv orario_bgschoolbot.json ../orario_bgschoolbot.json
 
 echo 'Commit to repo'
-git add *
+git add ../*
 git commit -m "🍱 $name"
