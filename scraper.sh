@@ -37,7 +37,7 @@ echo 'Clearing empty lines from orario.txt'
 awk 'NF { $1=$1; print }' orario.txt > tmp.txt
 mv tmp.txt orario.txt
 
-echo 'Stating step 2'
+echo 'Starting step 2'
 php step2.php
 
 if [ $? -ne 0 ]; then
@@ -55,4 +55,5 @@ rm ore_classi.txt
 rm ore_inizio.txt
 
 echo 'Commit to repo'
+git add *
 git commit -m "🍱 $name"
