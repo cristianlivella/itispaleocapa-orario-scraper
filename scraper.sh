@@ -22,6 +22,9 @@ if [ $? = 0 ]; then
     exit 0
 fi
 
+echo 'Install python requirements'
+pip install -r requirements.txt
+
 echo 'Starting step 1'
 python3 step1.py
 

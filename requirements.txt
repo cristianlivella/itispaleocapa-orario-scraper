@@ -1,0 +1,4 @@
+tika==1.24
+pytesseract==0.3.7
+pdf2image==1.14.0
+Pillow==8.4.0
