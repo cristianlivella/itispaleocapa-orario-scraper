@@ -50,3 +50,6 @@ rm orario.pdf
 rm orario.txt
 rm ore_classi.txt
 rm ore_inizio.txt
+
+echo 'Commit to repo'
+git commit -m "🍱 $name"
