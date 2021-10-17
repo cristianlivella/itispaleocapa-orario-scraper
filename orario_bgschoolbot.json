@@ -2963,7 +2963,7 @@
         "Tarsitano",
         "Italiano e",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         1,
         3
     ],
@@ -2987,7 +2987,7 @@
         "Di Giorgi",
         "Matematica",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         1,
         5
     ],
@@ -3003,7 +3003,7 @@
         "Bucci",
         "S.I. Chimica",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         1,
         7
     ],
@@ -3011,7 +3011,7 @@
         "Scerra",
         "T. T. R",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         2,
         1
     ],
@@ -3019,7 +3019,7 @@
         "Scerra",
         "T. T. R",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         2,
         2
     ],
@@ -3027,7 +3027,7 @@
         "Scerra",
         "T. T. R",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         2,
         3
     ],
@@ -3035,7 +3035,7 @@
         "Torre",
         "T. T. R",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         2,
         3
     ],
@@ -3043,7 +3043,7 @@
         "Tarsitano",
         "Italiano e",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         2,
         4
     ],
@@ -3051,7 +3051,7 @@
         "Nessi",
         "S.I. Sc. d. Ter",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         2,
         5
     ],
@@ -3059,7 +3059,7 @@
         "Baroni",
         "Inglese",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         2,
         6
     ],
@@ -3075,7 +3075,7 @@
         "Baroni",
         "Inglese",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         3,
         4
     ],
@@ -3083,7 +3083,7 @@
         "Basile",
         "Diritto ed",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         3,
         5
     ],
@@ -3091,7 +3091,7 @@
         "Giarratano",
         "S.I. Fisica",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         3,
         6
     ],
@@ -3099,7 +3099,7 @@
         "Nessi",
         "S.I. Sc. d. Ter",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         3,
         7
     ],
@@ -3107,7 +3107,7 @@
         "Tarsitano",
         "Italiano e",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         4,
         1
     ],
@@ -3115,7 +3115,7 @@
         "Tarsitano",
         "Italiano e",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         4,
         2
     ],
@@ -3123,7 +3123,7 @@
         "Giarratano",
         "S.I. Fisica",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         4,
         3
     ],
@@ -3131,7 +3131,7 @@
         "Di Giorgi",
         "Matematica",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         4,
         4
     ],
@@ -3171,7 +3171,7 @@
         "Di Giorgi",
         "Matematica",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         5,
         1
     ],
@@ -3179,7 +3179,7 @@
         "Basile",
         "Diritto ed",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         5,
         2
     ],
@@ -3187,7 +3187,7 @@
         "Bucci",
         "S.I. Chimica",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         5,
         3
     ],
@@ -3211,7 +3211,7 @@
         "Tarsitano",
         "Italiano e",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         5,
         5
     ],
@@ -3219,7 +3219,7 @@
         "Baroni",
         "Inglese",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         5,
         6
     ],
@@ -3227,7 +3227,7 @@
         "Di Giorgi",
         "Matematica",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         6,
         1
     ],
@@ -3235,7 +3235,7 @@
         "Suria",
         "Tecn",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         6,
         2
     ],
@@ -3243,7 +3243,7 @@
         "Tarsitano",
         "Italiano e",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         6,
         3
     ],
@@ -3251,7 +3251,7 @@
         "Cuminetti",
         "Religione",
         "1IH",
-        "2-12 Ex Biblio",
+        "2-12",
         6,
         4
     ],
@@ -15403,7 +15403,7 @@
         "Castelletti",
         "Sistemi",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         1,
         2
     ],
@@ -15443,7 +15443,7 @@
         "Zammaretti",
         "Matematica",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         1,
         5
     ],
@@ -15451,7 +15451,7 @@
         "Castelletti",
         "Elettrot. e",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         1,
         6
     ],
@@ -15459,7 +15459,7 @@
         "Desoppi",
         "Storia",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         2,
         1
     ],
@@ -15467,7 +15467,7 @@
         "Zammaretti",
         "Matematica",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         2,
         2
     ],
@@ -15539,7 +15539,7 @@
         "Spanio",
         "Italiano",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         3,
         1
     ],
@@ -15547,7 +15547,7 @@
         "Spanio",
         "Italiano",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         3,
         2
     ],
@@ -15571,7 +15571,7 @@
         "Castelletti",
         "Elettrot. e",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         3,
         4
     ],
@@ -15579,7 +15579,7 @@
         "Parra",
         "Inglese",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         3,
         5
     ],
@@ -15603,7 +15603,7 @@
         "Parra",
         "Inglese",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         4,
         3
     ],
@@ -15611,7 +15611,7 @@
         "Zammaretti",
         "Matematica",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         4,
         4
     ],
@@ -15619,7 +15619,7 @@
         "Castelletti",
         "Elettrot. e",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         4,
         5
     ],
@@ -15627,7 +15627,7 @@
         "Castelletti",
         "Sistemi",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         4,
         6
     ],
@@ -15635,7 +15635,7 @@
         "Castelletti",
         "Sistemi",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         4,
         7
     ],
@@ -15675,7 +15675,7 @@
         "Zammaretti",
         "Matematica",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         5,
         3
     ],
@@ -15683,7 +15683,7 @@
         "Parra",
         "Inglese",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         5,
         4
     ],
@@ -15691,7 +15691,7 @@
         "Spanio",
         "Italiano",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         5,
         5
     ],
@@ -15699,7 +15699,7 @@
         "Spanio",
         "Italiano",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         5,
         6
     ],
@@ -15707,7 +15707,7 @@
         "Desoppi",
         "Storia",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         6,
         1
     ],
@@ -15715,7 +15715,7 @@
         "Cuminetti",
         "Religione",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         6,
         2
     ],
@@ -15723,7 +15723,7 @@
         "Di Pietro",
         "Tecn. Prog",
         "4EB",
-        "T1-14 Ex Gewi",
+        "T1-14",
         6,
         3
     ],
@@ -21643,7 +21643,7 @@
         "Cuminetti",
         "Religione",
         "5ID",
-        "T1-14 Ex Gewi",
+        "T1-14",
         1,
         3
     ],
@@ -21763,7 +21763,7 @@
         "Raffaini",
         "Inglese",
         "5ID",
-        "T1-14 Ex Gewi",
+        "T1-14",
         3,
         3
     ],
@@ -22387,7 +22387,7 @@
         "Panza",
         "Italiano e",
         "5MA",
-        "T1-14 Ex Gewi",
+        "T1-14",
         2,
         4
     ],
@@ -22395,7 +22395,7 @@
         "Panza",
         "Italiano e",
         "5MA",
-        "T1-14 Ex Gewi",
+        "T1-14",
         2,
         5
     ],
@@ -22403,7 +22403,7 @@
         "Marino",
         "Meccanica",
         "5MA",
-        "T1-14 Ex Gewi",
+        "T1-14",
         2,
         6
     ],

@@ -2955,7 +2955,7 @@
             "professori": [
                 "Tarsitano"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 1,
             "ora": 3
         },
@@ -2974,7 +2974,7 @@
             "professori": [
                 "Di Giorgi"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 1,
             "ora": 5
         },
@@ -2992,7 +2992,7 @@
             "professori": [
                 "Bucci"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 1,
             "ora": 7
         },
@@ -3001,7 +3001,7 @@
             "professori": [
                 "Scerra"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 2,
             "ora": 1
         },
@@ -3010,7 +3010,7 @@
             "professori": [
                 "Scerra"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 2,
             "ora": 2
         },
@@ -3020,7 +3020,7 @@
                 "Scerra",
                 "Torre"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 2,
             "ora": 3
         },
@@ -3029,7 +3029,7 @@
             "professori": [
                 "Tarsitano"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 2,
             "ora": 4
         },
@@ -3038,7 +3038,7 @@
             "professori": [
                 "Nessi"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 2,
             "ora": 5
         },
@@ -3047,7 +3047,7 @@
             "professori": [
                 "Baroni"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 2,
             "ora": 6
         },
@@ -3065,7 +3065,7 @@
             "professori": [
                 "Baroni"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 3,
             "ora": 4
         },
@@ -3074,7 +3074,7 @@
             "professori": [
                 "Basile"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 3,
             "ora": 5
         },
@@ -3083,7 +3083,7 @@
             "professori": [
                 "Giarratano"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 3,
             "ora": 6
         },
@@ -3092,7 +3092,7 @@
             "professori": [
                 "Nessi"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 3,
             "ora": 7
         },
@@ -3101,7 +3101,7 @@
             "professori": [
                 "Tarsitano"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 4,
             "ora": 1
         },
@@ -3110,7 +3110,7 @@
             "professori": [
                 "Tarsitano"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 4,
             "ora": 2
         },
@@ -3119,7 +3119,7 @@
             "professori": [
                 "Giarratano"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 4,
             "ora": 3
         },
@@ -3128,7 +3128,7 @@
             "professori": [
                 "Di Giorgi"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 4,
             "ora": 4
         },
@@ -3157,7 +3157,7 @@
             "professori": [
                 "Di Giorgi"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 5,
             "ora": 1
         },
@@ -3166,7 +3166,7 @@
             "professori": [
                 "Basile"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 5,
             "ora": 2
         },
@@ -3175,7 +3175,7 @@
             "professori": [
                 "Bucci"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 5,
             "ora": 3
         },
@@ -3194,7 +3194,7 @@
             "professori": [
                 "Tarsitano"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 5,
             "ora": 5
         },
@@ -3203,7 +3203,7 @@
             "professori": [
                 "Baroni"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 5,
             "ora": 6
         },
@@ -3212,7 +3212,7 @@
             "professori": [
                 "Di Giorgi"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 6,
             "ora": 1
         },
@@ -3221,7 +3221,7 @@
             "professori": [
                 "Suria"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 6,
             "ora": 2
         },
@@ -3230,7 +3230,7 @@
             "professori": [
                 "Tarsitano"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 6,
             "ora": 3
         },
@@ -3239,7 +3239,7 @@
             "professori": [
                 "Cuminetti"
             ],
-            "aula": "2-12 Ex Biblio",
+            "aula": "2-12",
             "giorno": 6,
             "ora": 4
         }
@@ -15208,7 +15208,7 @@
             "professori": [
                 "Castelletti"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 1,
             "ora": 2
         },
@@ -15237,7 +15237,7 @@
             "professori": [
                 "Zammaretti"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 1,
             "ora": 5
         },
@@ -15246,7 +15246,7 @@
             "professori": [
                 "Castelletti"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 1,
             "ora": 6
         },
@@ -15255,7 +15255,7 @@
             "professori": [
                 "Desoppi"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 2,
             "ora": 1
         },
@@ -15264,7 +15264,7 @@
             "professori": [
                 "Zammaretti"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 2,
             "ora": 2
         },
@@ -15313,7 +15313,7 @@
             "professori": [
                 "Spanio"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 3,
             "ora": 1
         },
@@ -15322,7 +15322,7 @@
             "professori": [
                 "Spanio"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 3,
             "ora": 2
         },
@@ -15341,7 +15341,7 @@
             "professori": [
                 "Castelletti"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 3,
             "ora": 4
         },
@@ -15350,7 +15350,7 @@
             "professori": [
                 "Parra"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 3,
             "ora": 5
         },
@@ -15377,7 +15377,7 @@
             "professori": [
                 "Parra"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 4,
             "ora": 3
         },
@@ -15386,7 +15386,7 @@
             "professori": [
                 "Zammaretti"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 4,
             "ora": 4
         },
@@ -15395,7 +15395,7 @@
             "professori": [
                 "Castelletti"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 4,
             "ora": 5
         },
@@ -15404,7 +15404,7 @@
             "professori": [
                 "Castelletti"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 4,
             "ora": 6
         },
@@ -15413,7 +15413,7 @@
             "professori": [
                 "Castelletti"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 4,
             "ora": 7
         },
@@ -15442,7 +15442,7 @@
             "professori": [
                 "Zammaretti"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 5,
             "ora": 3
         },
@@ -15451,7 +15451,7 @@
             "professori": [
                 "Parra"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 5,
             "ora": 4
         },
@@ -15460,7 +15460,7 @@
             "professori": [
                 "Spanio"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 5,
             "ora": 5
         },
@@ -15469,7 +15469,7 @@
             "professori": [
                 "Spanio"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 5,
             "ora": 6
         },
@@ -15478,7 +15478,7 @@
             "professori": [
                 "Desoppi"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 6,
             "ora": 1
         },
@@ -15487,7 +15487,7 @@
             "professori": [
                 "Cuminetti"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 6,
             "ora": 2
         },
@@ -15496,7 +15496,7 @@
             "professori": [
                 "Di Pietro"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 6,
             "ora": 3
         }
@@ -20890,7 +20890,7 @@
             "professori": [
                 "Cuminetti"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 1,
             "ora": 3
         },
@@ -20993,7 +20993,7 @@
             "professori": [
                 "Raffaini"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 3,
             "ora": 3
         },
@@ -21555,7 +21555,7 @@
             "professori": [
                 "Panza"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 2,
             "ora": 4
         },
@@ -21564,7 +21564,7 @@
             "professori": [
                 "Panza"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 2,
             "ora": 5
         },
@@ -21573,7 +21573,7 @@
             "professori": [
                 "Marino"
             ],
-            "aula": "T1-14 Ex Gewi",
+            "aula": "T1-14",
             "giorno": 2,
             "ora": 6
         },
