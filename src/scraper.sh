@@ -12,10 +12,9 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-last_hash=$(cat last_hash.txt 2>/dev/null)
 new_hash=$(sha512sum orario.pdf)
 
-cat last_hash.txt 2>/dev/null | sha512sum --check 2>/dev/null
+cat ../last_hash.txt 2>/dev/null | sha512sum --check 2>/dev/null
 
 if [ $? = 0 ]; then
     echo 'No update since last scraping'
@@ -46,13 +45,17 @@ if [ $? -ne 0 ]; then
 fi
 
 echo 'Saving new PDF hash'
-echo $new_hash > last_hash.txt
+echo $new_hash > ../last_hash.txt
 
 echo 'Removing temp files...'
 rm orario.pdf
 rm orario.txt
 rm ore_classi.txt
 rm ore_inizio.txt
+
+echo 'Moving files to root...'
+mv orario.json ../orario.json
+mv orario_bgschoolbot.json ../orario_bgschoolbot.json
 
 echo 'Commit to repo'
 git add *
