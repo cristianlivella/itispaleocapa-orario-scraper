@@ -4,7 +4,7 @@ name: Timetable scrape
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '0 */8 * * *'
+    - cron:  '0 16 15 * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -19,19 +19,19 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-       
+
       - name: Configure git
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-    
+
       - name: Install poppler-utils
         run: sudo apt-get install poppler-utils
-          
+
       - name: Run the scraper
         working-directory: ./src
         run: ./scraper.sh
-          
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

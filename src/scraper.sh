@@ -1,3 +1,6 @@
+echo 'Test fail'
+exit 1
+
 echo 'Starting scraping'
 
 html=$(wget --header "Cookie: pasw_law_cookie=yes" -qO - https://www.itispaleocapa.edu.it/orario-classi/)
