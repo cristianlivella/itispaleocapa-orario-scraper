@@ -54,25 +54,25 @@ $teachersFound = false;
 // The multidimensional tempTimetable array will contain the lessons of each class in chronological order, but they will not be divided by days.
 $line = 0;
 while ($line < $lineCount) {
-	if (stripos($timetable[$line], 'I.T.I.S. "Paleocapa"') !== false) {
+    if (stripos($timetable[$line], 'I.T.I.S. "Paleocapa"') !== false) {
         // skip the next 6 lines, the following one contains the class name
         $line = $line+6;
-		$class = $timetable[$line];
-		$time = 1;
-	}
+        $class = $timetable[$line];
+        $time = 1;
+    }
     elseif (stripos($timetable[$line], 'Pagina ') !== false || strlen($timetable[$line]) === 0) {
         // skip the page number line or the empty line
         $line++;
         continue;
     }
-	elseif (strpos($timetable[$line], ':00') === false && $timetable[$line] !== 'lunedì martedì mercoledì giovedì venerdì sabato') {
-		if (!$subjectFound && strlen($timetable[$line])) {
+    elseif (strpos($timetable[$line], ':00') === false && $timetable[$line] !== 'lunedì martedì mercoledì giovedì venerdì sabato') {
+        if (!$subjectFound && strlen($timetable[$line])) {
             // if the subject has not yet been found, the first valid line that is found is the subject
-    		$timetable[$line] = rtrim($timetable[$line], '.');
-    		$tempTimetable[$class][$time]['materia'] = ltrim($timetable[$line], '.');
-    		$subjectFound = true;
+            $timetable[$line] = rtrim($timetable[$line], '.');
+            $tempTimetable[$class][$time]['materia'] = ltrim($timetable[$line], '.');
+            $subjectFound = true;
         }
-		elseif (!$teachersFound) {
+        elseif (!$teachersFound) {
             if ((strpos($timetable[$line], '-') === false) || preg_match(REGEX_CLASSE_DI_CONCORSO, $timetable[$line])) {
                 // if the current line doesn't contain hyphen, or if it matches the "classe di concorso" regex, then it's a teacher
                 $tempTimetable[$class][$time]['professori'][] = ltrim(ucwords(mb_strtolower($timetable[$line])), '.');
@@ -82,8 +82,8 @@ while ($line < $lineCount) {
                     $teachersFound = true;
                 }
             }
-		}
-		else {
+        }
+        else {
             if (stripos($timetable[$line], 'o ') === 0) {
                 // if the line starts with 'o ', it means that this is an alternate classroom for the current lesson;
                 // since BgSchoolBot doesn't support this, we ignore it, and hope Bolognini doesn't use it too often :)
@@ -94,45 +94,45 @@ while ($line < $lineCount) {
             // perform some clean
             $classroom = str_replace('Lab. Terr. Occup.', 'LTO', $timetable[$line]);
             $classroom = str_replace(['Aula ', 'Aula', ' Aula Disegno 2', ' Aula Disegno'], '', $classroom);
-			if (stripos($classroom, 'Lab') !== false || stripos($classroom, ' Ex ') !== false) {
-				$classroom = explode(' ', $classroom)[0];
-			}
+            if (stripos($classroom, 'Lab') !== false || stripos($classroom, ' Ex ') !== false) {
+                $classroom = explode(' ', $classroom)[0];
+            }
 
-			$tempTimetable[$class][$time]['aula'] = $classroom;
+            $tempTimetable[$class][$time]['aula'] = $classroom;
 
             // the classroom is the last info to be found, after we continue looking for the next lesson
-			$subjectFound = false;
-			$teachersFound = false;
-			$time++;
-		}
-	}
-	$line++;
+            $subjectFound = false;
+            $teachersFound = false;
+            $time++;
+        }
+    }
+    $line++;
 }
 
 // explode the daily hours (ore_classi.txt)
 $dailyHours = explode(PHP_EOL, $dailyHours);
 $countClasses = count($dailyHours);
 for ($i = 0; $i < $countClasses; $i++) {
-	$dailyHours[$i] = explode('.', $dailyHours[$i]);
+    $dailyHours[$i] = explode('.', $dailyHours[$i]);
 }
 
 // explode the initial
 $emptyInitialHours = explode(PHP_EOL, $emptyInitialHours);
 $countClasses = count($dailyHours);
 for ($i = 0; $i < $countClasses; $i++) {
-	$emptyInitialHours[$i] = explode('.', $emptyInitialHours[$i]);
+    $emptyInitialHours[$i] = explode('.', $emptyInitialHours[$i]);
 }
 
 $classIndex = 0;
 foreach (array_keys($tempTimetable) AS $class) {
-	$time = 1;
-	$lessonIndex = 1;
+    $time = 1;
+    $lessonIndex = 1;
     for ($day = 1; $day < 7; $day++) {
         // set the day and time values for each lesson
         for ($time = 1; $time <= $dailyHours[$classIndex][$day - 1]; $time++) {
             $tempTimetable[$class][$lessonIndex]['giorno'] = $day;
-    		$tempTimetable[$class][$lessonIndex]['ora'] = $time;
-    		$lessonIndex++;
+            $tempTimetable[$class][$lessonIndex]['ora'] = $time;
+            $lessonIndex++;
         }
 
         // fix the times according to ore_inizio.txt file
@@ -159,25 +159,25 @@ foreach (array_keys($tempTimetable) AS $class) {
         }
     }
 
-	$classIndex++;
+    $classIndex++;
 }
 
 $finalTimetable = [];
 
 // produce an array of timetable records BgSchoolBot compatible
 foreach ($tempTimetable AS $class => $classTimetable) {
-	foreach ($classTimetable AS $ore) {
+    foreach ($classTimetable AS $ore) {
         if (isset($ore['professori']) AND count($ore['professori'])>0) {
-    		foreach ($ore['professori'] AS $professore) {
+            foreach ($ore['professori'] AS $professore) {
                 if (!isset($ore['giorno']) OR !isset($ore['materia']) OR !isset($ore['ora'])) {
                     echo 'ERROR AT ' . $class . '!' . PHP_EOL;
                     exit(1);
                 }
 
-    			$finalTimetable[] = [$professore, $ore['materia'], $class, $ore['aula'], $ore['giorno'], $ore['ora']];
-    		}
+                $finalTimetable[] = [$professore, $ore['materia'], $class, $ore['aula'], $ore['giorno'], $ore['ora']];
+            }
         }
-	}
+    }
 }
 
 file_put_contents('orario.json', json_encode($tempTimetable, JSON_PRETTY_PRINT));
