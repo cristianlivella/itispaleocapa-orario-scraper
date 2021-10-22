@@ -3,14 +3,14 @@
         "cognome": "Greco",
         "omonimi": [
             {
-                "nome": "",
+                "nome": "Antonio",
                 "ore": 18,
                 "materie": [
                     "Diritto ed"
                 ]
             },
             {
-                "nome": "",
+                "nome": "Anna Maria",
                 "ore": 3,
                 "materie": [
                     "Telecomuni",
@@ -18,7 +18,7 @@
                 ]
             },
             {
-                "nome": "",
+                "nome": "Anna Maria",
                 "ore": 18,
                 "materie": [
                     "Gest. Prg",
@@ -32,7 +32,7 @@
         "cognome": "Russo",
         "omonimi": [
             {
-                "nome": "",
+                "nome": "Umberto",
                 "ore": 16,
                 "materie": [
                     "S.I. Biologia",
@@ -40,7 +40,7 @@
                 ]
             },
             {
-                "nome": "",
+                "nome": "Max",
                 "ore": 23,
                 "materie": [
                     "Elettrot. e",
@@ -54,14 +54,14 @@
         "cognome": "Mastroianni",
         "omonimi": [
             {
-                "nome": "",
+                "nome": "Caterina",
                 "ore": 19,
                 "materie": [
                     "Matematica"
                 ]
             },
             {
-                "nome": "",
+                "nome": "Michele",
                 "ore": 18,
                 "materie": [
                     "Informatica",
@@ -75,14 +75,14 @@
         "cognome": "Sciuto",
         "omonimi": [
             {
-                "nome": "",
+                "nome": "Andrea",
                 "ore": 18,
                 "materie": [
                     "Italiano e"
                 ]
             },
             {
-                "nome": "",
+                "nome": "Giuseppe",
                 "ore": 20,
                 "materie": [
                     "Meccanica",
@@ -97,14 +97,14 @@
         "cognome": "Napolitano",
         "omonimi": [
             {
-                "nome": "",
+                "nome": "Pasquale",
                 "ore": 18,
                 "materie": [
                     "Sc. Motorie"
                 ]
             },
             {
-                "nome": "",
+                "nome": "Francesco",
                 "ore": 18,
                 "materie": [
                     "Italiano e"
