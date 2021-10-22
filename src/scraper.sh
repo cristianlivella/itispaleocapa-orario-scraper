@@ -17,7 +17,7 @@ cp ../omonimi.json . 2>/dev/null
 
 new_hash=$(sha512sum orario.pdf)
 
-cat ../orario.sha512 2>/dev/null | sha512sum --check 2>/dev/null
+cat ../orario.pdf.sha512 2>/dev/null | sha512sum --check 2>/dev/null
 
 if [ $? = 0 ]; then
     echo 'No update since last scraping'
@@ -53,7 +53,7 @@ if [ $? -ne 0 ]; then
 fi
 
 echo 'Saving new PDF hash'
-echo $new_hash > ../orario.sha512
+echo $new_hash > ../orario.pdf.sha512
 
 echo 'Saving new omonimi.json hash'
 sha512sum omonimi.json > ../omonimi.json.sha512
