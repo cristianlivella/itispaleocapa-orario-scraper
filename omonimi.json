@@ -21,9 +21,9 @@
                 "nome": "",
                 "ore": 18,
                 "materie": [
-                    "Tecn. Prg",
                     "Gest. Prg",
-                    "Sistemi e"
+                    "Sistemi e",
+                    "Tecn. Prg"
                 ]
             }
         ]
@@ -35,17 +35,17 @@
                 "nome": "",
                 "ore": 16,
                 "materie": [
-                    "S.I. Sc. d. Ter",
-                    "S.I. Biologia"
+                    "S.I. Biologia",
+                    "S.I. Sc. d. Ter"
                 ]
             },
             {
                 "nome": "",
                 "ore": 23,
                 "materie": [
+                    "Elettrot. e",
                     "Sc. e Tecn",
-                    "Sistemi",
-                    "Elettrot. e"
+                    "Sistemi"
                 ]
             }
         ]
@@ -85,32 +85,29 @@
                 "nome": "",
                 "ore": 20,
                 "materie": [
+                    "Meccanica",
                     "Sc. e Tecn",
-                    "Tecn",
                     "Sistemi e",
-                    "Meccanica"
+                    "Tecn"
                 ]
             }
         ]
     },
     {
-        "cognome": "Sciuto",
+        "cognome": "Napolitano",
         "omonimi": [
             {
                 "nome": "",
                 "ore": 18,
                 "materie": [
-                    "Italiano e"
+                    "Sc. Motorie"
                 ]
             },
             {
                 "nome": "",
-                "ore": 20,
+                "ore": 18,
                 "materie": [
-                    "Sc. e Tecn",
-                    "Tecn",
-                    "Sistemi e",
-                    "Meccanica"
+                    "Italiano e"
                 ]
             }
         ]
