@@ -37,3 +37,15 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
+
+      - name: Check file existence
+        id: check_file
+        uses: andstor/file-existence-action@v1
+        with:
+          files: "src/bgschoolbot-need-update"
+
+      - name: Update BgSchoolBot database
+        if: steps.check_file.outputs.files_exists == 'true'
+        uses: wei/curl@master
+        with:
+          args: "https://bgschool.cristianlivella.com/gh-actions/update.php?token=${{ secrets.BGSCHOOLBOT_TOKEN }}"

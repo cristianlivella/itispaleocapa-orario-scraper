@@ -26,17 +26,21 @@ if (!file_exists('orario.txt') || !$timetable = file_get_contents('orario.txt'))
     exit(1);
 }
 
-if (!file_exists('ore_classi.txt') OR !$dailyHours = file_get_contents('ore_classi.txt')) {
+if (!file_exists('ore_classi.txt') || !$dailyHours = file_get_contents('ore_classi.txt')) {
     echo 'Error: cannot open ore_classi.txt' . PHP_EOL;
     exit(1);
 }
 
-if (!file_exists('ore_inizio.txt') OR !$emptyInitialHours = file_get_contents('ore_inizio.txt')) {
+if (!file_exists('ore_inizio.txt') || !$emptyInitialHours = file_get_contents('ore_inizio.txt')) {
     echo 'Error: cannot open ore_inizio.txt' . PHP_EOL;
     exit(1);
 }
 
-define('REGEX_CLASSE_DI_CONCORSO', '/[A-Za-z]{1}[0-9]{1,4}-[A-Za-z]+[A-Za-z0-9]+/');
+if (!file_exists('omonimi.json') || !$oldOmonimi = json_decode(file_get_contents('omonimi.json'), true)) {
+    $oldOmonimi = [];
+}
+
+define('REGEX_CLASSE_DI_CONCORSO', '/[A-Za-z]{1}[0-9]{2,4}-[A-Za-z0-9]+/');
 
 // explode the timetable (orario.txt)
 $timetable = explode(PHP_EOL, $timetable);
@@ -93,7 +97,7 @@ while ($line < $lineCount) {
 
             // perform some clean
             $classroom = str_replace('Lab. Terr. Occup.', 'LTO', $timetable[$line]);
-            $classroom = str_replace(['Aula ', 'Aula', ' Aula Disegno 2', ' Aula Disegno'], '', $classroom);
+            $classroom = str_replace([' Aula Disegno 2', ' Aula Disegno', 'Aula ', 'Aula'], '', $classroom);
             if (stripos($classroom, 'Lab') !== false || stripos($classroom, ' Ex ') !== false) {
                 $classroom = explode(' ', $classroom)[0];
             }
@@ -116,7 +120,7 @@ for ($i = 0; $i < $countClasses; $i++) {
     $dailyHours[$i] = explode('.', $dailyHours[$i]);
 }
 
-// explode the initial
+// explode the initial hours (ore_inizio.txt)
 $emptyInitialHours = explode(PHP_EOL, $emptyInitialHours);
 $countClasses = count($dailyHours);
 for ($i = 0; $i < $countClasses; $i++) {
@@ -162,26 +166,176 @@ foreach (array_keys($tempTimetable) AS $class) {
     $classIndex++;
 }
 
+$teacherHours = [];
 $finalTimetable = [];
 
-// produce an array of timetable records BgSchoolBot compatible
+// Produce an array of timetable records BgSchoolBot compatible.
+// At the same time, count the lesson hours for each subject for each teacher.
 foreach ($tempTimetable AS $class => $classTimetable) {
-    foreach ($classTimetable AS $ore) {
-        if (isset($ore['professori']) AND count($ore['professori'])>0) {
-            foreach ($ore['professori'] AS $professore) {
-                if (!isset($ore['giorno']) OR !isset($ore['materia']) OR !isset($ore['ora'])) {
+    foreach ($classTimetable AS $lesson) {
+        if (isset($lesson['professori']) && count($lesson['professori']) > 0) {
+            foreach ($lesson['professori'] AS $professore) {
+                if (!isset($lesson['giorno']) || !isset($lesson['materia']) || !isset($lesson['ora'])) {
                     echo 'ERROR AT ' . $class . '!' . PHP_EOL;
                     exit(1);
                 }
 
-                $finalTimetable[] = [$professore, $ore['materia'], $class, $ore['aula'], $ore['giorno'], $ore['ora']];
+                $finalTimetable[] = [$professore, $lesson['materia'], $class, $lesson['aula'], $lesson['giorno'], $lesson['ora']];
+
+                if (!isset($teacherHours[$professore])) {
+                    $teacherHours[$professore] = ['ore' => 0, 'materie' => [], 'lezioni' => []];
+                }
+
+                if (!isset($teacherHours[$professore]['materie'][$lesson['materia']])) {
+                    $teacherHours[$professore]['materie'][$lesson['materia']] = 0;
+                }
+
+                // Create the hash of the lesson, considering the day, time and subject.
+                // This is to prevent multiple entries of the same lesson, in case of combined classes.
+                // (in some particular cases, 2 classes have lessons at the same time with the same teacher)
+                $lessonHash = hash('sha512', json_encode([$lesson['giorno'], $lesson['ora'], $lesson['materia']]));
+                if (!in_array($lessonHash, $teacherHours[$professore]['lezioni'])) {
+                    $teacherHours[$professore]['ore']++;
+                    $teacherHours[$professore]['materie'][$lesson['materia']]++;
+                    $teacherHours[$professore]['lezioni'][] = $lessonHash;
+                }
+
             }
         }
     }
 }
 
+// Here starts the search for homonymous teachers (with the same surname).
+$compatibleSubjects = [];
+$omonimi = [];
+
+// First, let's look at which subjects are "compatible" with each other,
+// meaning that they are in some cases taught by the same teacher.
+foreach ($teacherHours AS $teacher => $details) {
+    // we skip the teachers who have more than 18 weekly hours of lesson, as these are probably homonyms
+    if ($details['ore'] > 18) continue;
+
+    foreach (array_keys($details['materie']) AS $subject1) {
+        // create the array in $compatibleSubjects, if it doesn't exist
+        if (!isset($compatibleSubjects[$subject1])) {
+            $compatibleSubjects[$subject1] = [];
+        }
+
+        // Add each other subject teached by this teacher in the array created before,
+        // if it doesn't already in it and it is differet from subject1.
+        foreach (array_keys($details['materie']) AS $subject2) {
+            if (!in_array($subject2, $compatibleSubjects[$subject1]) && $subject1 !== $subject2) {
+                $compatibleSubjects[$subject1][] = $subject2;
+            }
+        }
+    }
+}
+
+// For each teacher with more then 18 hours, try dividing his subjects into compatible groups.
+// If there are more than one group for the same theacher, it is most likely a homonymy.
+foreach ($teacherHours AS $teacher => $details) {
+    // we skip the teachers who have 18 or less weekly hours of lesson
+    if ($details['ore'] <= 18) continue;
+
+    $subjectGroups = [];
+    foreach ($details['materie'] AS $subject => $hours) {
+        $matchingGroupIndex = null;
+
+        // We look for each subject in each groups to see if the current one is comptabile
+        // with another subject that already has a group. In this case, we insert the
+        // current subject in the same group, otherwise we insert it in a new group.
+        foreach ($subjectGroups AS $groupIndex => $internalSubjects) {
+            foreach ($internalSubjects AS $internalSubject => $val2) {
+                if (in_array($subject, $compatibleSubjects[$internalSubject])) {
+                    $matchingGroupIndex = $groupIndex;
+                    break 2;
+                }
+            }
+        }
+
+        if ($matchingGroupIndex === null) {
+            // if there is no compatible group, we insert the subject in a new group
+            $subjectGroups[] = [$subject => $hours];
+        }
+        else {
+            // otherwise we insert it in the compatibile group
+            $subjectGroups[$matchingGroupIndex][$subject] = $hours;
+        }
+    }
+
+    if (count($subjectGroups) > 1) {
+        // If there is more than one group of compatible subjects,
+        // then there are multiple professors with the same surname.
+        // We insert it in the $omonimi array, which will then be saved
+        // in omonimi.json. Then we can manually insert the name
+        // of the teachers, and then run step3.php to fix them.
+        $currentTeacherHomonyms = ['cognome' => $teacher, 'omonimi' => []];
+        foreach ($subjectGroups AS $group) {
+            $currentTeacherHomonyms['omonimi'][] = ['nome' => '', 'ore' => array_sum($group), 'materie' => array_keys($group)];
+        }
+        $omonimi[] = $currentTeacherHomonyms;
+    }
+}
+
+// For each homonymous teacher, we check if the name was already set
+// in the json file, and if so we use that.
+foreach ($omonimi AS &$omonimo) {
+    foreach ($oldOmonimi AS $oldOmonimo) {
+        if ($omonimo['cognome'] === $oldOmonimo['cognome']) {
+            foreach ($omonimo['omonimi'] AS &$singleOmonimo) {
+                foreach ($oldOmonimo['omonimi'] AS $singleOldOmonimo) {
+                    asort($singleOmonimo['materie']);
+                    asort($singleOldOmonimo['materie']);
+                    if ($singleOmonimo['materie'] === $singleOldOmonimo['materie']) {
+                        // if the surname and the subjects are the same,
+                        // we are referring to the same homonymous,
+                        // so we can use the already set name.
+                        $singleOmonimo['nome'] = $singleOldOmonimo['nome'];
+                    }
+                }
+            }
+        }
+    }
+}
+
+// Create the list of homonyms to fix.
+$homonymsToFix = [];
+foreach ($omonimi AS $omonimo) {
+    foreach ($omonimo['omonimi'] AS $singleOmonimo) {
+        // if the name is not set, we do nothing
+        if (strlen($singleOmonimo['nome']) === 0) continue;
+
+        foreach ($singleOmonimo['materie'] AS $subject) {
+            $homonymyHash = hash('sha512', json_encode([$omonimo['cognome'], $subject]));
+            $homonymsToFix[$homonymyHash] = $singleOmonimo['nome'];
+        }
+    }
+}
+
+// Fix the homonyms in $tempTimetable.
+foreach ($tempTimetable AS $class => &$classTimetable) {
+    foreach ($classTimetable AS &$lesson) {
+        foreach ($lesson['professori'] AS &$teacher) {
+            $homonymyHash = hash('sha512', json_encode([$teacher, $lesson['materia']]));
+            if (isset($homonymsToFix[$homonymyHash])) {
+                $teacher .= ' ' . $homonymsToFix[$homonymyHash];
+            }
+        }
+    }
+}
+
+// Fix the homonyms in $finalTimetable.
+foreach ($finalTimetable AS &$teacherLesson) {
+    $homonymyHash = hash('sha512', json_encode([$teacherLesson[0], $teacherLesson[1]]));
+    if (isset($homonymsToFix[$homonymyHash])) {
+        $teacherLesson[0] .= ' ' . $homonymsToFix[$homonymyHash];
+    }
+}
+
+
 file_put_contents('orario.json', json_encode($tempTimetable, JSON_PRETTY_PRINT));
 file_put_contents('orario_bgschoolbot.json', json_encode($finalTimetable, JSON_PRETTY_PRINT));
+file_put_contents('omonimi.json', json_encode($omonimi, JSON_PRETTY_PRINT));
 
 echo 'Step 2 completed!' . PHP_EOL;
 ?>
