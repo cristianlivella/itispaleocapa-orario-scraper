@@ -271,7 +271,9 @@ foreach ($teacherHours AS $teacher => $details) {
         // of the teachers, and then run step3.php to fix them.
         $currentTeacherHomonyms = ['cognome' => $teacher, 'omonimi' => []];
         foreach ($subjectGroups AS $group) {
-            $currentTeacherHomonyms['omonimi'][] = ['nome' => '', 'ore' => array_sum($group), 'materie' => array_keys($group)];
+            $materie = array_keys($group);
+            sort($materie);
+            $currentTeacherHomonyms['omonimi'][] = ['nome' => '', 'ore' => array_sum($group), 'materie' => $materie];
         }
         $omonimi[] = $currentTeacherHomonyms;
     }
@@ -297,6 +299,10 @@ foreach ($omonimi AS &$omonimo) {
         }
     }
 }
+
+// Clear references.
+unset($omonimo);
+unset($singleOmonimo);
 
 // Create the list of homonyms to fix.
 $homonymsToFix = [];
