@@ -465,7 +465,7 @@
                 "Galbassini",
                 "A66-x1"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 4,
             "ora": 2
         },
@@ -475,7 +475,7 @@
                 "Galbassini",
                 "A66-x1"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 4,
             "ora": 3
         },
@@ -993,7 +993,7 @@
                 "Rampoldi",
                 "Salvaggio"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 3,
             "ora": 1
         },
@@ -1003,7 +1003,7 @@
                 "Rampoldi",
                 "Salvaggio"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 3,
             "ora": 2
         },
@@ -1858,7 +1858,7 @@
                 "Antonicelli",
                 "Salvaggio"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 2,
             "ora": 5
         },
@@ -1868,7 +1868,7 @@
                 "Antonicelli",
                 "Salvaggio"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 2,
             "ora": 6
         },
@@ -3424,7 +3424,7 @@
                 "Strano",
                 "A66-x1"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 4,
             "ora": 5
         },
@@ -3434,7 +3434,7 @@
                 "Strano",
                 "A66-x1"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 4,
             "ora": 6
         },
@@ -3755,7 +3755,7 @@
                 "Strano",
                 "A66-x1"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 5,
             "ora": 2
         },
@@ -3765,7 +3765,7 @@
                 "Strano",
                 "A66-x1"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 5,
             "ora": 3
         },
@@ -3895,7 +3895,7 @@
                 "Strada",
                 "Titone"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 2,
             "ora": 3
         },
@@ -3905,7 +3905,7 @@
                 "Strada",
                 "Titone"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 2,
             "ora": 4
         },
@@ -4282,7 +4282,7 @@
                 "Strada",
                 "Salvaggio"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 4,
             "ora": 1
         },
@@ -4292,7 +4292,7 @@
                 "Strada",
                 "Salvaggio"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 4,
             "ora": 2
         },
@@ -4467,7 +4467,7 @@
                 "Strada",
                 "A66-x1"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 2,
             "ora": 1
         },
@@ -4477,7 +4477,7 @@
                 "Strada",
                 "A66-x1"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 2,
             "ora": 2
         },
@@ -5294,7 +5294,7 @@
                 "Crobu",
                 "A66-x1"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 6,
             "ora": 3
         },
@@ -5304,7 +5304,7 @@
                 "Crobu",
                 "A66-x1"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 6,
             "ora": 4
         }
@@ -5544,7 +5544,7 @@
                 "Strano",
                 "Titone"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 5,
             "ora": 4
         },
@@ -5554,7 +5554,7 @@
                 "Strano",
                 "Titone"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 5,
             "ora": 5
         },
@@ -5719,7 +5719,7 @@
                 "Strano",
                 "Titone"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 3,
             "ora": 3
         },
@@ -5729,7 +5729,7 @@
                 "Strano",
                 "Titone"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 3,
             "ora": 4
         },
@@ -6160,7 +6160,7 @@
                 "Espinosa",
                 "Guagenti"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 5,
             "ora": 6
         },
@@ -6225,7 +6225,7 @@
             "professori": [
                 "Lo Monaco"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 1,
             "ora": 5
         },
@@ -6234,7 +6234,7 @@
             "professori": [
                 "Lo Monaco"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 1,
             "ora": 6
         },
@@ -6519,7 +6519,7 @@
                 "Gaggioli",
                 "Ciano"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 1,
             "ora": 4
         },
@@ -6709,7 +6709,7 @@
             "professori": [
                 "Gaggioli"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 5,
             "ora": 1
         },
@@ -6718,7 +6718,7 @@
             "professori": [
                 "Gaggioli"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 5,
             "ora": 2
         },
@@ -6829,7 +6829,7 @@
             "professori": [
                 "Gaggioli"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 1,
             "ora": 5
         },
@@ -6838,7 +6838,7 @@
             "professori": [
                 "Gaggioli"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 1,
             "ora": 6
         },
@@ -7010,7 +7010,7 @@
                 "Gaggioli",
                 "Ciano"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 4,
             "ora": 7
         },
@@ -7251,7 +7251,7 @@
                 "Espinosa",
                 "Torre"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 3,
             "ora": 7
         },
@@ -7697,7 +7697,7 @@
             "professori": [
                 "Santoro"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 6,
             "ora": 3
         },
@@ -7706,7 +7706,7 @@
             "professori": [
                 "Santoro"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 6,
             "ora": 4
         }
@@ -7981,7 +7981,7 @@
             "professori": [
                 "Lo Monaco"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 6,
             "ora": 1
         },
@@ -7990,7 +7990,7 @@
             "professori": [
                 "Lo Monaco"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 6,
             "ora": 2
         },
@@ -8182,7 +8182,7 @@
                 "Barbera",
                 "Carciopolo"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 4,
             "ora": 3
         },
@@ -8246,7 +8246,7 @@
             "professori": [
                 "Barbera"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 5,
             "ora": 4
         },
@@ -8255,7 +8255,7 @@
             "professori": [
                 "Barbera"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 5,
             "ora": 5
         },
@@ -8512,7 +8512,7 @@
             "professori": [
                 "Lo Monaco"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 4,
             "ora": 6
         },
@@ -8521,7 +8521,7 @@
             "professori": [
                 "Lo Monaco"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 4,
             "ora": 7
         },
@@ -8576,7 +8576,7 @@
                 "Lo Monaco",
                 "Vetere"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 5,
             "ora": 6
         },
@@ -8752,7 +8752,7 @@
                 "Santoro",
                 "Martino"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 3,
             "ora": 6
         },
@@ -8797,7 +8797,7 @@
             "professori": [
                 "Santoro"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 4,
             "ora": 4
         },
@@ -8806,7 +8806,7 @@
             "professori": [
                 "Santoro"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 4,
             "ora": 5
         },
@@ -9043,7 +9043,7 @@
             "professori": [
                 "Gaggioli"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 3,
             "ora": 5
         },
@@ -9053,7 +9053,7 @@
                 "Gaggioli",
                 "Bracco"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 3,
             "ora": 6
         },
@@ -9401,7 +9401,7 @@
                 "Barbera",
                 "Martino"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 4,
             "ora": 4
         },
@@ -9491,7 +9491,7 @@
             "professori": [
                 "Barbera"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 6,
             "ora": 1
         },
@@ -9500,7 +9500,7 @@
             "professori": [
                 "Barbera"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 6,
             "ora": 2
         },
@@ -9584,7 +9584,7 @@
                 "Barbera",
                 "Vetere"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 2,
             "ora": 5
         },
@@ -9867,7 +9867,7 @@
             "professori": [
                 "Vavassori"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 2,
             "ora": 1
         },
@@ -9876,7 +9876,7 @@
             "professori": [
                 "Vavassori"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 2,
             "ora": 2
         },
@@ -10040,7 +10040,7 @@
                 "Vavassori",
                 "Bracco"
             ],
-            "aula": "1-32 Disegno",
+            "aula": "1-32",
             "giorno": 5,
             "ora": 1
         },
@@ -10361,7 +10361,7 @@
                 "Espinosa",
                 "Bracco"
             ],
-            "aula": "2-8 Disegno 2",
+            "aula": "2-8",
             "giorno": 5,
             "ora": 3
         },
@@ -14437,26 +14437,26 @@
         "15": {
             "materia": "Matematica",
             "professori": [
-                "Cisana",
-                "disegno E"
+                "Cisana"
             ],
-            "aula": "A42-4h",
+            "aula": "M3-5",
             "giorno": 3,
             "ora": 6
         },
         "16": {
-            "materia": "M3-4 Lab. Disegno",
+            "materia": "Disegno e",
             "professori": [
-                "Vetere",
-                "disegno E"
+                "A42-4h",
+                "Vetere"
             ],
-            "aula": "A42-4h",
+            "aula": "M3-4",
             "giorno": 4,
             "ora": 1
         },
         "17": {
-            "materia": "M3-4 Lab. Disegno",
+            "materia": "Disegno e",
             "professori": [
+                "A42-4h",
                 "Vetere"
             ],
             "aula": "M3-4",
@@ -14561,34 +14561,34 @@
             "materia": "Tecn",
             "professori": [
                 "Monaco",
-                "Quattrore",
-                "Disegno E"
+                "Quattrore"
             ],
-            "aula": "A42-4h",
+            "aula": "M1-18",
             "giorno": 5,
             "ora": 7
         },
         "29": {
-            "materia": "M3-4 Lab. Disegno",
+            "materia": "Disegno e",
             "professori": [
-                "Disegno E"
+                "A42-4h"
             ],
-            "aula": "A42-4h",
+            "aula": "M3-4",
             "giorno": 6,
             "ora": 1
         },
         "30": {
-            "materia": "M3-4 Lab. Disegno",
+            "materia": "Disegno e",
             "professori": [
-                "tecn."
+                "A42-4h"
             ],
-            "aula": "MONACO",
+            "aula": "M3-4",
             "giorno": 6,
             "ora": 2
         },
         "31": {
-            "materia": "M1-23 Lab. Macch",
+            "materia": "Tecn",
             "professori": [
+                "Monaco",
                 "Quattrore"
             ],
             "aula": "M1-23",
@@ -23276,13 +23276,13 @@
             "ora": 3
         },
         "32": {
-            "materia": "Matematica",
+            "materia": "Italiano e",
             "professori": [
-                "Posillico"
+                "Esposito"
             ],
             "aula": "E2-1",
             "giorno": 6,
-            "ora": 4
+            "ora": 3
         }
     }
 }
