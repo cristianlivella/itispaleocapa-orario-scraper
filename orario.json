@@ -39,7 +39,7 @@
         "5": {
             "materia": "Diritto ed",
             "professori": [
-                "Greco"
+                "Greco Antonio"
             ],
             "aula": "3-11",
             "giorno": 1,
@@ -187,7 +187,7 @@
         "21": {
             "materia": "Diritto ed",
             "professori": [
-                "Greco"
+                "Greco Antonio"
             ],
             "aula": "3-11",
             "giorno": 4,
@@ -352,7 +352,7 @@
         "7": {
             "materia": "Diritto ed",
             "professori": [
-                "Greco"
+                "Greco Antonio"
             ],
             "aula": "3-17",
             "giorno": 1,
@@ -408,7 +408,7 @@
         "13": {
             "materia": "Diritto ed",
             "professori": [
-                "Greco"
+                "Greco Antonio"
             ],
             "aula": "3-17",
             "giorno": 3,
@@ -602,7 +602,7 @@
         "2": {
             "materia": "Diritto ed",
             "professori": [
-                "Greco"
+                "Greco Antonio"
             ],
             "aula": "2-1",
             "giorno": 1,
@@ -684,7 +684,7 @@
         "11": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Russo"
+                "Russo Umberto"
             ],
             "aula": "2-1",
             "giorno": 2,
@@ -769,7 +769,7 @@
         "20": {
             "materia": "Diritto ed",
             "professori": [
-                "Greco"
+                "Greco Antonio"
             ],
             "aula": "2-1",
             "giorno": 4,
@@ -841,7 +841,7 @@
         "28": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Russo"
+                "Russo Umberto"
             ],
             "aula": "2-1",
             "giorno": 5,
@@ -2804,7 +2804,7 @@
         "17": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Russo"
+                "Russo Umberto"
             ],
             "aula": "1-14",
             "giorno": 3,
@@ -2922,7 +2922,7 @@
         "30": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Russo"
+                "Russo Umberto"
             ],
             "aula": "1-14",
             "giorno": 6,
@@ -3248,7 +3248,7 @@
         "1": {
             "materia": "Diritto ed",
             "professori": [
-                "Greco"
+                "Greco Antonio"
             ],
             "aula": "4-2",
             "giorno": 1,
@@ -3441,7 +3441,7 @@
         "22": {
             "materia": "Diritto ed",
             "professori": [
-                "Greco"
+                "Greco Antonio"
             ],
             "aula": "4-2",
             "giorno": 4,
@@ -3958,7 +3958,7 @@
         "14": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Russo"
+                "Russo Umberto"
             ],
             "aula": "3-6",
             "giorno": 3,
@@ -4122,7 +4122,7 @@
         "32": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Russo"
+                "Russo Umberto"
             ],
             "aula": "3-6",
             "giorno": 6,
@@ -4133,7 +4133,7 @@
         "1": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "3-12",
             "giorno": 1,
@@ -4196,7 +4196,7 @@
         "8": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "3-12",
             "giorno": 2,
@@ -4335,7 +4335,7 @@
         "23": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "3-12",
             "giorno": 5,
@@ -4390,7 +4390,7 @@
         "29": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "3-12",
             "giorno": 6,
@@ -4437,7 +4437,7 @@
         "2": {
             "materia": "Italiano e",
             "professori": [
-                "Sciuto"
+                "Sciuto Andrea"
             ],
             "aula": "3-13",
             "giorno": 1,
@@ -4446,7 +4446,7 @@
         "3": {
             "materia": "Sc. Motorie",
             "professori": [
-                "Napolitano"
+                "Napolitano Pasquale"
             ],
             "aula": "Palestra 1",
             "giorno": 1,
@@ -4502,7 +4502,7 @@
         "9": {
             "materia": "Italiano e",
             "professori": [
-                "Sciuto"
+                "Sciuto Andrea"
             ],
             "aula": "3-13",
             "giorno": 2,
@@ -4548,7 +4548,7 @@
         "14": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Russo"
+                "Russo Umberto"
             ],
             "aula": "3-13",
             "giorno": 3,
@@ -4566,7 +4566,7 @@
         "16": {
             "materia": "Sc. Motorie",
             "professori": [
-                "Napolitano"
+                "Napolitano Pasquale"
             ],
             "aula": "Palestra 1",
             "giorno": 3,
@@ -4648,7 +4648,7 @@
         "25": {
             "materia": "Italiano e",
             "professori": [
-                "Sciuto"
+                "Sciuto Andrea"
             ],
             "aula": "3-13",
             "giorno": 5,
@@ -4657,7 +4657,7 @@
         "26": {
             "materia": "Italiano e",
             "professori": [
-                "Sciuto"
+                "Sciuto Andrea"
             ],
             "aula": "3-13",
             "giorno": 5,
@@ -4685,7 +4685,7 @@
         "29": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Russo"
+                "Russo Umberto"
             ],
             "aula": "3-13",
             "giorno": 6,
@@ -4703,7 +4703,7 @@
         "31": {
             "materia": "Italiano e",
             "professori": [
-                "Sciuto"
+                "Sciuto Andrea"
             ],
             "aula": "3-13",
             "giorno": 6,
@@ -4712,7 +4712,7 @@
         "32": {
             "materia": "Italiano e",
             "professori": [
-                "Sciuto"
+                "Sciuto Andrea"
             ],
             "aula": "3-13",
             "giorno": 6,
@@ -5966,7 +5966,7 @@
         "8": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Russo"
+                "Russo Umberto"
             ],
             "aula": "4-12",
             "giorno": 2,
@@ -5985,7 +5985,7 @@
         "10": {
             "materia": "Diritto ed",
             "professori": [
-                "Greco"
+                "Greco Antonio"
             ],
             "aula": "4-12",
             "giorno": 2,
@@ -6121,7 +6121,7 @@
         "25": {
             "materia": "Diritto ed",
             "professori": [
-                "Greco"
+                "Greco Antonio"
             ],
             "aula": "4-12",
             "giorno": 5,
@@ -6148,7 +6148,7 @@
         "28": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Russo"
+                "Russo Umberto"
             ],
             "aula": "4-12",
             "giorno": 5,
@@ -6295,7 +6295,7 @@
         "11": {
             "materia": "Diritto ed",
             "professori": [
-                "Greco"
+                "Greco Antonio"
             ],
             "aula": "3-3",
             "giorno": 2,
@@ -6441,7 +6441,7 @@
         "27": {
             "materia": "Diritto ed",
             "professori": [
-                "Greco"
+                "Greco Antonio"
             ],
             "aula": "3-3",
             "giorno": 5,
@@ -6616,7 +6616,7 @@
         "13": {
             "materia": "Diritto ed",
             "professori": [
-                "Greco"
+                "Greco Antonio"
             ],
             "aula": "T3-1",
             "giorno": 3,
@@ -6725,7 +6725,7 @@
         "25": {
             "materia": "Diritto ed",
             "professori": [
-                "Greco"
+                "Greco Antonio"
             ],
             "aula": "T3-1",
             "giorno": 5,
@@ -6917,7 +6917,7 @@
         "13": {
             "materia": "Diritto ed",
             "professori": [
-                "Greco"
+                "Greco Antonio"
             ],
             "aula": "4-3",
             "giorno": 3,
@@ -7017,7 +7017,7 @@
         "24": {
             "materia": "Diritto ed",
             "professori": [
-                "Greco"
+                "Greco Antonio"
             ],
             "aula": "4-3",
             "giorno": 5,
@@ -7165,7 +7165,7 @@
         "7": {
             "materia": "Sc. Motorie",
             "professori": [
-                "Napolitano"
+                "Napolitano Pasquale"
             ],
             "aula": "Palestra 1",
             "giorno": 2,
@@ -7294,7 +7294,7 @@
         "21": {
             "materia": "Sc. Motorie",
             "professori": [
-                "Napolitano"
+                "Napolitano Pasquale"
             ],
             "aula": "Palestra 2",
             "giorno": 4,
@@ -7733,7 +7733,7 @@
         "3": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Russo"
+                "Russo Max"
             ],
             "aula": "T2-3",
             "giorno": 1,
@@ -7751,7 +7751,7 @@
         "5": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Russo"
+                "Russo Max"
             ],
             "aula": "T2-3",
             "giorno": 1,
@@ -7796,7 +7796,7 @@
         "10": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Russo"
+                "Russo Max"
             ],
             "aula": "T2-3",
             "giorno": 2,
@@ -8017,7 +8017,7 @@
         "1": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Russo"
+                "Russo Max"
             ],
             "aula": "2-7",
             "giorno": 1,
@@ -8044,7 +8044,7 @@
         "4": {
             "materia": "Diritto ed",
             "professori": [
-                "Greco"
+                "Greco Antonio"
             ],
             "aula": "2-7",
             "giorno": 1,
@@ -8116,7 +8116,7 @@
         "12": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Russo"
+                "Russo Max"
             ],
             "aula": "2-7",
             "giorno": 3,
@@ -8125,7 +8125,7 @@
         "13": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Russo"
+                "Russo Max"
             ],
             "aula": "2-7",
             "giorno": 3,
@@ -8143,7 +8143,7 @@
         "15": {
             "materia": "Diritto ed",
             "professori": [
-                "Greco"
+                "Greco Antonio"
             ],
             "aula": "2-7",
             "giorno": 3,
@@ -8401,7 +8401,7 @@
         "10": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Russo"
+                "Russo Umberto"
             ],
             "aula": "4-13",
             "giorno": 3,
@@ -8465,7 +8465,7 @@
         "17": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Russo"
+                "Russo Umberto"
             ],
             "aula": "4-13",
             "giorno": 4,
@@ -8648,7 +8648,7 @@
         "4": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "E3-1",
             "giorno": 1,
@@ -8703,7 +8703,7 @@
         "10": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "E3-1",
             "giorno": 2,
@@ -8786,7 +8786,7 @@
         "19": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "E3-1",
             "giorno": 4,
@@ -8831,7 +8831,7 @@
         "24": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "E3-1",
             "giorno": 5,
@@ -8932,7 +8932,7 @@
         "2": {
             "materia": "Sc. Motorie",
             "professori": [
-                "Napolitano"
+                "Napolitano Pasquale"
             ],
             "aula": "Palestra 2",
             "giorno": 1,
@@ -8959,7 +8959,7 @@
         "5": {
             "materia": "Sc. Motorie",
             "professori": [
-                "Napolitano"
+                "Napolitano Pasquale"
             ],
             "aula": "Palestra 1",
             "giorno": 2,
@@ -9014,7 +9014,7 @@
         "11": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Russo"
+                "Russo Umberto"
             ],
             "aula": "3-16",
             "giorno": 2,
@@ -9169,7 +9169,7 @@
         "28": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Russo"
+                "Russo Umberto"
             ],
             "aula": "3-16",
             "giorno": 5,
@@ -9572,7 +9572,7 @@
         "6": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Sciuto"
+                "Sciuto Giuseppe"
             ],
             "aula": "T3-4",
             "giorno": 2,
@@ -9636,7 +9636,7 @@
         "13": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Sciuto"
+                "Sciuto Giuseppe"
             ],
             "aula": "T3-4",
             "giorno": 3,
@@ -9727,7 +9727,7 @@
         "23": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Sciuto"
+                "Sciuto Giuseppe"
             ],
             "aula": "T3-4",
             "giorno": 4,
@@ -9892,7 +9892,7 @@
         "8": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Russo"
+                "Russo Umberto"
             ],
             "aula": "3-14",
             "giorno": 2,
@@ -10111,7 +10111,7 @@
         "32": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Russo"
+                "Russo Umberto"
             ],
             "aula": "3-14",
             "giorno": 6,
@@ -11327,7 +11327,7 @@
         "1": {
             "materia": "Informatica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Michele"
             ],
             "aula": "I1-1",
             "giorno": 1,
@@ -11399,7 +11399,7 @@
         "9": {
             "materia": "Informatica",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Gaffuri"
             ],
             "aula": "I1-6",
@@ -11409,7 +11409,7 @@
         "10": {
             "materia": "Informatica",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Gaffuri"
             ],
             "aula": "I1-6",
@@ -11465,7 +11465,7 @@
         "16": {
             "materia": "Informatica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Michele"
             ],
             "aula": "I1-1",
             "giorno": 3,
@@ -11474,7 +11474,7 @@
         "17": {
             "materia": "Informatica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Michele"
             ],
             "aula": "I1-1",
             "giorno": 3,
@@ -11595,7 +11595,7 @@
         "30": {
             "materia": "Informatica",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Gaffuri"
             ],
             "aula": "I1-6",
@@ -11625,7 +11625,7 @@
         "1": {
             "materia": "Telecomuni",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Maggi"
             ],
             "aula": "I3-6",
@@ -11635,7 +11635,7 @@
         "2": {
             "materia": "Telecomuni",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Maggi"
             ],
             "aula": "I3-6",
@@ -11894,7 +11894,7 @@
         "30": {
             "materia": "Telecomunic",
             "professori": [
-                "Greco"
+                "Greco Anna Maria"
             ],
             "aula": "I1-2",
             "giorno": 6,
@@ -11932,7 +11932,7 @@
         "2": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Greco"
+                "Greco Anna Maria"
             ],
             "aula": "I1-3",
             "giorno": 1,
@@ -11950,7 +11950,7 @@
         "4": {
             "materia": "Sc. Motorie",
             "professori": [
-                "Napolitano"
+                "Napolitano Pasquale"
             ],
             "aula": "Palestra Fitness",
             "giorno": 1,
@@ -12051,7 +12051,7 @@
         "15": {
             "materia": "Sistemi e",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Michele"
             ],
             "aula": "I1-3",
             "giorno": 3,
@@ -12088,7 +12088,7 @@
         "19": {
             "materia": "Sc. Motorie",
             "professori": [
-                "Napolitano"
+                "Napolitano Pasquale"
             ],
             "aula": "Palestra Fitness",
             "giorno": 4,
@@ -12106,7 +12106,7 @@
         "21": {
             "materia": "Sistemi e",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Michele"
             ],
             "aula": "I1-3",
             "giorno": 4,
@@ -12135,7 +12135,7 @@
         "24": {
             "materia": "Sistemi e",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Arcuri"
             ],
             "aula": "I2-6",
@@ -12145,7 +12145,7 @@
         "25": {
             "materia": "Sistemi e",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Arcuri"
             ],
             "aula": "I2-6",
@@ -12164,7 +12164,7 @@
         "27": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Titone"
             ],
             "aula": "I1-13",
@@ -12210,7 +12210,7 @@
         "32": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Greco"
+                "Greco Anna Maria"
             ],
             "aula": "I1-3",
             "giorno": 6,
@@ -13135,7 +13135,7 @@
         "3": {
             "materia": "Tecn",
             "professori": [
-                "Sciuto"
+                "Sciuto Giuseppe"
             ],
             "aula": "M2-1",
             "giorno": 1,
@@ -13153,7 +13153,7 @@
         "5": {
             "materia": "Italiano e",
             "professori": [
-                "Sciuto"
+                "Sciuto Andrea"
             ],
             "aula": "M2-1",
             "giorno": 1,
@@ -13162,7 +13162,7 @@
         "6": {
             "materia": "Italiano e",
             "professori": [
-                "Sciuto"
+                "Sciuto Andrea"
             ],
             "aula": "M2-1",
             "giorno": 1,
@@ -13171,7 +13171,7 @@
         "7": {
             "materia": "Italiano e",
             "professori": [
-                "Sciuto"
+                "Sciuto Andrea"
             ],
             "aula": "M2-1",
             "giorno": 2,
@@ -13180,7 +13180,7 @@
         "8": {
             "materia": "Italiano e",
             "professori": [
-                "Sciuto"
+                "Sciuto Andrea"
             ],
             "aula": "M2-1",
             "giorno": 2,
@@ -13227,7 +13227,7 @@
         "13": {
             "materia": "Tecn",
             "professori": [
-                "Sciuto",
+                "Sciuto Giuseppe",
                 "Lo Maglio"
             ],
             "aula": "M1-23",
@@ -13237,7 +13237,7 @@
         "14": {
             "materia": "Tecn",
             "professori": [
-                "Sciuto",
+                "Sciuto Giuseppe",
                 "Lo Maglio"
             ],
             "aula": "M1-23",
@@ -13312,7 +13312,7 @@
         "22": {
             "materia": "Tecn",
             "professori": [
-                "Sciuto",
+                "Sciuto Giuseppe",
                 "Lo Maglio"
             ],
             "aula": "M1-18",
@@ -13358,7 +13358,7 @@
         "27": {
             "materia": "Italiano e",
             "professori": [
-                "Sciuto"
+                "Sciuto Andrea"
             ],
             "aula": "M2-1",
             "giorno": 5,
@@ -13367,7 +13367,7 @@
         "28": {
             "materia": "Italiano e",
             "professori": [
-                "Sciuto"
+                "Sciuto Andrea"
             ],
             "aula": "M2-1",
             "giorno": 5,
@@ -13441,7 +13441,7 @@
         "4": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "M2-3",
             "giorno": 1,
@@ -13477,7 +13477,7 @@
         "8": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "M2-3",
             "giorno": 2,
@@ -13589,7 +13589,7 @@
         "20": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "M2-3",
             "giorno": 4,
@@ -13682,7 +13682,7 @@
         "30": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "M2-3",
             "giorno": 6,
@@ -13796,7 +13796,7 @@
         "10": {
             "materia": "Sistemi e",
             "professori": [
-                "Sciuto"
+                "Sciuto Giuseppe"
             ],
             "aula": "M3-1",
             "giorno": 2,
@@ -13841,7 +13841,7 @@
         "15": {
             "materia": "Sistemi e",
             "professori": [
-                "Sciuto"
+                "Sciuto Giuseppe"
             ],
             "aula": "M3-1",
             "giorno": 3,
@@ -13880,7 +13880,7 @@
         "19": {
             "materia": "Sistemi e",
             "professori": [
-                "Sciuto",
+                "Sciuto Giuseppe",
                 "Carciopolo"
             ],
             "aula": "M2-4",
@@ -13890,7 +13890,7 @@
         "20": {
             "materia": "Sistemi e",
             "professori": [
-                "Sciuto",
+                "Sciuto Giuseppe",
                 "Carciopolo"
             ],
             "aula": "M2-4",
@@ -14619,7 +14619,7 @@
         "2": {
             "materia": "Italiano e",
             "professori": [
-                "Sciuto"
+                "Sciuto Andrea"
             ],
             "aula": "3-4",
             "giorno": 1,
@@ -14628,7 +14628,7 @@
         "3": {
             "materia": "Italiano e",
             "professori": [
-                "Sciuto"
+                "Sciuto Andrea"
             ],
             "aula": "3-4",
             "giorno": 1,
@@ -14684,7 +14684,7 @@
         "9": {
             "materia": "Italiano e",
             "professori": [
-                "Sciuto"
+                "Sciuto Andrea"
             ],
             "aula": "3-4",
             "giorno": 2,
@@ -14693,7 +14693,7 @@
         "10": {
             "materia": "Italiano e",
             "professori": [
-                "Sciuto"
+                "Sciuto Andrea"
             ],
             "aula": "3-4",
             "giorno": 2,
@@ -14794,7 +14794,7 @@
         "21": {
             "materia": "Italiano e",
             "professori": [
-                "Sciuto"
+                "Sciuto Andrea"
             ],
             "aula": "3-4",
             "giorno": 4,
@@ -14878,7 +14878,7 @@
         "30": {
             "materia": "Italiano e",
             "professori": [
-                "Sciuto"
+                "Sciuto Andrea"
             ],
             "aula": "3-4",
             "giorno": 6,
@@ -14907,7 +14907,7 @@
         "1": {
             "materia": "Sistemi",
             "professori": [
-                "Russo"
+                "Russo Max"
             ],
             "aula": "E3-2",
             "giorno": 1,
@@ -14925,7 +14925,7 @@
         "3": {
             "materia": "Elettrot. e",
             "professori": [
-                "Russo",
+                "Russo Max",
                 "De Stefano"
             ],
             "aula": "E1-10",
@@ -14971,7 +14971,7 @@
         "8": {
             "materia": "Sistemi",
             "professori": [
-                "Russo",
+                "Russo Max",
                 "Maggi"
             ],
             "aula": "E1-5",
@@ -14981,7 +14981,7 @@
         "9": {
             "materia": "Sistemi",
             "professori": [
-                "Russo",
+                "Russo Max",
                 "Maggi"
             ],
             "aula": "E1-5",
@@ -14991,7 +14991,7 @@
         "10": {
             "materia": "Elettrot. e",
             "professori": [
-                "Russo"
+                "Russo Max"
             ],
             "aula": "E3-2",
             "giorno": 2,
@@ -15000,7 +15000,7 @@
         "11": {
             "materia": "Elettrot. e",
             "professori": [
-                "Russo"
+                "Russo Max"
             ],
             "aula": "E3-2",
             "giorno": 2,
@@ -15047,7 +15047,7 @@
         "16": {
             "materia": "Sistemi",
             "professori": [
-                "Russo"
+                "Russo Max"
             ],
             "aula": "E3-2",
             "giorno": 3,
@@ -15083,7 +15083,7 @@
         "20": {
             "materia": "Elettrot. e",
             "professori": [
-                "Russo",
+                "Russo Max",
                 "De Stefano"
             ],
             "aula": "E1-10",
@@ -15093,7 +15093,7 @@
         "21": {
             "materia": "Elettrot. e",
             "professori": [
-                "Russo",
+                "Russo Max",
                 "De Stefano"
             ],
             "aula": "E1-10",
@@ -15168,7 +15168,7 @@
         "29": {
             "materia": "Elettrot. e",
             "professori": [
-                "Russo"
+                "Russo Max"
             ],
             "aula": "E3-2",
             "giorno": 6,
@@ -15177,7 +15177,7 @@
         "30": {
             "materia": "Sistemi",
             "professori": [
-                "Russo"
+                "Russo Max"
             ],
             "aula": "E3-2",
             "giorno": 6,
@@ -15514,7 +15514,7 @@
         "2": {
             "materia": "Italiano e",
             "professori": [
-                "Napolitano"
+                "Napolitano Francesco"
             ],
             "aula": "T3-7",
             "giorno": 1,
@@ -15532,7 +15532,7 @@
         "4": {
             "materia": "Italiano e",
             "professori": [
-                "Napolitano"
+                "Napolitano Francesco"
             ],
             "aula": "T3-7",
             "giorno": 1,
@@ -15606,7 +15606,7 @@
         "12": {
             "materia": "Italiano e",
             "professori": [
-                "Napolitano"
+                "Napolitano Francesco"
             ],
             "aula": "E3-1",
             "giorno": 3,
@@ -15634,7 +15634,7 @@
         "15": {
             "materia": "Italiano e",
             "professori": [
-                "Napolitano"
+                "Napolitano Francesco"
             ],
             "aula": "T3-7",
             "giorno": 3,
@@ -15690,7 +15690,7 @@
         "21": {
             "materia": "Italiano e",
             "professori": [
-                "Napolitano"
+                "Napolitano Francesco"
             ],
             "aula": "T3-7",
             "giorno": 4,
@@ -15699,7 +15699,7 @@
         "22": {
             "materia": "Italiano e",
             "professori": [
-                "Napolitano"
+                "Napolitano Francesco"
             ],
             "aula": "T3-7",
             "giorno": 4,
@@ -16112,7 +16112,7 @@
         "2": {
             "materia": "Italiano e",
             "professori": [
-                "Napolitano"
+                "Napolitano Francesco"
             ],
             "aula": "I3-1",
             "giorno": 1,
@@ -16166,7 +16166,7 @@
         "8": {
             "materia": "Italiano e",
             "professori": [
-                "Napolitano"
+                "Napolitano Francesco"
             ],
             "aula": "I3-1",
             "giorno": 2,
@@ -16205,7 +16205,7 @@
         "12": {
             "materia": "Italiano e",
             "professori": [
-                "Napolitano"
+                "Napolitano Francesco"
             ],
             "aula": "I3-1",
             "giorno": 3,
@@ -16214,7 +16214,7 @@
         "13": {
             "materia": "Italiano e",
             "professori": [
-                "Napolitano"
+                "Napolitano Francesco"
             ],
             "aula": "I3-1",
             "giorno": 3,
@@ -16288,7 +16288,7 @@
         "21": {
             "materia": "Italiano e",
             "professori": [
-                "Napolitano"
+                "Napolitano Francesco"
             ],
             "aula": "I3-1",
             "giorno": 4,
@@ -16355,7 +16355,7 @@
         "28": {
             "materia": "Italiano e",
             "professori": [
-                "Napolitano"
+                "Napolitano Francesco"
             ],
             "aula": "I3-13",
             "giorno": 5,
@@ -16840,7 +16840,7 @@
         "16": {
             "materia": "Sc. Motorie",
             "professori": [
-                "Napolitano"
+                "Napolitano Pasquale"
             ],
             "aula": "Palestra Fitness",
             "giorno": 3,
@@ -16849,7 +16849,7 @@
         "17": {
             "materia": "Sc. Motorie",
             "professori": [
-                "Napolitano"
+                "Napolitano Pasquale"
             ],
             "aula": "Palestra Fitness",
             "giorno": 3,
@@ -17663,7 +17663,7 @@
         "8": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "1-8",
             "giorno": 2,
@@ -17809,7 +17809,7 @@
         "24": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "1-8",
             "giorno": 4,
@@ -17818,7 +17818,7 @@
         "25": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "1-8",
             "giorno": 5,
@@ -17884,7 +17884,7 @@
         "32": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "1-8",
             "giorno": 6,
@@ -17922,7 +17922,7 @@
         "4": {
             "materia": "Sc. Motorie",
             "professori": [
-                "Napolitano"
+                "Napolitano Pasquale"
             ],
             "aula": "Palestra 1",
             "giorno": 1,
@@ -17931,7 +17931,7 @@
         "5": {
             "materia": "Sc. Motorie",
             "professori": [
-                "Napolitano"
+                "Napolitano Pasquale"
             ],
             "aula": "Palestra 1",
             "giorno": 1,
@@ -18733,7 +18733,7 @@
         "27": {
             "materia": "Sc. Motorie",
             "professori": [
-                "Napolitano"
+                "Napolitano Pasquale"
             ],
             "aula": "Palestra 2",
             "giorno": 5,
@@ -18742,7 +18742,7 @@
         "28": {
             "materia": "Sc. Motorie",
             "professori": [
-                "Napolitano"
+                "Napolitano Pasquale"
             ],
             "aula": "Palestra 2",
             "giorno": 5,
@@ -19115,7 +19115,7 @@
         "4": {
             "materia": "Elettrot. e",
             "professori": [
-                "Russo"
+                "Russo Max"
             ],
             "aula": "E2-2",
             "giorno": 1,
@@ -19124,7 +19124,7 @@
         "5": {
             "materia": "Elettrot. e",
             "professori": [
-                "Russo",
+                "Russo Max",
                 "De Stefano"
             ],
             "aula": "E1-10",
@@ -19134,7 +19134,7 @@
         "6": {
             "materia": "Elettrot. e",
             "professori": [
-                "Russo",
+                "Russo Max",
                 "De Stefano"
             ],
             "aula": "E1-10",
@@ -19207,7 +19207,7 @@
         "14": {
             "materia": "Elettrot. e",
             "professori": [
-                "Russo"
+                "Russo Max"
             ],
             "aula": "1-94",
             "giorno": 3,
@@ -19216,7 +19216,7 @@
         "15": {
             "materia": "Elettrot. e",
             "professori": [
-                "Russo"
+                "Russo Max"
             ],
             "aula": "1-94",
             "giorno": 3,
@@ -19284,7 +19284,7 @@
         "22": {
             "materia": "Elettrot. e",
             "professori": [
-                "Russo",
+                "Russo Max",
                 "De Stefano"
             ],
             "aula": "E1-10",
@@ -20044,7 +20044,7 @@
         "7": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Gaffuri"
             ],
             "aula": "I1-13",
@@ -20054,7 +20054,7 @@
         "8": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Gaffuri"
             ],
             "aula": "I1-13",
@@ -20145,7 +20145,7 @@
         "18": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Greco"
+                "Greco Anna Maria"
             ],
             "aula": "I3-2",
             "giorno": 4,
@@ -20221,7 +20221,7 @@
         "26": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Greco"
+                "Greco Anna Maria"
             ],
             "aula": "I3-3",
             "giorno": 5,
@@ -20615,7 +20615,7 @@
         "4": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Gaffuri"
             ],
             "aula": "I1-13",
@@ -20625,7 +20625,7 @@
         "5": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Gaffuri"
             ],
             "aula": "I1-13",
@@ -20729,7 +20729,7 @@
         "16": {
             "materia": "Sc. Motorie",
             "professori": [
-                "Napolitano"
+                "Napolitano Pasquale"
             ],
             "aula": "Pal. Quar. 1",
             "giorno": 4,
@@ -20738,7 +20738,7 @@
         "17": {
             "materia": "Sc. Motorie",
             "professori": [
-                "Napolitano"
+                "Napolitano Pasquale"
             ],
             "aula": "Pal. Quar. 1",
             "giorno": 4,
@@ -20787,7 +20787,7 @@
         "22": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Greco"
+                "Greco Anna Maria"
             ],
             "aula": "I1-3",
             "giorno": 4,
@@ -20814,7 +20814,7 @@
         "25": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Greco"
+                "Greco Anna Maria"
             ],
             "aula": "I1-3",
             "giorno": 5,
@@ -20897,7 +20897,7 @@
         "2": {
             "materia": "Sistemi e",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Grena"
             ],
             "aula": "I2-13",
@@ -20907,7 +20907,7 @@
         "3": {
             "materia": "Sistemi e",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Grena"
             ],
             "aula": "I2-13",
@@ -20955,7 +20955,7 @@
         "8": {
             "materia": "Sistemi e",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Michele"
             ],
             "aula": "I3-3",
             "giorno": 2,
@@ -21065,7 +21065,7 @@
         "20": {
             "materia": "Gest. Prg",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Gaffuri"
             ],
             "aula": "E2-9",
@@ -21075,7 +21075,7 @@
         "21": {
             "materia": "Gest. Prg",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Gaffuri"
             ],
             "aula": "E2-9",
@@ -21141,7 +21141,7 @@
         "28": {
             "materia": "Sistemi e",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Michele"
             ],
             "aula": "I1-3",
             "giorno": 5,
@@ -21150,7 +21150,7 @@
         "29": {
             "materia": "Gest. Prg",
             "professori": [
-                "Greco"
+                "Greco Anna Maria"
             ],
             "aula": "I3-3",
             "giorno": 6,
@@ -21206,7 +21206,7 @@
         "3": {
             "materia": "Sistemi e",
             "professori": [
-                "Greco"
+                "Greco Anna Maria"
             ],
             "aula": "I1-2",
             "giorno": 1,
@@ -21224,7 +21224,7 @@
         "5": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Michele"
             ],
             "aula": "I1-2",
             "giorno": 1,
@@ -21242,7 +21242,7 @@
         "7": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Camarda"
             ],
             "aula": "E2-9",
@@ -21252,7 +21252,7 @@
         "8": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Camarda"
             ],
             "aula": "E2-9",
@@ -21336,7 +21336,7 @@
         "17": {
             "materia": "Sistemi e",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Camarda"
             ],
             "aula": "I2-6",
@@ -21346,7 +21346,7 @@
         "18": {
             "materia": "Sistemi e",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Camarda"
             ],
             "aula": "I2-6",
@@ -21468,7 +21468,7 @@
         "31": {
             "materia": "Sistemi e",
             "professori": [
-                "Greco"
+                "Greco Anna Maria"
             ],
             "aula": "I1-13",
             "giorno": 6,
@@ -21477,7 +21477,7 @@
         "32": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Michele"
             ],
             "aula": "I1-13",
             "giorno": 6,
@@ -21808,7 +21808,7 @@
         "3": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "M3-8",
             "giorno": 1,
@@ -21817,7 +21817,7 @@
         "4": {
             "materia": "Italiano e",
             "professori": [
-                "Napolitano"
+                "Napolitano Francesco"
             ],
             "aula": "M3-8",
             "giorno": 1,
@@ -21845,7 +21845,7 @@
         "7": {
             "materia": "Italiano e",
             "professori": [
-                "Napolitano"
+                "Napolitano Francesco"
             ],
             "aula": "M3-1",
             "giorno": 2,
@@ -21854,7 +21854,7 @@
         "8": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "M2-1",
             "giorno": 2,
@@ -21931,7 +21931,7 @@
         "16": {
             "materia": "Italiano e",
             "professori": [
-                "Napolitano"
+                "Napolitano Francesco"
             ],
             "aula": "M3-1",
             "giorno": 4,
@@ -21940,7 +21940,7 @@
         "17": {
             "materia": "Italiano e",
             "professori": [
-                "Napolitano"
+                "Napolitano Francesco"
             ],
             "aula": "M3-1",
             "giorno": 4,
@@ -21958,7 +21958,7 @@
         "19": {
             "materia": "Matematica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Caterina"
             ],
             "aula": "M3-1",
             "giorno": 4,
@@ -22021,7 +22021,7 @@
         "26": {
             "materia": "Italiano e",
             "professori": [
-                "Napolitano"
+                "Napolitano Francesco"
             ],
             "aula": "I1-1",
             "giorno": 5,
@@ -22030,7 +22030,7 @@
         "27": {
             "materia": "Italiano e",
             "professori": [
-                "Napolitano"
+                "Napolitano Francesco"
             ],
             "aula": "I1-1",
             "giorno": 5,
@@ -22173,7 +22173,7 @@
         "10": {
             "materia": "Sistemi e",
             "professori": [
-                "Sciuto",
+                "Sciuto Giuseppe",
                 "Carciopolo"
             ],
             "aula": "M2-4",
@@ -22229,7 +22229,7 @@
         "16": {
             "materia": "Sistemi e",
             "professori": [
-                "Sciuto"
+                "Sciuto Giuseppe"
             ],
             "aula": "T3-8",
             "giorno": 3,
@@ -22330,7 +22330,7 @@
         "27": {
             "materia": "Sc. Motorie",
             "professori": [
-                "Napolitano"
+                "Napolitano Pasquale"
             ],
             "aula": "Palestra Fitness",
             "giorno": 5,
@@ -22339,7 +22339,7 @@
         "28": {
             "materia": "Sc. Motorie",
             "professori": [
-                "Napolitano"
+                "Napolitano Pasquale"
             ],
             "aula": "Palestra Fitness",
             "giorno": 5,
@@ -22348,7 +22348,7 @@
         "29": {
             "materia": "Sistemi e",
             "professori": [
-                "Sciuto",
+                "Sciuto Giuseppe",
                 "Carciopolo"
             ],
             "aula": "M2-4",
@@ -22358,7 +22358,7 @@
         "30": {
             "materia": "Sistemi e",
             "professori": [
-                "Sciuto",
+                "Sciuto Giuseppe",
                 "Carciopolo"
             ],
             "aula": "M2-4",
@@ -22735,7 +22735,7 @@
         "6": {
             "materia": "Meccanica",
             "professori": [
-                "Sciuto",
+                "Sciuto Giuseppe",
                 "Dimilta"
             ],
             "aula": "M1-8",
@@ -22745,7 +22745,7 @@
         "7": {
             "materia": "Meccanica",
             "professori": [
-                "Sciuto",
+                "Sciuto Giuseppe",
                 "Dimilta"
             ],
             "aula": "M1-8",
@@ -22921,7 +22921,7 @@
         "26": {
             "materia": "Meccanica",
             "professori": [
-                "Sciuto"
+                "Sciuto Giuseppe"
             ],
             "aula": "1-92",
             "giorno": 5,
@@ -22930,7 +22930,7 @@
         "27": {
             "materia": "Meccanica",
             "professori": [
-                "Sciuto"
+                "Sciuto Giuseppe"
             ],
             "aula": "1-92",
             "giorno": 5,
@@ -22977,7 +22977,7 @@
         "32": {
             "materia": "Meccanica",
             "professori": [
-                "Sciuto"
+                "Sciuto Giuseppe"
             ],
             "aula": "1-92",
             "giorno": 6,
