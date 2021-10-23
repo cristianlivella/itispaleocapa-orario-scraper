@@ -732,7 +732,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Giarratano",
-                "Santorelli"
+                "B003-x1"
             ],
             "aula": "1-11",
             "giorno": 4,
@@ -1717,7 +1717,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Licata",
-                "Santorelli"
+                "B003-x1"
             ],
             "aula": "1-15",
             "giorno": 5,
@@ -1957,7 +1957,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Dimitri",
-                "Santorelli"
+                "B003-x1"
             ],
             "aula": "1-11",
             "giorno": 4,
@@ -2963,7 +2963,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Giarratano",
-                "Santorelli"
+                "B003-x1"
             ],
             "aula": "1-11",
             "giorno": 1,
@@ -3384,7 +3384,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Giarratano",
-                "Santorelli"
+                "B003-x1"
             ],
             "aula": "1-15",
             "giorno": 3,
@@ -3580,7 +3580,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Giarratano",
-                "Santorelli"
+                "B003-x1"
             ],
             "aula": "1-15",
             "giorno": 1,
@@ -4851,7 +4851,7 @@
         "15": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Santorelli",
+                "B003-x1",
                 "Greselin"
             ],
             "aula": "1-11",
@@ -5018,7 +5018,7 @@
         "1": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Santorelli",
+                "B003-x1",
                 "Consonni"
             ],
             "aula": "1-11",
@@ -5323,7 +5323,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Giarratano",
-                "Santorelli"
+                "B003-x1"
             ],
             "aula": "1-11",
             "giorno": 1,
@@ -5792,7 +5792,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Alicata",
-                "Santorelli"
+                "B003-x1"
             ],
             "aula": "1-11",
             "giorno": 4,
@@ -6022,7 +6022,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Consonni",
-                "Santorelli"
+                "B003-x1"
             ],
             "aula": "1-11",
             "giorno": 3,
@@ -6662,7 +6662,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Alicata",
-                "Santorelli"
+                "B003-x1"
             ],
             "aula": "1-11",
             "giorno": 4,
@@ -7175,7 +7175,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Licata",
-                "Santorelli"
+                "B003-x1"
             ],
             "aula": "1-11",
             "giorno": 2,
@@ -7614,7 +7614,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Dimitri",
-                "Santorelli"
+                "B003-x1"
             ],
             "aula": "1-11",
             "giorno": 5,
@@ -7934,7 +7934,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Licata",
-                "Santorelli"
+                "B003-x1"
             ],
             "aula": "1-15",
             "giorno": 5,
@@ -8374,7 +8374,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Dimitri",
-                "Santorelli"
+                "B003-x1"
             ],
             "aula": "1-11",
             "giorno": 2,
@@ -9316,7 +9316,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Greselin",
-                "Santorelli"
+                "B003-x1"
             ],
             "aula": "1-15",
             "giorno": 3,
@@ -10057,7 +10057,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Giarratano",
-                "Santorelli"
+                "B003-x1"
             ],
             "aula": "1-15",
             "giorno": 5,
@@ -10240,7 +10240,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Alicata",
-                "Santorelli"
+                "B003-x1"
             ],
             "aula": "1-11",
             "giorno": 3,
@@ -11069,7 +11069,7 @@
                 "Bolognini",
                 "Dottore"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 1,
             "ora": 7
         },
@@ -11263,7 +11263,7 @@
                 "Bolognini",
                 "Dottore"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 5,
             "ora": 4
         },
@@ -11273,7 +11273,7 @@
                 "Bolognini",
                 "Dottore"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 5,
             "ora": 5
         },
@@ -13448,6 +13448,15 @@
             "ora": 6
         },
         "5": {
+            "materia": "Tecn",
+            "professori": [
+                "De Leidi"
+            ],
+            "aula": "M2-3",
+            "giorno": 1,
+            "ora": 7
+        },
+        "6": {
             "materia": "Meccanica",
             "professori": [
                 "Marino"
@@ -13456,7 +13465,7 @@
             "giorno": 2,
             "ora": 1
         },
-        "6": {
+        "7": {
             "materia": "Italiano e",
             "professori": [
                 "Bambagioni"
@@ -13465,7 +13474,7 @@
             "giorno": 2,
             "ora": 2
         },
-        "7": {
+        "8": {
             "materia": "Italiano e",
             "professori": [
                 "Bambagioni"
@@ -13474,7 +13483,7 @@
             "giorno": 2,
             "ora": 3
         },
-        "8": {
+        "9": {
             "materia": "Matematica",
             "professori": [
                 "Mastroianni Caterina"
@@ -13482,16 +13491,6 @@
             "aula": "M2-3",
             "giorno": 2,
             "ora": 4
-        },
-        "9": {
-            "materia": "Disegno e",
-            "professori": [
-                "Sternativo",
-                "Bracco"
-            ],
-            "aula": "M2-7",
-            "giorno": 2,
-            "ora": 5
         },
         "10": {
             "materia": "Disegno e",
@@ -13501,9 +13500,19 @@
             ],
             "aula": "M2-7",
             "giorno": 2,
-            "ora": 6
+            "ora": 5
         },
         "11": {
+            "materia": "Disegno e",
+            "professori": [
+                "Sternativo",
+                "Bracco"
+            ],
+            "aula": "M2-7",
+            "giorno": 2,
+            "ora": 6
+        },
+        "12": {
             "materia": "Religione",
             "professori": [
                 "Rota"
@@ -13512,7 +13521,7 @@
             "giorno": 2,
             "ora": 7
         },
-        "12": {
+        "13": {
             "materia": "Italiano e",
             "professori": [
                 "Bambagioni"
@@ -13521,7 +13530,7 @@
             "giorno": 3,
             "ora": 1
         },
-        "13": {
+        "14": {
             "materia": "Meccanica",
             "professori": [
                 "Marino"
@@ -13530,7 +13539,7 @@
             "giorno": 3,
             "ora": 2
         },
-        "14": {
+        "15": {
             "materia": "Sistemi e",
             "professori": [
                 "Imberti"
@@ -13539,7 +13548,7 @@
             "giorno": 3,
             "ora": 3
         },
-        "15": {
+        "16": {
             "materia": "Sistemi e",
             "professori": [
                 "Imberti"
@@ -13548,7 +13557,7 @@
             "giorno": 3,
             "ora": 4
         },
-        "16": {
+        "17": {
             "materia": "Inglese",
             "professori": [
                 "Rota Bulo'"
@@ -13557,7 +13566,7 @@
             "giorno": 3,
             "ora": 5
         },
-        "17": {
+        "18": {
             "materia": "Italiano e",
             "professori": [
                 "Bambagioni"
@@ -13565,16 +13574,6 @@
             "aula": "M2-3",
             "giorno": 3,
             "ora": 6
-        },
-        "18": {
-            "materia": "Tecn",
-            "professori": [
-                "De Leidi",
-                "Dimilta"
-            ],
-            "aula": "M1-23",
-            "giorno": 4,
-            "ora": 3
         },
         "19": {
             "materia": "Tecn",
@@ -13584,9 +13583,19 @@
             ],
             "aula": "M1-23",
             "giorno": 4,
-            "ora": 4
+            "ora": 3
         },
         "20": {
+            "materia": "Tecn",
+            "professori": [
+                "De Leidi",
+                "Dimilta"
+            ],
+            "aula": "M1-23",
+            "giorno": 4,
+            "ora": 4
+        },
+        "21": {
             "materia": "Matematica",
             "professori": [
                 "Mastroianni Caterina"
@@ -13595,7 +13604,7 @@
             "giorno": 4,
             "ora": 5
         },
-        "21": {
+        "22": {
             "materia": "Sc. Motorie",
             "professori": [
                 "Steriti"
@@ -13603,15 +13612,6 @@
             "aula": "Palestra Fitness",
             "giorno": 4,
             "ora": 6
-        },
-        "22": {
-            "materia": "Inglese",
-            "professori": [
-                "Rota Bulo'"
-            ],
-            "aula": "M2-3",
-            "giorno": 4,
-            "ora": 7
         },
         "23": {
             "materia": "Tecn",
@@ -13671,9 +13671,9 @@
             "ora": 6
         },
         "29": {
-            "materia": "Tecn",
+            "materia": "Inglese",
             "professori": [
-                "De Leidi"
+                "Rota Bulo'"
             ],
             "aula": "M2-3",
             "giorno": 6,
@@ -14446,7 +14446,7 @@
         "16": {
             "materia": "Disegno e",
             "professori": [
-                "A42-4h",
+                "De Leidi",
                 "Vetere"
             ],
             "aula": "M3-4",
@@ -14456,7 +14456,7 @@
         "17": {
             "materia": "Disegno e",
             "professori": [
-                "A42-4h",
+                "De Leidi",
                 "Vetere"
             ],
             "aula": "M3-4",
@@ -14570,7 +14570,7 @@
         "29": {
             "materia": "Disegno e",
             "professori": [
-                "A42-4h"
+                "De Leidi"
             ],
             "aula": "M3-4",
             "giorno": 6,
@@ -14579,7 +14579,7 @@
         "30": {
             "materia": "Disegno e",
             "professori": [
-                "A42-4h"
+                "De Leidi"
             ],
             "aula": "M3-4",
             "giorno": 6,
@@ -14617,9 +14617,9 @@
             "ora": 1
         },
         "2": {
-            "materia": "Italiano e",
+            "materia": "Inglese",
             "professori": [
-                "Sciuto Andrea"
+                "Rota Bulo'"
             ],
             "aula": "3-4",
             "giorno": 1,
@@ -14867,9 +14867,9 @@
             "ora": 6
         },
         "29": {
-            "materia": "Inglese",
+            "materia": "Italiano e",
             "professori": [
-                "Rota Bulo'"
+                "Sciuto Andrea"
             ],
             "aula": "3-4",
             "giorno": 6,
@@ -14974,7 +14974,7 @@
                 "Russo Max",
                 "Maggi"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 2,
             "ora": 3
         },
@@ -14984,7 +14984,7 @@
                 "Russo Max",
                 "Maggi"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 2,
             "ora": 4
         },
@@ -15294,7 +15294,7 @@
                 "Castelletti",
                 "Salone"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 2,
             "ora": 5
         },
@@ -15304,7 +15304,7 @@
                 "Castelletti",
                 "Salone"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 2,
             "ora": 6
         },
@@ -15561,7 +15561,7 @@
             "professori": [
                 "Tasca"
             ],
-            "aula": "E3-5",
+            "aula": "E3-1",
             "giorno": 2,
             "ora": 2
         },
@@ -17588,7 +17588,7 @@
                 "Gioco",
                 "Dimilta"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 6,
             "ora": 4
         }
@@ -17877,7 +17877,7 @@
                 "Gioco",
                 "Dimilta"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 6,
             "ora": 3
         },
@@ -18838,7 +18838,7 @@
             "professori": [
                 "Lorenzi"
             ],
-            "aula": "E3-1",
+            "aula": "E3-5",
             "giorno": 2,
             "ora": 2
         },
@@ -19237,7 +19237,7 @@
                 "Tasca",
                 "Dottore"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 4,
             "ora": 2
         },
@@ -19247,7 +19247,7 @@
                 "Tasca",
                 "Dottore"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 4,
             "ora": 3
         },
@@ -19257,7 +19257,7 @@
                 "Tasca",
                 "Dottore"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 4,
             "ora": 4
         },
@@ -19391,7 +19391,7 @@
                 "Aielli",
                 "Maggi"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 1,
             "ora": 3
         },
@@ -19401,7 +19401,7 @@
                 "Aielli",
                 "Maggi"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 1,
             "ora": 4
         },
@@ -19411,7 +19411,7 @@
                 "Aielli",
                 "Maggi"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 1,
             "ora": 5
         },
@@ -19786,7 +19786,7 @@
                 "Bolognini",
                 "Dottore"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 3,
             "ora": 3
         },
@@ -19796,7 +19796,7 @@
                 "Bolognini",
                 "Dottore"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 3,
             "ora": 4
         },
@@ -19806,7 +19806,7 @@
                 "Bolognini",
                 "Dottore"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 3,
             "ora": 5
         },
@@ -22942,7 +22942,7 @@
                 "Sternativo",
                 "Martino"
             ],
-            "aula": "E1-5",
+            "aula": "E1-7",
             "giorno": 5,
             "ora": 7
         },
