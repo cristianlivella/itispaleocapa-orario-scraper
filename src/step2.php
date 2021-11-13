@@ -42,6 +42,10 @@ if (!file_exists('omonimi.json') || !$oldOmonimi = json_decode(file_get_contents
 
 define('REGEX_CLASSE_DI_CONCORSO', '/[A-Za-z]{1}[0-9]{2,4}-[A-Za-z0-9]+/');
 
+// remove strange non-standard lines
+// TODO: check what is the exact meaning of these annotations
+$timetable = preg_replace('/(lun|mar|mer|gio|ven|sab) [0-9]{2}.*-.*[0-9]{2}\n|\r/', '', $timetable);
+
 // explode the timetable (orario.txt)
 $timetable = explode(PHP_EOL, $timetable);
 $timetable = array_map('trim', $timetable);
