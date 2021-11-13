@@ -3,7 +3,7 @@ echo 'Starting scraping'
 html=$(wget --header "Cookie: pasw_law_cookie=yes" -qO - https://www.itispaleocapa.edu.it/orario-classi/)
 
 name=$(echo "$html" | grep -o -P '(?<=\<h2 class\="posttitle"\>).*(?=\<\/h2\>)')
-pdf_url=$(echo "$html" | grep -o -P '(?<=docs\.google\.com\/viewer\?url\=).*(?<=\.pdf)' | sed --expression='s@+@ @g;s@%@\\x@g' | xargs -0 printf "%b")
+pdf_url=$(echo "$html" | grep -o -P '(?<=\<li class\="post\-attachment mime\-application\-pdf"\>\<a target\="_blank" href\=").*(?="\>)')
 
 wget -qO 'orario.pdf' $pdf_url
 
