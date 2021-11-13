@@ -5,6 +5,9 @@ html=$(wget --header "Cookie: pasw_law_cookie=yes" -qO - https://www.itispaleoca
 name=$(echo "$html" | grep -o -P '(?<=\<h2 class\="posttitle"\>).*(?=\<\/h2\>)')
 pdf_url=$(echo "$html" | grep -o -P '(?<=\<li class\="post\-attachment mime\-application\-pdf"\>\<a target\="_blank" href\=").*(?="\>)')
 
+echo $name
+echo $pdf_url
+
 wget -qO 'orario.pdf' $pdf_url
 
 if [ $? -ne 0 ]; then
