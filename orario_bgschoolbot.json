@@ -1507,7 +1507,7 @@
         "Pedrali",
         "Inglese",
         "1IC",
-        "3-7",
+        "1-90",
         1,
         6
     ],
@@ -2315,7 +2315,7 @@
         "Pasquini",
         "Inglese",
         "1IE",
-        "3-16",
+        "I1-13",
         5,
         5
     ],
@@ -2859,7 +2859,7 @@
         "Suria",
         "Tecn",
         "1IG",
-        "1-14",
+        "1-90",
         4,
         7
     ],
@@ -5539,7 +5539,7 @@
         "Alfonsi",
         "Inglese",
         "1MF",
-        "2-5",
+        "I1-13",
         4,
         7
     ],
@@ -7843,7 +7843,7 @@
         "Pasquini",
         "Inglese",
         "2IE",
-        "T2-3",
+        "I1-6",
         4,
         7
     ],
@@ -8872,8 +8872,8 @@
         3
     ],
     [
-        "Desoppi",
-        "Storia",
+        "Bambagioni",
+        "Italiano",
         "2MC",
         "3-16",
         2,
@@ -8963,7 +8963,7 @@
         "Desoppi",
         "Storia",
         "2MC",
-        "3-17",
+        "3-16",
         4,
         2
     ],
@@ -9040,8 +9040,8 @@
         4
     ],
     [
-        "Bambagioni",
-        "Italiano",
+        "Desoppi",
+        "Storia",
         "2MC",
         "3-17",
         5,
@@ -9899,7 +9899,7 @@
         "Pedrali",
         "Inglese",
         "2MF",
-        "3-14",
+        "1-90",
         5,
         4
     ],
@@ -10264,7 +10264,7 @@
         3
     ],
     [
-        "Panaccione",
+        "Dimasi",
         "Elettrot. e",
         "3EAet",
         "E1-10",
@@ -10440,7 +10440,7 @@
         3
     ],
     [
-        "Panaccione",
+        "Dimasi",
         "Elettrot. e",
         "3EAet",
         "E1-10",
@@ -10456,7 +10456,7 @@
         4
     ],
     [
-        "Panaccione",
+        "Dimasi",
         "Elettrot. e",
         "3EAet",
         "E1-10",
@@ -11224,7 +11224,7 @@
         5
     ],
     [
-        "Colpani",
+        "A41-x1",
         "Tecn. Prg",
         "3IA",
         "I1-1",
@@ -11328,7 +11328,7 @@
         3
     ],
     [
-        "Colpani",
+        "A41-x1",
         "Tecn. Prg",
         "3IA",
         "I1-13",
@@ -11408,7 +11408,7 @@
         6
     ],
     [
-        "Colpani",
+        "A41-x1",
         "Tecn. Prg",
         "3IA",
         "I1-1",
@@ -12040,7 +12040,7 @@
         1
     ],
     [
-        "Panaccione",
+        "Dimasi",
         "Telecomuni",
         "3IC",
         "I3-6",
@@ -12056,7 +12056,7 @@
         2
     ],
     [
-        "Panaccione",
+        "Dimasi",
         "Telecomuni",
         "3IC",
         "I3-6",
@@ -12675,7 +12675,7 @@
         "Pasquini",
         "Inglese",
         "3IE",
-        "I2-2",
+        "I1-13",
         3,
         7
     ],
@@ -12827,7 +12827,7 @@
         "Pasquini",
         "Inglese",
         "3IF",
-        "I2-3",
+        "I2-13",
         1,
         6
     ],
@@ -13456,8 +13456,8 @@
         3
     ],
     [
-        "Desoppi",
-        "Storia",
+        "Bambagioni",
+        "Italiano",
         "3MB",
         "M2-3",
         1,
@@ -13496,8 +13496,8 @@
         1
     ],
     [
-        "Desoppi",
-        "Storia",
+        "Bambagioni",
+        "Italiano",
         "3MB",
         "M2-3",
         2,
@@ -13560,8 +13560,8 @@
         7
     ],
     [
-        "Bambagioni",
-        "Italiano",
+        "Desoppi",
+        "Storia",
         "3MB",
         "M2-3",
         3,
@@ -13704,8 +13704,8 @@
         3
     ],
     [
-        "Bambagioni",
-        "Italiano",
+        "Desoppi",
+        "Storia",
         "3MB",
         "M2-3",
         5,
@@ -15984,7 +15984,7 @@
         5
     ],
     [
-        "Panaccione",
+        "Dimasi",
         "Tecn. Prog",
         "4EC",
         "E2-7",
@@ -16000,7 +16000,7 @@
         6
     ],
     [
-        "Panaccione",
+        "Dimasi",
         "Tecn. Prog",
         "4EC",
         "E2-7",
@@ -16016,7 +16016,7 @@
         1
     ],
     [
-        "Panaccione",
+        "Dimasi",
         "Tecn. Prog",
         "4EC",
         "E3-8",
@@ -16032,7 +16032,7 @@
         2
     ],
     [
-        "Panaccione",
+        "Dimasi",
         "Tecn. Prog",
         "4EC",
         "E3-8",
@@ -17048,7 +17048,7 @@
         3
     ],
     [
-        "Colpani",
+        "A41-x1",
         "Tecn. Prg",
         "4IC",
         "I3-3",
@@ -17224,7 +17224,7 @@
         2
     ],
     [
-        "Colpani",
+        "A41-x1",
         "Tecn. Prg",
         "4IC",
         "I1-13",
@@ -17240,7 +17240,7 @@
         3
     ],
     [
-        "Colpani",
+        "A41-x1",
         "Tecn. Prg",
         "4IC",
         "I1-13",
@@ -18563,7 +18563,7 @@
         "Alfonsi",
         "Inglese",
         "4MC",
-        "T1-12",
+        "I1-13",
         4,
         6
     ],
@@ -18659,7 +18659,7 @@
         "Pasquini",
         "Inglese",
         "4MD",
-        "1-94",
+        "1-90",
         1,
         3
     ],
@@ -19024,8 +19024,8 @@
         4
     ],
     [
-        "Desoppi",
-        "Storia",
+        "Bambagioni",
+        "Italiano",
         "4ME",
         "1-93",
         1,
@@ -19104,8 +19104,8 @@
         2
     ],
     [
-        "Bambagioni",
-        "Italiano",
+        "Desoppi",
+        "Storia",
         "4ME",
         "1-93",
         3,
@@ -19225,7 +19225,7 @@
     ],
     [
         "Bambagioni",
-        "Italiano",
+        "Storia",
         "4ME",
         "1-93",
         5,
@@ -21704,7 +21704,7 @@
         7
     ],
     [
-        "Colpani",
+        "A41-x1",
         "Tecn. Prg",
         "5ID",
         "I1-13",
@@ -21720,7 +21720,7 @@
         1
     ],
     [
-        "Colpani",
+        "A41-x1",
         "Tecn. Prg",
         "5ID",
         "I1-13",
@@ -21832,7 +21832,7 @@
         6
     ],
     [
-        "Colpani",
+        "A41-x1",
         "Tecn. Prg",
         "5ID",
         "I3-2",
@@ -21840,7 +21840,7 @@
         1
     ],
     [
-        "Colpani",
+        "A41-x1",
         "Tecn. Prg",
         "5ID",
         "I3-2",
@@ -22003,7 +22003,7 @@
         "Pedrali",
         "Inglese",
         "5IE",
-        "I1-2",
+        "1-90",
         1,
         4
     ],
@@ -22022,6 +22022,14 @@
         "I2-2",
         1,
         6
+    ],
+    [
+        "Mastroianni Michele",
+        "Tecn. Prg",
+        "5IE",
+        "I1-2",
+        1,
+        7
     ],
     [
         "Panza",
@@ -22214,14 +22222,6 @@
         "I1-1",
         4,
         6
-    ],
-    [
-        "Mastroianni Michele",
-        "Tecn. Prg",
-        "5IE",
-        "I1-2",
-        4,
-        7
     ],
     [
         "Pedrali",
@@ -23219,7 +23219,7 @@
         "Alfonsi",
         "Inglese",
         "5MC",
-        "4-2",
+        "I1-13",
         4,
         5
     ],
@@ -23715,7 +23715,7 @@
         "Pasquini",
         "Inglese",
         "5ME",
-        "1-92",
+        "1-90",
         1,
         5
     ],

@@ -1507,7 +1507,7 @@
             "professori": [
                 "Pedrali"
             ],
-            "aula": "3-7",
+            "aula": "1-90",
             "giorno": 1,
             "ora": 6
         },
@@ -2308,7 +2308,7 @@
             "professori": [
                 "Pasquini"
             ],
-            "aula": "3-16",
+            "aula": "I1-13",
             "giorno": 5,
             "ora": 5
         },
@@ -2852,7 +2852,7 @@
             "professori": [
                 "Suria"
             ],
-            "aula": "1-14",
+            "aula": "1-90",
             "giorno": 4,
             "ora": 7
         },
@@ -5525,7 +5525,7 @@
             "professori": [
                 "Alfonsi"
             ],
-            "aula": "2-5",
+            "aula": "I1-13",
             "giorno": 4,
             "ora": 7
         },
@@ -7917,7 +7917,7 @@
             "professori": [
                 "Pasquini"
             ],
-            "aula": "T2-3",
+            "aula": "I1-6",
             "giorno": 4,
             "ora": 7
         },
@@ -8994,9 +8994,9 @@
             "ora": 3
         },
         "9": {
-            "materia": "Storia",
+            "materia": "Italiano",
             "professori": [
-                "Desoppi"
+                "Bambagioni"
             ],
             "aula": "3-16",
             "giorno": 2,
@@ -9089,7 +9089,7 @@
             "professori": [
                 "Desoppi"
             ],
-            "aula": "3-17",
+            "aula": "3-16",
             "giorno": 4,
             "ora": 2
         },
@@ -9167,9 +9167,9 @@
             "ora": 4
         },
         "28": {
-            "materia": "Italiano",
+            "materia": "Storia",
             "professori": [
-                "Bambagioni"
+                "Desoppi"
             ],
             "aula": "3-17",
             "giorno": 5,
@@ -10068,7 +10068,7 @@
             "professori": [
                 "Pedrali"
             ],
-            "aula": "3-14",
+            "aula": "1-90",
             "giorno": 5,
             "ora": 4
         },
@@ -10452,7 +10452,7 @@
             "materia": "Elettrot. e",
             "professori": [
                 "Castelletti",
-                "Panaccione"
+                "Dimasi"
             ],
             "aula": "E1-10",
             "giorno": 1,
@@ -10610,7 +10610,7 @@
             "materia": "Elettrot. e",
             "professori": [
                 "Castelletti",
-                "Panaccione"
+                "Dimasi"
             ],
             "aula": "E1-10",
             "giorno": 4,
@@ -10620,7 +10620,7 @@
             "materia": "Elettrot. e",
             "professori": [
                 "Castelletti",
-                "Panaccione"
+                "Dimasi"
             ],
             "aula": "E1-10",
             "giorno": 4,
@@ -11354,7 +11354,7 @@
         "4": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Colpani"
+                "A41-x1"
             ],
             "aula": "I1-1",
             "giorno": 1,
@@ -11455,7 +11455,7 @@
         "15": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Colpani",
+                "A41-x1",
                 "Camarda"
             ],
             "aula": "I1-13",
@@ -11521,7 +11521,7 @@
         "22": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Colpani"
+                "A41-x1"
             ],
             "aula": "I1-1",
             "giorno": 4,
@@ -12116,7 +12116,7 @@
             "materia": "Telecomuni",
             "professori": [
                 "Masserini",
-                "Panaccione"
+                "Dimasi"
             ],
             "aula": "I3-6",
             "giorno": 5,
@@ -12126,7 +12126,7 @@
             "materia": "Telecomuni",
             "professori": [
                 "Masserini",
-                "Panaccione"
+                "Dimasi"
             ],
             "aula": "I3-6",
             "giorno": 5,
@@ -12673,7 +12673,7 @@
             "professori": [
                 "Pasquini"
             ],
-            "aula": "I2-2",
+            "aula": "I1-13",
             "giorno": 3,
             "ora": 7
         },
@@ -12846,7 +12846,7 @@
             "professori": [
                 "Pasquini"
             ],
-            "aula": "I2-3",
+            "aula": "I2-13",
             "giorno": 1,
             "ora": 6
         },
@@ -13421,9 +13421,9 @@
             "ora": 3
         },
         "2": {
-            "materia": "Storia",
+            "materia": "Italiano",
             "professori": [
-                "Desoppi"
+                "Bambagioni"
             ],
             "aula": "M2-3",
             "giorno": 1,
@@ -13466,9 +13466,9 @@
             "ora": 1
         },
         "7": {
-            "materia": "Storia",
+            "materia": "Italiano",
             "professori": [
-                "Desoppi"
+                "Bambagioni"
             ],
             "aula": "M2-3",
             "giorno": 2,
@@ -13522,9 +13522,9 @@
             "ora": 7
         },
         "13": {
-            "materia": "Italiano",
+            "materia": "Storia",
             "professori": [
-                "Bambagioni"
+                "Desoppi"
             ],
             "aula": "M2-3",
             "giorno": 3,
@@ -13644,9 +13644,9 @@
             "ora": 3
         },
         "26": {
-            "materia": "Italiano",
+            "materia": "Storia",
             "professori": [
-                "Bambagioni"
+                "Desoppi"
             ],
             "aula": "M2-3",
             "giorno": 5,
@@ -15745,7 +15745,7 @@
             "materia": "Tecn. Prog",
             "professori": [
                 "Sorrentino",
-                "Panaccione"
+                "Dimasi"
             ],
             "aula": "E2-7",
             "giorno": 5,
@@ -15755,7 +15755,7 @@
             "materia": "Tecn. Prog",
             "professori": [
                 "Sorrentino",
-                "Panaccione"
+                "Dimasi"
             ],
             "aula": "E2-7",
             "giorno": 5,
@@ -15765,7 +15765,7 @@
             "materia": "Tecn. Prog",
             "professori": [
                 "Sorrentino",
-                "Panaccione"
+                "Dimasi"
             ],
             "aula": "E3-8",
             "giorno": 6,
@@ -15775,7 +15775,7 @@
             "materia": "Tecn. Prog",
             "professori": [
                 "Sorrentino",
-                "Panaccione"
+                "Dimasi"
             ],
             "aula": "E3-8",
             "giorno": 6,
@@ -16710,7 +16710,7 @@
         "2": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Colpani"
+                "A41-x1"
             ],
             "aula": "I3-3",
             "giorno": 1,
@@ -16876,7 +16876,7 @@
         "20": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Colpani",
+                "A41-x1",
                 "Gaffuri"
             ],
             "aula": "I1-13",
@@ -16886,7 +16886,7 @@
         "21": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Colpani",
+                "A41-x1",
                 "Gaffuri"
             ],
             "aula": "I1-13",
@@ -18085,7 +18085,7 @@
             "professori": [
                 "Alfonsi"
             ],
-            "aula": "T1-12",
+            "aula": "I1-13",
             "giorno": 4,
             "ora": 6
         },
@@ -18195,7 +18195,7 @@
             "professori": [
                 "Pasquini"
             ],
-            "aula": "1-94",
+            "aula": "1-90",
             "giorno": 1,
             "ora": 3
         },
@@ -18527,9 +18527,9 @@
             "ora": 4
         },
         "5": {
-            "materia": "Storia",
+            "materia": "Italiano",
             "professori": [
-                "Desoppi"
+                "Bambagioni"
             ],
             "aula": "1-93",
             "giorno": 1,
@@ -18601,9 +18601,9 @@
             "ora": 2
         },
         "13": {
-            "materia": "Italiano",
+            "materia": "Storia",
             "professori": [
-                "Bambagioni"
+                "Desoppi"
             ],
             "aula": "1-93",
             "giorno": 3,
@@ -18704,7 +18704,7 @@
             "ora": 2
         },
         "24": {
-            "materia": "Italiano",
+            "materia": "Storia",
             "professori": [
                 "Bambagioni"
             ],
@@ -20944,7 +20944,7 @@
         "6": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Colpani",
+                "A41-x1",
                 "Grena"
             ],
             "aula": "I1-13",
@@ -20954,7 +20954,7 @@
         "7": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Colpani",
+                "A41-x1",
                 "Grena"
             ],
             "aula": "I1-13",
@@ -21056,7 +21056,7 @@
         "18": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Colpani"
+                "A41-x1"
             ],
             "aula": "I3-2",
             "giorno": 4,
@@ -21065,7 +21065,7 @@
         "19": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Colpani"
+                "A41-x1"
             ],
             "aula": "I3-2",
             "giorno": 4,
@@ -21217,7 +21217,7 @@
             "professori": [
                 "Pedrali"
             ],
-            "aula": "I1-2",
+            "aula": "1-90",
             "giorno": 1,
             "ora": 4
         },
@@ -21240,6 +21240,15 @@
             "ora": 6
         },
         "5": {
+            "materia": "Tecn. Prg",
+            "professori": [
+                "Mastroianni Michele"
+            ],
+            "aula": "I1-2",
+            "giorno": 1,
+            "ora": 7
+        },
+        "6": {
             "materia": "Italiano e",
             "professori": [
                 "Panza"
@@ -21247,16 +21256,6 @@
             "aula": "I1-2",
             "giorno": 2,
             "ora": 1
-        },
-        "6": {
-            "materia": "Tecn. Prg",
-            "professori": [
-                "Mastroianni Michele",
-                "Camarda"
-            ],
-            "aula": "E2-9",
-            "giorno": 2,
-            "ora": 2
         },
         "7": {
             "materia": "Tecn. Prg",
@@ -21266,9 +21265,19 @@
             ],
             "aula": "E2-9",
             "giorno": 2,
-            "ora": 3
+            "ora": 2
         },
         "8": {
+            "materia": "Tecn. Prg",
+            "professori": [
+                "Mastroianni Michele",
+                "Camarda"
+            ],
+            "aula": "E2-9",
+            "giorno": 2,
+            "ora": 3
+        },
+        "9": {
             "materia": "Matematica",
             "professori": [
                 "Mele"
@@ -21277,7 +21286,7 @@
             "giorno": 2,
             "ora": 4
         },
-        "9": {
+        "10": {
             "materia": "Informatica",
             "professori": [
                 "Testardo"
@@ -21286,7 +21295,7 @@
             "giorno": 2,
             "ora": 5
         },
-        "10": {
+        "11": {
             "materia": "Pausa",
             "professori": [
                 "?"
@@ -21295,7 +21304,7 @@
             "giorno": 2,
             "ora": 6
         },
-        "11": {
+        "12": {
             "materia": "Sc. Motorie",
             "professori": [
                 "Penna"
@@ -21304,7 +21313,7 @@
             "giorno": 2,
             "ora": 7
         },
-        "12": {
+        "13": {
             "materia": "Sc. Motorie",
             "professori": [
                 "Penna"
@@ -21313,7 +21322,7 @@
             "giorno": 2,
             "ora": 8
         },
-        "13": {
+        "14": {
             "materia": "Inglese",
             "professori": [
                 "Pedrali"
@@ -21322,7 +21331,7 @@
             "giorno": 3,
             "ora": 3
         },
-        "14": {
+        "15": {
             "materia": "Italiano e",
             "professori": [
                 "Panza"
@@ -21330,16 +21339,6 @@
             "aula": "I1-1",
             "giorno": 3,
             "ora": 4
-        },
-        "15": {
-            "materia": "Informatica",
-            "professori": [
-                "Testardo",
-                "Midiri"
-            ],
-            "aula": "I1-13",
-            "giorno": 3,
-            "ora": 5
         },
         "16": {
             "materia": "Informatica",
@@ -21349,17 +21348,17 @@
             ],
             "aula": "I1-13",
             "giorno": 3,
-            "ora": 6
+            "ora": 5
         },
         "17": {
-            "materia": "Sistemi e",
+            "materia": "Informatica",
             "professori": [
-                "Greco Anna Maria",
-                "Camarda"
+                "Testardo",
+                "Midiri"
             ],
-            "aula": "I2-6",
-            "giorno": 4,
-            "ora": 1
+            "aula": "I1-13",
+            "giorno": 3,
+            "ora": 6
         },
         "18": {
             "materia": "Sistemi e",
@@ -21369,16 +21368,17 @@
             ],
             "aula": "I2-6",
             "giorno": 4,
-            "ora": 2
+            "ora": 1
         },
         "19": {
-            "materia": "Italiano e",
+            "materia": "Sistemi e",
             "professori": [
-                "Panza"
+                "Greco Anna Maria",
+                "Camarda"
             ],
-            "aula": "I3-3",
+            "aula": "I2-6",
             "giorno": 4,
-            "ora": 3
+            "ora": 2
         },
         "20": {
             "materia": "Italiano e",
@@ -21387,9 +21387,18 @@
             ],
             "aula": "I3-3",
             "giorno": 4,
-            "ora": 4
+            "ora": 3
         },
         "21": {
+            "materia": "Italiano e",
+            "professori": [
+                "Panza"
+            ],
+            "aula": "I3-3",
+            "giorno": 4,
+            "ora": 4
+        },
+        "22": {
             "materia": "Informatica",
             "professori": [
                 "Testardo"
@@ -21398,7 +21407,7 @@
             "giorno": 4,
             "ora": 5
         },
-        "22": {
+        "23": {
             "materia": "Religione",
             "professori": [
                 "Fumagalli"
@@ -21406,15 +21415,6 @@
             "aula": "I1-1",
             "giorno": 4,
             "ora": 6
-        },
-        "23": {
-            "materia": "Tecn. Prg",
-            "professori": [
-                "Mastroianni Michele"
-            ],
-            "aula": "I1-2",
-            "giorno": 4,
-            "ora": 7
         },
         "24": {
             "materia": "Inglese",
@@ -22303,7 +22303,7 @@
             "professori": [
                 "Alfonsi"
             ],
-            "aula": "4-2",
+            "aula": "I1-13",
             "giorno": 4,
             "ora": 5
         },
@@ -22737,7 +22737,7 @@
             "professori": [
                 "Pasquini"
             ],
-            "aula": "1-92",
+            "aula": "1-90",
             "giorno": 1,
             "ora": 5
         },
