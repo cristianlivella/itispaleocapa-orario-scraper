@@ -10,6 +10,13 @@
                 ]
             },
             {
+                "nome": "",
+                "ore": 1,
+                "materie": [
+                    "Religione"
+                ]
+            },
+            {
                 "nome": "Anna Maria",
                 "ore": 3,
                 "materie": [
@@ -24,6 +31,104 @@
                     "Gest. Prg",
                     "Sistemi e",
                     "Tecn. Prg"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Messina",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 18,
+                "materie": [
+                    "Sc. Motorie"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 1,
+                "materie": [
+                    "Religione"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Foglia",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 18,
+                "materie": [
+                    "Italiano e"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 1,
+                "materie": [
+                    "Religione"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Licata",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 18,
+                "materie": [
+                    "S.I. Fisica"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 1,
+                "materie": [
+                    "Religione"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Imberti",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 1,
+                "materie": [
+                    "Religione"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 18,
+                "materie": [
+                    "Disegno e",
+                    "Sc. e Tecn",
+                    "Sistemi e",
+                    "Tecn"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Auriemma",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 18,
+                "materie": [
+                    "Sc. Motorie"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 1,
+                "materie": [
+                    "Religione"
                 ]
             }
         ]
@@ -51,6 +156,118 @@
         ]
     },
     {
+        "cognome": "Cirillo",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 18,
+                "materie": [
+                    "Sc. Motorie"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 1,
+                "materie": [
+                    "Religione"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Grena",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 1,
+                "materie": [
+                    "Religione"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 18,
+                "materie": [
+                    "Gest. Prg",
+                    "Informatica",
+                    "Sistemi e",
+                    "Tecn. Prg"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Basile",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 10,
+                "materie": [
+                    "Diritto ed"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 1,
+                "materie": [
+                    "Religione"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 8,
+                "materie": [
+                    "Economia e"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Pizzitola",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 18,
+                "materie": [
+                    "Italiano e"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 1,
+                "materie": [
+                    "Religione"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Napolitano",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 2,
+                "materie": [
+                    "Religione"
+                ]
+            },
+            {
+                "nome": "Pasquale",
+                "ore": 18,
+                "materie": [
+                    "Sc. Motorie"
+                ]
+            },
+            {
+                "nome": "Francesco",
+                "ore": 18,
+                "materie": [
+                    "Italiano e"
+                ]
+            }
+        ]
+    },
+    {
         "cognome": "Mastroianni",
         "omonimi": [
             {
@@ -66,6 +283,45 @@
                 "materie": [
                     "Informatica",
                     "Sistemi e",
+                    "Tecn. Prg"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Alborghetti",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 18,
+                "materie": [
+                    "S.I. Chimica"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 1,
+                "materie": [
+                    "Religione"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Bernini",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 1,
+                "materie": [
+                    "Religione"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 18,
+                "materie": [
+                    "Informatica",
                     "Tecn. Prg"
                 ]
             }
@@ -94,20 +350,116 @@
         ]
     },
     {
-        "cognome": "Napolitano",
+        "cognome": "Blando",
         "omonimi": [
             {
-                "nome": "Pasquale",
-                "ore": 18,
-                "materie": [
-                    "Sc. Motorie"
-                ]
-            },
-            {
-                "nome": "Francesco",
+                "nome": "",
                 "ore": 18,
                 "materie": [
                     "Italiano e"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 1,
+                "materie": [
+                    "Religione"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Monaco",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 1,
+                "materie": [
+                    "Religione"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 20,
+                "materie": [
+                    "Tecn"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Frecassetti",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 1,
+                "materie": [
+                    "Religione"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 18,
+                "materie": [
+                    "Ideaz. Prg"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "D'antoni",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 18,
+                "materie": [
+                    "Informatica",
+                    "Sistemi e"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 1,
+                "materie": [
+                    "Religione"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "De Leidi",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 8,
+                "materie": [
+                    "Tecn"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 11,
+                "materie": [
+                    "Disegno e"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Farri",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 15,
+                "materie": [
+                    "Disegno e"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 4,
+                "materie": [
+                    "Tecn"
                 ]
             }
         ]
