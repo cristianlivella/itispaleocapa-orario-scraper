@@ -12,17 +12,17 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-echo 'Copy omonimi.json from root'.
-cp ../omonimi.json . 2>/dev/null
+echo 'Copy omonimi.json from config dir'.
+cp ../config/omonimi.json . 2>/dev/null
 
 new_hash=$(sha512sum orario.pdf)
 
-cat ../orario.pdf.sha512 2>/dev/null | sha512sum --check 2>/dev/null
+cat ../hashes/orario.pdf.sha512 2>/dev/null | sha512sum --check 2>/dev/null
 
 if [ $? = 0 ]; then
     echo 'No update since last scraping'
 
-    cat ../omonimi.json.sha512 2>/dev/null | sha512sum --check 2>/dev/null
+    cat ../hashes/omonimi.json.sha512 2>/dev/null | sha512sum --check 2>/dev/null
     if [ $? = 0 ]; then
         echo 'omonimi.json has not changed'
 
@@ -59,10 +59,10 @@ if [ $? -ne 0 ]; then
 fi
 
 echo 'Saving new PDF hash'
-echo $new_hash > ../orario.pdf.sha512
+echo $new_hash > ../hashes/orario.pdf.sha512
 
 echo 'Saving new omonimi.json hash'
-sha512sum omonimi.json > ../omonimi.json.sha512
+sha512sum omonimi.json > ../hashes/omonimi.json.sha512
 
 echo 'Removing temp files...'
 rm orario.pdf
@@ -73,7 +73,7 @@ rm ore_inizio.txt
 echo 'Moving files to root...'
 mv orario.json ../orario.json
 mv orario_bgschoolbot.json ../orario_bgschoolbot.json
-mv omonimi.json ../omonimi.json
+mv omonimi.json ../config/omonimi.json
 
 if [ "$GITHUB_ACTIONS" == "true" ]; then
     echo 'Commit to repo'
