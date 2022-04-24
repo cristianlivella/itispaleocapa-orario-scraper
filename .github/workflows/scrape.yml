@@ -30,7 +30,7 @@ jobs:
 
       - name: Run the scraper
         working-directory: ./src
-        run: ./scraper.sh
+        run: "./scraper.sh ${{ github.event_name }}" 
 
       - name: Push changes
         uses: ad-m/github-push-action@master

@@ -25,7 +25,13 @@ if [ $? = 0 ]; then
     cat ../omonimi.json.sha512 2>/dev/null | sha512sum --check 2>/dev/null
     if [ $? = 0 ]; then
         echo 'omonimi.json has not changed'
-        exit 0
+
+        if [ "$1" = 'workflow_dispatch' ] || [ "$GITHUB_ACTIONS" != "true" ]; then
+            echo 'Scraping anyway due to manual dispatch'
+        else
+            echo 'Exiting now'
+            exit 0
+        fi
     fi
 fi
 
