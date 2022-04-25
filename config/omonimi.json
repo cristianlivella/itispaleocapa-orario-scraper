@@ -51,25 +51,6 @@
         ]
     },
     {
-        "cognome": "Basile",
-        "omonimi": [
-            {
-                "nome": "",
-                "ore": 10,
-                "materie": [
-                    "Diritto ed"
-                ]
-            },
-            {
-                "nome": "",
-                "ore": 8,
-                "materie": [
-                    "Economia e"
-                ]
-            }
-        ]
-    },
-    {
         "cognome": "Napolitano",
         "omonimi": [
             {
@@ -133,44 +114,6 @@
                     "Meccanica",
                     "Sc. e Tecn",
                     "Sistemi e",
-                    "Tecn"
-                ]
-            }
-        ]
-    },
-    {
-        "cognome": "De Leidi",
-        "omonimi": [
-            {
-                "nome": "",
-                "ore": 8,
-                "materie": [
-                    "Tecn"
-                ]
-            },
-            {
-                "nome": "",
-                "ore": 11,
-                "materie": [
-                    "Disegno e"
-                ]
-            }
-        ]
-    },
-    {
-        "cognome": "Farri",
-        "omonimi": [
-            {
-                "nome": "",
-                "ore": 15,
-                "materie": [
-                    "Disegno e"
-                ]
-            },
-            {
-                "nome": "",
-                "ore": 4,
-                "materie": [
                     "Tecn"
                 ]
             }
