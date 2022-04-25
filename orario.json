@@ -623,7 +623,7 @@
                 "Fumagalli",
                 "Imberti"
             ],
-            "aula": "1-12",
+            "aula": "2-1",
             "giorno": 1,
             "ora": 6
         },
@@ -2200,7 +2200,7 @@
                 "Rota",
                 "Grena"
             ],
-            "aula": "1-96",
+            "aula": "3-16",
             "giorno": 3,
             "ora": 4
         },
@@ -2496,7 +2496,7 @@
                 "Arici",
                 "Greco"
             ],
-            "aula": "1-96",
+            "aula": "3-15",
             "giorno": 3,
             "ora": 5
         },
@@ -2682,7 +2682,7 @@
                 "Rota",
                 "De Luca"
             ],
-            "aula": "3-13",
+            "aula": "1-14",
             "giorno": 1,
             "ora": 5
         },
@@ -3309,7 +3309,7 @@
                 "Arici",
                 "Pizzitola"
             ],
-            "aula": "1-93",
+            "aula": "4-2",
             "giorno": 2,
             "ora": 2
         },
@@ -3615,7 +3615,7 @@
                 "Arici",
                 "Napolitano"
             ],
-            "aula": "1-12",
+            "aula": "T2-1",
             "giorno": 2,
             "ora": 4
         },
@@ -4214,7 +4214,7 @@
                 "Rota",
                 "Bernini"
             ],
-            "aula": "1-96",
+            "aula": "3-12",
             "giorno": 2,
             "ora": 6
         },
@@ -4540,7 +4540,7 @@
                 "Rota",
                 "Cirillo"
             ],
-            "aula": "1-96",
+            "aula": "3-13",
             "giorno": 3,
             "ora": 2
         },
@@ -6023,7 +6023,7 @@
                 "Cuminetti",
                 "Zammaretti"
             ],
-            "aula": "1-96",
+            "aula": "4-12",
             "giorno": 3,
             "ora": 3
         },
@@ -6499,7 +6499,7 @@
                 "Cuminetti",
                 "Auriemma"
             ],
-            "aula": "4-3",
+            "aula": "3-3",
             "giorno": 6,
             "ora": 3
         },
@@ -6575,7 +6575,7 @@
                 "Arici",
                 "Foglia"
             ],
-            "aula": "1-93",
+            "aula": "T3-1",
             "giorno": 2,
             "ora": 3
         },
@@ -7700,7 +7700,7 @@
                 "Puma",
                 "Blando"
             ],
-            "aula": "1-95",
+            "aula": "T1-6",
             "giorno": 6,
             "ora": 2
         },
@@ -8792,7 +8792,7 @@
                 "Rota",
                 "Basile"
             ],
-            "aula": "3-15",
+            "aula": "E3-1",
             "giorno": 4,
             "ora": 2
         },
@@ -9121,7 +9121,7 @@
                 "Rota",
                 "Alborghetti"
             ],
-            "aula": "3-15",
+            "aula": "1-8",
             "giorno": 4,
             "ora": 4
         },
@@ -9524,7 +9524,7 @@
                 "Puma",
                 "Scarafile"
             ],
-            "aula": "1-14",
+            "aula": "1-91",
             "giorno": 6,
             "ora": 3
         },
@@ -11316,7 +11316,7 @@
                 "Fumagalli",
                 "Monaco"
             ],
-            "aula": "1-92",
+            "aula": "E3-5",
             "giorno": 6,
             "ora": 2
         },
@@ -11841,7 +11841,7 @@
                 "Cuminetti",
                 "Frecassetti"
             ],
-            "aula": "2-12",
+            "aula": "I1-2",
             "giorno": 4,
             "ora": 5
         },
@@ -12536,7 +12536,7 @@
         "1": {
             "materia": "Informatica",
             "professori": [
-                "D'antoni",
+                "D'Antoni",
                 "Midiri"
             ],
             "aula": "I2-13",
@@ -12546,7 +12546,7 @@
         "2": {
             "materia": "Informatica",
             "professori": [
-                "D'antoni",
+                "D'Antoni",
                 "Midiri"
             ],
             "aula": "I2-13",
@@ -12658,7 +12658,7 @@
         "14": {
             "materia": "Informatica",
             "professori": [
-                "D'antoni",
+                "D'Antoni",
                 "Midiri"
             ],
             "aula": "I2-13",
@@ -12697,7 +12697,7 @@
         "18": {
             "materia": "Informatica",
             "professori": [
-                "D'antoni"
+                "D'Antoni"
             ],
             "aula": "I2-2",
             "giorno": 4,
@@ -12706,7 +12706,7 @@
         "19": {
             "materia": "Informatica",
             "professori": [
-                "D'antoni"
+                "D'Antoni"
             ],
             "aula": "I2-2",
             "giorno": 4,
@@ -12778,7 +12778,7 @@
         "27": {
             "materia": "Informatica",
             "professori": [
-                "D'antoni"
+                "D'Antoni"
             ],
             "aula": "I2-2",
             "giorno": 5,
@@ -12948,7 +12948,7 @@
                 "Arici",
                 "Napolitano"
             ],
-            "aula": "1-92",
+            "aula": "I2-3",
             "giorno": 3,
             "ora": 4
         },
@@ -13333,7 +13333,7 @@
                 "Sciuto Giuseppe",
                 "Lo Maglio"
             ],
-            "aula": "M1-18",
+            "aula": "M1-8",
             "giorno": 4,
             "ora": 6
         },
@@ -13637,7 +13637,7 @@
                 "De Leidi",
                 "Dimilta"
             ],
-            "aula": "M1-18",
+            "aula": "M1-8",
             "giorno": 5,
             "ora": 1
         },
@@ -13891,7 +13891,7 @@
                 "Farri",
                 "Lo Maglio"
             ],
-            "aula": "M1-18",
+            "aula": "M1-8",
             "giorno": 4,
             "ora": 3
         },
@@ -14107,7 +14107,7 @@
                 "Monaco",
                 "Quattrore"
             ],
-            "aula": "M1-18",
+            "aula": "M1-8",
             "giorno": 2,
             "ora": 5
         },
@@ -14350,7 +14350,7 @@
                 "Fumagalli",
                 "Messina"
             ],
-            "aula": "1-12",
+            "aula": "M3-5",
             "giorno": 1,
             "ora": 5
         },
@@ -14582,7 +14582,7 @@
                 "Monaco",
                 "Quattrore"
             ],
-            "aula": "M1-18",
+            "aula": "M1-8",
             "giorno": 5,
             "ora": 7
         },
@@ -16140,7 +16140,7 @@
         "3": {
             "materia": "Sistemi e",
             "professori": [
-                "D'antoni"
+                "D'Antoni"
             ],
             "aula": "I3-1",
             "giorno": 1,
@@ -16242,7 +16242,7 @@
         "14": {
             "materia": "Sistemi e",
             "professori": [
-                "D'antoni"
+                "D'Antoni"
             ],
             "aula": "I3-1",
             "giorno": 3,
@@ -16354,7 +16354,7 @@
         "26": {
             "materia": "Sistemi e",
             "professori": [
-                "D'antoni",
+                "D'Antoni",
                 "Camarda"
             ],
             "aula": "E2-9",
@@ -16364,7 +16364,7 @@
         "27": {
             "materia": "Sistemi e",
             "professori": [
-                "D'antoni",
+                "D'Antoni",
                 "Camarda"
             ],
             "aula": "E2-9",
@@ -16774,7 +16774,7 @@
         "7": {
             "materia": "Sistemi e",
             "professori": [
-                "D'antoni",
+                "D'Antoni",
                 "Grena"
             ],
             "aula": "I2-6",
@@ -16784,7 +16784,7 @@
         "8": {
             "materia": "Sistemi e",
             "professori": [
-                "D'antoni",
+                "D'Antoni",
                 "Grena"
             ],
             "aula": "I2-6",
@@ -16924,7 +16924,7 @@
         "23": {
             "materia": "Sistemi e",
             "professori": [
-                "D'antoni"
+                "D'Antoni"
             ],
             "aula": "I3-3",
             "giorno": 4,
@@ -16971,7 +16971,7 @@
         "28": {
             "materia": "Sistemi e",
             "professori": [
-                "D'antoni"
+                "D'Antoni"
             ],
             "aula": "I3-3",
             "giorno": 5,
@@ -17031,7 +17031,7 @@
                 "Cuminetti",
                 "Licata"
             ],
-            "aula": "3-19",
+            "aula": "I3-13",
             "giorno": 1,
             "ora": 4
         },
@@ -17515,7 +17515,7 @@
                 "Leporini",
                 "Lo Maglio"
             ],
-            "aula": "M1-18",
+            "aula": "M3-8",
             "giorno": 4,
             "ora": 5
         },
@@ -17629,7 +17629,7 @@
                 "De Leidi",
                 "Lo Maglio"
             ],
-            "aula": "M1-18",
+            "aula": "M1-8",
             "giorno": 1,
             "ora": 2
         },
@@ -18087,7 +18087,7 @@
                 "Leporini",
                 "Lo Maglio"
             ],
-            "aula": "M1-18",
+            "aula": "3-10",
             "giorno": 4,
             "ora": 4
         },
@@ -18299,7 +18299,7 @@
                 "Monaco",
                 "Quattrore"
             ],
-            "aula": "M1-18",
+            "aula": "M1-8",
             "giorno": 2,
             "ora": 6
         },
@@ -18662,7 +18662,7 @@
                 "Leporini",
                 "Quattrore"
             ],
-            "aula": "M1-18",
+            "aula": "M1-8",
             "giorno": 3,
             "ora": 7
         },
@@ -20617,7 +20617,7 @@
         "1": {
             "materia": "Sistemi e",
             "professori": [
-                "D'antoni"
+                "D'Antoni"
             ],
             "aula": "I3-2",
             "giorno": 1,
@@ -20627,9 +20627,9 @@
             "materia": "Religione",
             "professori": [
                 "Arici",
-                "D'antoni"
+                "D'Antoni"
             ],
-            "aula": "M3-3",
+            "aula": "I3-2",
             "giorno": 1,
             "ora": 4
         },
@@ -20777,7 +20777,7 @@
         "18": {
             "materia": "Sistemi e",
             "professori": [
-                "D'antoni",
+                "D'Antoni",
                 "Arcuri"
             ],
             "aula": "I2-6",
@@ -20787,7 +20787,7 @@
         "19": {
             "materia": "Sistemi e",
             "professori": [
-                "D'antoni",
+                "D'Antoni",
                 "Arcuri"
             ],
             "aula": "I2-6",
@@ -20835,7 +20835,7 @@
         "24": {
             "materia": "Sistemi e",
             "professori": [
-                "D'antoni"
+                "D'Antoni"
             ],
             "aula": "I1-3",
             "giorno": 5,
@@ -21735,7 +21735,7 @@
                 "Leporini",
                 "Carciopolo"
             ],
-            "aula": "M1-23",
+            "aula": "M1-8",
             "giorno": 4,
             "ora": 7
         },
@@ -21914,7 +21914,7 @@
                 "Marino",
                 "Dimilta"
             ],
-            "aula": "M1-18",
+            "aula": "M2-1",
             "giorno": 2,
             "ora": 4
         },
@@ -22252,7 +22252,7 @@
                 "Monaco",
                 "Lo Maglio"
             ],
-            "aula": "M1-18",
+            "aula": "M3-3",
             "giorno": 3,
             "ora": 3
         },
@@ -22700,7 +22700,7 @@
                 "Monaco",
                 "Quattrore"
             ],
-            "aula": "M1-18",
+            "aula": "M1-8",
             "giorno": 6,
             "ora": 1
         },
@@ -23009,7 +23009,7 @@
                 "Imberti",
                 "Quattrore"
             ],
-            "aula": "M1-18",
+            "aula": "M1-8",
             "giorno": 6,
             "ora": 2
         },
