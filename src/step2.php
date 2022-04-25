@@ -279,7 +279,24 @@ foreach ($teacherHours AS $teacher => $details) {
             sort($materie);
             $currentTeacherHomonyms['omonimi'][] = ['nome' => '', 'ore' => array_sum($group), 'materie' => $materie];
         }
-        $omonimi[] = $currentTeacherHomonyms;
+
+        foreach ($currentTeacherHomonyms['omonimi'] AS $idx => $homonym) {
+            $materie = $homonym['materie'];
+            $ore = $homonym['ore'];
+
+            // Ignore homonym if he teaches just an hour of "religione",
+            // as he is probably not a real homonym, but just a teacher
+            // of the alternative class for students who do not attend religion course.
+            if (count($materie) === 1 && $materie[0] === 'Religione' && $ore === 1) {
+                unset($currentTeacherHomonyms['omonimi'][$idx]);
+            }
+        }
+
+        $currentTeacherHomonyms['omonimi'] = array_values($currentTeacherHomonyms['omonimi']);
+
+        if (count($currentTeacherHomonyms['omonimi']) > 1) {
+            $omonimi[] = $currentTeacherHomonyms;
+        }
     }
 }
 
