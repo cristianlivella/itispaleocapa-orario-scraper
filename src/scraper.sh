@@ -72,6 +72,7 @@ rm ore_inizio.txt
 
 echo 'Moving files to root...'
 mv orario.json ../orario.json
+mv orarioV2.json ../orarioV2.json
 mv orario_bgschoolbot.json ../orario_bgschoolbot.json
 mv omonimi.json ../config/omonimi.json
 
