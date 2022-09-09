@@ -187,6 +187,7 @@ foreach (array_keys($tempTimetable) AS $class) {
                         $lesson['time'] += $sumHours;
                     }
                 }
+                unset($lesson);
             }
         }
     }
@@ -372,6 +373,7 @@ foreach ($tempTimetable AS $class => &$classTimetable) {
     }
 }
 unset($classTimetable);
+unset($lesson);
 
 // Fix the homonyms in $bgSchoolBotTimetable.
 foreach ($bgSchoolBotTimetable AS &$teacherLesson) {
@@ -380,6 +382,7 @@ foreach ($bgSchoolBotTimetable AS &$teacherLesson) {
         $teacherLesson[0] .= ' ' . $homonymsToFix[$homonymyHash];
     }
 }
+unset($teacherLesson);
 
 // Prepare legacy timetable. Is not recommended for use, it is only for backward compatibility.
 $legacyTimetable = [];
