@@ -1,5 +1,24 @@
 [
     {
+        "cognome": "Forlano",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 10,
+                "materie": [
+                    "S.I. Sc. d. Ter"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 10,
+                "materie": [
+                    "S.I. Biologia"
+                ]
+            }
+        ]
+    },
+    {
         "cognome": "Greco",
         "omonimi": [
             {
@@ -10,18 +29,9 @@
                 ]
             },
             {
-                "nome": "Anna Maria",
-                "ore": 3,
+                "nome": "",
+                "ore": 15,
                 "materie": [
-                    "Telecomuni",
-                    "Telecomunic"
-                ]
-            },
-            {
-                "nome": "Anna Maria",
-                "ore": 18,
-                "materie": [
-                    "Gest. Prg",
                     "Sistemi e",
                     "Tecn. Prg"
                 ]
@@ -29,23 +39,58 @@
         ]
     },
     {
-        "cognome": "Russo",
+        "cognome": "Nessi",
         "omonimi": [
             {
-                "nome": "Umberto",
-                "ore": 16,
+                "nome": "",
+                "ore": 8,
                 "materie": [
-                    "S.I. Biologia",
                     "S.I. Sc. d. Ter"
                 ]
             },
             {
-                "nome": "Max",
-                "ore": 23,
+                "nome": "",
+                "ore": 14,
                 "materie": [
-                    "Elettrot. e",
-                    "Sc. e Tecn",
-                    "Sistemi"
+                    "S.I. Biologia"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Corna",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 18,
+                "materie": [
+                    "S.I. Fisica"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 21,
+                "materie": [
+                    "Inglese"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Giglio",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 12,
+                "materie": [
+                    "S.I. Sc. d. Ter"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 10,
+                "materie": [
+                    "S.I. Biologia"
                 ]
             }
         ]
@@ -54,24 +99,36 @@
         "cognome": "Napolitano",
         "omonimi": [
             {
-                "nome": "",
-                "ore": 2,
-                "materie": [
-                    "Religione"
-                ]
-            },
-            {
-                "nome": "Pasquale",
-                "ore": 18,
-                "materie": [
-                    "Sc. Motorie"
-                ]
-            },
-            {
                 "nome": "Francesco",
                 "ore": 18,
                 "materie": [
                     "Italiano e"
+                ]
+            },
+            {
+                "nome": "Pasquale",
+                "ore": 20,
+                "materie": [
+                    "Sc. Motorie"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Gioco",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 12,
+                "materie": [
+                    "Sc. e Tecn"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 8,
+                "materie": [
+                    "Sistemi e"
                 ]
             }
         ]
@@ -80,41 +137,40 @@
         "cognome": "Mastroianni",
         "omonimi": [
             {
-                "nome": "Caterina",
+                "nome": "",
                 "ore": 19,
                 "materie": [
-                    "Matematica"
-                ]
-            },
-            {
-                "nome": "Michele",
-                "ore": 18,
-                "materie": [
+                    "Gest. Prg",
                     "Informatica",
                     "Sistemi e",
                     "Tecn. Prg"
+                ]
+            },
+            {
+                "nome": "Caterina",
+                "ore": 18,
+                "materie": [
+                    "Matematica"
                 ]
             }
         ]
     },
     {
-        "cognome": "Sciuto",
+        "cognome": "Sternativo",
         "omonimi": [
             {
-                "nome": "Andrea",
-                "ore": 18,
+                "nome": "",
+                "ore": 19,
                 "materie": [
-                    "Italiano e"
+                    "Disegno e",
+                    "Meccanica"
                 ]
             },
             {
-                "nome": "Giuseppe",
-                "ore": 20,
+                "nome": "",
+                "ore": 3,
                 "materie": [
-                    "Meccanica",
-                    "Sc. e Tecn",
-                    "Sistemi e",
-                    "Tecn"
+                    "Imp. Energ"
                 ]
             }
         ]
