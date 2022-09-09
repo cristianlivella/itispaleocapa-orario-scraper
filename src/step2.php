@@ -90,7 +90,7 @@ while ($line < $lineCount) {
 
                 $checkForClassroom = true;
 
-                if (!isset($timetable[$line + 3]) || ((strpos($timetable[$line + 3], '-') === false) || preg_match(REGEX_CLASSE_DI_CONCORSO, $timetable[$line + 3]))) {
+                if (!isset($timetable[$line + 3]) || ((strpos($timetable[$line + 3], '-') === false && stripos($timetable[$line + 3], 'Lab.') !== 0 && stripos($timetable[$line + 3], 'Pal.') !== 0 && stripos($timetable[$line + 3], 'Palestra') !== 0) || preg_match(REGEX_CLASSE_DI_CONCORSO, $timetable[$line + 3]))) {
                     // if the third line after this one does not exist or contains a professor, then this is the last (or only) teacher of the current hour
                     $teachersFound = true;
                 }
@@ -288,7 +288,7 @@ foreach ($teacherHours AS $teacher => $details) {
         // current subject in the same group, otherwise we insert it in a new group.
         foreach ($subjectGroups AS $groupIndex => $internalSubjects) {
             foreach ($internalSubjects AS $internalSubject => $val2) {
-                if (in_array($subject, $compatibleSubjects[$internalSubject])) {
+                if (in_array($subject, $compatibleSubjects[$internalSubject] ?? [])) {
                     $matchingGroupIndex = $groupIndex;
                     break 2;
                 }
