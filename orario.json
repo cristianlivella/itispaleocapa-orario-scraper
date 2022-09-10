@@ -21,7 +21,7 @@
         "3": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "4-3",
             "giorno": 1,
@@ -186,7 +186,7 @@
         "21": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "4-3",
             "giorno": 4,
@@ -379,7 +379,7 @@
         "10": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "2-1",
             "giorno": 2,
@@ -564,7 +564,7 @@
         "30": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "2-1",
             "giorno": 6,
@@ -769,7 +769,7 @@
         "20": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "4-13",
             "giorno": 4,
@@ -877,7 +877,7 @@
         "32": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "4-13",
             "giorno": 6,
@@ -942,7 +942,7 @@
         "7": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna"
+                "Corna Cristiano"
             ],
             "aula": "1-14",
             "giorno": 2,
@@ -951,7 +951,7 @@
         "8": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "1-14",
             "giorno": 2,
@@ -1026,7 +1026,7 @@
         "16": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna"
+                "Corna Cristiano"
             ],
             "aula": "1-14",
             "giorno": 3,
@@ -1071,7 +1071,7 @@
         "21": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna",
+                "Corna Cristiano",
                 "Corso"
             ],
             "aula": "1-15",
@@ -1099,7 +1099,7 @@
         "24": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "1-14",
             "giorno": 5,
@@ -1265,7 +1265,7 @@
         "10": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "4-11",
             "giorno": 2,
@@ -1411,7 +1411,7 @@
         "26": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "4-11",
             "giorno": 5,
@@ -1505,7 +1505,7 @@
         "4": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "4-12",
             "giorno": 1,
@@ -1597,7 +1597,7 @@
         "14": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna",
+                "Corna Cristiano",
                 "B03-x1"
             ],
             "aula": "1-11",
@@ -1644,7 +1644,7 @@
         "19": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna"
+                "Corna Cristiano"
             ],
             "aula": "4-12",
             "giorno": 4,
@@ -1680,7 +1680,7 @@
         "23": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "4-12",
             "giorno": 5,
@@ -1735,7 +1735,7 @@
         "29": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna"
+                "Corna Cristiano"
             ],
             "aula": "4-12",
             "giorno": 6,
@@ -1882,7 +1882,7 @@
         "13": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "1-92",
             "giorno": 3,
@@ -1994,7 +1994,7 @@
         "25": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "1-92",
             "giorno": 5,
@@ -2086,7 +2086,7 @@
         "3": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "2-6",
             "giorno": 1,
@@ -2176,7 +2176,7 @@
         "13": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "2-6",
             "giorno": 3,
@@ -2546,7 +2546,7 @@
         "21": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "1-5",
             "giorno": 4,
@@ -2619,7 +2619,7 @@
         "29": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "1-5",
             "giorno": 6,
@@ -2658,7 +2658,7 @@
         "1": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "2-5",
             "giorno": 1,
@@ -2739,7 +2739,7 @@
         "10": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna",
+                "Corna Cristiano",
                 "B03-x1"
             ],
             "aula": "1-15",
@@ -2805,7 +2805,7 @@
         "17": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna"
+                "Corna Cristiano"
             ],
             "aula": "2-5",
             "giorno": 3,
@@ -2842,7 +2842,7 @@
         "21": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "2-5",
             "giorno": 4,
@@ -2933,7 +2933,7 @@
         "31": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna"
+                "Corna Cristiano"
             ],
             "aula": "2-5",
             "giorno": 6,
@@ -3017,7 +3017,7 @@
         "8": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "1-12",
             "giorno": 2,
@@ -3190,7 +3190,7 @@
         "27": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "1-12",
             "giorno": 5,
@@ -3330,7 +3330,7 @@
         "10": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "2-2",
             "giorno": 2,
@@ -3411,7 +3411,7 @@
         "19": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "2-2",
             "giorno": 4,
@@ -3634,7 +3634,7 @@
         "11": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "2-7",
             "giorno": 2,
@@ -3717,7 +3717,7 @@
         "20": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "2-7",
             "giorno": 4,
@@ -3928,7 +3928,7 @@
         "11": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "2-12",
             "giorno": 2,
@@ -4077,7 +4077,7 @@
         "27": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "2-12",
             "giorno": 5,
@@ -4233,7 +4233,7 @@
         "12": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "4-2",
             "giorno": 2,
@@ -4381,7 +4381,7 @@
         "28": {
             "materia": "S.I. Sc. d. Ter",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "4-2",
             "giorno": 5,
@@ -4474,7 +4474,7 @@
         "6": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "3-4",
             "giorno": 2,
@@ -4683,7 +4683,7 @@
         "29": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "3-4",
             "giorno": 5,
@@ -4958,7 +4958,7 @@
         "26": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "3-5",
             "giorno": 5,
@@ -4994,7 +4994,7 @@
         "30": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "3-5",
             "giorno": 6,
@@ -5041,7 +5041,7 @@
         "2": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "3-6",
             "giorno": 1,
@@ -5259,7 +5259,7 @@
         "26": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "3-6",
             "giorno": 5,
@@ -5462,7 +5462,7 @@
         "15": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "3-12",
             "giorno": 3,
@@ -5562,7 +5562,7 @@
         "26": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "3-12",
             "giorno": 5,
@@ -5672,7 +5672,7 @@
         "5": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna"
+                "Corna Cristiano"
             ],
             "aula": "3-13",
             "giorno": 1,
@@ -5708,7 +5708,7 @@
         "9": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "3-13",
             "giorno": 2,
@@ -5717,7 +5717,7 @@
         "10": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna",
+                "Corna Cristiano",
                 "Corso"
             ],
             "aula": "1-11",
@@ -5818,7 +5818,7 @@
         "21": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "3-13",
             "giorno": 4,
@@ -5927,7 +5927,7 @@
         "33": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna"
+                "Corna Cristiano"
             ],
             "aula": "3-13",
             "giorno": 6,
@@ -6083,7 +6083,7 @@
         "17": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "3-14",
             "giorno": 3,
@@ -6147,7 +6147,7 @@
         "24": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "3-14",
             "giorno": 5,
@@ -6277,7 +6277,7 @@
         "5": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "3-15",
             "giorno": 1,
@@ -6295,7 +6295,7 @@
         "7": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna"
+                "Corna Cristiano"
             ],
             "aula": "3-15",
             "giorno": 2,
@@ -6349,7 +6349,7 @@
         "13": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna",
+                "Corna Cristiano",
                 "B03-x1"
             ],
             "aula": "1-11",
@@ -6395,7 +6395,7 @@
         "18": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "3-15",
             "giorno": 4,
@@ -6441,7 +6441,7 @@
         "23": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna"
+                "Corna Cristiano"
             ],
             "aula": "3-15",
             "giorno": 4,
@@ -6614,7 +6614,7 @@
         "9": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "3-16",
             "giorno": 2,
@@ -6815,7 +6815,7 @@
         "31": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "3-16",
             "giorno": 6,
@@ -6871,7 +6871,7 @@
         "4": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "3-17",
             "giorno": 1,
@@ -6962,7 +6962,7 @@
         "14": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "3-17",
             "giorno": 3,
@@ -7025,7 +7025,7 @@
         "21": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "3-17",
             "giorno": 4,
@@ -7053,7 +7053,7 @@
         "24": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "3-17",
             "giorno": 5,
@@ -7117,7 +7117,7 @@
         "31": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "3-17",
             "giorno": 6,
@@ -7209,7 +7209,7 @@
         "8": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "1-94",
             "giorno": 2,
@@ -7356,7 +7356,7 @@
         "24": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "1-94",
             "giorno": 4,
@@ -7584,7 +7584,7 @@
         "16": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "3-18",
             "giorno": 3,
@@ -7729,7 +7729,7 @@
         "32": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "3-18",
             "giorno": 6,
@@ -7797,7 +7797,7 @@
         "6": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna"
+                "Corna Cristiano"
             ],
             "aula": "3-7",
             "giorno": 1,
@@ -7806,7 +7806,7 @@
         "7": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "3-7",
             "giorno": 2,
@@ -7824,7 +7824,7 @@
         "9": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Gioco"
+                "Gioco Alfio"
             ],
             "aula": "3-7",
             "giorno": 2,
@@ -7833,7 +7833,7 @@
         "10": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Gioco"
+                "Gioco Alfio"
             ],
             "aula": "3-7",
             "giorno": 2,
@@ -7887,7 +7887,7 @@
         "16": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna"
+                "Corna Cristiano"
             ],
             "aula": "3-7",
             "giorno": 3,
@@ -7941,7 +7941,7 @@
         "22": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna",
+                "Corna Cristiano",
                 "Corso"
             ],
             "aula": "1-11",
@@ -7996,7 +7996,7 @@
         "28": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Gioco"
+                "Gioco Alfio"
             ],
             "aula": "3-7",
             "giorno": 5,
@@ -8032,7 +8032,7 @@
         "32": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "3-7",
             "giorno": 6,
@@ -8061,7 +8061,7 @@
         "2": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Gioco"
+                "Gioco Alfio"
             ],
             "aula": "3-8",
             "giorno": 1,
@@ -8079,7 +8079,7 @@
         "4": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "3-8",
             "giorno": 1,
@@ -8161,7 +8161,7 @@
         "13": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Gioco"
+                "Gioco Alfio"
             ],
             "aula": "3-8",
             "giorno": 3,
@@ -8261,7 +8261,7 @@
         "24": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Gioco"
+                "Gioco Alfio"
             ],
             "aula": "3-8",
             "giorno": 5,
@@ -8270,7 +8270,7 @@
         "25": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "3-8",
             "giorno": 5,
@@ -8354,7 +8354,7 @@
         "1": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Gioco"
+                "Gioco Alfio"
             ],
             "aula": "3-9",
             "giorno": 1,
@@ -8391,7 +8391,7 @@
         "5": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "3-9",
             "giorno": 1,
@@ -8463,7 +8463,7 @@
         "13": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Gioco"
+                "Gioco Alfio"
             ],
             "aula": "3-9",
             "giorno": 3,
@@ -8518,7 +8518,7 @@
         "19": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "3-9",
             "giorno": 4,
@@ -8527,7 +8527,7 @@
         "20": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "3-9",
             "giorno": 4,
@@ -8600,7 +8600,7 @@
         "28": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Gioco"
+                "Gioco Alfio"
             ],
             "aula": "3-9",
             "giorno": 5,
@@ -8618,7 +8618,7 @@
         "30": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "3-9",
             "giorno": 6,
@@ -8645,7 +8645,7 @@
         "33": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "3-9",
             "giorno": 6,
@@ -8701,7 +8701,7 @@
         "6": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "3-10",
             "giorno": 1,
@@ -8710,7 +8710,7 @@
         "7": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Gioco"
+                "Gioco Alfio"
             ],
             "aula": "3-10",
             "giorno": 2,
@@ -8800,7 +8800,7 @@
         "17": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Gioco"
+                "Gioco Alfio"
             ],
             "aula": "3-10",
             "giorno": 3,
@@ -8892,7 +8892,7 @@
         "27": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Forlano"
+                "Forlano Giuseppe"
             ],
             "aula": "3-10",
             "giorno": 5,
@@ -8911,7 +8911,7 @@
         "29": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Gioco"
+                "Gioco Alfio"
             ],
             "aula": "3-10",
             "giorno": 5,
@@ -9012,7 +9012,7 @@
         "7": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "3-11",
             "giorno": 2,
@@ -9157,7 +9157,7 @@
         "23": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Nessi"
+                "Nessi Alberto"
             ],
             "aula": "3-11",
             "giorno": 4,
@@ -9323,7 +9323,7 @@
         "8": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "3-3",
             "giorno": 2,
@@ -9387,7 +9387,7 @@
         "15": {
             "materia": "S.I. Biologia",
             "professori": [
-                "Giglio"
+                "Giglio Rena"
             ],
             "aula": "3-3",
             "giorno": 3,
@@ -9945,7 +9945,7 @@
         "10": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "E3-6",
             "giorno": 2,
@@ -10074,7 +10074,7 @@
         "24": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "E3-6",
             "giorno": 5,
@@ -10137,7 +10137,7 @@
         "31": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "E3-6",
             "giorno": 6,
@@ -10771,7 +10771,7 @@
         "3": {
             "materia": "Sistemi e",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Grena"
             ],
             "aula": "LTO",
@@ -10781,7 +10781,7 @@
         "4": {
             "materia": "Sistemi e",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Grena"
             ],
             "aula": "LTO",
@@ -10900,7 +10900,7 @@
         "17": {
             "materia": "Sistemi e",
             "professori": [
-                "Greco"
+                "Greco Anna Maria"
             ],
             "aula": "I2-3",
             "giorno": 3,
@@ -11001,7 +11001,7 @@
         "28": {
             "materia": "Sistemi e",
             "professori": [
-                "Greco"
+                "Greco Anna Maria"
             ],
             "aula": "I2-3",
             "giorno": 5,
@@ -11051,7 +11051,7 @@
         "1": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Michele"
             ],
             "aula": "I3-1",
             "giorno": 1,
@@ -11096,7 +11096,7 @@
         "6": {
             "materia": "Sistemi e",
             "professori": [
-                "Greco"
+                "Greco Anna Maria"
             ],
             "aula": "I3-1",
             "giorno": 2,
@@ -11170,7 +11170,7 @@
         "14": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Arcuri"
             ],
             "aula": "I2-13",
@@ -11235,7 +11235,7 @@
         "21": {
             "materia": "Sistemi e",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Arcuri"
             ],
             "aula": "I2-6",
@@ -11245,7 +11245,7 @@
         "22": {
             "materia": "Sistemi e",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Arcuri"
             ],
             "aula": "I2-6",
@@ -11255,7 +11255,7 @@
         "23": {
             "materia": "Sistemi e",
             "professori": [
-                "Greco"
+                "Greco Anna Maria"
             ],
             "aula": "I3-1",
             "giorno": 5,
@@ -11293,7 +11293,7 @@
         "27": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Michele"
             ],
             "aula": "I3-1",
             "giorno": 5,
@@ -12325,7 +12325,7 @@
         "10": {
             "materia": "Disegno e",
             "professori": [
-                "Sternativo"
+                "Sternativo Pietro"
             ],
             "aula": "M3-4",
             "giorno": 2,
@@ -12334,7 +12334,7 @@
         "11": {
             "materia": "Disegno e",
             "professori": [
-                "Sternativo"
+                "Sternativo Pietro"
             ],
             "aula": "M3-4",
             "giorno": 2,
@@ -12343,7 +12343,7 @@
         "12": {
             "materia": "Disegno e",
             "professori": [
-                "Sternativo",
+                "Sternativo Pietro",
                 "Martino"
             ],
             "aula": "M3-4",
@@ -12353,7 +12353,7 @@
         "13": {
             "materia": "Disegno e",
             "professori": [
-                "Sternativo",
+                "Sternativo Pietro",
                 "Martino"
             ],
             "aula": "M3-4",
@@ -12542,7 +12542,7 @@
         "1": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "T2-2",
             "giorno": 1,
@@ -12634,7 +12634,7 @@
         "11": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "T2-2",
             "giorno": 2,
@@ -12670,7 +12670,7 @@
         "15": {
             "materia": "Disegno e",
             "professori": [
-                "Sternativo",
+                "Sternativo Pietro",
                 "B17-x3"
             ],
             "aula": "M3-4",
@@ -12680,7 +12680,7 @@
         "16": {
             "materia": "Disegno e",
             "professori": [
-                "Sternativo",
+                "Sternativo Pietro",
                 "B17-x3"
             ],
             "aula": "M3-4",
@@ -12764,7 +12764,7 @@
         "25": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "T2-2",
             "giorno": 5,
@@ -12821,7 +12821,7 @@
         "31": {
             "materia": "Disegno e",
             "professori": [
-                "Sternativo"
+                "Sternativo Pietro"
             ],
             "aula": "M3-4",
             "giorno": 6,
@@ -12830,7 +12830,7 @@
         "32": {
             "materia": "Disegno e",
             "professori": [
-                "Sternativo"
+                "Sternativo Pietro"
             ],
             "aula": "M3-4",
             "giorno": 6,
@@ -13511,7 +13511,7 @@
         "9": {
             "materia": "Meccanica",
             "professori": [
-                "Sternativo"
+                "Sternativo Pietro"
             ],
             "aula": "1-91",
             "giorno": 2,
@@ -13623,7 +13623,7 @@
         "21": {
             "materia": "Imp. Energ",
             "professori": [
-                "Sternativo"
+                "Sternativo Pietro"
             ],
             "aula": "M3-4",
             "giorno": 4,
@@ -13632,7 +13632,7 @@
         "22": {
             "materia": "Imp. Energ",
             "professori": [
-                "Sternativo"
+                "Sternativo Pietro"
             ],
             "aula": "M3-4",
             "giorno": 4,
@@ -13670,7 +13670,7 @@
         "26": {
             "materia": "Imp. Energ",
             "professori": [
-                "Sternativo"
+                "Sternativo Pietro"
             ],
             "aula": "M3-4",
             "giorno": 5,
@@ -13679,7 +13679,7 @@
         "27": {
             "materia": "Meccanica",
             "professori": [
-                "Sternativo"
+                "Sternativo Pietro"
             ],
             "aula": "1-91",
             "giorno": 5,
@@ -13688,7 +13688,7 @@
         "28": {
             "materia": "Meccanica",
             "professori": [
-                "Sternativo"
+                "Sternativo Pietro"
             ],
             "aula": "1-91",
             "giorno": 5,
@@ -13697,7 +13697,7 @@
         "29": {
             "materia": "Meccanica",
             "professori": [
-                "Sternativo",
+                "Sternativo Pietro",
                 "B17-x5"
             ],
             "aula": "M1-8",
@@ -13707,7 +13707,7 @@
         "30": {
             "materia": "Meccanica",
             "professori": [
-                "Sternativo",
+                "Sternativo Pietro",
                 "B17-x5"
             ],
             "aula": "M1-8",
@@ -14951,7 +14951,7 @@
         "3": {
             "materia": "Informatica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Michele"
             ],
             "aula": "I1-1",
             "giorno": 1,
@@ -14998,7 +14998,7 @@
         "8": {
             "materia": "Informatica",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Gaffuri"
             ],
             "aula": "I1-6",
@@ -15008,7 +15008,7 @@
         "9": {
             "materia": "Informatica",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Gaffuri"
             ],
             "aula": "I1-6",
@@ -15081,7 +15081,7 @@
         "17": {
             "materia": "Informatica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Michele"
             ],
             "aula": "I1-1",
             "giorno": 3,
@@ -15108,7 +15108,7 @@
         "20": {
             "materia": "Informatica",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Gaffuri"
             ],
             "aula": "I1-6",
@@ -15174,7 +15174,7 @@
         "27": {
             "materia": "Informatica",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Michele"
             ],
             "aula": "I1-1",
             "giorno": 5,
@@ -15529,7 +15529,7 @@
         "1": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Baldacci"
             ],
             "aula": "I1-13",
@@ -15539,7 +15539,7 @@
         "2": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Baldacci"
             ],
             "aula": "I1-13",
@@ -15549,7 +15549,7 @@
         "3": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "I1-3",
             "giorno": 1,
@@ -15558,7 +15558,7 @@
         "4": {
             "materia": "Sistemi e",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Michele"
             ],
             "aula": "I1-3",
             "giorno": 1,
@@ -15612,7 +15612,7 @@
         "10": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "I1-3",
             "giorno": 2,
@@ -15639,7 +15639,7 @@
         "13": {
             "materia": "Sistemi e",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Arcuri"
             ],
             "aula": "I2-6",
@@ -15649,7 +15649,7 @@
         "14": {
             "materia": "Sistemi e",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Arcuri"
             ],
             "aula": "I2-6",
@@ -15715,7 +15715,7 @@
         "21": {
             "materia": "Tecn. Prg",
             "professori": [
-                "Greco"
+                "Greco Anna Maria"
             ],
             "aula": "I1-3",
             "giorno": 4,
@@ -15760,7 +15760,7 @@
         "26": {
             "materia": "Sistemi e",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Michele"
             ],
             "aula": "I1-3",
             "giorno": 5,
@@ -15778,7 +15778,7 @@
         "28": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "I1-3",
             "giorno": 5,
@@ -16184,7 +16184,7 @@
         "7": {
             "materia": "Sistemi e",
             "professori": [
-                "Greco"
+                "Greco Anna Maria"
             ],
             "aula": "I2-1",
             "giorno": 2,
@@ -16269,7 +16269,7 @@
         "16": {
             "materia": "Sistemi e",
             "professori": [
-                "Greco"
+                "Greco Anna Maria"
             ],
             "aula": "I1-3",
             "giorno": 3,
@@ -16350,7 +16350,7 @@
         "25": {
             "materia": "Sistemi e",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Midiri"
             ],
             "aula": "I2-6",
@@ -16360,7 +16360,7 @@
         "26": {
             "materia": "Sistemi e",
             "professori": [
-                "Greco",
+                "Greco Anna Maria",
                 "Midiri"
             ],
             "aula": "I2-6",
@@ -16835,7 +16835,7 @@
         "13": {
             "materia": "Disegno e",
             "professori": [
-                "Sternativo"
+                "Sternativo Pietro"
             ],
             "aula": "M3-4",
             "giorno": 3,
@@ -16862,7 +16862,7 @@
         "16": {
             "materia": "Disegno e",
             "professori": [
-                "Sternativo",
+                "Sternativo Pietro",
                 "B17-x5"
             ],
             "aula": "M3-4",
@@ -16872,7 +16872,7 @@
         "17": {
             "materia": "Disegno e",
             "professori": [
-                "Sternativo",
+                "Sternativo Pietro",
                 "B17-x5"
             ],
             "aula": "M3-4",
@@ -17070,7 +17070,7 @@
         "6": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "M2-3",
             "giorno": 1,
@@ -17097,7 +17097,7 @@
         "9": {
             "materia": "Disegno e",
             "professori": [
-                "Sternativo"
+                "Sternativo Pietro"
             ],
             "aula": "M3-4",
             "giorno": 2,
@@ -17181,7 +17181,7 @@
         "18": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "M2-3",
             "giorno": 4,
@@ -17218,7 +17218,7 @@
         "22": {
             "materia": "Disegno e",
             "professori": [
-                "Sternativo",
+                "Sternativo Pietro",
                 "B17-x3"
             ],
             "aula": "M3-4",
@@ -17228,7 +17228,7 @@
         "23": {
             "materia": "Disegno e",
             "professori": [
-                "Sternativo",
+                "Sternativo Pietro",
                 "B17-x3"
             ],
             "aula": "M3-4",
@@ -17310,7 +17310,7 @@
         "32": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "M2-3",
             "giorno": 6,
@@ -19741,7 +19741,7 @@
         "4": {
             "materia": "Gest. Prg",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Michele"
             ],
             "aula": "E2-2",
             "giorno": 1,
@@ -19893,7 +19893,7 @@
         "20": {
             "materia": "Gest. Prg",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Felici"
             ],
             "aula": "I1-13",
@@ -19903,7 +19903,7 @@
         "21": {
             "materia": "Gest. Prg",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Felici"
             ],
             "aula": "I1-13",
@@ -20059,7 +20059,7 @@
         "6": {
             "materia": "Gest. Prg",
             "professori": [
-                "Mastroianni"
+                "Mastroianni Michele"
             ],
             "aula": "E3-6",
             "giorno": 1,
@@ -20238,7 +20238,7 @@
         "25": {
             "materia": "Gest. Prg",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Felici"
             ],
             "aula": "I2-6",
@@ -20248,7 +20248,7 @@
         "26": {
             "materia": "Gest. Prg",
             "professori": [
-                "Mastroianni",
+                "Mastroianni Michele",
                 "Felici"
             ],
             "aula": "I2-6",
@@ -21000,7 +21000,7 @@
         "10": {
             "materia": "Sistemi e",
             "professori": [
-                "Gioco"
+                "Gioco Alfio"
             ],
             "aula": "3-19",
             "giorno": 2,
@@ -21036,7 +21036,7 @@
         "14": {
             "materia": "Sistemi e",
             "professori": [
-                "Gioco",
+                "Gioco Alfio",
                 "Vitali"
             ],
             "aula": "M2-4",
@@ -21046,7 +21046,7 @@
         "15": {
             "materia": "Sistemi e",
             "professori": [
-                "Gioco",
+                "Gioco Alfio",
                 "Vitali"
             ],
             "aula": "M2-4",
@@ -21202,7 +21202,7 @@
         "32": {
             "materia": "Sistemi e",
             "professori": [
-                "Gioco",
+                "Gioco Alfio",
                 "Vitali"
             ],
             "aula": "M2-4",
@@ -21279,7 +21279,7 @@
         "8": {
             "materia": "Sistemi e",
             "professori": [
-                "Gioco"
+                "Gioco Alfio"
             ],
             "aula": "T3-7",
             "giorno": 2,
@@ -21297,7 +21297,7 @@
         "10": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "T3-7",
             "giorno": 2,
@@ -21379,7 +21379,7 @@
         "19": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "T3-7",
             "giorno": 4,
@@ -21435,7 +21435,7 @@
         "25": {
             "materia": "Inglese",
             "professori": [
-                "Corna"
+                "Corna Marina"
             ],
             "aula": "T3-7",
             "giorno": 5,
@@ -21473,7 +21473,7 @@
         "29": {
             "materia": "Sistemi e",
             "professori": [
-                "Gioco",
+                "Gioco Alfio",
                 "Vitali"
             ],
             "aula": "M2-4",
@@ -21483,7 +21483,7 @@
         "30": {
             "materia": "Sistemi e",
             "professori": [
-                "Gioco",
+                "Gioco Alfio",
                 "Vitali"
             ],
             "aula": "M2-4",
@@ -21493,7 +21493,7 @@
         "31": {
             "materia": "Sistemi e",
             "professori": [
-                "Gioco",
+                "Gioco Alfio",
                 "Vitali"
             ],
             "aula": "M2-4",
