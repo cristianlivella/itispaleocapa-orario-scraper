@@ -27972,11 +27972,15 @@
             {
                 "day": 6,
                 "time": 4,
-                "subject": "Sc. Motorie",
+                "subject": "Sistemi e",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Spina",
-                        "classroom": "Palestra 2"
+                        "teacher": "Livrieri",
+                        "classroom": "E1-7"
+                    },
+                    {
+                        "teacher": "B17-x4",
+                        "classroom": "E1-7"
                     }
                 ]
             }
@@ -29157,7 +29161,7 @@
             },
             {
                 "day": 6,
-                "time": 3,
+                "time": 4,
                 "subject": "Sc. Motorie",
                 "teachers_classrooms": [
                     {

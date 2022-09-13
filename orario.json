@@ -21800,11 +21800,12 @@
             "ora": 3
         },
         "32": {
-            "materia": "Sc. Motorie",
+            "materia": "Sistemi e",
             "professori": [
-                "Spina"
+                "Livrieri",
+                "B17-x4"
             ],
-            "aula": "Palestra 2",
+            "aula": "E1-7",
             "giorno": 6,
             "ora": 4
         }
@@ -22707,7 +22708,7 @@
             ],
             "aula": "Palestra 2",
             "giorno": 6,
-            "ora": 3
+            "ora": 4
         }
     }
 }
