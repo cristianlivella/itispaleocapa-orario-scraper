@@ -71,6 +71,34 @@ pages = convert_from_path('orario.pdf', 100)
 pieceCount = 0
 
 for index, page in enumerate(pages):
+    pixels = page.load()
+
+    # detect and remove vertical black lines
+    consecutiveBlacks = []
+    for i in range(page.size[0]):
+        for j in range(page.size[1]):
+            if sum(pixels[i, j]) < 50:
+                consecutiveBlacks.append((i, j))
+            else:
+                if len(consecutiveBlacks) > 400:
+                    for (x, y) in consecutiveBlacks:
+                        pixels[x, y] = (255, 0, 0)
+                consecutiveBlacks = []
+
+    # detect and remove horizontal black lines
+    consecutiveBlacks = []
+    for i in range(page.size[1]):
+        for j in range(page.size[0]):
+            if sum(pixels[j, i]) < 50 or pixels[j, i] == (255, 0, 0):
+                if (pixels[j, i] == (255, 0,0)):
+                    pixels[j, i] = (255, 255, 255)
+                consecutiveBlacks.append((j, i))
+            else:
+                if len(consecutiveBlacks) > 400:
+                    for (x, y) in consecutiveBlacks:
+                        pixels[x, y] = (255, 255, 255)
+                consecutiveBlacks = []
+
     # lessons are from Monday to Friday
     for day in range(0, 6):
         lessonCount = 0
