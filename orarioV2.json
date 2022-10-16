@@ -92,7 +92,7 @@
                         "classroom": "1-11"
                     },
                     {
-                        "teacher": "B03-x1",
+                        "teacher": "Aurora",
                         "classroom": "1-11"
                     }
                 ]
@@ -295,7 +295,7 @@
                         "classroom": "1-17"
                     },
                     {
-                        "teacher": "B12-x2",
+                        "teacher": "Priolo",
                         "classroom": "1-17"
                     }
                 ]
@@ -680,7 +680,7 @@
                         "classroom": "1-17"
                     },
                     {
-                        "teacher": "B12-x2",
+                        "teacher": "Priolo",
                         "classroom": "1-17"
                     }
                 ]
@@ -815,11 +815,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Alicata",
-                        "classroom": "1-11"
-                    },
-                    {
-                        "teacher": "B03-x1",
-                        "classroom": "1-11"
+                        "classroom": "4-13"
                     }
                 ]
             },
@@ -1000,7 +996,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Alicata",
-                        "classroom": "4-13"
+                        "classroom": "1-15"
+                    },
+                    {
+                        "teacher": "Aurora",
+                        "classroom": "1-15"
                     }
                 ]
             },
@@ -1288,7 +1288,7 @@
                         "classroom": "1-17"
                     },
                     {
-                        "teacher": "B12-x2",
+                        "teacher": "Priolo",
                         "classroom": "1-17"
                     }
                 ]
@@ -1735,7 +1735,7 @@
                         "classroom": "1-17"
                     },
                     {
-                        "teacher": "B12-x2",
+                        "teacher": "Priolo",
                         "classroom": "1-17"
                     }
                 ]
@@ -1761,7 +1761,7 @@
                         "classroom": "1-15"
                     },
                     {
-                        "teacher": "B03-x1",
+                        "teacher": "Aurora",
                         "classroom": "1-15"
                     }
                 ]
@@ -1936,7 +1936,7 @@
                 "subject": "Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Cuni",
+                        "teacher": "Falzone",
                         "classroom": "1-90"
                     },
                     {
@@ -1951,7 +1951,7 @@
                 "subject": "Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Cuni",
+                        "teacher": "Falzone",
                         "classroom": "1-90"
                     },
                     {
@@ -2040,7 +2040,7 @@
                         "classroom": "1-11"
                     },
                     {
-                        "teacher": "B03-x1",
+                        "teacher": "Aurora",
                         "classroom": "1-11"
                     }
                 ]
@@ -2132,7 +2132,7 @@
                 "subject": "Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Cuni",
+                        "teacher": "Falzone",
                         "classroom": "4-12"
                     }
                 ]
@@ -2417,7 +2417,7 @@
                         "classroom": "1-15"
                     },
                     {
-                        "teacher": "B03-x1",
+                        "teacher": "Aurora",
                         "classroom": "1-15"
                     }
                 ]
@@ -2905,7 +2905,7 @@
                         "classroom": "T2-9"
                     },
                     {
-                        "teacher": "B12-x2",
+                        "teacher": "Priolo",
                         "classroom": "T2-9"
                     }
                 ]
@@ -2920,7 +2920,7 @@
                         "classroom": "2-6"
                     },
                     {
-                        "teacher": "Aleo",
+                        "teacher": "Di Milta",
                         "classroom": "2-6"
                     }
                 ]
@@ -2987,11 +2987,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Consonni",
-                        "classroom": "1-15"
+                        "classroom": "1-11"
                     },
                     {
-                        "teacher": "B03-x1",
-                        "classroom": "1-15"
+                        "teacher": "Aurora",
+                        "classroom": "1-11"
                     }
                 ]
             }
@@ -3051,7 +3051,7 @@
                         "classroom": "1-5"
                     },
                     {
-                        "teacher": "Carciopolo",
+                        "teacher": "Colca",
                         "classroom": "1-5"
                     }
                 ]
@@ -3272,7 +3272,7 @@
                         "classroom": "1-15"
                     },
                     {
-                        "teacher": "B03-x1",
+                        "teacher": "Aurora",
                         "classroom": "1-15"
                     }
                 ]
@@ -3353,7 +3353,7 @@
                         "classroom": "T2-9"
                     },
                     {
-                        "teacher": "B12-x2",
+                        "teacher": "Priolo",
                         "classroom": "T2-9"
                     }
                 ]
@@ -3480,7 +3480,7 @@
                         "classroom": "1-15"
                     },
                     {
-                        "teacher": "B03-x1",
+                        "teacher": "Aurora",
                         "classroom": "1-15"
                     }
                 ]
@@ -3902,7 +3902,7 @@
                         "classroom": "T2-9"
                     },
                     {
-                        "teacher": "B12-x2",
+                        "teacher": "Priolo",
                         "classroom": "T2-9"
                     }
                 ]
@@ -4364,7 +4364,7 @@
                         "classroom": "2-2"
                     },
                     {
-                        "teacher": "Carciopolo",
+                        "teacher": "Perlotti",
                         "classroom": "2-2"
                     }
                 ]
@@ -4587,7 +4587,7 @@
                 "subject": "S.I. Fisica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "B03-x1",
+                        "teacher": "Aurora",
                         "classroom": "1-11"
                     },
                     {
@@ -4794,7 +4794,7 @@
                         "classroom": "2-7"
                     },
                     {
-                        "teacher": "Aleo",
+                        "teacher": "Di Milta",
                         "classroom": "2-7"
                     }
                 ]
@@ -5053,7 +5053,7 @@
                 "subject": "S.I. Chimica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "B12-x2",
+                        "teacher": "Priolo",
                         "classroom": "1-17"
                     },
                     {
@@ -5083,7 +5083,7 @@
                         "classroom": "2-12"
                     },
                     {
-                        "teacher": "Aleo",
+                        "teacher": "Di Milta",
                         "classroom": "2-12"
                     }
                 ]
@@ -5273,7 +5273,7 @@
                         "classroom": "4-2"
                     },
                     {
-                        "teacher": "Carciopolo",
+                        "teacher": "Colca",
                         "classroom": "4-2"
                     }
                 ]
@@ -5457,7 +5457,7 @@
                         "classroom": "1-11"
                     },
                     {
-                        "teacher": "B03-x1",
+                        "teacher": "Aurora",
                         "classroom": "1-11"
                     }
                 ]
@@ -5706,7 +5706,7 @@
                         "classroom": "1-17"
                     },
                     {
-                        "teacher": "B12-x2",
+                        "teacher": "Priolo",
                         "classroom": "1-17"
                     }
                 ]
@@ -5806,7 +5806,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Espinosa",
-                        "classroom": "3-4"
+                        "classroom": "2-8"
+                    },
+                    {
+                        "teacher": "Cardamone",
+                        "classroom": "2-8"
                     }
                 ]
             },
@@ -5927,10 +5931,6 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Espinosa",
-                        "classroom": "3-4"
-                    },
-                    {
-                        "teacher": "Cardamone",
                         "classroom": "3-4"
                     }
                 ]
@@ -6208,7 +6208,7 @@
                         "classroom": "T2-9"
                     },
                     {
-                        "teacher": "B12-x2",
+                        "teacher": "Priolo",
                         "classroom": "T2-9"
                     }
                 ]
@@ -6467,7 +6467,7 @@
                         "classroom": "1-17"
                     },
                     {
-                        "teacher": "B12-x2",
+                        "teacher": "Priolo",
                         "classroom": "1-17"
                     }
                 ]
@@ -6592,7 +6592,7 @@
                         "classroom": "1-11"
                     },
                     {
-                        "teacher": "B03-x1",
+                        "teacher": "Aurora",
                         "classroom": "1-11"
                     }
                 ]
@@ -6673,7 +6673,7 @@
                         "classroom": "3-6"
                     },
                     {
-                        "teacher": "Carciopolo",
+                        "teacher": "Perlotti",
                         "classroom": "3-6"
                     }
                 ]
@@ -7313,7 +7313,7 @@
                         "classroom": "1-17"
                     },
                     {
-                        "teacher": "B12-x2",
+                        "teacher": "Priolo",
                         "classroom": "1-17"
                     }
                 ]
@@ -7642,7 +7642,7 @@
                         "classroom": "1-15"
                     },
                     {
-                        "teacher": "B03-x1",
+                        "teacher": "Aurora",
                         "classroom": "1-15"
                     }
                 ]
@@ -7815,7 +7815,7 @@
                         "classroom": "1-17"
                     },
                     {
-                        "teacher": "B12-x2",
+                        "teacher": "Priolo",
                         "classroom": "1-17"
                     }
                 ]
@@ -7909,7 +7909,7 @@
                 "subject": "Sc. e Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Cuni",
+                        "teacher": "A41-x1",
                         "classroom": "3-15"
                     }
                 ]
@@ -8020,11 +8020,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Corna Cristiano",
-                        "classroom": "1-11"
-                    },
-                    {
-                        "teacher": "B03-x1",
-                        "classroom": "1-11"
+                        "classroom": "3-15"
                     }
                 ]
             },
@@ -8138,7 +8134,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Corna Cristiano",
-                        "classroom": "3-15"
+                        "classroom": "1-11"
+                    },
+                    {
+                        "teacher": "Aurora",
+                        "classroom": "1-11"
                     }
                 ]
             },
@@ -8192,7 +8192,7 @@
                 "subject": "Sc. e Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Cuni",
+                        "teacher": "A41-x1",
                         "classroom": "I1-13"
                     }
                 ]
@@ -8203,7 +8203,7 @@
                 "subject": "Sc. e Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Cuni",
+                        "teacher": "A41-x1",
                         "classroom": "I1-13"
                     }
                 ]
@@ -8876,7 +8876,7 @@
                         "classroom": "1-32"
                     },
                     {
-                        "teacher": "Aleo",
+                        "teacher": "Di Milta",
                         "classroom": "1-32"
                     }
                 ]
@@ -8968,7 +8968,7 @@
                         "classroom": "1-17"
                     },
                     {
-                        "teacher": "B12-x2",
+                        "teacher": "Priolo",
                         "classroom": "1-17"
                     }
                 ]
@@ -9106,7 +9106,7 @@
                         "classroom": "1-94"
                     },
                     {
-                        "teacher": "Carciopolo",
+                        "teacher": "Perlotti",
                         "classroom": "1-94"
                     }
                 ]
@@ -9246,7 +9246,7 @@
                         "classroom": "1-17"
                     },
                     {
-                        "teacher": "B12-x2",
+                        "teacher": "Priolo",
                         "classroom": "1-17"
                     }
                 ]
@@ -9428,7 +9428,7 @@
                         "classroom": "3-18"
                     },
                     {
-                        "teacher": "Aleo",
+                        "teacher": "Di Milta",
                         "classroom": "3-18"
                     }
                 ]
@@ -9707,7 +9707,7 @@
                         "classroom": "1-11"
                     },
                     {
-                        "teacher": "B03-x1",
+                        "teacher": "Aurora",
                         "classroom": "1-11"
                     }
                 ]
@@ -9755,7 +9755,7 @@
                         "classroom": "1-17"
                     },
                     {
-                        "teacher": "B12-x2",
+                        "teacher": "Priolo",
                         "classroom": "1-17"
                     }
                 ]
@@ -10443,7 +10443,7 @@
                         "classroom": "1-15"
                     },
                     {
-                        "teacher": "B03-x1",
+                        "teacher": "Aurora",
                         "classroom": "1-15"
                     }
                 ]
@@ -11160,7 +11160,7 @@
                         "classroom": "T2-9"
                     },
                     {
-                        "teacher": "B12-x2",
+                        "teacher": "Priolo",
                         "classroom": "T2-9"
                     }
                 ]
@@ -11208,7 +11208,7 @@
                         "classroom": "1-11"
                     },
                     {
-                        "teacher": "B03-x1",
+                        "teacher": "Aurora",
                         "classroom": "1-11"
                     }
                 ]
@@ -11511,7 +11511,7 @@
                         "classroom": "1-17"
                     },
                     {
-                        "teacher": "B12-x2",
+                        "teacher": "Priolo",
                         "classroom": "1-17"
                     }
                 ]
@@ -11559,7 +11559,7 @@
                         "classroom": "1-15"
                     },
                     {
-                        "teacher": "B03-x1",
+                        "teacher": "Aurora",
                         "classroom": "1-15"
                     }
                 ]
@@ -11585,7 +11585,7 @@
                         "classroom": "1-32"
                     },
                     {
-                        "teacher": "Aleo",
+                        "teacher": "Di Milta",
                         "classroom": "1-32"
                     }
                 ]
@@ -11764,7 +11764,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Alicata",
-                        "classroom": "3-3"
+                        "classroom": "1-15"
+                    },
+                    {
+                        "teacher": "Aurora",
+                        "classroom": "1-15"
                     }
                 ]
             },
@@ -11856,11 +11860,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Alicata",
-                        "classroom": "1-15"
-                    },
-                    {
-                        "teacher": "B03-x1",
-                        "classroom": "1-15"
+                        "classroom": "3-3"
                     }
                 ]
             },
@@ -11893,6 +11893,10 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Espinosa",
+                        "classroom": "3-3"
+                    },
+                    {
+                        "teacher": "Colca",
                         "classroom": "3-3"
                     }
                 ]
@@ -13214,7 +13218,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x2",
+                        "teacher": "Falzone",
                         "classroom": "I2-2"
                     }
                 ]
@@ -13358,7 +13362,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x2",
+                        "teacher": "Falzone",
                         "classroom": "I2-2"
                     }
                 ]
@@ -13553,7 +13557,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x2",
+                        "teacher": "Falzone",
                         "classroom": "I2-13"
                     },
                     {
@@ -13622,7 +13626,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Cuni",
+                        "teacher": "A41-x1",
                         "classroom": "I2-13"
                     },
                     {
@@ -13681,7 +13685,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Cuni",
+                        "teacher": "A41-x1",
                         "classroom": "I2-3"
                     }
                 ]
@@ -13692,7 +13696,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Cuni",
+                        "teacher": "A41-x1",
                         "classroom": "I2-3"
                     }
                 ]
@@ -13791,7 +13795,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Cuni",
+                        "teacher": "A41-x1",
                         "classroom": "I2-13"
                     },
                     {
@@ -13806,7 +13810,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Cuni",
+                        "teacher": "A41-x1",
                         "classroom": "I2-13"
                     },
                     {
@@ -13876,7 +13880,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Cuni",
+                        "teacher": "A41-x1",
                         "classroom": "I2-3"
                     }
                 ]
@@ -16204,7 +16208,7 @@
                         "classroom": "T2-2"
                     },
                     {
-                        "teacher": "Carciopolo",
+                        "teacher": "Colca",
                         "classroom": "M1-18"
                     }
                 ]
@@ -16230,7 +16234,7 @@
                         "classroom": "M1-23"
                     },
                     {
-                        "teacher": "Carciopolo",
+                        "teacher": "Colca",
                         "classroom": "M1-23"
                     }
                 ]
@@ -16245,7 +16249,7 @@
                         "classroom": "M1-23"
                     },
                     {
-                        "teacher": "Carciopolo",
+                        "teacher": "Colca",
                         "classroom": "M1-23"
                     }
                 ]
@@ -16491,7 +16495,7 @@
                         "classroom": "M2-7"
                     },
                     {
-                        "teacher": "Carciopolo",
+                        "teacher": "Colca",
                         "classroom": "M2-7"
                     }
                 ]
@@ -16506,7 +16510,7 @@
                         "classroom": "M2-7"
                     },
                     {
-                        "teacher": "Carciopolo",
+                        "teacher": "Colca",
                         "classroom": "M2-7"
                     }
                 ]
@@ -16554,7 +16558,7 @@
                         "classroom": "M1-8"
                     },
                     {
-                        "teacher": "Carciopolo",
+                        "teacher": "Perlotti",
                         "classroom": "M1-8"
                     }
                 ]
@@ -16569,7 +16573,7 @@
                         "classroom": "M1-8"
                     },
                     {
-                        "teacher": "Carciopolo",
+                        "teacher": "Perlotti",
                         "classroom": "M1-8"
                     }
                 ]
@@ -17185,7 +17189,7 @@
                         "classroom": "M2-4"
                     },
                     {
-                        "teacher": "Aleo",
+                        "teacher": "Di Milta",
                         "classroom": "M2-4"
                     }
                 ]
@@ -17200,7 +17204,7 @@
                         "classroom": "M2-4"
                     },
                     {
-                        "teacher": "Aleo",
+                        "teacher": "Di Milta",
                         "classroom": "M2-4"
                     }
                 ]
@@ -17371,7 +17375,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Sternativo Pietro",
-                        "classroom": "1-91"
+                        "classroom": "M3-4"
                     }
                 ]
             },
@@ -17382,7 +17386,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Sternativo Pietro",
-                        "classroom": "1-91"
+                        "classroom": "M3-4"
                     }
                 ]
             },
@@ -17396,7 +17400,7 @@
                         "classroom": "M1-8"
                     },
                     {
-                        "teacher": "Aleo",
+                        "teacher": "Di Milta",
                         "classroom": "M1-8"
                     }
                 ]
@@ -17411,7 +17415,7 @@
                         "classroom": "M1-8"
                     },
                     {
-                        "teacher": "Aleo",
+                        "teacher": "Di Milta",
                         "classroom": "M1-8"
                     }
                 ]
@@ -20699,7 +20703,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x2",
+                        "teacher": "Falzone",
                         "classroom": "I1-6"
                     },
                     {
@@ -20714,7 +20718,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x2",
+                        "teacher": "Falzone",
                         "classroom": "I1-6"
                     },
                     {
@@ -20902,7 +20906,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x2",
+                        "teacher": "Falzone",
                         "classroom": "I1-3"
                     }
                 ]
@@ -21515,7 +21519,7 @@
                         "classroom": "M3-4"
                     },
                     {
-                        "teacher": "Aleo",
+                        "teacher": "Di Milta",
                         "classroom": "M3-4"
                     }
                 ]
@@ -21530,7 +21534,7 @@
                         "classroom": "M3-4"
                     },
                     {
-                        "teacher": "Aleo",
+                        "teacher": "Di Milta",
                         "classroom": "M3-4"
                     }
                 ]
@@ -22552,7 +22556,7 @@
                         "classroom": "M2-7"
                     },
                     {
-                        "teacher": "Aleo",
+                        "teacher": "Di Milta",
                         "classroom": "M2-7"
                     }
                 ]
@@ -22567,7 +22571,7 @@
                         "classroom": "M2-7"
                     },
                     {
-                        "teacher": "Aleo",
+                        "teacher": "Di Milta",
                         "classroom": "M2-7"
                     }
                 ]
@@ -25126,7 +25130,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Bolognini",
-                        "classroom": "T1-14"
+                        "classroom": "E3-8"
                     }
                 ]
             },
@@ -26416,7 +26420,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Cuni",
+                        "teacher": "A41-x1",
                         "classroom": "I2-6"
                     },
                     {
@@ -26431,7 +26435,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Cuni",
+                        "teacher": "A41-x1",
                         "classroom": "I2-6"
                     },
                     {
@@ -26520,7 +26524,7 @@
                 "subject": "Gest. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x2",
+                        "teacher": "Falzone",
                         "classroom": "I1-13"
                     },
                     {
@@ -26535,7 +26539,7 @@
                 "subject": "Gest. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x2",
+                        "teacher": "Falzone",
                         "classroom": "I1-13"
                     },
                     {
@@ -26671,7 +26675,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Cuni",
+                        "teacher": "A41-x1",
                         "classroom": "I3-1"
                     }
                 ]
@@ -26693,7 +26697,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Cuni",
+                        "teacher": "A41-x1",
                         "classroom": "I1-6"
                     },
                     {
@@ -26708,7 +26712,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Cuni",
+                        "teacher": "A41-x1",
                         "classroom": "I1-6"
                     },
                     {
@@ -26764,7 +26768,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Cuni",
+                        "teacher": "A41-x1",
                         "classroom": "1-91"
                     }
                 ]
@@ -26775,7 +26779,7 @@
                 "subject": "Gest. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x2",
+                        "teacher": "Falzone",
                         "classroom": "1-91"
                     }
                 ]
@@ -27643,11 +27647,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Livrieri",
-                        "classroom": "E1-7"
+                        "classroom": "M2-4"
                     },
                     {
-                        "teacher": "Carciopolo",
-                        "classroom": "E1-7"
+                        "teacher": "Perlotti",
+                        "classroom": "M2-4"
                     }
                 ]
             },
@@ -27661,7 +27665,7 @@
                         "classroom": "M2-7"
                     },
                     {
-                        "teacher": "Carciopolo",
+                        "teacher": "Perlotti",
                         "classroom": "M2-7"
                     }
                 ]
@@ -27676,7 +27680,7 @@
                         "classroom": "M2-7"
                     },
                     {
-                        "teacher": "Carciopolo",
+                        "teacher": "Perlotti",
                         "classroom": "M2-7"
                     }
                 ]
@@ -27964,7 +27968,7 @@
                         "classroom": "E1-7"
                     },
                     {
-                        "teacher": "Carciopolo",
+                        "teacher": "Perlotti",
                         "classroom": "E1-7"
                     }
                 ]
@@ -27979,7 +27983,7 @@
                         "classroom": "E1-7"
                     },
                     {
-                        "teacher": "Carciopolo",
+                        "teacher": "Perlotti",
                         "classroom": "E1-7"
                     }
                 ]
@@ -28412,7 +28416,7 @@
                         "classroom": "E1-7"
                     },
                     {
-                        "teacher": "Aleo",
+                        "teacher": "Di Milta",
                         "classroom": "E1-7"
                     }
                 ]
@@ -28661,11 +28665,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Livrieri",
-                        "classroom": "E1-7"
+                        "classroom": "M2-4"
                     },
                     {
-                        "teacher": "Aleo",
-                        "classroom": "E1-7"
+                        "teacher": "Di Milta",
+                        "classroom": "M2-4"
                     }
                 ]
             },
@@ -28676,11 +28680,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Livrieri",
-                        "classroom": "E1-7"
+                        "classroom": "M2-4"
                     },
                     {
-                        "teacher": "Aleo",
-                        "classroom": "E1-7"
+                        "teacher": "Di Milta",
+                        "classroom": "M2-4"
                     }
                 ]
             },

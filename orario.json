@@ -67,7 +67,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Consonni",
-                "B03-x1"
+                "Aurora"
             ],
             "aula": "1-11",
             "giorno": 2,
@@ -224,7 +224,7 @@
             "materia": "S.I. Chimica",
             "professori": [
                 "Monterisi",
-                "B12-x2"
+                "Priolo"
             ],
             "aula": "1-17",
             "giorno": 5,
@@ -528,7 +528,7 @@
             "materia": "S.I. Chimica",
             "professori": [
                 "Monterisi",
-                "B12-x2"
+                "Priolo"
             ],
             "aula": "1-17",
             "giorno": 5,
@@ -638,10 +638,9 @@
         "6": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Alicata",
-                "B03-x1"
+                "Alicata"
             ],
-            "aula": "1-11",
+            "aula": "4-13",
             "giorno": 2,
             "ora": 1
         },
@@ -778,9 +777,10 @@
         "21": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Alicata"
+                "Alicata",
+                "Aurora"
             ],
-            "aula": "4-13",
+            "aula": "1-15",
             "giorno": 4,
             "ora": 4
         },
@@ -1008,7 +1008,7 @@
             "materia": "S.I. Chimica",
             "professori": [
                 "Cataldo",
-                "B12-x2"
+                "Priolo"
             ],
             "aula": "1-17",
             "giorno": 3,
@@ -1365,7 +1365,7 @@
             "materia": "S.I. Chimica",
             "professori": [
                 "D'Alessandro",
-                "B12-x2"
+                "Priolo"
             ],
             "aula": "1-17",
             "giorno": 4,
@@ -1384,7 +1384,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "D'Amico",
-                "B03-x1"
+                "Aurora"
             ],
             "aula": "1-15",
             "giorno": 5,
@@ -1523,7 +1523,7 @@
         "6": {
             "materia": "Tecn",
             "professori": [
-                "Cuni",
+                "Falzone",
                 "Baldacci"
             ],
             "aula": "1-90",
@@ -1533,7 +1533,7 @@
         "7": {
             "materia": "Tecn",
             "professori": [
-                "Cuni",
+                "Falzone",
                 "Baldacci"
             ],
             "aula": "1-90",
@@ -1599,7 +1599,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Corna Cristiano",
-                "B03-x1"
+                "Aurora"
             ],
             "aula": "1-11",
             "giorno": 3,
@@ -1672,7 +1672,7 @@
         "22": {
             "materia": "Tecn",
             "professori": [
-                "Cuni"
+                "Falzone"
             ],
             "aula": "4-12",
             "giorno": 4,
@@ -1901,7 +1901,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "D'Amico",
-                "B03-x1"
+                "Aurora"
             ],
             "aula": "1-15",
             "giorno": 3,
@@ -2287,7 +2287,7 @@
             "materia": "S.I. Chimica",
             "professori": [
                 "D'Alessandro",
-                "B12-x2"
+                "Priolo"
             ],
             "aula": "T2-9",
             "giorno": 5,
@@ -2297,7 +2297,7 @@
             "materia": "T. T. R",
             "professori": [
                 "Barbera",
-                "Aleo"
+                "Di Milta"
             ],
             "aula": "2-6",
             "giorno": 5,
@@ -2352,9 +2352,9 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Consonni",
-                "B03-x1"
+                "Aurora"
             ],
-            "aula": "1-15",
+            "aula": "1-11",
             "giorno": 6,
             "ora": 4
         }
@@ -2400,7 +2400,7 @@
             "materia": "T. T. R",
             "professori": [
                 "Scerra",
-                "Carciopolo"
+                "Colca"
             ],
             "aula": "1-5",
             "giorno": 1,
@@ -2574,7 +2574,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "A20-x1",
-                "B03-x1"
+                "Aurora"
             ],
             "aula": "1-15",
             "giorno": 5,
@@ -2638,7 +2638,7 @@
             "materia": "S.I. Chimica",
             "professori": [
                 "Richelmi",
-                "B12-x2"
+                "Priolo"
             ],
             "aula": "T2-9",
             "giorno": 6,
@@ -2740,7 +2740,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Corna Cristiano",
-                "B03-x1"
+                "Aurora"
             ],
             "aula": "1-15",
             "giorno": 2,
@@ -3072,7 +3072,7 @@
             "materia": "S.I. Chimica",
             "professori": [
                 "Alborghetti",
-                "B12-x2"
+                "Priolo"
             ],
             "aula": "T2-9",
             "giorno": 3,
@@ -3439,7 +3439,7 @@
             "materia": "T. T. R",
             "professori": [
                 "Gaggioli",
-                "Carciopolo"
+                "Perlotti"
             ],
             "aula": "2-2",
             "giorno": 4,
@@ -3615,7 +3615,7 @@
         "9": {
             "materia": "S.I. Fisica",
             "professori": [
-                "B03-x1",
+                "Aurora",
                 "Greselin"
             ],
             "aula": "1-11",
@@ -3773,7 +3773,7 @@
             "materia": "T. T. R",
             "professori": [
                 "Barbera",
-                "Aleo"
+                "Di Milta"
             ],
             "aula": "2-7",
             "giorno": 5,
@@ -3983,7 +3983,7 @@
         "17": {
             "materia": "S.I. Chimica",
             "professori": [
-                "B12-x2",
+                "Priolo",
                 "Alborghetti"
             ],
             "aula": "1-17",
@@ -4003,7 +4003,7 @@
             "materia": "T. T. R",
             "professori": [
                 "Barbera",
-                "Aleo"
+                "Di Milta"
             ],
             "aula": "2-12",
             "giorno": 4,
@@ -4152,7 +4152,7 @@
             "materia": "T. T. R",
             "professori": [
                 "Espinosa",
-                "Carciopolo"
+                "Colca"
             ],
             "aula": "4-2",
             "giorno": 1,
@@ -4298,7 +4298,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Alicata",
-                "B03-x1"
+                "Aurora"
             ],
             "aula": "1-11",
             "giorno": 4,
@@ -4493,7 +4493,7 @@
             "materia": "S.I. Chimica",
             "professori": [
                 "Monterisi",
-                "B12-x2"
+                "Priolo"
             ],
             "aula": "1-17",
             "giorno": 2,
@@ -4574,9 +4574,10 @@
         "17": {
             "materia": "T. T. R",
             "professori": [
-                "Espinosa"
+                "Espinosa",
+                "Cardamone"
             ],
-            "aula": "3-4",
+            "aula": "2-8",
             "giorno": 3,
             "ora": 6
         },
@@ -4673,8 +4674,7 @@
         "28": {
             "materia": "T. T. R",
             "professori": [
-                "Espinosa",
-                "Cardamone"
+                "Espinosa"
             ],
             "aula": "3-4",
             "giorno": 5,
@@ -4895,7 +4895,7 @@
             "materia": "S.I. Chimica",
             "professori": [
                 "Monterisi",
-                "B12-x2"
+                "Priolo"
             ],
             "aula": "T2-9",
             "giorno": 4,
@@ -5105,7 +5105,7 @@
             "materia": "S.I. Chimica",
             "professori": [
                 "Ghezzi",
-                "B12-x2"
+                "Priolo"
             ],
             "aula": "1-17",
             "giorno": 2,
@@ -5205,7 +5205,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Greselin",
-                "B03-x1"
+                "Aurora"
             ],
             "aula": "1-11",
             "giorno": 4,
@@ -5269,7 +5269,7 @@
             "materia": "T. T. R",
             "professori": [
                 "Santoro",
-                "Carciopolo"
+                "Perlotti"
             ],
             "aula": "3-6",
             "giorno": 5,
@@ -5782,7 +5782,7 @@
             "materia": "S.I. Chimica",
             "professori": [
                 "Cataldo",
-                "B12-x2"
+                "Priolo"
             ],
             "aula": "1-17",
             "giorno": 3,
@@ -6047,7 +6047,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "D'Amico",
-                "B03-x1"
+                "Aurora"
             ],
             "aula": "1-15",
             "giorno": 3,
@@ -6184,7 +6184,7 @@
             "materia": "S.I. Chimica",
             "professori": [
                 "D'Alessandro",
-                "B12-x2"
+                "Priolo"
             ],
             "aula": "1-17",
             "giorno": 5,
@@ -6259,7 +6259,7 @@
         "3": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Cuni"
+                "A41-x1"
             ],
             "aula": "3-15",
             "giorno": 1,
@@ -6349,10 +6349,9 @@
         "13": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna Cristiano",
-                "B03-x1"
+                "Corna Cristiano"
             ],
-            "aula": "1-11",
+            "aula": "3-15",
             "giorno": 3,
             "ora": 1
         },
@@ -6441,9 +6440,10 @@
         "23": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Corna Cristiano"
+                "Corna Cristiano",
+                "Aurora"
             ],
-            "aula": "3-15",
+            "aula": "1-11",
             "giorno": 4,
             "ora": 6
         },
@@ -6486,7 +6486,7 @@
         "28": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Cuni"
+                "A41-x1"
             ],
             "aula": "I1-13",
             "giorno": 5,
@@ -6495,7 +6495,7 @@
         "29": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Cuni"
+                "A41-x1"
             ],
             "aula": "I1-13",
             "giorno": 5,
@@ -7035,7 +7035,7 @@
             "materia": "T. T. R",
             "professori": [
                 "Barbera",
-                "Aleo"
+                "Di Milta"
             ],
             "aula": "1-32",
             "giorno": 4,
@@ -7108,7 +7108,7 @@
             "materia": "S.I. Chimica",
             "professori": [
                 "D'Alessandro",
-                "B12-x2"
+                "Priolo"
             ],
             "aula": "1-17",
             "giorno": 6,
@@ -7219,7 +7219,7 @@
             "materia": "T. T. R",
             "professori": [
                 "Scerra",
-                "Carciopolo"
+                "Perlotti"
             ],
             "aula": "1-94",
             "giorno": 2,
@@ -7329,7 +7329,7 @@
             "materia": "S.I. Chimica",
             "professori": [
                 "Ghezzi",
-                "B12-x2"
+                "Priolo"
             ],
             "aula": "1-17",
             "giorno": 4,
@@ -7476,7 +7476,7 @@
             "materia": "T. T. R",
             "professori": [
                 "Scerra",
-                "Aleo"
+                "Di Milta"
             ],
             "aula": "3-18",
             "giorno": 1,
@@ -7702,7 +7702,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "A20-x2",
-                "B03-x1"
+                "Aurora"
             ],
             "aula": "1-11",
             "giorno": 5,
@@ -7739,7 +7739,7 @@
             "materia": "S.I. Chimica",
             "professori": [
                 "Cataldo",
-                "B12-x2"
+                "Priolo"
             ],
             "aula": "1-17",
             "giorno": 6,
@@ -8289,7 +8289,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Greselin",
-                "B03-x1"
+                "Aurora"
             ],
             "aula": "1-15",
             "giorno": 5,
@@ -8865,7 +8865,7 @@
             "materia": "S.I. Chimica",
             "professori": [
                 "Alborghetti",
-                "B12-x2"
+                "Priolo"
             ],
             "aula": "T2-9",
             "giorno": 5,
@@ -8902,7 +8902,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Consonni",
-                "B03-x1"
+                "Aurora"
             ],
             "aula": "1-11",
             "giorno": 5,
@@ -9148,7 +9148,7 @@
             "materia": "S.I. Chimica",
             "professori": [
                 "Richelmi",
-                "B12-x2"
+                "Priolo"
             ],
             "aula": "1-17",
             "giorno": 4,
@@ -9185,7 +9185,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "A20-x1",
-                "B03-x1"
+                "Aurora"
             ],
             "aula": "1-15",
             "giorno": 5,
@@ -9204,7 +9204,7 @@
             "materia": "T. T. R",
             "professori": [
                 "Scerra",
-                "Aleo"
+                "Di Milta"
             ],
             "aula": "1-32",
             "giorno": 5,
@@ -9350,9 +9350,10 @@
         "11": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Alicata"
+                "Alicata",
+                "Aurora"
             ],
-            "aula": "3-3",
+            "aula": "1-15",
             "giorno": 2,
             "ora": 5
         },
@@ -9423,10 +9424,9 @@
         "19": {
             "materia": "S.I. Fisica",
             "professori": [
-                "Alicata",
-                "B03-x1"
+                "Alicata"
             ],
-            "aula": "1-15",
+            "aula": "3-3",
             "giorno": 4,
             "ora": 1
         },
@@ -9451,7 +9451,8 @@
         "22": {
             "materia": "T. T. R",
             "professori": [
-                "Espinosa"
+                "Espinosa",
+                "Colca"
             ],
             "aula": "3-3",
             "giorno": 4,
@@ -10475,7 +10476,7 @@
         "3": {
             "materia": "Tecn. Prg",
             "professori": [
-                "A41-x2"
+                "Falzone"
             ],
             "aula": "I2-2",
             "giorno": 1,
@@ -10586,7 +10587,7 @@
         "15": {
             "materia": "Tecn. Prg",
             "professori": [
-                "A41-x2"
+                "Falzone"
             ],
             "aula": "I2-2",
             "giorno": 3,
@@ -10741,7 +10742,7 @@
         "32": {
             "materia": "Tecn. Prg",
             "professori": [
-                "A41-x2",
+                "Falzone",
                 "Midiri"
             ],
             "aula": "I2-13",
@@ -10791,7 +10792,7 @@
         "5": {
             "materia": "Informatica",
             "professori": [
-                "Cuni",
+                "A41-x1",
                 "Togni"
             ],
             "aula": "I2-13",
@@ -10837,7 +10838,7 @@
         "10": {
             "materia": "Informatica",
             "professori": [
-                "Cuni"
+                "A41-x1"
             ],
             "aula": "I2-3",
             "giorno": 2,
@@ -10846,7 +10847,7 @@
         "11": {
             "materia": "Informatica",
             "professori": [
-                "Cuni"
+                "A41-x1"
             ],
             "aula": "I2-3",
             "giorno": 2,
@@ -10927,7 +10928,7 @@
         "20": {
             "materia": "Informatica",
             "professori": [
-                "Cuni",
+                "A41-x1",
                 "Togni"
             ],
             "aula": "I2-13",
@@ -10937,7 +10938,7 @@
         "21": {
             "materia": "Informatica",
             "professori": [
-                "Cuni",
+                "A41-x1",
                 "Togni"
             ],
             "aula": "I2-13",
@@ -10992,7 +10993,7 @@
         "27": {
             "materia": "Informatica",
             "professori": [
-                "Cuni"
+                "A41-x1"
             ],
             "aula": "I2-3",
             "giorno": 5,
@@ -12783,7 +12784,7 @@
             "materia": "Tecn",
             "professori": [
                 "Monaco",
-                "Carciopolo"
+                "Colca"
             ],
             "aula": "T2-2",
             "giorno": 5,
@@ -12802,7 +12803,7 @@
             "materia": "Tecn",
             "professori": [
                 "Monaco",
-                "Carciopolo"
+                "Colca"
             ],
             "aula": "M1-23",
             "giorno": 6,
@@ -12812,7 +12813,7 @@
             "materia": "Tecn",
             "professori": [
                 "Monaco",
-                "Carciopolo"
+                "Colca"
             ],
             "aula": "M1-23",
             "giorno": 6,
@@ -13000,7 +13001,7 @@
             "materia": "Disegno e",
             "professori": [
                 "Farri",
-                "Carciopolo"
+                "Colca"
             ],
             "aula": "M2-7",
             "giorno": 4,
@@ -13010,7 +13011,7 @@
             "materia": "Disegno e",
             "professori": [
                 "Farri",
-                "Carciopolo"
+                "Colca"
             ],
             "aula": "M2-7",
             "giorno": 4,
@@ -13047,7 +13048,7 @@
             "materia": "Meccanica",
             "professori": [
                 "Leporini",
-                "Carciopolo"
+                "Perlotti"
             ],
             "aula": "M1-8",
             "giorno": 5,
@@ -13057,7 +13058,7 @@
             "materia": "Meccanica",
             "professori": [
                 "Leporini",
-                "Carciopolo"
+                "Perlotti"
             ],
             "aula": "M1-8",
             "giorno": 5,
@@ -13539,7 +13540,7 @@
             "materia": "Sistemi e",
             "professori": [
                 "Imberti",
-                "Aleo"
+                "Di Milta"
             ],
             "aula": "M2-4",
             "giorno": 3,
@@ -13549,7 +13550,7 @@
             "materia": "Sistemi e",
             "professori": [
                 "Imberti",
-                "Aleo"
+                "Di Milta"
             ],
             "aula": "M2-4",
             "giorno": 3,
@@ -13681,7 +13682,7 @@
             "professori": [
                 "Sternativo Pietro"
             ],
-            "aula": "1-91",
+            "aula": "M3-4",
             "giorno": 5,
             "ora": 5
         },
@@ -13690,7 +13691,7 @@
             "professori": [
                 "Sternativo Pietro"
             ],
-            "aula": "1-91",
+            "aula": "M3-4",
             "giorno": 5,
             "ora": 6
         },
@@ -13698,7 +13699,7 @@
             "materia": "Meccanica",
             "professori": [
                 "Sternativo Pietro",
-                "Aleo"
+                "Di Milta"
             ],
             "aula": "M1-8",
             "giorno": 6,
@@ -13708,7 +13709,7 @@
             "materia": "Meccanica",
             "professori": [
                 "Sternativo Pietro",
-                "Aleo"
+                "Di Milta"
             ],
             "aula": "M1-8",
             "giorno": 6,
@@ -16231,7 +16232,7 @@
         "12": {
             "materia": "Tecn. Prg",
             "professori": [
-                "A41-x2",
+                "Falzone",
                 "Grena"
             ],
             "aula": "I1-6",
@@ -16241,7 +16242,7 @@
         "13": {
             "materia": "Tecn. Prg",
             "professori": [
-                "A41-x2",
+                "Falzone",
                 "Grena"
             ],
             "aula": "I1-6",
@@ -16388,7 +16389,7 @@
         "29": {
             "materia": "Tecn. Prg",
             "professori": [
-                "A41-x2"
+                "Falzone"
             ],
             "aula": "I1-3",
             "giorno": 6,
@@ -16863,7 +16864,7 @@
             "materia": "Disegno e",
             "professori": [
                 "Sternativo Pietro",
-                "Aleo"
+                "Di Milta"
             ],
             "aula": "M3-4",
             "giorno": 4,
@@ -16873,7 +16874,7 @@
             "materia": "Disegno e",
             "professori": [
                 "Sternativo Pietro",
-                "Aleo"
+                "Di Milta"
             ],
             "aula": "M3-4",
             "giorno": 4,
@@ -17658,7 +17659,7 @@
             "materia": "Disegno e",
             "professori": [
                 "Farri",
-                "Aleo"
+                "Di Milta"
             ],
             "aula": "M2-7",
             "giorno": 1,
@@ -17668,7 +17669,7 @@
             "materia": "Disegno e",
             "professori": [
                 "Farri",
-                "Aleo"
+                "Di Milta"
             ],
             "aula": "M2-7",
             "giorno": 1,
@@ -19631,7 +19632,7 @@
             "professori": [
                 "Bolognini"
             ],
-            "aula": "T1-14",
+            "aula": "E3-8",
             "giorno": 5,
             "ora": 1
         },
@@ -20614,7 +20615,7 @@
         "1": {
             "materia": "Informatica",
             "professori": [
-                "Cuni",
+                "A41-x1",
                 "Togni"
             ],
             "aula": "I2-6",
@@ -20624,7 +20625,7 @@
         "2": {
             "materia": "Informatica",
             "professori": [
-                "Cuni",
+                "A41-x1",
                 "Togni"
             ],
             "aula": "I2-6",
@@ -20690,7 +20691,7 @@
         "9": {
             "materia": "Gest. Prg",
             "professori": [
-                "A41-x2",
+                "Falzone",
                 "Gaffuri"
             ],
             "aula": "I1-13",
@@ -20700,7 +20701,7 @@
         "10": {
             "materia": "Gest. Prg",
             "professori": [
-                "A41-x2",
+                "Falzone",
                 "Gaffuri"
             ],
             "aula": "I1-13",
@@ -20809,7 +20810,7 @@
         "22": {
             "materia": "Informatica",
             "professori": [
-                "Cuni"
+                "A41-x1"
             ],
             "aula": "I3-1",
             "giorno": 4,
@@ -20827,7 +20828,7 @@
         "24": {
             "materia": "Informatica",
             "professori": [
-                "Cuni",
+                "A41-x1",
                 "Togni"
             ],
             "aula": "I1-6",
@@ -20837,7 +20838,7 @@
         "25": {
             "materia": "Informatica",
             "professori": [
-                "Cuni",
+                "A41-x1",
                 "Togni"
             ],
             "aula": "I1-6",
@@ -20876,7 +20877,7 @@
         "29": {
             "materia": "Informatica",
             "professori": [
-                "Cuni"
+                "A41-x1"
             ],
             "aula": "1-91",
             "giorno": 6,
@@ -20885,7 +20886,7 @@
         "30": {
             "materia": "Gest. Prg",
             "professori": [
-                "A41-x2"
+                "Falzone"
             ],
             "aula": "1-91",
             "giorno": 6,
@@ -21551,9 +21552,9 @@
             "materia": "Sistemi e",
             "professori": [
                 "Livrieri",
-                "Carciopolo"
+                "Perlotti"
             ],
-            "aula": "E1-7",
+            "aula": "M2-4",
             "giorno": 1,
             "ora": 6
         },
@@ -21561,7 +21562,7 @@
             "materia": "Disegno e",
             "professori": [
                 "Livrieri",
-                "Carciopolo"
+                "Perlotti"
             ],
             "aula": "M2-7",
             "giorno": 2,
@@ -21571,7 +21572,7 @@
             "materia": "Disegno e",
             "professori": [
                 "Livrieri",
-                "Carciopolo"
+                "Perlotti"
             ],
             "aula": "M2-7",
             "giorno": 2,
@@ -21793,7 +21794,7 @@
             "materia": "Sistemi e",
             "professori": [
                 "Livrieri",
-                "Carciopolo"
+                "Perlotti"
             ],
             "aula": "E1-7",
             "giorno": 6,
@@ -21803,7 +21804,7 @@
             "materia": "Sistemi e",
             "professori": [
                 "Livrieri",
-                "Carciopolo"
+                "Perlotti"
             ],
             "aula": "E1-7",
             "giorno": 6,
@@ -22133,7 +22134,7 @@
             "materia": "Sistemi e",
             "professori": [
                 "Livrieri",
-                "Aleo"
+                "Di Milta"
             ],
             "aula": "E1-7",
             "giorno": 1,
@@ -22321,9 +22322,9 @@
             "materia": "Sistemi e",
             "professori": [
                 "Livrieri",
-                "Aleo"
+                "Di Milta"
             ],
-            "aula": "E1-7",
+            "aula": "M2-4",
             "giorno": 5,
             "ora": 1
         },
@@ -22331,9 +22332,9 @@
             "materia": "Sistemi e",
             "professori": [
                 "Livrieri",
-                "Aleo"
+                "Di Milta"
             ],
-            "aula": "E1-7",
+            "aula": "M2-4",
             "giorno": 5,
             "ora": 2
         },
