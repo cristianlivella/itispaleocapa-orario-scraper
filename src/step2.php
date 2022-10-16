@@ -59,6 +59,9 @@ $subjectFound = false;
 $teachersFound = false;
 $checkForClassroom = false;
 
+$teachersList = [];
+$subjectsList = [];
+
 // In this first loop, information about the hours of lessons for each class is extracted.
 // The multidimensional tempTimetable array will contain the lessons of each class in chronological order, but they will not be divided by days.
 $line = 0;
@@ -77,12 +80,19 @@ while ($line < $lineCount) {
     elseif (strpos($timetable[$line], ':00') === false && $timetable[$line] !== 'lunedì martedì mercoledì giovedì venerdì sabato') {
         if (!$subjectFound && strlen($timetable[$line])) {
             // if the subject has not yet been found, the first valid line that is found is the subject
-            $timetable[$line] = rtrim($timetable[$line], '.');
-            $tempTimetable[$class][$time]['subject'] = ltrim($timetable[$line], '.');
+            $tempTimetable[$class][$time]['subject'] = ltrim(rtrim($timetable[$line], '.'), '.');
+
+            if (!in_array($timetable[$line], $subjectsList)) {
+                $subjectsList[] = $timetable[$line];
+            }
             $subjectFound = true;
         } elseif (!$teachersFound && !$checkForClassroom) {
             if ((strpos($timetable[$line], '-') === false) || preg_match(REGEX_CLASSE_DI_CONCORSO, $timetable[$line])) {
                 // if the current line doesn't contain hyphen, or if it matches the "classe di concorso" regex, then it's a teacher
+                if (!in_array($timetable[$line], $teachersList)) {
+                    $teachersList[] = $timetable[$line];
+                }
+
                 $tempTimetable[$class][$time]['teachers_classrooms'][] = [
                     'teacher' => ltrim(ucwords(mb_strtolower($timetable[$line]), " \t\r\n\f\v'"), '.'),
                     'classroom' => ''
@@ -90,7 +100,21 @@ while ($line < $lineCount) {
 
                 $checkForClassroom = true;
 
-                if (!isset($timetable[$line + 3]) || ((strpos($timetable[$line + 3], '-') === false && stripos($timetable[$line + 3], 'Lab.') !== 0 && stripos($timetable[$line + 3], 'Pal.') !== 0 && stripos($timetable[$line + 3], 'Palestra') !== 0) || preg_match(REGEX_CLASSE_DI_CONCORSO, $timetable[$line + 3]))) {
+                if (isset($timetable[$line + 2]) && in_array($timetable[$line + 2], $teachersList) && (strpos($timetable[$line + 1], '-') !== false)) {
+                    // FIX FOR BAD FORMATTED PDFs (2 teachers with just 1 classrom specified in a cell, see 4th hour of Thursday, class 2MT, version 15/10/2022)
+                    // TODO: this doesn't cover all the cases, i.e. if the classrom doesn't contains an hypen
+                    // if the second line after the corrent contains a teacher, and the next one contains a classroom, then all the teachers of the current lesson has not been found yet
+                    $teachersFound = false;
+                } elseif (count($tempTimetable[$class][$time]['teachers_classrooms']) === 2) {
+                    // TODO: this need to be improved, for the moment just assume that there are maximum 2 teachers for lesson
+                    $teachersFound = true;
+
+                    if (isset($timetable[$line + 1]) && in_array($timetable[$line + 1], $subjectsList)) {
+                        // (quick-and-dirty) FIX FOR BAD FORMATTED PDFs (see above)
+                        $timetable[$line] = $tempTimetable[$class][$time]['teachers_classrooms'][0]['classroom'];
+                        $line--;
+                    }
+                } elseif (!isset($timetable[$line + 3]) || ((strpos($timetable[$line + 3], '-') === false && stripos($timetable[$line + 3], 'Lab.') !== 0 && stripos($timetable[$line + 3], 'Pal.') !== 0 && stripos($timetable[$line + 3], 'Palestra') !== 0) || preg_match(REGEX_CLASSE_DI_CONCORSO, $timetable[$line + 3]))) {
                     // if the third line after this one does not exist or contains a professor, then this is the last (or only) teacher of the current hour
                     $teachersFound = true;
                 }
