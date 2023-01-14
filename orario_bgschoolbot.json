@@ -608,7 +608,7 @@
         2
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "1IA",
         "4-13",
@@ -688,7 +688,7 @@
         5
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "1IA",
         "4-13",
@@ -872,7 +872,7 @@
         2
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "1IA",
         "4-13",
@@ -1064,7 +1064,7 @@
         3
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "1IB",
         "1-14",
@@ -1120,7 +1120,7 @@
         3
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "1IB",
         "1-14",
@@ -1160,7 +1160,7 @@
         1
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "1IB",
         "1-14",
@@ -2408,14 +2408,6 @@
         5
     ],
     [
-        "Colca",
-        "T. T. R",
-        "1IG",
-        "1-5",
-        1,
-        5
-    ],
-    [
         "Signorelli",
         "Diritto ed",
         "1IG",
@@ -2448,6 +2440,14 @@
         4
     ],
     [
+        "Colca",
+        "T. T. R",
+        "1IG",
+        "1-5",
+        2,
+        4
+    ],
+    [
         "Scerra",
         "T. T. R",
         "1IG",
@@ -2464,7 +2464,7 @@
         1
     ],
     [
-        "A20-x1",
+        "Furfaro",
         "S.I. Fisica",
         "1IG",
         "1-5",
@@ -2472,7 +2472,7 @@
         2
     ],
     [
-        "A20-x1",
+        "Furfaro",
         "S.I. Fisica",
         "1IG",
         "1-5",
@@ -2576,7 +2576,7 @@
         1
     ],
     [
-        "A20-x1",
+        "Furfaro",
         "S.I. Fisica",
         "1IG",
         "1-15",
@@ -3259,7 +3259,7 @@
         "Alfonsi",
         "Inglese",
         "1MC",
-        "2-2",
+        "1-32",
         1,
         1
     ],
@@ -4208,7 +4208,7 @@
         1
     ],
     [
-        "Rota Bulo'",
+        "Caravella",
         "Inglese",
         "1IT",
         "4-2",
@@ -4328,7 +4328,7 @@
         3
     ],
     [
-        "Rota Bulo'",
+        "Caravella",
         "Inglese",
         "1IT",
         "4-2",
@@ -4416,7 +4416,7 @@
         1
     ],
     [
-        "Rota Bulo'",
+        "Caravella",
         "Inglese",
         "1IT",
         "4-2",
@@ -4747,15 +4747,7 @@
         "Scerra",
         "T. T. R",
         "2EB",
-        "3-5",
-        1,
-        3
-    ],
-    [
-        "Cardamone",
-        "T. T. R",
-        "2EB",
-        "3-5",
+        "1-90",
         1,
         3
     ],
@@ -4923,7 +4915,15 @@
         "Scerra",
         "T. T. R",
         "2EB",
-        "2-8",
+        "3-5",
+        4,
+        5
+    ],
+    [
+        "Cardamone",
+        "T. T. R",
+        "2EB",
+        "3-5",
         4,
         5
     ],
@@ -5312,7 +5312,7 @@
         1
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "2IA",
         "3-12",
@@ -5339,7 +5339,7 @@
         "Ghezzi",
         "S.I. Chimica",
         "2IA",
-        "T2-9",
+        "1-17",
         1,
         5
     ],
@@ -5347,7 +5347,7 @@
         "Bonifati",
         "S.I. Chimica",
         "2IA",
-        "T2-9",
+        "1-17",
         1,
         5
     ],
@@ -5368,7 +5368,7 @@
         2
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "2IA",
         "3-12",
@@ -5488,7 +5488,7 @@
         4
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "2IA",
         "3-12",
@@ -5608,7 +5608,7 @@
         2
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "2IB",
         "3-13",
@@ -5616,7 +5616,7 @@
         3
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "2IB",
         "3-13",
@@ -5840,7 +5840,7 @@
         5
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "2IB",
         "3-13",
@@ -6192,7 +6192,7 @@
         2
     ],
     [
-        "A41-x1",
+        "Bacchi",
         "Sc. e Tecn",
         "2ID",
         "3-15",
@@ -6304,7 +6304,7 @@
         4
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "2ID",
         "3-15",
@@ -6344,7 +6344,7 @@
         3
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "2ID",
         "3-15",
@@ -6408,7 +6408,7 @@
         4
     ],
     [
-        "A41-x1",
+        "Bacchi",
         "Sc. e Tecn",
         "2ID",
         "I1-13",
@@ -6416,7 +6416,7 @@
         5
     ],
     [
-        "A41-x1",
+        "Bacchi",
         "Sc. e Tecn",
         "2ID",
         "I1-13",
@@ -6432,7 +6432,7 @@
         1
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "2ID",
         "3-15",
@@ -7099,15 +7099,7 @@
         "Scerra",
         "T. T. R",
         "2IG",
-        "1-94",
-        2,
-        3
-    ],
-    [
-        "Perlotti",
-        "T. T. R",
-        "2IG",
-        "1-94",
+        "1-32",
         2,
         3
     ],
@@ -7272,6 +7264,14 @@
         3
     ],
     [
+        "Perlotti",
+        "T. T. R",
+        "2IG",
+        "1-32",
+        5,
+        3
+    ],
+    [
         "Scerra",
         "T. T. R",
         "2IG",
@@ -7347,7 +7347,7 @@
         "Scerra",
         "T. T. R",
         "2IH",
-        "3-18",
+        "1-32",
         1,
         4
     ],
@@ -7355,7 +7355,7 @@
         "Di Milta",
         "T. T. R",
         "2IH",
-        "3-18",
+        "1-32",
         1,
         4
     ],
@@ -7416,7 +7416,7 @@
         6
     ],
     [
-        "A20-x2",
+        "Furfaro",
         "S.I. Fisica",
         "2IH",
         "3-18",
@@ -7544,7 +7544,7 @@
         4
     ],
     [
-        "A20-x2",
+        "Furfaro",
         "S.I. Fisica",
         "2IH",
         "3-18",
@@ -7552,7 +7552,7 @@
         5
     ],
     [
-        "A20-x2",
+        "Furfaro",
         "S.I. Fisica",
         "2IH",
         "1-11",
@@ -8851,7 +8851,7 @@
         "Alfonsi",
         "Inglese",
         "2MF",
-        "3-11",
+        "I2-13",
         3,
         1
     ],
@@ -8880,7 +8880,7 @@
         4
     ],
     [
-        "A20-x1",
+        "Furfaro",
         "S.I. Fisica",
         "2MF",
         "3-11",
@@ -8888,7 +8888,7 @@
         5
     ],
     [
-        "A20-x1",
+        "Furfaro",
         "S.I. Fisica",
         "2MF",
         "3-11",
@@ -8968,7 +8968,7 @@
         2
     ],
     [
-        "A20-x1",
+        "Furfaro",
         "S.I. Fisica",
         "2MF",
         "1-15",
@@ -9088,6 +9088,14 @@
         5
     ],
     [
+        "Colca",
+        "T. T. R",
+        "2MT",
+        "1-32",
+        1,
+        5
+    ],
+    [
         "Lorenzi",
         "Sc. e Tecn",
         "2MT",
@@ -9112,7 +9120,7 @@
         2
     ],
     [
-        "Rota Bulo'",
+        "Caravella",
         "Inglese",
         "2MT",
         "3-3",
@@ -9240,15 +9248,7 @@
         4
     ],
     [
-        "Colca",
-        "T. T. R",
-        "2MT",
-        "3-3",
-        4,
-        4
-    ],
-    [
-        "Rota Bulo'",
+        "Caravella",
         "Inglese",
         "2MT",
         "3-3",
@@ -9304,7 +9304,7 @@
         5
     ],
     [
-        "Rota Bulo'",
+        "Caravella",
         "Inglese",
         "2MT",
         "3-3",
@@ -9658,15 +9658,15 @@
     [
         "Castelletti",
         "Elettrot. e",
-        "3EBen",
+        "3EB",
         "E3-8",
         1,
         1
     ],
     [
-        "Giavarini",
+        "Carciopolo",
         "Elettrot. e",
-        "3EBen",
+        "3EB",
         "E3-8",
         1,
         1
@@ -9674,15 +9674,15 @@
     [
         "Castelletti",
         "Elettrot. e",
-        "3EBen",
+        "3EB",
         "E3-8",
         1,
         2
     ],
     [
-        "Giavarini",
+        "Carciopolo",
         "Elettrot. e",
-        "3EBen",
+        "3EB",
         "E3-8",
         1,
         2
@@ -9690,15 +9690,15 @@
     [
         "Cagliani",
         "Tecn. Prog",
-        "3EBen",
+        "3EB",
         "E3-8",
         1,
         3
     ],
     [
-        "Giavarini",
+        "Carciopolo",
         "Tecn. Prog",
-        "3EBen",
+        "3EB",
         "E3-8",
         1,
         3
@@ -9706,7 +9706,7 @@
     [
         "Tasca",
         "Sistemi",
-        "3EBen",
+        "3EB",
         "E1-7",
         1,
         4
@@ -9714,7 +9714,7 @@
     [
         "Bray",
         "Sistemi",
-        "3EBen",
+        "3EB",
         "E1-7",
         1,
         4
@@ -9722,7 +9722,7 @@
     [
         "Tasca",
         "Sistemi",
-        "3EBen",
+        "3EB",
         "E1-7",
         1,
         5
@@ -9730,7 +9730,7 @@
     [
         "Bray",
         "Sistemi",
-        "3EBen",
+        "3EB",
         "E1-7",
         1,
         5
@@ -9738,7 +9738,7 @@
     [
         "Lepore",
         "Matematica",
-        "3EBen",
+        "3EB",
         "E3-6",
         2,
         1
@@ -9746,7 +9746,7 @@
     [
         "Auriemma",
         "Sc. Motorie",
-        "3EBen",
+        "3EB",
         "Palestra 1",
         2,
         2
@@ -9754,7 +9754,7 @@
     [
         "Auriemma",
         "Sc. Motorie",
-        "3EBen",
+        "3EB",
         "Palestra 1",
         2,
         3
@@ -9762,7 +9762,7 @@
     [
         "Moschini",
         "Italiano",
-        "3EBen",
+        "3EB",
         "E3-6",
         2,
         4
@@ -9770,7 +9770,7 @@
     [
         "Corna Marina",
         "Inglese",
-        "3EBen",
+        "3EB",
         "E3-6",
         2,
         5
@@ -9778,7 +9778,7 @@
     [
         "Cagliani",
         "Tecn. Prog",
-        "3EBen",
+        "3EB",
         "E3-6",
         2,
         6
@@ -9786,15 +9786,15 @@
     [
         "Castelletti",
         "Elettrot. e",
-        "3EBen",
+        "3EB",
         "E3-8",
         3,
         1
     ],
     [
-        "Giavarini",
+        "Carciopolo",
         "Elettrot. e",
-        "3EBen",
+        "3EB",
         "E3-8",
         3,
         1
@@ -9802,15 +9802,15 @@
     [
         "Cagliani",
         "Tecn. Prog",
-        "3EBen",
+        "3EB",
         "E3-8",
         3,
         2
     ],
     [
-        "Giavarini",
+        "Carciopolo",
         "Tecn. Prog",
-        "3EBen",
+        "3EB",
         "E3-8",
         3,
         2
@@ -9818,15 +9818,15 @@
     [
         "Cagliani",
         "Tecn. Prog",
-        "3EBen",
+        "3EB",
         "E3-8",
         3,
         3
     ],
     [
-        "Giavarini",
+        "Carciopolo",
         "Tecn. Prog",
-        "3EBen",
+        "3EB",
         "E3-8",
         3,
         3
@@ -9834,7 +9834,7 @@
     [
         "Lepore",
         "Matematica",
-        "3EBen",
+        "3EB",
         "E3-6",
         3,
         4
@@ -9842,7 +9842,7 @@
     [
         "Moschini",
         "Italiano",
-        "3EBen",
+        "3EB",
         "E3-6",
         3,
         5
@@ -9850,7 +9850,7 @@
     [
         "Moschini",
         "Italiano",
-        "3EBen",
+        "3EB",
         "E3-6",
         3,
         6
@@ -9858,7 +9858,7 @@
     [
         "Cuminetti",
         "Religione",
-        "3EBen",
+        "3EB",
         "E3-6",
         4,
         1
@@ -9866,7 +9866,7 @@
     [
         "Lepore",
         "Matematica",
-        "3EBen",
+        "3EB",
         "E3-6",
         4,
         2
@@ -9874,7 +9874,7 @@
     [
         "Desoppi",
         "Storia",
-        "3EBen",
+        "3EB",
         "E3-6",
         4,
         3
@@ -9882,7 +9882,7 @@
     [
         "Tasca",
         "Sistemi",
-        "3EBen",
+        "3EB",
         "E3-6",
         4,
         4
@@ -9890,7 +9890,7 @@
     [
         "Castelletti",
         "Elettrot. e",
-        "3EBen",
+        "3EB",
         "E3-6",
         4,
         5
@@ -9898,7 +9898,7 @@
     [
         "Castelletti",
         "Elettrot. e",
-        "3EBen",
+        "3EB",
         "E3-6",
         4,
         6
@@ -9906,7 +9906,7 @@
     [
         "Corna Marina",
         "Inglese",
-        "3EBen",
+        "3EB",
         "E3-6",
         5,
         1
@@ -9914,7 +9914,7 @@
     [
         "Castelletti",
         "Elettrot. e",
-        "3EBen",
+        "3EB",
         "E3-6",
         5,
         2
@@ -9922,7 +9922,7 @@
     [
         "Desoppi",
         "Storia",
-        "3EBen",
+        "3EB",
         "E3-6",
         5,
         3
@@ -9930,7 +9930,7 @@
     [
         "Tasca",
         "Sistemi",
-        "3EBen",
+        "3EB",
         "E3-6",
         5,
         4
@@ -9938,7 +9938,7 @@
     [
         "Tasca",
         "Sistemi",
-        "3EBen",
+        "3EB",
         "E3-6",
         5,
         5
@@ -9946,7 +9946,7 @@
     [
         "Moschini",
         "Italiano",
-        "3EBen",
+        "3EB",
         "E3-6",
         6,
         1
@@ -9954,7 +9954,7 @@
     [
         "Lepore",
         "Matematica",
-        "3EBen",
+        "3EB",
         "E3-6",
         6,
         2
@@ -9962,7 +9962,7 @@
     [
         "Corna Marina",
         "Inglese",
-        "3EBen",
+        "3EB",
         "E3-6",
         6,
         3
@@ -9970,7 +9970,7 @@
     [
         "Cagliani",
         "Tecn. Prog",
-        "3EBen",
+        "3EB",
         "E3-6",
         6,
         4
@@ -9978,7 +9978,7 @@
     [
         "De Rosario",
         "Sc. Motorie",
-        "3ECau",
+        "3EC",
         "Pal. Fitness",
         1,
         1
@@ -9986,7 +9986,7 @@
     [
         "Pizzitola",
         "Italiano e",
-        "3ECau",
+        "3EC",
         "E3-2",
         1,
         2
@@ -9994,7 +9994,7 @@
     [
         "Pizzitola",
         "Italiano e",
-        "3ECau",
+        "3EC",
         "E3-2",
         1,
         3
@@ -10002,7 +10002,7 @@
     [
         "Schiavi",
         "Matematica",
-        "3ECau",
+        "3EC",
         "E3-2",
         1,
         4
@@ -10010,7 +10010,7 @@
     [
         "Genovese",
         "Tecn. Prog",
-        "3ECau",
+        "3EC",
         "E2-7",
         1,
         5
@@ -10018,7 +10018,7 @@
     [
         "Dottore",
         "Tecn. Prog",
-        "3ECau",
+        "3EC",
         "E2-7",
         1,
         5
@@ -10026,7 +10026,7 @@
     [
         "Sorrentino",
         "Elettrot. e",
-        "3ECau",
+        "3EC",
         "E3-2",
         1,
         6
@@ -10034,7 +10034,7 @@
     [
         "Pizzitola",
         "Italiano e",
-        "3ECau",
+        "3EC",
         "E3-2",
         2,
         1
@@ -10042,7 +10042,7 @@
     [
         "Sorrentino",
         "Elettrot. e",
-        "3ECau",
+        "3EC",
         "E1-10",
         2,
         2
@@ -10050,7 +10050,7 @@
     [
         "Salone",
         "Elettrot. e",
-        "3ECau",
+        "3EC",
         "E1-10",
         2,
         2
@@ -10058,7 +10058,7 @@
     [
         "Sorrentino",
         "Elettrot. e",
-        "3ECau",
+        "3EC",
         "E1-10",
         2,
         3
@@ -10066,7 +10066,7 @@
     [
         "Salone",
         "Elettrot. e",
-        "3ECau",
+        "3EC",
         "E1-10",
         2,
         3
@@ -10074,7 +10074,7 @@
     [
         "Sorrentino",
         "Elettrot. e",
-        "3ECau",
+        "3EC",
         "E3-2",
         2,
         4
@@ -10082,7 +10082,7 @@
     [
         "Guarino",
         "Inglese",
-        "3ECau",
+        "3EC",
         "E3-2",
         2,
         5
@@ -10090,7 +10090,7 @@
     [
         "Genovese",
         "Tecn. Prog",
-        "3ECau",
+        "3EC",
         "E2-7",
         3,
         1
@@ -10098,7 +10098,7 @@
     [
         "Dottore",
         "Tecn. Prog",
-        "3ECau",
+        "3EC",
         "E2-7",
         3,
         1
@@ -10106,7 +10106,7 @@
     [
         "Genovese",
         "Tecn. Prog",
-        "3ECau",
+        "3EC",
         "E2-7",
         3,
         2
@@ -10114,7 +10114,7 @@
     [
         "Dottore",
         "Tecn. Prog",
-        "3ECau",
+        "3EC",
         "E2-7",
         3,
         2
@@ -10122,7 +10122,7 @@
     [
         "Schiavi",
         "Matematica",
-        "3ECau",
+        "3EC",
         "E3-2",
         3,
         3
@@ -10130,7 +10130,7 @@
     [
         "Schiavi",
         "Matematica",
-        "3ECau",
+        "3EC",
         "E3-2",
         3,
         4
@@ -10138,7 +10138,7 @@
     [
         "Bolognini",
         "Sistemi",
-        "3ECau",
+        "3EC",
         "E1-7",
         3,
         5
@@ -10146,7 +10146,7 @@
     [
         "Maggi",
         "Sistemi",
-        "3ECau",
+        "3EC",
         "E1-7",
         3,
         5
@@ -10154,7 +10154,7 @@
     [
         "Bolognini",
         "Sistemi",
-        "3ECau",
+        "3EC",
         "E1-7",
         3,
         6
@@ -10162,7 +10162,7 @@
     [
         "Maggi",
         "Sistemi",
-        "3ECau",
+        "3EC",
         "E1-7",
         3,
         6
@@ -10170,7 +10170,7 @@
     [
         "Bolognini",
         "Sistemi",
-        "3ECau",
+        "3EC",
         "E1-7",
         4,
         1
@@ -10178,7 +10178,7 @@
     [
         "Maggi",
         "Sistemi",
-        "3ECau",
+        "3EC",
         "E1-7",
         4,
         1
@@ -10186,7 +10186,7 @@
     [
         "De Rosario",
         "Sc. Motorie",
-        "3ECau",
+        "3EC",
         "Pal. Fitness",
         4,
         2
@@ -10194,7 +10194,7 @@
     [
         "Pizzitola",
         "Italiano e",
-        "3ECau",
+        "3EC",
         "E3-2",
         4,
         3
@@ -10202,7 +10202,7 @@
     [
         "Guarino",
         "Inglese",
-        "3ECau",
+        "3EC",
         "E3-2",
         4,
         4
@@ -10210,7 +10210,7 @@
     [
         "Fumagalli",
         "Religione",
-        "3ECau",
+        "3EC",
         "E3-2",
         4,
         5
@@ -10218,7 +10218,7 @@
     [
         "Genovese",
         "Tecn. Prog",
-        "3ECau",
+        "3EC",
         "E3-2",
         5,
         1
@@ -10226,23 +10226,23 @@
     [
         "Bolognini",
         "Sistemi",
-        "3ECau",
-        "E3-2",
+        "3EC",
+        "E2-9",
         5,
         2
     ],
     [
         "Bolognini",
         "Sistemi",
-        "3ECau",
-        "E3-2",
+        "3EC",
+        "E2-9",
         5,
         3
     ],
     [
         "Guarino",
         "Inglese",
-        "3ECau",
+        "3EC",
         "E3-2",
         5,
         4
@@ -10250,7 +10250,7 @@
     [
         "Pizzitola",
         "Italiano e",
-        "3ECau",
+        "3EC",
         "E3-2",
         5,
         5
@@ -10258,7 +10258,7 @@
     [
         "Pizzitola",
         "Italiano e",
-        "3ECau",
+        "3EC",
         "E3-2",
         5,
         6
@@ -10266,7 +10266,7 @@
     [
         "Schiavi",
         "Matematica",
-        "3ECau",
+        "3EC",
         "E3-2",
         6,
         1
@@ -10274,7 +10274,7 @@
     [
         "Genovese",
         "Tecn. Prog",
-        "3ECau",
+        "3EC",
         "E3-2",
         6,
         2
@@ -10282,7 +10282,7 @@
     [
         "Sorrentino",
         "Elettrot. e",
-        "3ECau",
+        "3EC",
         "E3-2",
         6,
         3
@@ -10290,7 +10290,7 @@
     [
         "Bolognini",
         "Sistemi",
-        "3ECau",
+        "3EC",
         "E3-2",
         6,
         4
@@ -10480,7 +10480,7 @@
         1
     ],
     [
-        "Giavarini",
+        "Notariello",
         "Telecomuni",
         "3IA",
         "I3-6",
@@ -10496,7 +10496,7 @@
         2
     ],
     [
-        "Giavarini",
+        "Notariello",
         "Telecomuni",
         "3IA",
         "I3-6",
@@ -10616,7 +10616,7 @@
         4
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "3IB",
         "I2-3",
@@ -10664,7 +10664,7 @@
         4
     ],
     [
-        "A41-x1",
+        "Lupi",
         "Informatica",
         "3IB",
         "I2-13",
@@ -10712,7 +10712,7 @@
         3
     ],
     [
-        "A41-x1",
+        "Lupi",
         "Informatica",
         "3IB",
         "I2-3",
@@ -10720,7 +10720,7 @@
         4
     ],
     [
-        "A41-x1",
+        "Lupi",
         "Informatica",
         "3IB",
         "I2-3",
@@ -10744,7 +10744,7 @@
         2
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "3IB",
         "I2-3",
@@ -10792,7 +10792,7 @@
         2
     ],
     [
-        "A41-x1",
+        "Lupi",
         "Informatica",
         "3IB",
         "I2-13",
@@ -10808,7 +10808,7 @@
         3
     ],
     [
-        "A41-x1",
+        "Lupi",
         "Informatica",
         "3IB",
         "I2-13",
@@ -10864,7 +10864,7 @@
         3
     ],
     [
-        "A41-x1",
+        "Lupi",
         "Informatica",
         "3IB",
         "I2-3",
@@ -10928,7 +10928,7 @@
         3
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "3IB",
         "I2-3",
@@ -11264,7 +11264,7 @@
         1
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "3ID",
         "I3-2",
@@ -11376,7 +11376,7 @@
         6
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "3ID",
         "I3-2",
@@ -11560,7 +11560,7 @@
         2
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "3ID",
         "I3-2",
@@ -12120,7 +12120,7 @@
         2
     ],
     [
-        "Giavarini",
+        "Strignano",
         "Telecomuni",
         "3IF",
         "I3-6",
@@ -12136,7 +12136,7 @@
         3
     ],
     [
-        "Giavarini",
+        "Strignano",
         "Telecomuni",
         "3IF",
         "I3-6",
@@ -13560,7 +13560,7 @@
         4
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "3ME",
         "1-91",
@@ -13576,7 +13576,7 @@
         1
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "3ME",
         "1-91",
@@ -13712,7 +13712,7 @@
         2
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "3ME",
         "1-91",
@@ -13744,26 +13744,10 @@
         1
     ],
     [
-        "Quattrore",
-        "Tecn",
-        "3ME",
-        "M1-18",
-        5,
-        1
-    ],
-    [
         "Zanetti",
         "Tecn",
         "3ME",
         "1-91",
-        5,
-        2
-    ],
-    [
-        "Quattrore",
-        "Tecn",
-        "3ME",
-        "M1-18",
         5,
         2
     ],
@@ -13968,7 +13952,7 @@
         6
     ],
     [
-        "Rota Bulo'",
+        "Caravella",
         "Inglese",
         "3TA",
         "1-8",
@@ -14040,7 +14024,7 @@
         2
     ],
     [
-        "Rota Bulo'",
+        "Caravella",
         "Inglese",
         "3TA",
         "1-8",
@@ -14144,7 +14128,7 @@
         2
     ],
     [
-        "Rota Bulo'",
+        "Caravella",
         "Inglese",
         "3TA",
         "1-8",
@@ -14162,39 +14146,39 @@
     [
         "Di Pietro",
         "Sistemi",
-        "4EAelt",
-        "E1-7",
+        "4EA",
+        "T1-12",
         1,
         1
     ],
     [
         "Salone",
         "Sistemi",
-        "4EAelt",
-        "E1-7",
+        "4EA",
+        "T1-12",
         1,
         1
     ],
     [
         "Di Pietro",
         "Sistemi",
-        "4EAelt",
-        "E1-7",
+        "4EA",
+        "T1-12",
         1,
         2
     ],
     [
         "Salone",
         "Sistemi",
-        "4EAelt",
-        "E1-7",
+        "4EA",
+        "T1-12",
         1,
         2
     ],
     [
         "Strada",
         "Tecn. Prog",
-        "4EAelt",
+        "4EA",
         "E2-7",
         1,
         3
@@ -14202,7 +14186,7 @@
     [
         "Maggi",
         "Tecn. Prog",
-        "4EAelt",
+        "4EA",
         "E2-7",
         1,
         3
@@ -14210,7 +14194,7 @@
     [
         "Strada",
         "Tecn. Prog",
-        "4EAelt",
+        "4EA",
         "E2-7",
         1,
         4
@@ -14218,7 +14202,7 @@
     [
         "Maggi",
         "Tecn. Prog",
-        "4EAelt",
+        "4EA",
         "E2-7",
         1,
         4
@@ -14226,7 +14210,7 @@
     [
         "Chitarrari",
         "Inglese",
-        "4EAelt",
+        "4EA",
         "E2-1",
         1,
         5
@@ -14234,7 +14218,7 @@
     [
         "Castelletti",
         "Elettrot. e",
-        "4EAelt",
+        "4EA",
         "E2-1",
         1,
         6
@@ -14242,7 +14226,7 @@
     [
         "Di Pietro",
         "Sistemi",
-        "4EAelt",
+        "4EA",
         "E2-1",
         2,
         1
@@ -14250,7 +14234,7 @@
     [
         "Patane'",
         "Italiano e",
-        "4EAelt",
+        "4EA",
         "E2-1",
         2,
         2
@@ -14258,7 +14242,7 @@
     [
         "Zammaretti",
         "Matematica",
-        "4EAelt",
+        "4EA",
         "E2-1",
         2,
         3
@@ -14266,7 +14250,7 @@
     [
         "Castelletti",
         "Elettrot. e",
-        "4EAelt",
+        "4EA",
         "E1-10",
         2,
         4
@@ -14274,7 +14258,7 @@
     [
         "Dottore",
         "Elettrot. e",
-        "4EAelt",
+        "4EA",
         "E1-10",
         2,
         4
@@ -14282,7 +14266,7 @@
     [
         "Castelletti",
         "Elettrot. e",
-        "4EAelt",
+        "4EA",
         "E1-10",
         2,
         5
@@ -14290,7 +14274,7 @@
     [
         "Dottore",
         "Elettrot. e",
-        "4EAelt",
+        "4EA",
         "E1-10",
         2,
         5
@@ -14298,7 +14282,7 @@
     [
         "Patane'",
         "Italiano e",
-        "4EAelt",
+        "4EA",
         "E2-1",
         3,
         1
@@ -14306,7 +14290,7 @@
     [
         "Chitarrari",
         "Inglese",
-        "4EAelt",
+        "4EA",
         "E2-1",
         3,
         2
@@ -14314,7 +14298,7 @@
     [
         "Zammaretti",
         "Matematica",
-        "4EAelt",
+        "4EA",
         "E2-1",
         3,
         3
@@ -14322,7 +14306,7 @@
     [
         "Castelletti",
         "Elettrot. e",
-        "4EAelt",
+        "4EA",
         "E2-1",
         3,
         4
@@ -14330,7 +14314,7 @@
     [
         "Castelletti",
         "Elettrot. e",
-        "4EAelt",
+        "4EA",
         "E2-1",
         3,
         5
@@ -14338,7 +14322,7 @@
     [
         "Patane'",
         "Italiano e",
-        "4EAelt",
+        "4EA",
         "E2-1",
         4,
         1
@@ -14346,7 +14330,7 @@
     [
         "Patane'",
         "Italiano e",
-        "4EAelt",
+        "4EA",
         "E2-1",
         4,
         2
@@ -14354,7 +14338,7 @@
     [
         "Strada",
         "Tecn. Prog",
-        "4EAelt",
+        "4EA",
         "E2-7",
         4,
         3
@@ -14362,7 +14346,7 @@
     [
         "Maggi",
         "Tecn. Prog",
-        "4EAelt",
+        "4EA",
         "E2-7",
         4,
         3
@@ -14370,7 +14354,7 @@
     [
         "Strada",
         "Tecn. Prog",
-        "4EAelt",
+        "4EA",
         "E2-7",
         4,
         4
@@ -14378,7 +14362,7 @@
     [
         "Maggi",
         "Tecn. Prog",
-        "4EAelt",
+        "4EA",
         "E2-7",
         4,
         4
@@ -14386,7 +14370,7 @@
     [
         "Zammaretti",
         "Matematica",
-        "4EAelt",
+        "4EA",
         "E2-1",
         4,
         5
@@ -14394,7 +14378,7 @@
     [
         "Spina",
         "Sc. Motorie",
-        "4EAelt",
+        "4EA",
         "Pal. Fitness",
         4,
         7
@@ -14402,7 +14386,7 @@
     [
         "Spina",
         "Sc. Motorie",
-        "4EAelt",
+        "4EA",
         "Pal. Fitness",
         4,
         8
@@ -14410,7 +14394,7 @@
     [
         "Patane'",
         "Italiano e",
-        "4EAelt",
+        "4EA",
         "E2-1",
         5,
         1
@@ -14418,7 +14402,7 @@
     [
         "Zammaretti",
         "Matematica",
-        "4EAelt",
+        "4EA",
         "E2-1",
         5,
         2
@@ -14426,7 +14410,7 @@
     [
         "Castelletti",
         "Elettrot. e",
-        "4EAelt",
+        "4EA",
         "E1-10",
         5,
         3
@@ -14434,7 +14418,7 @@
     [
         "Dottore",
         "Elettrot. e",
-        "4EAelt",
+        "4EA",
         "E1-10",
         5,
         3
@@ -14442,7 +14426,7 @@
     [
         "Strada",
         "Tecn. Prog",
-        "4EAelt",
+        "4EA",
         "E2-1",
         5,
         4
@@ -14450,7 +14434,7 @@
     [
         "Cuminetti",
         "Religione",
-        "4EAelt",
+        "4EA",
         "E2-1",
         5,
         5
@@ -14458,7 +14442,7 @@
     [
         "Chitarrari",
         "Inglese",
-        "4EAelt",
+        "4EA",
         "E2-1",
         6,
         1
@@ -14466,7 +14450,7 @@
     [
         "Patane'",
         "Italiano e",
-        "4EAelt",
+        "4EA",
         "E2-1",
         6,
         2
@@ -14474,7 +14458,7 @@
     [
         "Di Pietro",
         "Sistemi",
-        "4EAelt",
+        "4EA",
         "E2-1",
         6,
         3
@@ -14482,7 +14466,7 @@
     [
         "Di Pietro",
         "Sistemi",
-        "4EAelt",
+        "4EA",
         "E2-1",
         6,
         4
@@ -14490,15 +14474,15 @@
     [
         "Posillico",
         "Matematica",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         1,
         1
     ],
     [
-        "Rota Bulo'",
+        "Caravella",
         "Inglese",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         1,
         2
@@ -14506,7 +14490,7 @@
     [
         "Di Pietro",
         "Sistemi",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         1,
         3
@@ -14514,15 +14498,15 @@
     [
         "Cagliani",
         "Tecn. Prog",
-        "4EBeln",
+        "4EBN",
         "E3-8",
         1,
         4
     ],
     [
-        "Giavarini",
+        "Carciopolo",
         "Tecn. Prog",
-        "4EBeln",
+        "4EBN",
         "E3-8",
         1,
         4
@@ -14530,23 +14514,23 @@
     [
         "Cagliani",
         "Tecn. Prog",
-        "4EBeln",
+        "4EBN",
         "E3-8",
         1,
         5
     ],
     [
-        "Giavarini",
+        "Carciopolo",
         "Tecn. Prog",
-        "4EBeln",
+        "4EBN",
         "E3-8",
         1,
         5
     ],
     [
-        "Rota Bulo'",
+        "Caravella",
         "Inglese",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         2,
         1
@@ -14554,7 +14538,7 @@
     [
         "Di Pietro",
         "Sistemi",
-        "4EBeln",
+        "4EBN",
         "E2-7",
         2,
         2
@@ -14562,7 +14546,7 @@
     [
         "Ghiglione",
         "Sistemi",
-        "4EBeln",
+        "4EBN",
         "E2-7",
         2,
         2
@@ -14570,7 +14554,7 @@
     [
         "Di Pietro",
         "Sistemi",
-        "4EBeln",
+        "4EBN",
         "E2-7",
         2,
         3
@@ -14578,7 +14562,7 @@
     [
         "Ghiglione",
         "Sistemi",
-        "4EBeln",
+        "4EBN",
         "E2-7",
         2,
         3
@@ -14586,15 +14570,15 @@
     [
         "Cagliani",
         "Tecn. Prog",
-        "4EBeln",
+        "4EBN",
         "E3-8",
         2,
         4
     ],
     [
-        "Giavarini",
+        "Carciopolo",
         "Tecn. Prog",
-        "4EBeln",
+        "4EBN",
         "E3-8",
         2,
         4
@@ -14602,15 +14586,15 @@
     [
         "Cagliani",
         "Tecn. Prog",
-        "4EBeln",
+        "4EBN",
         "E3-8",
         2,
         5
     ],
     [
-        "Giavarini",
+        "Carciopolo",
         "Tecn. Prog",
-        "4EBeln",
+        "4EBN",
         "E3-8",
         2,
         5
@@ -14618,7 +14602,7 @@
     [
         "Posillico",
         "Matematica",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         2,
         6
@@ -14626,7 +14610,7 @@
     [
         "Cattaneo",
         "Italiano",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         3,
         1
@@ -14634,15 +14618,15 @@
     [
         "Cattaneo",
         "Italiano",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         3,
         2
     ],
     [
-        "Rota Bulo'",
+        "Caravella",
         "Inglese",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         3,
         3
@@ -14650,7 +14634,7 @@
     [
         "Cagliani",
         "Tecn. Prog",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         3,
         4
@@ -14658,7 +14642,7 @@
     [
         "Tasca",
         "Elettrot. e",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         3,
         5
@@ -14666,7 +14650,7 @@
     [
         "Tasca",
         "Elettrot. e",
-        "4EBeln",
+        "4EBN",
         "E3-8",
         4,
         1
@@ -14674,7 +14658,7 @@
     [
         "Ghiglione",
         "Elettrot. e",
-        "4EBeln",
+        "4EBN",
         "E3-8",
         4,
         1
@@ -14682,7 +14666,7 @@
     [
         "Tasca",
         "Elettrot. e",
-        "4EBeln",
+        "4EBN",
         "E3-8",
         4,
         2
@@ -14690,7 +14674,7 @@
     [
         "Ghiglione",
         "Elettrot. e",
-        "4EBeln",
+        "4EBN",
         "E3-8",
         4,
         2
@@ -14698,7 +14682,7 @@
     [
         "Tasca",
         "Elettrot. e",
-        "4EBeln",
+        "4EBN",
         "E3-8",
         4,
         3
@@ -14706,7 +14690,7 @@
     [
         "Ghiglione",
         "Elettrot. e",
-        "4EBeln",
+        "4EBN",
         "E3-8",
         4,
         3
@@ -14714,7 +14698,7 @@
     [
         "Di Pietro",
         "Sistemi",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         4,
         4
@@ -14722,7 +14706,7 @@
     [
         "Desoppi",
         "Storia",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         4,
         5
@@ -14730,7 +14714,7 @@
     [
         "Auriemma",
         "Sc. Motorie",
-        "4EBeln",
+        "4EBN",
         "Palestra 2",
         4,
         7
@@ -14738,7 +14722,7 @@
     [
         "Auriemma",
         "Sc. Motorie",
-        "4EBeln",
+        "4EBN",
         "Palestra 2",
         4,
         8
@@ -14746,7 +14730,7 @@
     [
         "Tasca",
         "Elettrot. e",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         5,
         1
@@ -14754,7 +14738,7 @@
     [
         "Tasca",
         "Elettrot. e",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         5,
         2
@@ -14762,7 +14746,7 @@
     [
         "Cuminetti",
         "Religione",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         5,
         3
@@ -14770,7 +14754,7 @@
     [
         "Di Pietro",
         "Sistemi",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         5,
         4
@@ -14778,7 +14762,7 @@
     [
         "Posillico",
         "Matematica",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         5,
         5
@@ -14786,7 +14770,7 @@
     [
         "Desoppi",
         "Storia",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         6,
         1
@@ -14794,7 +14778,7 @@
     [
         "Posillico",
         "Matematica",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         6,
         2
@@ -14802,7 +14786,7 @@
     [
         "Cattaneo",
         "Italiano",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         6,
         3
@@ -14810,7 +14794,7 @@
     [
         "Cattaneo",
         "Italiano",
-        "4EBeln",
+        "4EBN",
         "E2-2",
         6,
         4
@@ -14818,7 +14802,7 @@
     [
         "Tasca",
         "Tecn. Prog",
-        "4ECaut",
+        "4ECA",
         "E2-7",
         1,
         1
@@ -14826,7 +14810,7 @@
     [
         "Dottore",
         "Tecn. Prog",
-        "4ECaut",
+        "4ECA",
         "E2-7",
         1,
         1
@@ -14834,7 +14818,7 @@
     [
         "Tasca",
         "Tecn. Prog",
-        "4ECaut",
+        "4ECA",
         "E2-7",
         1,
         2
@@ -14842,7 +14826,7 @@
     [
         "Dottore",
         "Tecn. Prog",
-        "4ECaut",
+        "4ECA",
         "E2-7",
         1,
         2
@@ -14850,7 +14834,7 @@
     [
         "Fumagalli",
         "Religione",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         1,
         3
@@ -14858,7 +14842,7 @@
     [
         "Pizzitola",
         "Italiano e",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         1,
         4
@@ -14866,7 +14850,7 @@
     [
         "Pizzitola",
         "Italiano e",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         1,
         5
@@ -14874,7 +14858,7 @@
     [
         "Sorrentino",
         "Elettrot. e",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         2,
         1
@@ -14882,7 +14866,7 @@
     [
         "Pizzitola",
         "Italiano e",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         2,
         2
@@ -14890,7 +14874,7 @@
     [
         "Pizzitola",
         "Italiano e",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         2,
         3
@@ -14898,7 +14882,7 @@
     [
         "Guarino",
         "Inglese",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         2,
         4
@@ -14906,7 +14890,7 @@
     [
         "Lepore",
         "Matematica",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         2,
         5
@@ -14914,7 +14898,7 @@
     [
         "Spina",
         "Sc. Motorie",
-        "4ECaut",
+        "4ECA",
         "Pal. Fitness",
         2,
         7
@@ -14922,7 +14906,7 @@
     [
         "Spina",
         "Sc. Motorie",
-        "4ECaut",
+        "4ECA",
         "Pal. Fitness",
         2,
         8
@@ -14930,15 +14914,15 @@
     [
         "Bolognini",
         "Sistemi",
-        "4ECaut",
-        "E3-1",
+        "4ECA",
+        "E1-7",
         3,
         1
     ],
     [
         "Bolognini",
         "Sistemi",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         3,
         2
@@ -14946,7 +14930,7 @@
     [
         "Tasca",
         "Tecn. Prog",
-        "4ECaut",
+        "4ECA",
         "E2-7",
         3,
         3
@@ -14954,7 +14938,7 @@
     [
         "Dottore",
         "Tecn. Prog",
-        "4ECaut",
+        "4ECA",
         "E2-7",
         3,
         3
@@ -14962,7 +14946,7 @@
     [
         "Tasca",
         "Tecn. Prog",
-        "4ECaut",
+        "4ECA",
         "E2-7",
         3,
         4
@@ -14970,7 +14954,7 @@
     [
         "Dottore",
         "Tecn. Prog",
-        "4ECaut",
+        "4ECA",
         "E2-7",
         3,
         4
@@ -14978,7 +14962,7 @@
     [
         "Guarino",
         "Inglese",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         3,
         5
@@ -14986,7 +14970,7 @@
     [
         "Lepore",
         "Matematica",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         4,
         1
@@ -14994,7 +14978,7 @@
     [
         "Pizzitola",
         "Italiano e",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         4,
         2
@@ -15002,15 +14986,15 @@
     [
         "Sorrentino",
         "Elettrot. e",
-        "4ECaut",
+        "4ECA",
         "E1-10",
         4,
         3
     ],
     [
-        "Giavarini",
+        "Notariello",
         "Elettrot. e",
-        "4ECaut",
+        "4ECA",
         "E1-10",
         4,
         3
@@ -15018,15 +15002,15 @@
     [
         "Sorrentino",
         "Elettrot. e",
-        "4ECaut",
+        "4ECA",
         "E1-10",
         4,
         4
     ],
     [
-        "Giavarini",
+        "Notariello",
         "Elettrot. e",
-        "4ECaut",
+        "4ECA",
         "E1-10",
         4,
         4
@@ -15034,7 +15018,7 @@
     [
         "Tasca",
         "Tecn. Prog",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         4,
         5
@@ -15042,7 +15026,7 @@
     [
         "Pizzitola",
         "Italiano e",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         5,
         1
@@ -15050,7 +15034,7 @@
     [
         "Guarino",
         "Inglese",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         5,
         2
@@ -15058,7 +15042,7 @@
     [
         "Lepore",
         "Matematica",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         5,
         3
@@ -15066,7 +15050,7 @@
     [
         "Bolognini",
         "Sistemi",
-        "4ECaut",
+        "4ECA",
         "E1-7",
         5,
         4
@@ -15074,7 +15058,7 @@
     [
         "Dottore",
         "Sistemi",
-        "4ECaut",
+        "4ECA",
         "E1-7",
         5,
         4
@@ -15082,7 +15066,7 @@
     [
         "Bolognini",
         "Sistemi",
-        "4ECaut",
+        "4ECA",
         "E1-7",
         5,
         5
@@ -15090,7 +15074,7 @@
     [
         "Dottore",
         "Sistemi",
-        "4ECaut",
+        "4ECA",
         "E1-7",
         5,
         5
@@ -15098,7 +15082,7 @@
     [
         "Bolognini",
         "Sistemi",
-        "4ECaut",
+        "4ECA",
         "E1-7",
         5,
         6
@@ -15106,7 +15090,7 @@
     [
         "Dottore",
         "Sistemi",
-        "4ECaut",
+        "4ECA",
         "E1-7",
         5,
         6
@@ -15114,7 +15098,7 @@
     [
         "Sorrentino",
         "Elettrot. e",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         6,
         1
@@ -15122,7 +15106,7 @@
     [
         "Sorrentino",
         "Elettrot. e",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         6,
         2
@@ -15130,7 +15114,7 @@
     [
         "Bolognini",
         "Sistemi",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         6,
         3
@@ -15138,7 +15122,7 @@
     [
         "Lepore",
         "Matematica",
-        "4ECaut",
+        "4ECA",
         "E3-1",
         6,
         4
@@ -15624,7 +15608,7 @@
         3
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "4IB",
         "I1-2",
@@ -15656,7 +15640,7 @@
         2
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "4IB",
         "I1-2",
@@ -15728,7 +15712,7 @@
         2
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "4IB",
         "I1-2",
@@ -16128,7 +16112,7 @@
         4
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "4ID",
         "I2-1",
@@ -16280,7 +16264,7 @@
         1
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "4ID",
         "I2-1",
@@ -16328,7 +16312,7 @@
         1
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "4ID",
         "I2-1",
@@ -16520,7 +16504,7 @@
         6
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "4IE",
         "I2-1",
@@ -16624,7 +16608,7 @@
         3
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "4IE",
         "I1-3",
@@ -16680,7 +16664,7 @@
         5
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "4IE",
         "I2-1",
@@ -16840,7 +16824,7 @@
         4
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "4IF",
         "I2-3",
@@ -16864,7 +16848,7 @@
         1
     ],
     [
-        "Giavarini",
+        "Napolitano",
         "Telecomuni",
         "4IF",
         "I3-6",
@@ -16880,7 +16864,7 @@
         2
     ],
     [
-        "Giavarini",
+        "Napolitano",
         "Telecomuni",
         "4IF",
         "I3-6",
@@ -16944,7 +16928,7 @@
         4
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "4IF",
         "I3-1",
@@ -17104,7 +17088,7 @@
         3
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "4IF",
         "I3-13",
@@ -19139,7 +19123,7 @@
         "Russo",
         "Sistemi",
         "5EA",
-        "E1-7",
+        "T1-12",
         3,
         2
     ],
@@ -19147,7 +19131,7 @@
         "Maggi",
         "Sistemi",
         "5EA",
-        "E1-7",
+        "T1-12",
         3,
         2
     ],
@@ -19155,7 +19139,7 @@
         "Russo",
         "Sistemi",
         "5EA",
-        "E1-7",
+        "T1-12",
         3,
         3
     ],
@@ -19163,7 +19147,7 @@
         "Maggi",
         "Sistemi",
         "5EA",
-        "E1-7",
+        "T1-12",
         3,
         3
     ],
@@ -19171,7 +19155,7 @@
         "Russo",
         "Sistemi",
         "5EA",
-        "E1-7",
+        "T1-12",
         3,
         4
     ],
@@ -19179,7 +19163,7 @@
         "Maggi",
         "Sistemi",
         "5EA",
-        "E1-7",
+        "T1-12",
         3,
         4
     ],
@@ -19376,7 +19360,7 @@
         4
     ],
     [
-        "Rota Bulo'",
+        "Caravella",
         "Inglese",
         "5EB",
         "1-96",
@@ -19440,7 +19424,7 @@
         3
     ],
     [
-        "Rota Bulo'",
+        "Caravella",
         "Inglese",
         "5EB",
         "1-96",
@@ -19520,7 +19504,7 @@
         4
     ],
     [
-        "Rota Bulo'",
+        "Caravella",
         "Inglese",
         "5EB",
         "1-96",
@@ -19531,7 +19515,7 @@
         "Di Pietro",
         "Tecn. Prog",
         "5EB",
-        "E2-7",
+        "T1-12",
         4,
         1
     ],
@@ -19539,7 +19523,7 @@
         "Salone",
         "Tecn. Prog",
         "5EB",
-        "E2-7",
+        "T1-12",
         4,
         1
     ],
@@ -19547,7 +19531,7 @@
         "Di Pietro",
         "Tecn. Prog",
         "5EB",
-        "E2-7",
+        "T1-12",
         4,
         2
     ],
@@ -19555,7 +19539,7 @@
         "Salone",
         "Tecn. Prog",
         "5EB",
-        "E2-7",
+        "T1-12",
         4,
         2
     ],
@@ -20050,7 +20034,7 @@
     [
         "Marchese",
         "Italiano e",
-        "5EDn",
+        "5EDN",
         "T1-14",
         1,
         1
@@ -20058,7 +20042,7 @@
     [
         "Caccia",
         "Inglese",
-        "5EDn",
+        "5EDN",
         "T1-14",
         1,
         2
@@ -20066,7 +20050,7 @@
     [
         "Posillico",
         "Matematica",
-        "5EDn",
+        "5EDN",
         "T1-14",
         1,
         3
@@ -20074,7 +20058,7 @@
     [
         "Aloisi",
         "Elettrot. e",
-        "5EDn",
+        "5EDN",
         "T1-14",
         1,
         4
@@ -20082,7 +20066,7 @@
     [
         "Aloisi",
         "Elettrot. e",
-        "5EDn",
+        "5EDN",
         "T1-14",
         1,
         5
@@ -20090,7 +20074,7 @@
     [
         "Cagliani",
         "Tecn. Prog",
-        "5EDn",
+        "5EDN",
         "T1-14",
         1,
         6
@@ -20098,7 +20082,7 @@
     [
         "Aloisi",
         "Elettrot. e",
-        "5EDn",
+        "5EDN",
         "T1-14",
         2,
         1
@@ -20106,7 +20090,7 @@
     [
         "Cagliani",
         "Tecn. Prog",
-        "5EDn",
+        "5EDN",
         "E3-8",
         2,
         2
@@ -20114,7 +20098,7 @@
     [
         "Maggi",
         "Tecn. Prog",
-        "5EDn",
+        "5EDN",
         "E3-8",
         2,
         2
@@ -20122,7 +20106,7 @@
     [
         "Cagliani",
         "Tecn. Prog",
-        "5EDn",
+        "5EDN",
         "E3-8",
         2,
         3
@@ -20130,7 +20114,7 @@
     [
         "Maggi",
         "Tecn. Prog",
-        "5EDn",
+        "5EDN",
         "E3-8",
         2,
         3
@@ -20138,7 +20122,7 @@
     [
         "Bolognini",
         "Sistemi",
-        "5EDn",
+        "5EDN",
         "E2-7",
         2,
         4
@@ -20146,7 +20130,7 @@
     [
         "Maggi",
         "Sistemi",
-        "5EDn",
+        "5EDN",
         "E2-7",
         2,
         4
@@ -20154,7 +20138,7 @@
     [
         "Bolognini",
         "Sistemi",
-        "5EDn",
+        "5EDN",
         "E2-7",
         2,
         5
@@ -20162,7 +20146,7 @@
     [
         "Maggi",
         "Sistemi",
-        "5EDn",
+        "5EDN",
         "E2-7",
         2,
         5
@@ -20170,7 +20154,7 @@
     [
         "Bolognini",
         "Sistemi",
-        "5EDn",
+        "5EDN",
         "E2-7",
         2,
         6
@@ -20178,7 +20162,7 @@
     [
         "Maggi",
         "Sistemi",
-        "5EDn",
+        "5EDN",
         "E2-7",
         2,
         6
@@ -20186,7 +20170,7 @@
     [
         "Marchese",
         "Italiano e",
-        "5EDn",
+        "5EDN",
         "T1-14",
         3,
         1
@@ -20194,7 +20178,7 @@
     [
         "Marchese",
         "Italiano e",
-        "5EDn",
+        "5EDN",
         "T1-14",
         3,
         2
@@ -20202,7 +20186,7 @@
     [
         "Rota",
         "Religione",
-        "5EDn",
+        "5EDN",
         "T1-14",
         3,
         3
@@ -20210,7 +20194,7 @@
     [
         "Caccia",
         "Inglese",
-        "5EDn",
+        "5EDN",
         "T1-14",
         3,
         4
@@ -20218,7 +20202,7 @@
     [
         "Cagliani",
         "Tecn. Prog",
-        "5EDn",
+        "5EDN",
         "T1-14",
         3,
         5
@@ -20226,7 +20210,7 @@
     [
         "Posillico",
         "Matematica",
-        "5EDn",
+        "5EDN",
         "T1-14",
         4,
         1
@@ -20234,7 +20218,7 @@
     [
         "Bolognini",
         "Sistemi",
-        "5EDn",
+        "5EDN",
         "T1-14",
         4,
         2
@@ -20242,7 +20226,7 @@
     [
         "Marchese",
         "Italiano e",
-        "5EDn",
+        "5EDN",
         "T1-14",
         4,
         3
@@ -20250,7 +20234,7 @@
     [
         "Aloisi",
         "Elettrot. e",
-        "5EDn",
+        "5EDN",
         "E3-8",
         4,
         4
@@ -20258,7 +20242,7 @@
     [
         "Dottore",
         "Elettrot. e",
-        "5EDn",
+        "5EDN",
         "E3-8",
         4,
         4
@@ -20266,7 +20250,7 @@
     [
         "Aloisi",
         "Elettrot. e",
-        "5EDn",
+        "5EDN",
         "E3-8",
         4,
         5
@@ -20274,7 +20258,7 @@
     [
         "Dottore",
         "Elettrot. e",
-        "5EDn",
+        "5EDN",
         "E3-8",
         4,
         5
@@ -20282,7 +20266,7 @@
     [
         "Aloisi",
         "Elettrot. e",
-        "5EDn",
+        "5EDN",
         "E3-8",
         4,
         6
@@ -20290,7 +20274,7 @@
     [
         "Dottore",
         "Elettrot. e",
-        "5EDn",
+        "5EDN",
         "E3-8",
         4,
         6
@@ -20298,7 +20282,7 @@
     [
         "Bolognini",
         "Sistemi",
-        "5EDn",
+        "5EDN",
         "E3-8",
         5,
         1
@@ -20306,7 +20290,7 @@
     [
         "Cagliani",
         "Tecn. Prog",
-        "5EDn",
+        "5EDN",
         "E3-8",
         5,
         2
@@ -20314,7 +20298,7 @@
     [
         "Maggi",
         "Tecn. Prog",
-        "5EDn",
+        "5EDN",
         "E3-8",
         5,
         2
@@ -20322,7 +20306,7 @@
     [
         "Cagliani",
         "Tecn. Prog",
-        "5EDn",
+        "5EDN",
         "E3-8",
         5,
         3
@@ -20330,7 +20314,7 @@
     [
         "Maggi",
         "Tecn. Prog",
-        "5EDn",
+        "5EDN",
         "E3-8",
         5,
         3
@@ -20338,7 +20322,7 @@
     [
         "Posillico",
         "Matematica",
-        "5EDn",
+        "5EDN",
         "T1-14",
         5,
         4
@@ -20346,7 +20330,7 @@
     [
         "Caccia",
         "Inglese",
-        "5EDn",
+        "5EDN",
         "T1-14",
         5,
         5
@@ -20354,7 +20338,7 @@
     [
         "Marchese",
         "Italiano e",
-        "5EDn",
+        "5EDN",
         "T1-14",
         6,
         1
@@ -20362,7 +20346,7 @@
     [
         "Marchese",
         "Italiano e",
-        "5EDn",
+        "5EDN",
         "T1-14",
         6,
         2
@@ -20370,7 +20354,7 @@
     [
         "Spina",
         "Sc. Motorie",
-        "5EDn",
+        "5EDN",
         "Palestra 2",
         6,
         3
@@ -20378,7 +20362,7 @@
     [
         "Spina",
         "Sc. Motorie",
-        "5EDn",
+        "5EDN",
         "Palestra 2",
         6,
         4
@@ -20920,7 +20904,7 @@
         6
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "5IB",
         "I2-2",
@@ -21024,7 +21008,7 @@
         4
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "5IB",
         "I3-2",
@@ -21032,7 +21016,7 @@
         5
     ],
     [
-        "Musu",
+        "Bianca",
         "Inglese",
         "5IB",
         "1-94",
@@ -21392,7 +21376,7 @@
         4
     ],
     [
-        "A41-x1",
+        "Zanchi",
         "Informatica",
         "5ID",
         "I2-6",
@@ -21408,7 +21392,7 @@
         1
     ],
     [
-        "A41-x1",
+        "Zanchi",
         "Informatica",
         "5ID",
         "I2-6",
@@ -21608,7 +21592,7 @@
         4
     ],
     [
-        "A41-x1",
+        "Zanchi",
         "Informatica",
         "5ID",
         "I3-1",
@@ -21624,7 +21608,7 @@
         1
     ],
     [
-        "A41-x1",
+        "Zanchi",
         "Informatica",
         "5ID",
         "I1-6",
@@ -21640,7 +21624,7 @@
         2
     ],
     [
-        "A41-x1",
+        "Zanchi",
         "Informatica",
         "5ID",
         "I1-6",
@@ -21696,7 +21680,7 @@
         6
     ],
     [
-        "A41-x1",
+        "Zanchi",
         "Informatica",
         "5ID",
         "1-91",
@@ -22515,7 +22499,7 @@
         "Alfonsi",
         "Inglese",
         "5MC",
-        "T2-1",
+        "I2-13",
         3,
         2
     ],
@@ -22832,7 +22816,7 @@
         4
     ],
     [
-        "Rota Bulo'",
+        "Caravella",
         "Inglese",
         "5MD",
         "M3-8",
@@ -22856,7 +22840,7 @@
         1
     ],
     [
-        "Rota Bulo'",
+        "Caravella",
         "Inglese",
         "5MD",
         "M3-8",
@@ -22984,7 +22968,7 @@
         5
     ],
     [
-        "Rota Bulo'",
+        "Caravella",
         "Inglese",
         "5MD",
         "M3-8",
@@ -23104,7 +23088,7 @@
         3
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "5ME",
         "M3-3",
@@ -23256,7 +23240,7 @@
         5
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "5ME",
         "T3-4",
@@ -23376,7 +23360,7 @@
         6
     ],
     [
-        "Raffaini",
+        "Di Turi",
         "Inglese",
         "5ME",
         "T2-2",

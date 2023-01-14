@@ -781,7 +781,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "4-13"
                     }
                 ]
@@ -877,7 +877,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "4-13"
                     }
                 ]
@@ -1109,7 +1109,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "4-13"
                     }
                 ]
@@ -1354,7 +1354,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "1-14"
                     }
                 ]
@@ -1424,7 +1424,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "1-14"
                     }
                 ]
@@ -1472,7 +1472,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "1-14"
                     }
                 ]
@@ -3049,10 +3049,6 @@
                     {
                         "teacher": "Scerra",
                         "classroom": "1-5"
-                    },
-                    {
-                        "teacher": "Colca",
-                        "classroom": "1-5"
                     }
                 ]
             },
@@ -3097,6 +3093,10 @@
                     {
                         "teacher": "Scerra",
                         "classroom": "1-5"
+                    },
+                    {
+                        "teacher": "Colca",
+                        "classroom": "1-5"
                     }
                 ]
             },
@@ -3128,7 +3128,7 @@
                 "subject": "S.I. Fisica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A20-x1",
+                        "teacher": "Furfaro",
                         "classroom": "1-5"
                     }
                 ]
@@ -3139,7 +3139,7 @@
                 "subject": "S.I. Fisica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A20-x1",
+                        "teacher": "Furfaro",
                         "classroom": "1-5"
                     }
                 ]
@@ -3268,7 +3268,7 @@
                 "subject": "S.I. Fisica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A20-x1",
+                        "teacher": "Furfaro",
                         "classroom": "1-15"
                     },
                     {
@@ -4126,7 +4126,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Alfonsi",
-                        "classroom": "2-2"
+                        "classroom": "1-32"
                     }
                 ]
             },
@@ -5328,7 +5328,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Rota Bulo'",
+                        "teacher": "Caravella",
                         "classroom": "4-2"
                     }
                 ]
@@ -5479,7 +5479,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Rota Bulo'",
+                        "teacher": "Caravella",
                         "classroom": "4-2"
                     }
                 ]
@@ -5586,7 +5586,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Rota Bulo'",
+                        "teacher": "Caravella",
                         "classroom": "4-2"
                     }
                 ]
@@ -6021,11 +6021,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Scerra",
-                        "classroom": "3-5"
-                    },
-                    {
-                        "teacher": "Cardamone",
-                        "classroom": "3-5"
+                        "classroom": "1-90"
                     }
                 ]
             },
@@ -6242,7 +6238,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Scerra",
-                        "classroom": "2-8"
+                        "classroom": "3-5"
+                    },
+                    {
+                        "teacher": "Cardamone",
+                        "classroom": "3-5"
                     }
                 ]
             },
@@ -6763,7 +6763,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "3-12"
                     }
                 ]
@@ -6797,11 +6797,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Ghezzi",
-                        "classroom": "T2-9"
+                        "classroom": "1-17"
                     },
                     {
                         "teacher": "Bonifati",
-                        "classroom": "T2-9"
+                        "classroom": "1-17"
                     }
                 ]
             },
@@ -6833,7 +6833,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "3-12"
                     }
                 ]
@@ -6991,7 +6991,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "3-12"
                     }
                 ]
@@ -7151,7 +7151,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "3-13"
                     }
                 ]
@@ -7162,7 +7162,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "3-13"
                     }
                 ]
@@ -7449,7 +7449,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "3-13"
                     }
                 ]
@@ -7909,7 +7909,7 @@
                 "subject": "Sc. e Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x1",
+                        "teacher": "Bacchi",
                         "classroom": "3-15"
                     }
                 ]
@@ -8063,7 +8063,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "3-15"
                     }
                 ]
@@ -8111,7 +8111,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "3-15"
                     }
                 ]
@@ -8192,7 +8192,7 @@
                 "subject": "Sc. e Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x1",
+                        "teacher": "Bacchi",
                         "classroom": "I1-13"
                     }
                 ]
@@ -8203,7 +8203,7 @@
                 "subject": "Sc. e Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x1",
+                        "teacher": "Bacchi",
                         "classroom": "I1-13"
                     }
                 ]
@@ -8225,7 +8225,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "3-15"
                     }
                 ]
@@ -9103,11 +9103,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Scerra",
-                        "classroom": "1-94"
-                    },
-                    {
-                        "teacher": "Perlotti",
-                        "classroom": "1-94"
+                        "classroom": "1-32"
                     }
                 ]
             },
@@ -9314,6 +9310,10 @@
                     {
                         "teacher": "Scerra",
                         "classroom": "1-32"
+                    },
+                    {
+                        "teacher": "Perlotti",
+                        "classroom": "1-32"
                     }
                 ]
             },
@@ -9425,11 +9425,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Scerra",
-                        "classroom": "3-18"
+                        "classroom": "1-32"
                     },
                     {
                         "teacher": "Di Milta",
-                        "classroom": "3-18"
+                        "classroom": "1-32"
                     }
                 ]
             },
@@ -9516,7 +9516,7 @@
                 "subject": "S.I. Fisica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A20-x2",
+                        "teacher": "Furfaro",
                         "classroom": "3-18"
                     }
                 ]
@@ -9692,7 +9692,7 @@
                 "subject": "S.I. Fisica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A20-x2",
+                        "teacher": "Furfaro",
                         "classroom": "3-18"
                     }
                 ]
@@ -9703,7 +9703,7 @@
                 "subject": "S.I. Fisica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A20-x2",
+                        "teacher": "Furfaro",
                         "classroom": "1-11"
                     },
                     {
@@ -11398,7 +11398,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Alfonsi",
-                        "classroom": "3-11"
+                        "classroom": "I2-13"
                     }
                 ]
             },
@@ -11441,7 +11441,7 @@
                 "subject": "S.I. Fisica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A20-x1",
+                        "teacher": "Furfaro",
                         "classroom": "3-11"
                     }
                 ]
@@ -11452,7 +11452,7 @@
                 "subject": "S.I. Fisica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A20-x1",
+                        "teacher": "Furfaro",
                         "classroom": "3-11"
                     }
                 ]
@@ -11555,7 +11555,7 @@
                 "subject": "S.I. Fisica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A20-x1",
+                        "teacher": "Furfaro",
                         "classroom": "1-15"
                     },
                     {
@@ -11699,6 +11699,10 @@
                     {
                         "teacher": "Espinosa",
                         "classroom": "1-32"
+                    },
+                    {
+                        "teacher": "Colca",
+                        "classroom": "1-32"
                     }
                 ]
             },
@@ -11741,7 +11745,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Rota Bulo'",
+                        "teacher": "Caravella",
                         "classroom": "3-3"
                     }
                 ]
@@ -11894,10 +11898,6 @@
                     {
                         "teacher": "Espinosa",
                         "classroom": "3-3"
-                    },
-                    {
-                        "teacher": "Colca",
-                        "classroom": "3-3"
                     }
                 ]
             },
@@ -11907,7 +11907,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Rota Bulo'",
+                        "teacher": "Caravella",
                         "classroom": "3-3"
                     }
                 ]
@@ -11984,7 +11984,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Rota Bulo'",
+                        "teacher": "Caravella",
                         "classroom": "3-3"
                     }
                 ]
@@ -12409,7 +12409,7 @@
                 ]
             }
         ],
-        "3EBen": [
+        "3EB": [
             {
                 "day": 1,
                 "time": 1,
@@ -12420,7 +12420,7 @@
                         "classroom": "E3-8"
                     },
                     {
-                        "teacher": "Giavarini",
+                        "teacher": "Carciopolo",
                         "classroom": "E3-8"
                     }
                 ]
@@ -12435,7 +12435,7 @@
                         "classroom": "E3-8"
                     },
                     {
-                        "teacher": "Giavarini",
+                        "teacher": "Carciopolo",
                         "classroom": "E3-8"
                     }
                 ]
@@ -12450,7 +12450,7 @@
                         "classroom": "E3-8"
                     },
                     {
-                        "teacher": "Giavarini",
+                        "teacher": "Carciopolo",
                         "classroom": "E3-8"
                     }
                 ]
@@ -12561,7 +12561,7 @@
                         "classroom": "E3-8"
                     },
                     {
-                        "teacher": "Giavarini",
+                        "teacher": "Carciopolo",
                         "classroom": "E3-8"
                     }
                 ]
@@ -12576,7 +12576,7 @@
                         "classroom": "E3-8"
                     },
                     {
-                        "teacher": "Giavarini",
+                        "teacher": "Carciopolo",
                         "classroom": "E3-8"
                     }
                 ]
@@ -12591,7 +12591,7 @@
                         "classroom": "E3-8"
                     },
                     {
-                        "teacher": "Giavarini",
+                        "teacher": "Carciopolo",
                         "classroom": "E3-8"
                     }
                 ]
@@ -12795,7 +12795,7 @@
                 ]
             }
         ],
-        "3ECau": [
+        "3EC": [
             {
                 "day": 1,
                 "time": 1,
@@ -13088,7 +13088,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Bolognini",
-                        "classroom": "E3-2"
+                        "classroom": "E2-9"
                     }
                 ]
             },
@@ -13099,7 +13099,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Bolognini",
-                        "classroom": "E3-2"
+                        "classroom": "E2-9"
                     }
                 ]
             },
@@ -13399,7 +13399,7 @@
                         "classroom": "I3-6"
                     },
                     {
-                        "teacher": "Giavarini",
+                        "teacher": "Notariello",
                         "classroom": "I3-6"
                     }
                 ]
@@ -13414,7 +13414,7 @@
                         "classroom": "I3-6"
                     },
                     {
-                        "teacher": "Giavarini",
+                        "teacher": "Notariello",
                         "classroom": "I3-6"
                     }
                 ]
@@ -13574,7 +13574,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "I2-3"
                     }
                 ]
@@ -13626,7 +13626,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x1",
+                        "teacher": "Lupi",
                         "classroom": "I2-13"
                     },
                     {
@@ -13685,7 +13685,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x1",
+                        "teacher": "Lupi",
                         "classroom": "I2-3"
                     }
                 ]
@@ -13696,7 +13696,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x1",
+                        "teacher": "Lupi",
                         "classroom": "I2-3"
                     }
                 ]
@@ -13729,7 +13729,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "I2-3"
                     }
                 ]
@@ -13795,7 +13795,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x1",
+                        "teacher": "Lupi",
                         "classroom": "I2-13"
                     },
                     {
@@ -13810,7 +13810,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x1",
+                        "teacher": "Lupi",
                         "classroom": "I2-13"
                     },
                     {
@@ -13880,7 +13880,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x1",
+                        "teacher": "Lupi",
                         "classroom": "I2-3"
                     }
                 ]
@@ -13947,7 +13947,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "I2-3"
                     }
                 ]
@@ -14357,7 +14357,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "I3-2"
                     }
                 ]
@@ -14490,7 +14490,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "I3-2"
                     }
                 ]
@@ -14708,7 +14708,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "I3-2"
                     }
                 ]
@@ -15391,7 +15391,7 @@
                         "classroom": "I3-6"
                     },
                     {
-                        "teacher": "Giavarini",
+                        "teacher": "Strignano",
                         "classroom": "I3-6"
                     }
                 ]
@@ -15406,7 +15406,7 @@
                         "classroom": "I3-6"
                     },
                     {
-                        "teacher": "Giavarini",
+                        "teacher": "Strignano",
                         "classroom": "I3-6"
                     }
                 ]
@@ -17108,7 +17108,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "1-91"
                     }
                 ]
@@ -17130,7 +17130,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "1-91"
                     }
                 ]
@@ -17289,7 +17289,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "1-91"
                     }
                 ]
@@ -17324,10 +17324,6 @@
                     {
                         "teacher": "Zanetti",
                         "classroom": "1-91"
-                    },
-                    {
-                        "teacher": "Quattrore",
-                        "classroom": "M1-18"
                     }
                 ]
             },
@@ -17339,10 +17335,6 @@
                     {
                         "teacher": "Zanetti",
                         "classroom": "1-91"
-                    },
-                    {
-                        "teacher": "Quattrore",
-                        "classroom": "M1-18"
                     }
                 ]
             },
@@ -17587,7 +17579,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Rota Bulo'",
+                        "teacher": "Caravella",
                         "classroom": "1-8"
                     }
                 ]
@@ -17679,7 +17671,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Rota Bulo'",
+                        "teacher": "Caravella",
                         "classroom": "1-8"
                     }
                 ]
@@ -17808,7 +17800,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Rota Bulo'",
+                        "teacher": "Caravella",
                         "classroom": "1-8"
                     }
                 ]
@@ -17825,7 +17817,7 @@
                 ]
             }
         ],
-        "4EAelt": [
+        "4EA": [
             {
                 "day": 1,
                 "time": 1,
@@ -17833,11 +17825,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Di Pietro",
-                        "classroom": "E1-7"
+                        "classroom": "T1-12"
                     },
                     {
                         "teacher": "Salone",
-                        "classroom": "E1-7"
+                        "classroom": "T1-12"
                     }
                 ]
             },
@@ -17848,11 +17840,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Di Pietro",
-                        "classroom": "E1-7"
+                        "classroom": "T1-12"
                     },
                     {
                         "teacher": "Salone",
-                        "classroom": "E1-7"
+                        "classroom": "T1-12"
                     }
                 ]
             },
@@ -18215,7 +18207,7 @@
                 ]
             }
         ],
-        "4EBeln": [
+        "4EBN": [
             {
                 "day": 1,
                 "time": 1,
@@ -18233,7 +18225,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Rota Bulo'",
+                        "teacher": "Caravella",
                         "classroom": "E2-2"
                     }
                 ]
@@ -18259,7 +18251,7 @@
                         "classroom": "E3-8"
                     },
                     {
-                        "teacher": "Giavarini",
+                        "teacher": "Carciopolo",
                         "classroom": "E3-8"
                     }
                 ]
@@ -18274,7 +18266,7 @@
                         "classroom": "E3-8"
                     },
                     {
-                        "teacher": "Giavarini",
+                        "teacher": "Carciopolo",
                         "classroom": "E3-8"
                     }
                 ]
@@ -18285,7 +18277,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Rota Bulo'",
+                        "teacher": "Caravella",
                         "classroom": "E2-2"
                     }
                 ]
@@ -18330,7 +18322,7 @@
                         "classroom": "E3-8"
                     },
                     {
-                        "teacher": "Giavarini",
+                        "teacher": "Carciopolo",
                         "classroom": "E3-8"
                     }
                 ]
@@ -18345,7 +18337,7 @@
                         "classroom": "E3-8"
                     },
                     {
-                        "teacher": "Giavarini",
+                        "teacher": "Carciopolo",
                         "classroom": "E3-8"
                     }
                 ]
@@ -18389,7 +18381,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Rota Bulo'",
+                        "teacher": "Caravella",
                         "classroom": "E2-2"
                     }
                 ]
@@ -18605,7 +18597,7 @@
                 ]
             }
         ],
-        "4ECaut": [
+        "4ECA": [
             {
                 "day": 1,
                 "time": 1,
@@ -18753,7 +18745,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Bolognini",
-                        "classroom": "E3-1"
+                        "classroom": "E1-7"
                     }
                 ]
             },
@@ -18841,7 +18833,7 @@
                         "classroom": "E1-10"
                     },
                     {
-                        "teacher": "Giavarini",
+                        "teacher": "Notariello",
                         "classroom": "E1-10"
                     }
                 ]
@@ -18856,7 +18848,7 @@
                         "classroom": "E1-10"
                     },
                     {
-                        "teacher": "Giavarini",
+                        "teacher": "Notariello",
                         "classroom": "E1-10"
                     }
                 ]
@@ -19573,7 +19565,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "I1-2"
                     }
                 ]
@@ -19617,7 +19609,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "I1-2"
                     }
                 ]
@@ -19695,7 +19687,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "I1-2"
                     }
                 ]
@@ -20172,7 +20164,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "I2-1"
                     }
                 ]
@@ -20332,7 +20324,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "I2-1"
                     }
                 ]
@@ -20398,7 +20390,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "I2-1"
                     }
                 ]
@@ -20629,7 +20621,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "I2-1"
                     }
                 ]
@@ -20744,7 +20736,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "I1-3"
                     }
                 ]
@@ -20821,7 +20813,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "I2-1"
                     }
                 ]
@@ -21008,7 +21000,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "I2-3"
                     }
                 ]
@@ -21034,7 +21026,7 @@
                         "classroom": "I3-6"
                     },
                     {
-                        "teacher": "Giavarini",
+                        "teacher": "Napolitano",
                         "classroom": "I3-6"
                     }
                 ]
@@ -21049,7 +21041,7 @@
                         "classroom": "I3-6"
                     },
                     {
-                        "teacher": "Giavarini",
+                        "teacher": "Napolitano",
                         "classroom": "I3-6"
                     }
                 ]
@@ -21137,7 +21129,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "I3-1"
                     }
                 ]
@@ -21329,7 +21321,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "I3-13"
                     }
                 ]
@@ -23788,11 +23780,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Russo",
-                        "classroom": "E1-7"
+                        "classroom": "T1-12"
                     },
                     {
                         "teacher": "Maggi",
-                        "classroom": "E1-7"
+                        "classroom": "T1-12"
                     }
                 ]
             },
@@ -23803,11 +23795,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Russo",
-                        "classroom": "E1-7"
+                        "classroom": "T1-12"
                     },
                     {
                         "teacher": "Maggi",
-                        "classroom": "E1-7"
+                        "classroom": "T1-12"
                     }
                 ]
             },
@@ -23818,11 +23810,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Russo",
-                        "classroom": "E1-7"
+                        "classroom": "T1-12"
                     },
                     {
                         "teacher": "Maggi",
-                        "classroom": "E1-7"
+                        "classroom": "T1-12"
                     }
                 ]
             },
@@ -24056,7 +24048,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Rota Bulo'",
+                        "teacher": "Caravella",
                         "classroom": "1-96"
                     }
                 ]
@@ -24144,7 +24136,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Rota Bulo'",
+                        "teacher": "Caravella",
                         "classroom": "1-96"
                     }
                 ]
@@ -24240,7 +24232,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Rota Bulo'",
+                        "teacher": "Caravella",
                         "classroom": "1-96"
                     }
                 ]
@@ -24252,11 +24244,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Di Pietro",
-                        "classroom": "E2-7"
+                        "classroom": "T1-12"
                     },
                     {
                         "teacher": "Salone",
-                        "classroom": "E2-7"
+                        "classroom": "T1-12"
                     }
                 ]
             },
@@ -24267,11 +24259,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Di Pietro",
-                        "classroom": "E2-7"
+                        "classroom": "T1-12"
                     },
                     {
                         "teacher": "Salone",
-                        "classroom": "E2-7"
+                        "classroom": "T1-12"
                     }
                 ]
             },
@@ -24837,7 +24829,7 @@
                 ]
             }
         ],
-        "5EDn": [
+        "5EDN": [
             {
                 "day": 1,
                 "time": 1,
@@ -25865,7 +25857,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "I2-2"
                     }
                 ]
@@ -25980,7 +25972,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "I3-2"
                     }
                 ]
@@ -25991,7 +25983,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Musu",
+                        "teacher": "Bianca",
                         "classroom": "1-94"
                     }
                 ]
@@ -26420,7 +26412,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x1",
+                        "teacher": "Zanchi",
                         "classroom": "I2-6"
                     },
                     {
@@ -26435,7 +26427,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x1",
+                        "teacher": "Zanchi",
                         "classroom": "I2-6"
                     },
                     {
@@ -26675,7 +26667,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x1",
+                        "teacher": "Zanchi",
                         "classroom": "I3-1"
                     }
                 ]
@@ -26697,7 +26689,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x1",
+                        "teacher": "Zanchi",
                         "classroom": "I1-6"
                     },
                     {
@@ -26712,7 +26704,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x1",
+                        "teacher": "Zanchi",
                         "classroom": "I1-6"
                     },
                     {
@@ -26768,7 +26760,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A41-x1",
+                        "teacher": "Zanchi",
                         "classroom": "1-91"
                     }
                 ]
@@ -27736,7 +27728,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Alfonsi",
-                        "classroom": "T2-1"
+                        "classroom": "I2-13"
                     }
                 ]
             },
@@ -28114,7 +28106,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Rota Bulo'",
+                        "teacher": "Caravella",
                         "classroom": "M3-8"
                     }
                 ]
@@ -28140,7 +28132,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Rota Bulo'",
+                        "teacher": "Caravella",
                         "classroom": "M3-8"
                     }
                 ]
@@ -28274,7 +28266,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Rota Bulo'",
+                        "teacher": "Caravella",
                         "classroom": "M3-8"
                     }
                 ]
@@ -28427,7 +28419,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "M3-3"
                     }
                 ]
@@ -28594,7 +28586,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "T3-4"
                     }
                 ]
@@ -28738,7 +28730,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Raffaini",
+                        "teacher": "Di Turi",
                         "classroom": "T2-2"
                     }
                 ]

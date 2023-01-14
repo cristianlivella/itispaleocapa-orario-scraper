@@ -111,6 +111,13 @@
                 "materie": [
                     "Sc. Motorie"
                 ]
+            },
+            {
+                "nome": "",
+                "ore": 2,
+                "materie": [
+                    "Telecomuni"
+                ]
             }
         ]
     },
