@@ -1,24 +1,5 @@
 [
     {
-        "cognome": "Forlano",
-        "omonimi": [
-            {
-                "nome": "Giuseppe",
-                "ore": 10,
-                "materie": [
-                    "S.I. Sc. d. Ter"
-                ]
-            },
-            {
-                "nome": "Giuseppe",
-                "ore": 10,
-                "materie": [
-                    "S.I. Biologia"
-                ]
-            }
-        ]
-    },
-    {
         "cognome": "Greco",
         "omonimi": [
             {
@@ -30,7 +11,7 @@
             },
             {
                 "nome": "Anna Maria",
-                "ore": 15,
+                "ore": 16,
                 "materie": [
                     "Sistemi e",
                     "Tecn. Prg"
@@ -39,20 +20,20 @@
         ]
     },
     {
-        "cognome": "Nessi",
+        "cognome": "Priolo",
         "omonimi": [
             {
-                "nome": "Alberto",
-                "ore": 8,
+                "nome": "",
+                "ore": 10,
                 "materie": [
-                    "S.I. Sc. d. Ter"
+                    "S.I. Chimica"
                 ]
             },
             {
-                "nome": "Alberto",
-                "ore": 14,
+                "nome": "",
+                "ore": 9,
                 "materie": [
-                    "S.I. Biologia"
+                    "Chim. Appl"
                 ]
             }
         ]
@@ -69,28 +50,9 @@
             },
             {
                 "nome": "Marina",
-                "ore": 21,
+                "ore": 18,
                 "materie": [
                     "Inglese"
-                ]
-            }
-        ]
-    },
-    {
-        "cognome": "Giglio",
-        "omonimi": [
-            {
-                "nome": "Rena",
-                "ore": 12,
-                "materie": [
-                    "S.I. Sc. d. Ter"
-                ]
-            },
-            {
-                "nome": "Rena",
-                "ore": 10,
-                "materie": [
-                    "S.I. Biologia"
                 ]
             }
         ]
@@ -106,36 +68,36 @@
                 ]
             },
             {
-                "nome": "Pasquale",
-                "ore": 20,
-                "materie": [
-                    "Sc. Motorie"
-                ]
-            },
-            {
                 "nome": "",
                 "ore": 2,
                 "materie": [
-                    "Telecomuni"
+                    "Storia"
+                ]
+            },
+            {
+                "nome": "Pasquale",
+                "ore": 18,
+                "materie": [
+                    "Sc. Motorie"
                 ]
             }
         ]
     },
     {
-        "cognome": "Gioco",
+        "cognome": "Richelmi",
         "omonimi": [
             {
-                "nome": "Alfio",
+                "nome": "",
                 "ore": 12,
                 "materie": [
-                    "Sc. e Tecn"
+                    "S.I. Chimica"
                 ]
             },
             {
-                "nome": "Alfio",
+                "nome": "",
                 "ore": 8,
                 "materie": [
-                    "Sistemi e"
+                    "Chim. Appl"
                 ]
             }
         ]
@@ -143,6 +105,13 @@
     {
         "cognome": "Mastroianni",
         "omonimi": [
+            {
+                "nome": "Caterina",
+                "ore": 19,
+                "materie": [
+                    "Matematica"
+                ]
+            },
             {
                 "nome": "Michele",
                 "ore": 19,
@@ -152,12 +121,133 @@
                     "Sistemi e",
                     "Tecn. Prg"
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "cognome": "Vitali",
+        "omonimi": [
             {
-                "nome": "Caterina",
+                "nome": "",
                 "ore": 18,
                 "materie": [
-                    "Matematica"
+                    "Italiano",
+                    "Italiano e"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 20,
+                "materie": [
+                    "Sistemi e"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Alborghetti",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 18,
+                "materie": [
+                    "S.I. Chimica"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 3,
+                "materie": [
+                    "Chim. Appl"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Vetere",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 4,
+                "materie": [
+                    "Disegno e",
+                    "T. T. R"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 16,
+                "materie": [
+                    "Meccanica"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Quattrore",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 5,
+                "materie": [
+                    "Disegno e",
+                    "T. T. R"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 10,
+                "materie": [
+                    "Meccanica",
+                    "Tecn"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 5,
+                "materie": [
+                    "Imp. Energ"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Dimilta",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 6,
+                "materie": [
+                    "Sistemi e",
+                    "T. T. R"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 14,
+                "materie": [
+                    "Meccanica",
+                    "Tecn"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Castelletti",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 18,
+                "materie": [
+                    "Elettrot. e"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 3,
+                "materie": [
+                    "Telecomuni",
+                    "Telecomunic"
                 ]
             }
         ]
@@ -167,17 +257,23 @@
         "omonimi": [
             {
                 "nome": "Pietro",
-                "ore": 19,
+                "ore": 8,
                 "materie": [
-                    "Disegno e",
-                    "Meccanica"
+                    "Imp. Energ"
                 ]
             },
             {
-                "nome": "Pietro",
-                "ore": 3,
+                "nome": "",
+                "ore": 7,
                 "materie": [
-                    "Imp. Energ"
+                    "Disegno e"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 5,
+                "materie": [
+                    "Meccanica"
                 ]
             }
         ]
