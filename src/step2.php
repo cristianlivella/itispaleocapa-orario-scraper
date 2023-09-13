@@ -79,6 +79,11 @@ while ($line < $lineCount) {
     }
     elseif (strpos($timetable[$line], ':00') === false && $timetable[$line] !== 'lunedì martedì mercoledì giovedì venerdì sabato') {
         if (!$subjectFound && strlen($timetable[$line])) {
+            if (isset($timetable[$line - 1]) && $timetable[$line - 1] === $timetable[$line]) {
+                // FIX FOR BAD FORMATTED PDFs (classroom reported twice for just a teacher, see 5th hour of Friday, class 1IE, version 11/09/2023)
+                $line++;
+            }
+
             // if the subject has not yet been found, the first valid line that is found is the subject
             $tempTimetable[$class][$time]['subject'] = ltrim(rtrim($timetable[$line], '.'), '.');
 
@@ -87,7 +92,30 @@ while ($line < $lineCount) {
             }
             $subjectFound = true;
         } elseif (!$teachersFound && !$checkForClassroom) {
-            if ((strpos($timetable[$line], '-') === false) || preg_match(REGEX_CLASSE_DI_CONCORSO, $timetable[$line])) {
+            // FIX FOR BAD FORMATTED PDFs (lesson without teacher, see "Sc. e Tecn." subject, class 2MD, version 11/09/2023)
+            if (in_array($timetable[$line], $subjectsList)) {
+                $teachersFound = true;
+                $line--;
+                continue;
+            }
+
+            if (count($tempTimetable[$class][$time]['teachers_classrooms'] ?? []) === 0 && stripos($timetable[$line], 'aula') === 0) {
+                // still fix above
+                $fakeTeacher = 'A000-' . $class;
+
+                if (!in_array($fakeTeacher, $teachersList)) {
+                    $teachersList[] = $fakeTeacher;
+                }
+
+                $tempTimetable[$class][$time]['teachers_classrooms'][] = [
+                    'teacher' => $fakeTeacher,
+                    'classroom' => ''
+                ];
+
+                $teachersFound = true;
+                $checkForClassroom = true;
+                $line--;
+            } elseif ((strpos($timetable[$line], '-') === false) || preg_match(REGEX_CLASSE_DI_CONCORSO, $timetable[$line])) {
                 // if the current line doesn't contain hyphen, or if it matches the "classe di concorso" regex, then it's a teacher
                 if (!in_array($timetable[$line], $teachersList)) {
                     $teachersList[] = $timetable[$line];
