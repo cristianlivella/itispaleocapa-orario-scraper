@@ -2555,10 +2555,6 @@
                     {
                         "teacher": "Suria",
                         "classroom": "1-90"
-                    },
-                    {
-                        "teacher": "Matta",
-                        "classroom": "1-90"
                     }
                 ]
             },
@@ -2569,10 +2565,6 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Suria",
-                        "classroom": "1-90"
-                    },
-                    {
-                        "teacher": "Matta",
                         "classroom": "1-90"
                     }
                 ]
@@ -3088,10 +3080,10 @@
             {
                 "day": 2,
                 "time": 3,
-                "subject": "Inglese",
+                "subject": "Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Moretti",
+                        "teacher": "Aielli",
                         "classroom": "2-5"
                     }
                 ]
@@ -3121,10 +3113,10 @@
             {
                 "day": 2,
                 "time": 6,
-                "subject": "Tecn",
+                "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Moretti",
                         "classroom": "2-5"
                     }
                 ]
@@ -3161,7 +3153,7 @@
                 "subject": "Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Aielli",
                         "classroom": "1-32"
                     },
                     {
@@ -3176,7 +3168,7 @@
                 "subject": "Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Aielli",
                         "classroom": "1-32"
                     },
                     {
@@ -5378,10 +5370,6 @@
                     {
                         "teacher": "Aielli",
                         "classroom": "1-90"
-                    },
-                    {
-                        "teacher": "Matta",
-                        "classroom": "1-90"
                     }
                 ]
             },
@@ -5392,10 +5380,6 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Aielli",
-                        "classroom": "1-90"
-                    },
-                    {
-                        "teacher": "Matta",
                         "classroom": "1-90"
                     }
                 ]
@@ -9916,7 +9900,7 @@
                 "subject": "Sc. e Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Aielli",
+                        "teacher": "A000-2MD",
                         "classroom": "4-13"
                     }
                 ]
@@ -9927,7 +9911,7 @@
                 "subject": "Sc. e Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Aielli",
+                        "teacher": "A000-2MD",
                         "classroom": "4-13"
                     }
                 ]
@@ -10107,7 +10091,7 @@
                 "subject": "Sc. e Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Aielli",
+                        "teacher": "A000-2MD",
                         "classroom": "4-13"
                     }
                 ]

@@ -2010,8 +2010,7 @@
         "27": {
             "materia": "Tecn",
             "professori": [
-                "Suria",
-                "Matta"
+                "Suria"
             ],
             "aula": "1-90",
             "giorno": 5,
@@ -2020,8 +2019,7 @@
         "28": {
             "materia": "Tecn",
             "professori": [
-                "Suria",
-                "Matta"
+                "Suria"
             ],
             "aula": "1-90",
             "giorno": 5,
@@ -2433,9 +2431,9 @@
             "ora": 2
         },
         "9": {
-            "materia": "Inglese",
+            "materia": "Tecn",
             "professori": [
-                "Moretti"
+                "Aielli"
             ],
             "aula": "2-5",
             "giorno": 2,
@@ -2460,9 +2458,9 @@
             "ora": 5
         },
         "12": {
-            "materia": "Tecn",
+            "materia": "Inglese",
             "professori": [
-                "A041-x3"
+                "Moretti"
             ],
             "aula": "2-5",
             "giorno": 2,
@@ -2490,7 +2488,7 @@
         "15": {
             "materia": "Tecn",
             "professori": [
-                "A041-x3",
+                "Aielli",
                 "Matta"
             ],
             "aula": "1-32",
@@ -2500,7 +2498,7 @@
         "16": {
             "materia": "Tecn",
             "professori": [
-                "A041-x3",
+                "Aielli",
                 "Matta"
             ],
             "aula": "1-32",
@@ -4234,8 +4232,7 @@
         "12": {
             "materia": "Tecn",
             "professori": [
-                "Aielli",
-                "Matta"
+                "Aielli"
             ],
             "aula": "1-90",
             "giorno": 3,
@@ -4244,8 +4241,7 @@
         "13": {
             "materia": "Tecn",
             "professori": [
-                "Aielli",
-                "Matta"
+                "Aielli"
             ],
             "aula": "1-90",
             "giorno": 3,
@@ -7862,7 +7858,7 @@
         "14": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Aielli"
+                "A000-2MD"
             ],
             "aula": "4-13",
             "giorno": 3,
@@ -7871,7 +7867,7 @@
         "15": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Aielli"
+                "A000-2MD"
             ],
             "aula": "4-13",
             "giorno": 3,
@@ -8016,7 +8012,7 @@
         "31": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "Aielli"
+                "A000-2MD"
             ],
             "aula": "4-13",
             "giorno": 6,
