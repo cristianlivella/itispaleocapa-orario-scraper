@@ -730,7 +730,7 @@
         "16": {
             "materia": "Tecn",
             "professori": [
-                "A040-x1"
+                "Cale'"
             ],
             "aula": "3-10",
             "giorno": 3,
@@ -803,7 +803,7 @@
         "24": {
             "materia": "Tecn",
             "professori": [
-                "A040-x1",
+                "Cale'",
                 "Baldacci"
             ],
             "aula": "1-32",
@@ -813,7 +813,7 @@
         "25": {
             "materia": "Tecn",
             "professori": [
-                "A040-x1",
+                "Cale'",
                 "Baldacci"
             ],
             "aula": "1-32",
@@ -1183,7 +1183,7 @@
         "1": {
             "materia": "Tecn",
             "professori": [
-                "A040-x1",
+                "Cale'",
                 "Baldacci"
             ],
             "aula": "1-90",
@@ -1193,7 +1193,7 @@
         "2": {
             "materia": "Tecn",
             "professori": [
-                "A040-x1",
+                "Cale'",
                 "Baldacci"
             ],
             "aula": "1-90",
@@ -1404,7 +1404,7 @@
         "25": {
             "materia": "Tecn",
             "professori": [
-                "A040-x1"
+                "Cale'"
             ],
             "aula": "2-6",
             "giorno": 5,
@@ -3854,7 +3854,7 @@
         "3": {
             "materia": "Tecn",
             "professori": [
-                "A040-x1"
+                "Cale'"
             ],
             "aula": "3-7",
             "giorno": 1,
@@ -3944,7 +3944,7 @@
         "13": {
             "materia": "Tecn",
             "professori": [
-                "A040-x1",
+                "Cale'",
                 "A066-x1"
             ],
             "aula": "1-32",
@@ -3954,7 +3954,7 @@
         "14": {
             "materia": "Tecn",
             "professori": [
-                "A040-x1",
+                "Cale'",
                 "A066-x1"
             ],
             "aula": "1-32",
@@ -4451,7 +4451,7 @@
         "4": {
             "materia": "Tecn",
             "professori": [
-                "A040-x1"
+                "Cale'"
             ],
             "aula": "3-9",
             "giorno": 1,
@@ -4569,7 +4569,7 @@
         "17": {
             "materia": "Tecn",
             "professori": [
-                "A040-x1",
+                "Cale'",
                 "Matta"
             ],
             "aula": "1-90",
@@ -4579,7 +4579,7 @@
         "18": {
             "materia": "Tecn",
             "professori": [
-                "A040-x1",
+                "Cale'",
                 "Matta"
             ],
             "aula": "1-90",
@@ -6989,7 +6989,7 @@
         "18": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "A041-x4"
+                "Tironi"
             ],
             "aula": "3-15",
             "giorno": 3,
@@ -7097,7 +7097,7 @@
         "30": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "A041-x4"
+                "Tironi"
             ],
             "aula": "1-90",
             "giorno": 6,
@@ -7106,7 +7106,7 @@
         "31": {
             "materia": "Sc. e Tecn",
             "professori": [
-                "A041-x4"
+                "Tironi"
             ],
             "aula": "1-90",
             "giorno": 6,
@@ -9686,7 +9686,7 @@
             "materia": "Telecomuni",
             "professori": [
                 "Masserini",
-                "Giavarini"
+                "Vitale"
             ],
             "aula": "I3-6",
             "giorno": 4,
@@ -9696,7 +9696,7 @@
             "materia": "Telecomuni",
             "professori": [
                 "Masserini",
-                "Giavarini"
+                "Vitale"
             ],
             "aula": "I3-6",
             "giorno": 4,
@@ -11112,7 +11112,7 @@
             "materia": "Telecomuni",
             "professori": [
                 "Tasca",
-                "Giavarini"
+                "Vitale"
             ],
             "aula": "I3-6",
             "giorno": 2,
@@ -11122,7 +11122,7 @@
             "materia": "Telecomuni",
             "professori": [
                 "Tasca",
-                "Giavarini"
+                "Vitale"
             ],
             "aula": "I3-6",
             "giorno": 2,
@@ -12816,24 +12816,22 @@
     },
     "3TA": {
         "1": {
-            "materia": "Tecn. Mat",
+            "materia": "Economia e",
             "professori": [
-                "Lorenzi",
-                "Bravi"
-            ],
-            "aula": "T3-7",
-            "giorno": 1,
-            "ora": 1
-        },
-        "2": {
-            "materia": "Tecn. Mat",
-            "professori": [
-                "Lorenzi",
-                "Bravi"
+                "Basile"
             ],
             "aula": "T3-7",
             "giorno": 1,
             "ora": 2
+        },
+        "2": {
+            "materia": "Italiano e",
+            "professori": [
+                "Ravelli"
+            ],
+            "aula": "T3-7",
+            "giorno": 1,
+            "ora": 3
         },
         "3": {
             "materia": "Italiano e",
@@ -12842,18 +12840,9 @@
             ],
             "aula": "T3-7",
             "giorno": 1,
-            "ora": 3
-        },
-        "4": {
-            "materia": "Italiano e",
-            "professori": [
-                "Ravelli"
-            ],
-            "aula": "T3-7",
-            "giorno": 1,
             "ora": 4
         },
-        "5": {
+        "4": {
             "materia": "Ideaz. Prg",
             "professori": [
                 "Frecassetti"
@@ -12862,7 +12851,7 @@
             "giorno": 1,
             "ora": 5
         },
-        "6": {
+        "5": {
             "materia": "Ideaz. Prg",
             "professori": [
                 "Frecassetti"
@@ -12871,7 +12860,7 @@
             "giorno": 1,
             "ora": 6
         },
-        "7": {
+        "6": {
             "materia": "Religione",
             "professori": [
                 "Robert"
@@ -12880,7 +12869,7 @@
             "giorno": 2,
             "ora": 1
         },
-        "8": {
+        "7": {
             "materia": "Matematica",
             "professori": [
                 "Indelicato"
@@ -12889,15 +12878,24 @@
             "giorno": 2,
             "ora": 2
         },
-        "9": {
-            "materia": "Ideaz. Prg",
+        "8": {
+            "materia": "Tecn. Mat",
             "professori": [
-                "Frecassetti",
-                "Bravi"
+                "Lorenzi"
             ],
-            "aula": "T3-8",
+            "aula": "T3-7",
             "giorno": 2,
             "ora": 3
+        },
+        "9": {
+            "materia": "Chim. Appl",
+            "professori": [
+                "Alborghetti",
+                "Priolo"
+            ],
+            "aula": "T2-9",
+            "giorno": 2,
+            "ora": 4
         },
         "10": {
             "materia": "Chim. Appl",
@@ -12907,19 +12905,9 @@
             ],
             "aula": "T2-9",
             "giorno": 2,
-            "ora": 4
-        },
-        "11": {
-            "materia": "Chim. Appl",
-            "professori": [
-                "Alborghetti",
-                "Priolo"
-            ],
-            "aula": "T2-9",
-            "giorno": 2,
             "ora": 5
         },
-        "12": {
+        "11": {
             "materia": "Economia e",
             "professori": [
                 "Basile"
@@ -12928,7 +12916,7 @@
             "giorno": 3,
             "ora": 1
         },
-        "13": {
+        "12": {
             "materia": "Italiano e",
             "professori": [
                 "Ravelli"
@@ -12937,7 +12925,7 @@
             "giorno": 3,
             "ora": 2
         },
-        "14": {
+        "13": {
             "materia": "Italiano e",
             "professori": [
                 "Ravelli"
@@ -12946,7 +12934,7 @@
             "giorno": 3,
             "ora": 3
         },
-        "15": {
+        "14": {
             "materia": "Inglese",
             "professori": [
                 "Speranza"
@@ -12955,14 +12943,25 @@
             "giorno": 3,
             "ora": 4
         },
-        "16": {
-            "materia": "Economia e",
+        "15": {
+            "materia": "Tecn. Mat",
             "professori": [
-                "Basile"
+                "Lorenzi",
+                "Bravi"
             ],
             "aula": "T3-7",
             "giorno": 3,
             "ora": 5
+        },
+        "16": {
+            "materia": "Tecn. Mat",
+            "professori": [
+                "Lorenzi",
+                "Bravi"
+            ],
+            "aula": "T3-7",
+            "giorno": 3,
+            "ora": 6
         },
         "17": {
             "materia": "Chim. Appl",
@@ -13010,11 +13009,12 @@
             "ora": 5
         },
         "22": {
-            "materia": "Matematica",
+            "materia": "Ideaz. Prg",
             "professori": [
-                "Indelicato"
+                "Frecassetti",
+                "Bravi"
             ],
-            "aula": "T3-7",
+            "aula": "T3-8",
             "giorno": 4,
             "ora": 6
         },
@@ -13084,9 +13084,9 @@
             "ora": 1
         },
         "30": {
-            "materia": "Tecn. Mat",
+            "materia": "Matematica",
             "professori": [
-                "Lorenzi"
+                "Indelicato"
             ],
             "aula": "T3-7",
             "giorno": 6,
@@ -14071,7 +14071,7 @@
             "materia": "Telecomuni",
             "professori": [
                 "Masserini",
-                "Giavarini"
+                "Vitale"
             ],
             "aula": "I3-6",
             "giorno": 2,
@@ -14081,7 +14081,7 @@
             "materia": "Telecomuni",
             "professori": [
                 "Masserini",
-                "Giavarini"
+                "Vitale"
             ],
             "aula": "I3-6",
             "giorno": 2,
@@ -15262,7 +15262,7 @@
         "7": {
             "materia": "Tecn. Prg",
             "professori": [
-                "A041-x4",
+                "Tironi",
                 "Grena"
             ],
             "aula": "I1-13",
@@ -15272,7 +15272,7 @@
         "8": {
             "materia": "Tecn. Prg",
             "professori": [
-                "A041-x4",
+                "Tironi",
                 "Grena"
             ],
             "aula": "I1-13",
@@ -15356,7 +15356,7 @@
         "17": {
             "materia": "Tecn. Prg",
             "professori": [
-                "A041-x4"
+                "Tironi"
             ],
             "aula": "I3-13",
             "giorno": 3,
@@ -15552,7 +15552,7 @@
         "6": {
             "materia": "Telecomunic",
             "professori": [
-                "A040-x1"
+                "Cale'"
             ],
             "aula": "T1-6",
             "giorno": 1,
@@ -15662,7 +15662,7 @@
         "18": {
             "materia": "Tecn. Prg",
             "professori": [
-                "A041-x4"
+                "Tironi"
             ],
             "aula": "T1-6",
             "giorno": 4,
@@ -15698,8 +15698,8 @@
         "22": {
             "materia": "Telecomuni",
             "professori": [
-                "A040-x1",
-                "Giavarini"
+                "Cale'",
+                "Vitale"
             ],
             "aula": "I3-6",
             "giorno": 4,
@@ -15708,8 +15708,8 @@
         "23": {
             "materia": "Telecomuni",
             "professori": [
-                "A040-x1",
-                "Giavarini"
+                "Cale'",
+                "Vitale"
             ],
             "aula": "I3-6",
             "giorno": 4,
@@ -15784,7 +15784,7 @@
         "31": {
             "materia": "Tecn. Prg",
             "professori": [
-                "A041-x4",
+                "Tironi",
                 "Gaffuri"
             ],
             "aula": "I1-6",
@@ -15794,7 +15794,7 @@
         "32": {
             "materia": "Tecn. Prg",
             "professori": [
-                "A041-x4",
+                "Tironi",
                 "Gaffuri"
             ],
             "aula": "I1-6",
@@ -18025,7 +18025,7 @@
             "materia": "Tecn. Prog",
             "professori": [
                 "Cagliani",
-                "Giavarini"
+                "Vitale"
             ],
             "aula": "E3-8",
             "giorno": 3,
@@ -18035,7 +18035,7 @@
             "materia": "Tecn. Prog",
             "professori": [
                 "Cagliani",
-                "Giavarini"
+                "Vitale"
             ],
             "aula": "E3-8",
             "giorno": 3,
@@ -18109,7 +18109,7 @@
             "materia": "Tecn. Prog",
             "professori": [
                 "Cagliani",
-                "Giavarini"
+                "Vitale"
             ],
             "aula": "E3-8",
             "giorno": 5,
@@ -18119,7 +18119,7 @@
             "materia": "Tecn. Prog",
             "professori": [
                 "Cagliani",
-                "Giavarini"
+                "Vitale"
             ],
             "aula": "E3-8",
             "giorno": 5,
@@ -20077,9 +20077,9 @@
             "ora": 3
         },
         "10": {
-            "materia": "Tecn. Prg",
+            "materia": "Matematica",
             "professori": [
-                "Caso"
+                "Indelicato"
             ],
             "aula": "I1-2",
             "giorno": 2,
@@ -20153,15 +20153,6 @@
             "ora": 5
         },
         "18": {
-            "materia": "Matematica",
-            "professori": [
-                "Indelicato"
-            ],
-            "aula": "I1-2",
-            "giorno": 3,
-            "ora": 6
-        },
-        "19": {
             "materia": "Italiano e",
             "professori": [
                 "Pinto"
@@ -20170,7 +20161,7 @@
             "giorno": 4,
             "ora": 1
         },
-        "20": {
+        "19": {
             "materia": "Italiano e",
             "professori": [
                 "Pinto"
@@ -20179,7 +20170,7 @@
             "giorno": 4,
             "ora": 2
         },
-        "21": {
+        "20": {
             "materia": "Inglese",
             "professori": [
                 "Speranza"
@@ -20188,23 +20179,32 @@
             "giorno": 4,
             "ora": 3
         },
+        "21": {
+            "materia": "Tecn. Prg",
+            "professori": [
+                "Caso"
+            ],
+            "aula": "I3-3",
+            "giorno": 4,
+            "ora": 4
+        },
         "22": {
             "materia": "Matematica",
             "professori": [
                 "Indelicato"
             ],
-            "aula": "I3-3",
+            "aula": "I1-2",
             "giorno": 4,
-            "ora": 4
+            "ora": 5
         },
         "23": {
             "materia": "Sistemi e",
             "professori": [
                 "Crobu"
             ],
-            "aula": "I1-2",
+            "aula": "I3-3",
             "giorno": 4,
-            "ora": 5
+            "ora": 6
         },
         "24": {
             "materia": "Sistemi e",
@@ -21516,7 +21516,7 @@
             "professori": [
                 "Paone"
             ],
-            "aula": "T3-4",
+            "aula": "M2-1",
             "giorno": 1,
             "ora": 3
         },
@@ -21803,21 +21803,21 @@
             "ora": 1
         },
         "2": {
-            "materia": "Economia e",
-            "professori": [
-                "Basile"
-            ],
-            "aula": "T3-4",
-            "giorno": 1,
-            "ora": 2
-        },
-        "3": {
             "materia": "Ideaz. Prg",
             "professori": [
                 "Frecassetti",
                 "Bravi"
             ],
             "aula": "T3-8",
+            "giorno": 1,
+            "ora": 2
+        },
+        "3": {
+            "materia": "Economia e",
+            "professori": [
+                "Basile"
+            ],
+            "aula": "T3-4",
             "giorno": 1,
             "ora": 3
         },
