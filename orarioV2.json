@@ -466,7 +466,7 @@
                         "classroom": "1-15"
                     },
                     {
-                        "teacher": "B003-x2",
+                        "teacher": "Troilo",
                         "classroom": "1-15"
                     }
                 ]
@@ -1384,7 +1384,7 @@
                         "classroom": "1-15"
                     },
                     {
-                        "teacher": "B003-x2",
+                        "teacher": "Troilo",
                         "classroom": "1-15"
                     }
                 ]
@@ -1955,10 +1955,10 @@
             {
                 "day": 2,
                 "time": 3,
-                "subject": "Matematica",
+                "subject": "S.I. Chimica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Mele",
+                        "teacher": "Saracino",
                         "classroom": "2-12"
                     }
                 ]
@@ -2062,10 +2062,10 @@
             {
                 "day": 3,
                 "time": 6,
-                "subject": "S.I. Chimica",
+                "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Saracino",
+                        "teacher": "Mele",
                         "classroom": "2-12"
                     }
                 ]
@@ -2555,6 +2555,10 @@
                     {
                         "teacher": "Suria",
                         "classroom": "1-90"
+                    },
+                    {
+                        "teacher": "B016-x1",
+                        "classroom": "1-90"
                     }
                 ]
             },
@@ -2565,6 +2569,10 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Suria",
+                        "classroom": "1-90"
+                    },
+                    {
+                        "teacher": "B016-x1",
                         "classroom": "1-90"
                     }
                 ]
@@ -2680,7 +2688,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Pezzotta",
+                        "teacher": "Stiro",
                         "classroom": "1-8"
                     }
                 ]
@@ -2702,7 +2710,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Pezzotta",
+                        "teacher": "Stiro",
                         "classroom": "1-8"
                     }
                 ]
@@ -2746,7 +2754,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Pezzotta",
+                        "teacher": "Stiro",
                         "classroom": "1-8"
                     }
                 ]
@@ -2960,7 +2968,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Pezzotta",
+                        "teacher": "Stiro",
                         "classroom": "1-8"
                     }
                 ]
@@ -3836,7 +3844,7 @@
                         "classroom": "1-11"
                     },
                     {
-                        "teacher": "B003-x2",
+                        "teacher": "Troilo",
                         "classroom": "1-11"
                     }
                 ]
@@ -4213,7 +4221,7 @@
                         "classroom": "1-11"
                     },
                     {
-                        "teacher": "B003-x2",
+                        "teacher": "Troilo",
                         "classroom": "1-11"
                     }
                 ]
@@ -5261,7 +5269,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Pezzotta",
+                        "teacher": "Stiro",
                         "classroom": "3-8"
                     }
                 ]
@@ -5309,7 +5317,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Pezzotta",
+                        "teacher": "Stiro",
                         "classroom": "3-8"
                     }
                 ]
@@ -5370,6 +5378,10 @@
                     {
                         "teacher": "Aielli",
                         "classroom": "1-90"
+                    },
+                    {
+                        "teacher": "B016-x1",
+                        "classroom": "1-90"
                     }
                 ]
             },
@@ -5380,6 +5392,10 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Aielli",
+                        "classroom": "1-90"
+                    },
+                    {
+                        "teacher": "B016-x1",
                         "classroom": "1-90"
                     }
                 ]
@@ -5478,7 +5494,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Pezzotta",
+                        "teacher": "Stiro",
                         "classroom": "3-8"
                     }
                 ]
@@ -5581,7 +5597,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Pezzotta",
+                        "teacher": "Stiro",
                         "classroom": "3-8"
                     }
                 ]
@@ -6434,10 +6450,10 @@
             {
                 "day": 2,
                 "time": 2,
-                "subject": "Diritto ed",
+                "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Greco Antonio",
+                        "teacher": "De Luca",
                         "classroom": "3-17"
                     }
                 ]
@@ -6559,10 +6575,10 @@
             {
                 "day": 4,
                 "time": 1,
-                "subject": "Matematica",
+                "subject": "Diritto ed",
                 "teachers_classrooms": [
                     {
-                        "teacher": "De Luca",
+                        "teacher": "Greco Antonio",
                         "classroom": "3-17"
                     }
                 ]
@@ -6621,7 +6637,7 @@
                         "classroom": "1-11"
                     },
                     {
-                        "teacher": "B003-x2",
+                        "teacher": "Troilo",
                         "classroom": "1-11"
                     }
                 ]
@@ -7338,7 +7354,7 @@
                         "classroom": "1-11"
                     },
                     {
-                        "teacher": "B003-x2",
+                        "teacher": "Troilo",
                         "classroom": "1-11"
                     }
                 ]
@@ -8228,7 +8244,7 @@
                 "subject": "Geografia",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A021-x2",
+                        "teacher": "Cusa",
                         "classroom": "1-92"
                     }
                 ]
@@ -8495,7 +8511,7 @@
                 "subject": "Geografia",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A021-x2",
+                        "teacher": "Cusa",
                         "classroom": "3-14"
                     }
                 ]
@@ -9589,7 +9605,7 @@
                         "classroom": "1-15"
                     },
                     {
-                        "teacher": "B003-x2",
+                        "teacher": "Troilo",
                         "classroom": "1-15"
                     }
                 ]
@@ -9900,7 +9916,7 @@
                 "subject": "Sc. e Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x3",
+                        "teacher": "Felici",
                         "classroom": "4-13"
                     }
                 ]
@@ -9911,7 +9927,7 @@
                 "subject": "Sc. e Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x3",
+                        "teacher": "Felici",
                         "classroom": "4-13"
                     }
                 ]
@@ -10091,7 +10107,7 @@
                 "subject": "Sc. e Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x3",
+                        "teacher": "Felici",
                         "classroom": "4-13"
                     }
                 ]
@@ -10376,7 +10392,7 @@
                 "subject": "Geografia",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A021-x2",
+                        "teacher": "Cusa",
                         "classroom": "3-6"
                     }
                 ]
@@ -10845,7 +10861,7 @@
                 "subject": "Geografia",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A021-x2",
+                        "teacher": "Cusa",
                         "classroom": "3-12"
                     }
                 ]
@@ -15415,7 +15431,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Alfonsi",
-                        "classroom": "M2-3"
+                        "classroom": "E2-9"
                     }
                 ]
             },
@@ -19791,7 +19807,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Arici",
-                        "classroom": "T1-6"
+                        "classroom": "1-94"
                     }
                 ]
             },
@@ -19802,7 +19818,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Testardo",
-                        "classroom": "T1-6"
+                        "classroom": "1-94"
                     }
                 ]
             },
@@ -19813,7 +19829,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Pedrali",
-                        "classroom": "T1-6"
+                        "classroom": "1-94"
                     }
                 ]
             },
@@ -19846,7 +19862,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Cale'",
-                        "classroom": "T1-6"
+                        "classroom": "1-94"
                     }
                 ]
             },
@@ -19887,7 +19903,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Lepore",
-                        "classroom": "T1-6"
+                        "classroom": "1-96"
                     }
                 ]
             },
@@ -19898,7 +19914,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Blando",
-                        "classroom": "T1-6"
+                        "classroom": "1-96"
                     }
                 ]
             },
@@ -19909,7 +19925,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Blando",
-                        "classroom": "T1-6"
+                        "classroom": "1-96"
                     }
                 ]
             },
@@ -19920,7 +19936,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Testardo",
-                        "classroom": "T1-6"
+                        "classroom": "1-94"
                     }
                 ]
             },
@@ -19931,7 +19947,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Pedrali",
-                        "classroom": "T1-6"
+                        "classroom": "I3-13"
                     }
                 ]
             },
@@ -19942,7 +19958,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Pedrali",
-                        "classroom": "T1-6"
+                        "classroom": "I3-13"
                     }
                 ]
             },
@@ -19953,7 +19969,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Lepore",
-                        "classroom": "T1-6"
+                        "classroom": "T2-3"
                     }
                 ]
             },
@@ -19964,7 +19980,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Blando",
-                        "classroom": "T1-6"
+                        "classroom": "T2-3"
                     }
                 ]
             },
@@ -19975,7 +19991,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Blando",
-                        "classroom": "T1-6"
+                        "classroom": "T2-3"
                     }
                 ]
             },
@@ -19986,7 +20002,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Tironi",
-                        "classroom": "T1-6"
+                        "classroom": "T2-2"
                     }
                 ]
             },
@@ -19997,7 +20013,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Lepore",
-                        "classroom": "T1-6"
+                        "classroom": "T2-2"
                     }
                 ]
             },
@@ -20008,7 +20024,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Testardo",
-                        "classroom": "T1-6"
+                        "classroom": "T2-2"
                     }
                 ]
             },
@@ -20019,7 +20035,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Crobu",
-                        "classroom": "T1-6"
+                        "classroom": "T2-2"
                     }
                 ]
             },
@@ -20060,7 +20076,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Blando",
-                        "classroom": "T1-6"
+                        "classroom": "T2-3"
                     }
                 ]
             },
@@ -20071,7 +20087,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Blando",
-                        "classroom": "T1-6"
+                        "classroom": "T2-3"
                     }
                 ]
             },
@@ -20082,7 +20098,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Crobu",
-                        "classroom": "T1-6"
+                        "classroom": "T2-1"
                     }
                 ]
             },
@@ -20108,7 +20124,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Lepore",
-                        "classroom": "T1-6"
+                        "classroom": "T2-3"
                     }
                 ]
             },
@@ -22212,10 +22228,6 @@
                     {
                         "teacher": "Frecassetti",
                         "classroom": "T3-8"
-                    },
-                    {
-                        "teacher": "Bravi",
-                        "classroom": "T3-8"
                     }
                 ]
             },
@@ -22226,6 +22238,10 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Frecassetti",
+                        "classroom": "T3-8"
+                    },
+                    {
+                        "teacher": "Bravi",
                         "classroom": "T3-8"
                     }
                 ]
@@ -22238,10 +22254,6 @@
                     {
                         "teacher": "Lorenzi",
                         "classroom": "T2-1"
-                    },
-                    {
-                        "teacher": "Bravi",
-                        "classroom": "T3-3"
                     }
                 ]
             },
@@ -22308,6 +22320,10 @@
                     {
                         "teacher": "Lorenzi",
                         "classroom": "T2-1"
+                    },
+                    {
+                        "teacher": "Bravi",
+                        "classroom": "T3-3"
                     }
                 ]
             },
@@ -25333,10 +25349,10 @@
             {
                 "day": 2,
                 "time": 2,
-                "subject": "Matematica",
+                "subject": "Sistemi e",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Mele",
+                        "teacher": "Greco Anna Maria",
                         "classroom": "I2-3"
                     }
                 ]
@@ -25344,10 +25360,10 @@
             {
                 "day": 2,
                 "time": 3,
-                "subject": "Sistemi e",
+                "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Greco Anna Maria",
+                        "teacher": "Mele",
                         "classroom": "I2-3"
                     }
                 ]
@@ -26467,7 +26483,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "De Leidi",
-                        "classroom": "M3-3"
+                        "classroom": "M1-23"
                     },
                     {
                         "teacher": "Lo Maglio",
@@ -27278,7 +27294,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Manni",
-                        "classroom": "T1-6"
+                        "classroom": "E3-5"
                     }
                 ]
             },
@@ -27289,7 +27305,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Baroni",
-                        "classroom": "T1-6"
+                        "classroom": "E3-5"
                     }
                 ]
             },
@@ -27882,7 +27898,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Alfonsi",
-                        "classroom": "M3-3"
+                        "classroom": "I2-13"
                     }
                 ]
             },
@@ -28033,10 +28049,6 @@
                     {
                         "teacher": "Frecassetti",
                         "classroom": "T3-8"
-                    },
-                    {
-                        "teacher": "Bravi",
-                        "classroom": "T3-8"
                     }
                 ]
             },
@@ -28139,6 +28151,10 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Frecassetti",
+                        "classroom": "T3-8"
+                    },
+                    {
+                        "teacher": "Bravi",
                         "classroom": "T3-8"
                     }
                 ]

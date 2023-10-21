@@ -360,7 +360,7 @@
         2
     ],
     [
-        "B003-x2",
+        "Troilo",
         "S.I. Fisica",
         "1EB",
         "1-15",
@@ -1096,7 +1096,7 @@
         5
     ],
     [
-        "B003-x2",
+        "Troilo",
         "S.I. Fisica",
         "1IB",
         "1-15",
@@ -1536,8 +1536,8 @@
         2
     ],
     [
-        "Mele",
-        "Matematica",
+        "Saracino",
+        "S.I. Chimica",
         "1ID",
         "2-12",
         2,
@@ -1624,8 +1624,8 @@
         5
     ],
     [
-        "Saracino",
-        "S.I. Chimica",
+        "Mele",
+        "Matematica",
         "1ID",
         "2-12",
         3,
@@ -2016,7 +2016,23 @@
         5
     ],
     [
+        "B016-x1",
+        "Tecn",
+        "1IE",
+        "1-90",
+        5,
+        5
+    ],
+    [
         "Suria",
+        "Tecn",
+        "1IE",
+        "1-90",
+        5,
+        6
+    ],
+    [
+        "B016-x1",
         "Tecn",
         "1IE",
         "1-90",
@@ -2104,7 +2120,7 @@
         5
     ],
     [
-        "Pezzotta",
+        "Stiro",
         "Matematica",
         "1IF",
         "1-8",
@@ -2120,7 +2136,7 @@
         1
     ],
     [
-        "Pezzotta",
+        "Stiro",
         "Matematica",
         "1IF",
         "1-8",
@@ -2152,7 +2168,7 @@
         5
     ],
     [
-        "Pezzotta",
+        "Stiro",
         "Matematica",
         "1IF",
         "1-8",
@@ -2328,7 +2344,7 @@
         1
     ],
     [
-        "Pezzotta",
+        "Stiro",
         "Matematica",
         "1IF",
         "1-8",
@@ -3032,7 +3048,7 @@
         3
     ],
     [
-        "B003-x2",
+        "Troilo",
         "S.I. Fisica",
         "1MB",
         "1-11",
@@ -3320,7 +3336,7 @@
         4
     ],
     [
-        "B003-x2",
+        "Troilo",
         "S.I. Fisica",
         "1MC",
         "1-11",
@@ -4144,7 +4160,7 @@
         2
     ],
     [
-        "Pezzotta",
+        "Stiro",
         "Matematica",
         "1MF",
         "3-8",
@@ -4184,7 +4200,7 @@
         6
     ],
     [
-        "Pezzotta",
+        "Stiro",
         "Matematica",
         "1MF",
         "3-8",
@@ -4240,7 +4256,23 @@
         1
     ],
     [
+        "B016-x1",
+        "Tecn",
+        "1MF",
+        "1-90",
+        3,
+        1
+    ],
+    [
         "Aielli",
+        "Tecn",
+        "1MF",
+        "1-90",
+        3,
+        2
+    ],
+    [
+        "B016-x1",
         "Tecn",
         "1MF",
         "1-90",
@@ -4312,7 +4344,7 @@
         5
     ],
     [
-        "Pezzotta",
+        "Stiro",
         "Matematica",
         "1MF",
         "3-8",
@@ -4392,7 +4424,7 @@
         2
     ],
     [
-        "Pezzotta",
+        "Stiro",
         "Matematica",
         "1MF",
         "3-8",
@@ -5056,8 +5088,8 @@
         1
     ],
     [
-        "Greco Antonio",
-        "Diritto ed",
+        "De Luca",
+        "Matematica",
         "2EB",
         "3-17",
         2,
@@ -5152,8 +5184,8 @@
         6
     ],
     [
-        "De Luca",
-        "Matematica",
+        "Greco Antonio",
+        "Diritto ed",
         "2EB",
         "3-17",
         4,
@@ -5200,7 +5232,7 @@
         6
     ],
     [
-        "B003-x2",
+        "Troilo",
         "S.I. Fisica",
         "2EB",
         "1-11",
@@ -5744,7 +5776,7 @@
         4
     ],
     [
-        "B003-x2",
+        "Troilo",
         "S.I. Fisica",
         "2IB",
         "1-11",
@@ -6424,7 +6456,7 @@
         3
     ],
     [
-        "A021-x2",
+        "Cusa",
         "Geografia",
         "2IE",
         "1-92",
@@ -6632,7 +6664,7 @@
         4
     ],
     [
-        "A021-x2",
+        "Cusa",
         "Geografia",
         "2IF",
         "3-14",
@@ -7464,7 +7496,7 @@
         2
     ],
     [
-        "B003-x2",
+        "Troilo",
         "S.I. Fisica",
         "2MB",
         "1-15",
@@ -7704,7 +7736,7 @@
         2
     ],
     [
-        "A042-x3",
+        "Felici",
         "Sc. e Tecn",
         "2MD",
         "4-13",
@@ -7712,7 +7744,7 @@
         3
     ],
     [
-        "A042-x3",
+        "Felici",
         "Sc. e Tecn",
         "2MD",
         "4-13",
@@ -7848,7 +7880,7 @@
         1
     ],
     [
-        "A042-x3",
+        "Felici",
         "Sc. e Tecn",
         "2MD",
         "4-13",
@@ -8064,7 +8096,7 @@
         5
     ],
     [
-        "A021-x2",
+        "Cusa",
         "Geografia",
         "2ME",
         "3-6",
@@ -8424,7 +8456,7 @@
         1
     ],
     [
-        "A021-x2",
+        "Cusa",
         "Geografia",
         "2IT",
         "3-12",
@@ -12211,7 +12243,7 @@
         "Alfonsi",
         "Inglese",
         "3MB",
-        "M2-3",
+        "E2-9",
         5,
         3
     ],
@@ -15875,7 +15907,7 @@
         "Arici",
         "Religione",
         "4IF",
-        "T1-6",
+        "1-94",
         1,
         1
     ],
@@ -15883,7 +15915,7 @@
         "Testardo",
         "Informatica",
         "4IF",
-        "T1-6",
+        "1-94",
         1,
         2
     ],
@@ -15891,7 +15923,7 @@
         "Pedrali",
         "Inglese",
         "4IF",
-        "T1-6",
+        "1-94",
         1,
         3
     ],
@@ -15915,7 +15947,7 @@
         "Cale'",
         "Telecomunic",
         "4IF",
-        "T1-6",
+        "1-94",
         1,
         6
     ],
@@ -15955,7 +15987,7 @@
         "Lepore",
         "Matematica",
         "4IF",
-        "T1-6",
+        "1-96",
         2,
         3
     ],
@@ -15963,7 +15995,7 @@
         "Blando",
         "Italiano e",
         "4IF",
-        "T1-6",
+        "1-96",
         2,
         4
     ],
@@ -15971,7 +16003,7 @@
         "Blando",
         "Italiano e",
         "4IF",
-        "T1-6",
+        "1-96",
         2,
         5
     ],
@@ -15979,7 +16011,7 @@
         "Testardo",
         "Informatica",
         "4IF",
-        "T1-6",
+        "1-94",
         2,
         6
     ],
@@ -15987,7 +16019,7 @@
         "Pedrali",
         "Inglese",
         "4IF",
-        "T1-6",
+        "I3-13",
         3,
         1
     ],
@@ -15995,7 +16027,7 @@
         "Pedrali",
         "Inglese",
         "4IF",
-        "T1-6",
+        "I3-13",
         3,
         2
     ],
@@ -16003,7 +16035,7 @@
         "Lepore",
         "Matematica",
         "4IF",
-        "T1-6",
+        "T2-3",
         3,
         3
     ],
@@ -16011,7 +16043,7 @@
         "Blando",
         "Italiano e",
         "4IF",
-        "T1-6",
+        "T2-3",
         3,
         4
     ],
@@ -16019,7 +16051,7 @@
         "Blando",
         "Italiano e",
         "4IF",
-        "T1-6",
+        "T2-3",
         3,
         5
     ],
@@ -16027,7 +16059,7 @@
         "Tironi",
         "Tecn. Prg",
         "4IF",
-        "T1-6",
+        "T2-2",
         4,
         1
     ],
@@ -16035,7 +16067,7 @@
         "Lepore",
         "Matematica",
         "4IF",
-        "T1-6",
+        "T2-2",
         4,
         2
     ],
@@ -16043,7 +16075,7 @@
         "Testardo",
         "Informatica",
         "4IF",
-        "T1-6",
+        "T2-2",
         4,
         3
     ],
@@ -16051,7 +16083,7 @@
         "Crobu",
         "Sistemi e",
         "4IF",
-        "T1-6",
+        "T2-2",
         4,
         4
     ],
@@ -16091,7 +16123,7 @@
         "Blando",
         "Italiano e",
         "4IF",
-        "T1-6",
+        "T2-3",
         5,
         1
     ],
@@ -16099,7 +16131,7 @@
         "Blando",
         "Italiano e",
         "4IF",
-        "T1-6",
+        "T2-3",
         5,
         2
     ],
@@ -16107,7 +16139,7 @@
         "Crobu",
         "Sistemi e",
         "4IF",
-        "T1-6",
+        "T2-1",
         5,
         3
     ],
@@ -16131,7 +16163,7 @@
         "Lepore",
         "Matematica",
         "4IF",
-        "T1-6",
+        "T2-3",
         5,
         5
     ],
@@ -17896,15 +17928,15 @@
         4
     ],
     [
-        "Bravi",
+        "Frecassetti",
         "Ideaz. Prg",
         "4TA",
         "T3-8",
         2,
-        4
+        5
     ],
     [
-        "Frecassetti",
+        "Bravi",
         "Ideaz. Prg",
         "4TA",
         "T3-8",
@@ -17916,14 +17948,6 @@
         "Tecn. Mat",
         "4TA",
         "T2-1",
-        2,
-        6
-    ],
-    [
-        "Bravi",
-        "Tecn. Mat",
-        "4TA",
-        "T3-3",
         2,
         6
     ],
@@ -17972,6 +17996,14 @@
         "Tecn. Mat",
         "4TA",
         "T2-1",
+        4,
+        1
+    ],
+    [
+        "Bravi",
+        "Tecn. Mat",
+        "4TA",
+        "T3-3",
         4,
         1
     ],
@@ -20552,16 +20584,16 @@
         1
     ],
     [
-        "Mele",
-        "Matematica",
+        "Greco Anna Maria",
+        "Sistemi e",
         "5IE",
         "I2-3",
         2,
         2
     ],
     [
-        "Greco Anna Maria",
-        "Sistemi e",
+        "Mele",
+        "Matematica",
         "5IE",
         "I2-3",
         2,
@@ -21515,7 +21547,7 @@
         "De Leidi",
         "Tecn",
         "5MB",
-        "M3-3",
+        "M1-23",
         1,
         4
     ],
@@ -22219,7 +22251,7 @@
         "Manni",
         "Italiano e",
         "5MD",
-        "T1-6",
+        "E3-5",
         1,
         4
     ],
@@ -22227,7 +22259,7 @@
         "Baroni",
         "Inglese",
         "5MD",
-        "T1-6",
+        "E3-5",
         1,
         5
     ],
@@ -22723,7 +22755,7 @@
         "Alfonsi",
         "Inglese",
         "5ME",
-        "M3-3",
+        "I2-13",
         4,
         6
     ],
@@ -22856,14 +22888,6 @@
         2
     ],
     [
-        "Bravi",
-        "Ideaz. Prg",
-        "5TA",
-        "T3-8",
-        1,
-        2
-    ],
-    [
         "Basile",
         "Economia e",
         "5TA",
@@ -22937,6 +22961,14 @@
     ],
     [
         "Frecassetti",
+        "Ideaz. Prg",
+        "5TA",
+        "T3-8",
+        2,
+        6
+    ],
+    [
+        "Bravi",
         "Ideaz. Prg",
         "5TA",
         "T3-8",
