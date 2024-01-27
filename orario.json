@@ -168,7 +168,7 @@
             "materia": "Tecn",
             "professori": [
                 "Bono",
-                "A066-x1"
+                "Cimbalo"
             ],
             "aula": "1-90",
             "giorno": 4,
@@ -178,7 +178,7 @@
             "materia": "Tecn",
             "professori": [
                 "Bono",
-                "A066-x1"
+                "Cimbalo"
             ],
             "aula": "1-90",
             "giorno": 4,
@@ -300,7 +300,7 @@
             "professori": [
                 "Scerra"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 1,
             "ora": 1
         },
@@ -309,7 +309,7 @@
             "professori": [
                 "Marro"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 1,
             "ora": 2
         },
@@ -318,7 +318,7 @@
             "professori": [
                 "Russo"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 1,
             "ora": 3
         },
@@ -327,7 +327,7 @@
             "professori": [
                 "D'Amico"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 1,
             "ora": 4
         },
@@ -336,7 +336,7 @@
             "professori": [
                 "Greco Antonio"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 1,
             "ora": 5
         },
@@ -345,7 +345,7 @@
             "professori": [
                 "Monterisi"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 1,
             "ora": 6
         },
@@ -354,7 +354,7 @@
             "professori": [
                 "Monterisi"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 2,
             "ora": 1
         },
@@ -373,7 +373,7 @@
             "professori": [
                 "Guaragna"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 2,
             "ora": 3
         },
@@ -382,7 +382,7 @@
             "professori": [
                 "Guaragna"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 2,
             "ora": 4
         },
@@ -391,7 +391,7 @@
             "professori": [
                 "Scerra"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 2,
             "ora": 5
         },
@@ -401,7 +401,7 @@
                 "Scerra",
                 "Perlotti"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 2,
             "ora": 6
         },
@@ -410,7 +410,7 @@
             "professori": [
                 "Lepore"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 3,
             "ora": 1
         },
@@ -419,7 +419,7 @@
             "professori": [
                 "Cuminetti"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 3,
             "ora": 2
         },
@@ -428,7 +428,7 @@
             "professori": [
                 "Marro"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 3,
             "ora": 3
         },
@@ -446,7 +446,7 @@
             "professori": [
                 "Guaragna"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 3,
             "ora": 5
         },
@@ -455,7 +455,7 @@
             "professori": [
                 "Lepore"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 4,
             "ora": 1
         },
@@ -464,7 +464,7 @@
             "professori": [
                 "Cariati"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 4,
             "ora": 2
         },
@@ -473,7 +473,7 @@
             "professori": [
                 "Guaragna"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 4,
             "ora": 3
         },
@@ -481,7 +481,7 @@
             "materia": "Tecn",
             "professori": [
                 "Russo",
-                "A066-x1"
+                "Cimbalo"
             ],
             "aula": "1-90",
             "giorno": 4,
@@ -491,7 +491,7 @@
             "materia": "Tecn",
             "professori": [
                 "Russo",
-                "A066-x1"
+                "Cimbalo"
             ],
             "aula": "1-90",
             "giorno": 4,
@@ -502,7 +502,7 @@
             "professori": [
                 "Guaragna"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 5,
             "ora": 1
         },
@@ -511,7 +511,7 @@
             "professori": [
                 "Lepore"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 5,
             "ora": 2
         },
@@ -520,7 +520,7 @@
             "professori": [
                 "D'Amico"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 5,
             "ora": 3
         },
@@ -529,7 +529,7 @@
             "professori": [
                 "Greco Antonio"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 5,
             "ora": 4
         },
@@ -538,7 +538,7 @@
             "professori": [
                 "Cariati"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 5,
             "ora": 5
         },
@@ -566,7 +566,7 @@
             "professori": [
                 "Guaragna"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 6,
             "ora": 2
         },
@@ -575,7 +575,7 @@
             "professori": [
                 "Lepore"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 6,
             "ora": 3
         },
@@ -584,7 +584,7 @@
             "professori": [
                 "Marro"
             ],
-            "aula": "1-5",
+            "aula": "1-94",
             "giorno": 6,
             "ora": 4
         }
@@ -2011,7 +2011,7 @@
             "materia": "Tecn",
             "professori": [
                 "Suria",
-                "B016-x1"
+                "Ruggeri"
             ],
             "aula": "1-90",
             "giorno": 5,
@@ -2021,7 +2021,7 @@
             "materia": "Tecn",
             "professori": [
                 "Suria",
-                "B016-x1"
+                "Ruggeri"
             ],
             "aula": "1-90",
             "giorno": 5,
@@ -2070,7 +2070,7 @@
             "professori": [
                 "Espinosa"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 1,
             "ora": 1
         },
@@ -2079,7 +2079,7 @@
             "professori": [
                 "Saracino"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 1,
             "ora": 2
         },
@@ -2098,7 +2098,7 @@
             "professori": [
                 "Arnoldi"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 1,
             "ora": 4
         },
@@ -2107,7 +2107,7 @@
             "professori": [
                 "Marro"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 1,
             "ora": 5
         },
@@ -2116,7 +2116,7 @@
             "professori": [
                 "Stiro"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 1,
             "ora": 6
         },
@@ -2125,7 +2125,7 @@
             "professori": [
                 "Giglio"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 2,
             "ora": 1
         },
@@ -2134,7 +2134,7 @@
             "professori": [
                 "Stiro"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 2,
             "ora": 2
         },
@@ -2152,7 +2152,7 @@
             "professori": [
                 "Marro"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 2,
             "ora": 4
         },
@@ -2161,7 +2161,7 @@
             "professori": [
                 "Desoppi"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 2,
             "ora": 5
         },
@@ -2170,7 +2170,7 @@
             "professori": [
                 "Stiro"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 3,
             "ora": 1
         },
@@ -2179,7 +2179,7 @@
             "professori": [
                 "Consonni"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 3,
             "ora": 2
         },
@@ -2188,7 +2188,7 @@
             "professori": [
                 "Espinosa"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 3,
             "ora": 3
         },
@@ -2197,7 +2197,7 @@
             "professori": [
                 "Moschini"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 3,
             "ora": 4
         },
@@ -2206,7 +2206,7 @@
             "professori": [
                 "Moschini"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 3,
             "ora": 5
         },
@@ -2215,7 +2215,7 @@
             "professori": [
                 "Pignato"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 3,
             "ora": 6
         },
@@ -2244,7 +2244,7 @@
             "professori": [
                 "Saracino"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 4,
             "ora": 3
         },
@@ -2253,7 +2253,7 @@
             "professori": [
                 "Moschini"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 4,
             "ora": 4
         },
@@ -2271,7 +2271,7 @@
             "professori": [
                 "Marro"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 4,
             "ora": 6
         },
@@ -2281,7 +2281,7 @@
                 "Espinosa",
                 "Perlotti"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 5,
             "ora": 1
         },
@@ -2290,7 +2290,7 @@
             "professori": [
                 "Giglio"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 5,
             "ora": 2
         },
@@ -2299,7 +2299,7 @@
             "professori": [
                 "Desoppi"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 5,
             "ora": 3
         },
@@ -2308,7 +2308,7 @@
             "professori": [
                 "Moschini"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 5,
             "ora": 4
         },
@@ -2327,7 +2327,7 @@
             "professori": [
                 "Consonni"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 6,
             "ora": 1
         },
@@ -2336,7 +2336,7 @@
             "professori": [
                 "Stiro"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 6,
             "ora": 2
         },
@@ -2345,7 +2345,7 @@
             "professori": [
                 "Robert"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 6,
             "ora": 3
         },
@@ -2354,7 +2354,7 @@
             "professori": [
                 "Pignato"
             ],
-            "aula": "1-8",
+            "aula": "2-1",
             "giorno": 6,
             "ora": 4
         }
@@ -2541,7 +2541,7 @@
                 "Alicata",
                 "Aurora"
             ],
-            "aula": "1-15",
+            "aula": "1-11",
             "giorno": 4,
             "ora": 3
         },
@@ -2660,7 +2660,7 @@
             "professori": [
                 "Gaggioli"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 1,
             "ora": 1
         },
@@ -2670,7 +2670,7 @@
                 "Gaggioli",
                 "Perlotti"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 1,
             "ora": 2
         },
@@ -2679,7 +2679,7 @@
             "professori": [
                 "Monterisi"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 1,
             "ora": 3
         },
@@ -2688,7 +2688,7 @@
             "professori": [
                 "Giglio"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 1,
             "ora": 4
         },
@@ -2697,7 +2697,7 @@
             "professori": [
                 "Ghukasyan"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 1,
             "ora": 5
         },
@@ -2706,7 +2706,7 @@
             "professori": [
                 "Pizzaballa"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 2,
             "ora": 1
         },
@@ -2715,7 +2715,7 @@
             "professori": [
                 "Pizzaballa"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 2,
             "ora": 2
         },
@@ -2724,7 +2724,7 @@
             "professori": [
                 "Sorrentino"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 2,
             "ora": 3
         },
@@ -2733,7 +2733,7 @@
             "professori": [
                 "Desoppi"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 2,
             "ora": 4
         },
@@ -2742,7 +2742,7 @@
             "professori": [
                 "Mastroianni Caterina"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 2,
             "ora": 5
         },
@@ -2751,7 +2751,7 @@
             "professori": [
                 "Robert"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 2,
             "ora": 6
         },
@@ -2760,7 +2760,7 @@
             "professori": [
                 "Agoni"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 3,
             "ora": 1
         },
@@ -2769,7 +2769,7 @@
             "professori": [
                 "Mastroianni Caterina"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 3,
             "ora": 2
         },
@@ -2778,7 +2778,7 @@
             "professori": [
                 "Ghukasyan"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 3,
             "ora": 3
         },
@@ -2787,7 +2787,7 @@
             "professori": [
                 "Monterisi"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 3,
             "ora": 4
         },
@@ -2796,7 +2796,7 @@
             "professori": [
                 "Corna Cristiano"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 3,
             "ora": 5
         },
@@ -2814,7 +2814,7 @@
             "professori": [
                 "Ghukasyan"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 4,
             "ora": 1
         },
@@ -2823,7 +2823,7 @@
             "professori": [
                 "Pizzaballa"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 4,
             "ora": 2
         },
@@ -2842,7 +2842,7 @@
             "professori": [
                 "Gaggioli"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 4,
             "ora": 4
         },
@@ -2851,7 +2851,7 @@
             "professori": [
                 "Mastroianni Caterina"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 4,
             "ora": 5
         },
@@ -2869,7 +2869,7 @@
             "materia": "Tecn",
             "professori": [
                 "Sorrentino",
-                "A066-x1"
+                "Cimbalo"
             ],
             "aula": "1-90",
             "giorno": 5,
@@ -2879,7 +2879,7 @@
             "materia": "Tecn",
             "professori": [
                 "Sorrentino",
-                "A066-x1"
+                "Cimbalo"
             ],
             "aula": "1-90",
             "giorno": 5,
@@ -2890,7 +2890,7 @@
             "professori": [
                 "Giglio"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 5,
             "ora": 3
         },
@@ -2899,7 +2899,7 @@
             "professori": [
                 "Agoni"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 5,
             "ora": 4
         },
@@ -2908,7 +2908,7 @@
             "professori": [
                 "Desoppi"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 5,
             "ora": 5
         },
@@ -2926,7 +2926,7 @@
             "professori": [
                 "Corna Cristiano"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 6,
             "ora": 2
         },
@@ -2935,7 +2935,7 @@
             "professori": [
                 "Pizzaballa"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 6,
             "ora": 3
         },
@@ -2944,7 +2944,7 @@
             "professori": [
                 "Mastroianni Caterina"
             ],
-            "aula": "3-3",
+            "aula": "I1-2",
             "giorno": 6,
             "ora": 4
         }
@@ -3000,7 +3000,7 @@
             "materia": "Tecn",
             "professori": [
                 "Sorrentino",
-                "A066-x1"
+                "Cimbalo"
             ],
             "aula": "1-90",
             "giorno": 2,
@@ -3010,7 +3010,7 @@
             "materia": "Tecn",
             "professori": [
                 "Sorrentino",
-                "A066-x1"
+                "Cimbalo"
             ],
             "aula": "1-90",
             "giorno": 2,
@@ -3250,7 +3250,7 @@
             "professori": [
                 "Alborghetti"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 1,
             "ora": 1
         },
@@ -3259,7 +3259,7 @@
             "professori": [
                 "Greselin"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 1,
             "ora": 2
         },
@@ -3268,7 +3268,7 @@
             "professori": [
                 "Alfonsi"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 1,
             "ora": 3
         },
@@ -3286,7 +3286,7 @@
             "professori": [
                 "Basile"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 1,
             "ora": 5
         },
@@ -3295,7 +3295,7 @@
             "professori": [
                 "Bambagioni"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 2,
             "ora": 1
         },
@@ -3314,7 +3314,7 @@
             "professori": [
                 "Luzzana"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 2,
             "ora": 3
         },
@@ -3333,7 +3333,7 @@
             "professori": [
                 "Arici"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 2,
             "ora": 5
         },
@@ -3342,7 +3342,7 @@
             "professori": [
                 "Bambagioni"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 3,
             "ora": 1
         },
@@ -3351,7 +3351,7 @@
             "professori": [
                 "Gaggioli"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 3,
             "ora": 2
         },
@@ -3361,7 +3361,7 @@
                 "Gaggioli",
                 "Colca"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 3,
             "ora": 3
         },
@@ -3370,7 +3370,7 @@
             "professori": [
                 "Luzzana"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 3,
             "ora": 4
         },
@@ -3379,7 +3379,7 @@
             "professori": [
                 "Genovese"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 3,
             "ora": 5
         },
@@ -3388,7 +3388,7 @@
             "professori": [
                 "Giglio"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 3,
             "ora": 6
         },
@@ -3397,7 +3397,7 @@
             "professori": [
                 "Basile"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 4,
             "ora": 1
         },
@@ -3406,7 +3406,7 @@
             "professori": [
                 "Bambagioni"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 4,
             "ora": 2
         },
@@ -3415,7 +3415,7 @@
             "professori": [
                 "Bambagioni"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 4,
             "ora": 3
         },
@@ -3424,7 +3424,7 @@
             "professori": [
                 "Giglio"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 4,
             "ora": 4
         },
@@ -3433,7 +3433,7 @@
             "professori": [
                 "Alfonsi"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 4,
             "ora": 5
         },
@@ -3451,7 +3451,7 @@
             "professori": [
                 "Greselin"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 5,
             "ora": 1
         },
@@ -3460,7 +3460,7 @@
             "professori": [
                 "Alborghetti"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 5,
             "ora": 2
         },
@@ -3469,7 +3469,7 @@
             "professori": [
                 "Bambagioni"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 5,
             "ora": 3
         },
@@ -3478,7 +3478,7 @@
             "professori": [
                 "Bambagioni"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 5,
             "ora": 4
         },
@@ -3487,7 +3487,7 @@
             "professori": [
                 "Alfonsi"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 5,
             "ora": 5
         },
@@ -3496,7 +3496,7 @@
             "professori": [
                 "Gaggioli"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 5,
             "ora": 6
         },
@@ -3505,7 +3505,7 @@
             "professori": [
                 "Luzzana"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 6,
             "ora": 1
         },
@@ -3514,7 +3514,7 @@
             "professori": [
                 "Luzzana"
             ],
-            "aula": "2-2",
+            "aula": "M2-3",
             "giorno": 6,
             "ora": 2
         },
@@ -3522,7 +3522,7 @@
             "materia": "Tecn",
             "professori": [
                 "Genovese",
-                "A066-x1"
+                "Cimbalo"
             ],
             "aula": "1-90",
             "giorno": 6,
@@ -3532,7 +3532,7 @@
             "materia": "Tecn",
             "professori": [
                 "Genovese",
-                "A066-x1"
+                "Cimbalo"
             ],
             "aula": "1-90",
             "giorno": 6,
@@ -3545,7 +3545,7 @@
             "professori": [
                 "Greselin"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 1,
             "ora": 1
         },
@@ -3554,7 +3554,7 @@
             "professori": [
                 "Cariati"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 1,
             "ora": 2
         },
@@ -3563,7 +3563,7 @@
             "professori": [
                 "Aielli"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 1,
             "ora": 3
         },
@@ -3573,7 +3573,7 @@
                 "Barbera",
                 "Colca"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 1,
             "ora": 4
         },
@@ -3582,7 +3582,7 @@
             "professori": [
                 "Zammaretti"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 1,
             "ora": 5
         },
@@ -3591,7 +3591,7 @@
             "professori": [
                 "Filosa"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 1,
             "ora": 6
         },
@@ -3600,7 +3600,7 @@
             "professori": [
                 "Cattalini"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 2,
             "ora": 1
         },
@@ -3609,7 +3609,7 @@
             "professori": [
                 "Cattalini"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 2,
             "ora": 2
         },
@@ -3618,7 +3618,7 @@
             "professori": [
                 "Zammaretti"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 2,
             "ora": 3
         },
@@ -3627,7 +3627,7 @@
             "professori": [
                 "Cataldo"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 2,
             "ora": 4
         },
@@ -3636,7 +3636,7 @@
             "professori": [
                 "Agoni"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 2,
             "ora": 5
         },
@@ -3645,7 +3645,7 @@
             "professori": [
                 "Filosa"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 3,
             "ora": 1
         },
@@ -3654,7 +3654,7 @@
             "professori": [
                 "Cataldo"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 3,
             "ora": 2
         },
@@ -3663,7 +3663,7 @@
             "professori": [
                 "Zammaretti"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 3,
             "ora": 3
         },
@@ -3672,7 +3672,7 @@
             "professori": [
                 "Cattalini"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 3,
             "ora": 4
         },
@@ -3681,7 +3681,7 @@
             "professori": [
                 "Cariati"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 3,
             "ora": 5
         },
@@ -3690,7 +3690,7 @@
             "professori": [
                 "Greselin"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 3,
             "ora": 6
         },
@@ -3699,7 +3699,7 @@
             "professori": [
                 "Robert"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 4,
             "ora": 1
         },
@@ -3708,7 +3708,7 @@
             "professori": [
                 "Cattalini"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 4,
             "ora": 2
         },
@@ -3726,7 +3726,7 @@
             "professori": [
                 "Filosa"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 4,
             "ora": 4
         },
@@ -3745,7 +3745,7 @@
             "professori": [
                 "Barbera"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 5,
             "ora": 1
         },
@@ -3754,7 +3754,7 @@
             "professori": [
                 "Barbera"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 5,
             "ora": 2
         },
@@ -3763,7 +3763,7 @@
             "professori": [
                 "Zammaretti"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 5,
             "ora": 3
         },
@@ -3781,7 +3781,7 @@
             "materia": "Tecn",
             "professori": [
                 "Aielli",
-                "A066-x1"
+                "Cimbalo"
             ],
             "aula": "1-32",
             "giorno": 5,
@@ -3791,7 +3791,7 @@
             "materia": "Tecn",
             "professori": [
                 "Aielli",
-                "A066-x1"
+                "Cimbalo"
             ],
             "aula": "1-32",
             "giorno": 5,
@@ -3802,7 +3802,7 @@
             "professori": [
                 "Cattalini"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 6,
             "ora": 1
         },
@@ -3811,7 +3811,7 @@
             "professori": [
                 "Cattalini"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 6,
             "ora": 2
         },
@@ -3820,7 +3820,7 @@
             "professori": [
                 "Agoni"
             ],
-            "aula": "2-1",
+            "aula": "1-8",
             "giorno": 6,
             "ora": 3
         },
@@ -3937,9 +3937,10 @@
         "12": {
             "materia": "S.I. Chimica",
             "professori": [
+                "Priolo",
                 "Richelmi"
             ],
-            "aula": "3-7",
+            "aula": "1-17",
             "giorno": 2,
             "ora": 6
         },
@@ -3947,7 +3948,7 @@
             "materia": "Tecn",
             "professori": [
                 "Cale'",
-                "A066-x1"
+                "Cimbalo"
             ],
             "aula": "1-32",
             "giorno": 3,
@@ -3957,7 +3958,7 @@
             "materia": "Tecn",
             "professori": [
                 "Cale'",
-                "A066-x1"
+                "Cimbalo"
             ],
             "aula": "1-32",
             "giorno": 3,
@@ -4000,9 +4001,9 @@
             "ora": 6
         },
         "19": {
-            "materia": "Italiano e",
+            "materia": "S.I. Chimica",
             "professori": [
-                "Foglia"
+                "Richelmi"
             ],
             "aula": "3-7",
             "giorno": 4,
@@ -4054,12 +4055,11 @@
             "ora": 1
         },
         "25": {
-            "materia": "S.I. Chimica",
+            "materia": "Italiano e",
             "professori": [
-                "Priolo",
-                "Richelmi"
+                "Foglia"
             ],
-            "aula": "T2-9",
+            "aula": "3-7",
             "giorno": 5,
             "ora": 2
         },
@@ -4235,7 +4235,7 @@
             "materia": "Tecn",
             "professori": [
                 "Aielli",
-                "B016-x1"
+                "Rosanova"
             ],
             "aula": "1-90",
             "giorno": 3,
@@ -4245,7 +4245,7 @@
             "materia": "Tecn",
             "professori": [
                 "Aielli",
-                "B016-x1"
+                "Rosanova"
             ],
             "aula": "1-90",
             "giorno": 3,
@@ -9289,11 +9289,11 @@
             "ora": 5
         },
         "6": {
-            "materia": "Italiano e",
+            "materia": "Sc. Motorie",
             "professori": [
-                "Foglia"
+                "Spina"
             ],
-            "aula": "4-12",
+            "aula": "Palestra 1",
             "giorno": 2,
             "ora": 1
         },
@@ -9307,11 +9307,11 @@
             "ora": 2
         },
         "8": {
-            "materia": "Sc. Motorie",
+            "materia": "Italiano e",
             "professori": [
-                "Spina"
+                "Foglia"
             ],
-            "aula": "Pal. Fitness",
+            "aula": "4-12",
             "giorno": 2,
             "ora": 3
         },
@@ -9320,7 +9320,7 @@
             "professori": [
                 "Sorrentino"
             ],
-            "aula": "4-12",
+            "aula": "E2-7",
             "giorno": 2,
             "ora": 4
         },
@@ -9329,7 +9329,7 @@
             "professori": [
                 "Bolognini"
             ],
-            "aula": "4-12",
+            "aula": "E2-7",
             "giorno": 2,
             "ora": 5
         },
@@ -9338,7 +9338,7 @@
             "professori": [
                 "Genovese"
             ],
-            "aula": "4-12",
+            "aula": "E2-7",
             "giorno": 2,
             "ora": 6
         },
@@ -10141,7 +10141,7 @@
             "professori": [
                 "Puddu"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 1,
             "ora": 1
         },
@@ -10150,7 +10150,7 @@
             "professori": [
                 "Pedrali"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 1,
             "ora": 2
         },
@@ -10160,7 +10160,7 @@
                 "Bernini",
                 "Baldacci"
             ],
-            "aula": "I1-13",
+            "aula": "I2-13",
             "giorno": 1,
             "ora": 3
         },
@@ -10178,7 +10178,7 @@
             "professori": [
                 "De Luca"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 1,
             "ora": 5
         },
@@ -10187,7 +10187,7 @@
             "professori": [
                 "Puddu"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 2,
             "ora": 1
         },
@@ -10196,7 +10196,7 @@
             "professori": [
                 "Puddu"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 2,
             "ora": 2
         },
@@ -10225,7 +10225,7 @@
             "professori": [
                 "Rizzo"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 2,
             "ora": 5
         },
@@ -10234,7 +10234,7 @@
             "professori": [
                 "Rizzo"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 3,
             "ora": 1
         },
@@ -10243,7 +10243,7 @@
             "professori": [
                 "Mazzoleni"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 3,
             "ora": 2
         },
@@ -10252,7 +10252,7 @@
             "professori": [
                 "Pedrali"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 3,
             "ora": 3
         },
@@ -10261,7 +10261,7 @@
             "professori": [
                 "De Luca"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 3,
             "ora": 4
         },
@@ -10290,7 +10290,7 @@
             "professori": [
                 "Rizzo"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 4,
             "ora": 1
         },
@@ -10299,7 +10299,7 @@
             "professori": [
                 "Mazzoleni"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 4,
             "ora": 2
         },
@@ -10308,7 +10308,7 @@
             "professori": [
                 "De Luca"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 4,
             "ora": 3
         },
@@ -10317,7 +10317,7 @@
             "professori": [
                 "Bernini"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 4,
             "ora": 4
         },
@@ -10345,7 +10345,7 @@
             "professori": [
                 "De Luca"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 5,
             "ora": 1
         },
@@ -10354,7 +10354,7 @@
             "professori": [
                 "Bernini"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 5,
             "ora": 2
         },
@@ -10383,7 +10383,7 @@
             "professori": [
                 "Rizzo"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 5,
             "ora": 5
         },
@@ -10392,7 +10392,7 @@
             "professori": [
                 "Pedrali"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 5,
             "ora": 6
         },
@@ -10401,7 +10401,7 @@
             "professori": [
                 "Arici"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 6,
             "ora": 1
         },
@@ -10410,7 +10410,7 @@
             "professori": [
                 "Masserini"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 6,
             "ora": 2
         },
@@ -10419,7 +10419,7 @@
             "professori": [
                 "Rizzo"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 6,
             "ora": 3
         },
@@ -10428,7 +10428,7 @@
             "professori": [
                 "Rizzo"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 6,
             "ora": 4
         }
@@ -11353,7 +11353,7 @@
                 "Carbone",
                 "Grena"
             ],
-            "aula": "I2-13",
+            "aula": "I1-13",
             "giorno": 1,
             "ora": 3
         },
@@ -11362,7 +11362,7 @@
             "professori": [
                 "Baroni"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 1,
             "ora": 4
         },
@@ -11371,7 +11371,7 @@
             "professori": [
                 "Valtulina"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 1,
             "ora": 5
         },
@@ -11380,7 +11380,7 @@
             "professori": [
                 "Caso"
             ],
-            "aula": "I2-6",
+            "aula": "I1-6",
             "giorno": 2,
             "ora": 1
         },
@@ -11389,7 +11389,7 @@
             "professori": [
                 "Caso"
             ],
-            "aula": "I2-6",
+            "aula": "I1-6",
             "giorno": 2,
             "ora": 2
         },
@@ -11398,7 +11398,7 @@
             "professori": [
                 "Valtulina"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 2,
             "ora": 3
         },
@@ -11407,7 +11407,7 @@
             "professori": [
                 "Arnoldi"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 2,
             "ora": 4
         },
@@ -11416,7 +11416,7 @@
             "professori": [
                 "Pizzaballa"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 2,
             "ora": 5
         },
@@ -11425,7 +11425,7 @@
             "professori": [
                 "Pizzaballa"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 3,
             "ora": 1
         },
@@ -11434,7 +11434,7 @@
             "professori": [
                 "Castelletti"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 3,
             "ora": 2
         },
@@ -11443,7 +11443,7 @@
             "professori": [
                 "Valtulina"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 3,
             "ora": 3
         },
@@ -11452,7 +11452,7 @@
             "professori": [
                 "Baroni"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 3,
             "ora": 4
         },
@@ -11461,7 +11461,7 @@
             "professori": [
                 "Arnoldi"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 3,
             "ora": 5
         },
@@ -11470,7 +11470,7 @@
             "professori": [
                 "Carbone"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 3,
             "ora": 6
         },
@@ -11479,7 +11479,7 @@
             "professori": [
                 "Baroni"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 4,
             "ora": 1
         },
@@ -11488,7 +11488,7 @@
             "professori": [
                 "Caso"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 4,
             "ora": 2
         },
@@ -11497,7 +11497,7 @@
             "professori": [
                 "Pizzaballa"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 4,
             "ora": 3
         },
@@ -11506,7 +11506,7 @@
             "professori": [
                 "Valtulina"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 4,
             "ora": 4
         },
@@ -11516,7 +11516,7 @@
                 "Arnoldi",
                 "Gaffuri"
             ],
-            "aula": "E2-9",
+            "aula": "I1-13",
             "giorno": 4,
             "ora": 5
         },
@@ -11526,7 +11526,7 @@
                 "Arnoldi",
                 "Gaffuri"
             ],
-            "aula": "E2-9",
+            "aula": "I1-13",
             "giorno": 4,
             "ora": 6
         },
@@ -11535,7 +11535,7 @@
             "professori": [
                 "Fratus"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 5,
             "ora": 1
         },
@@ -11544,7 +11544,7 @@
             "professori": [
                 "Carbone"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 5,
             "ora": 2
         },
@@ -11573,7 +11573,7 @@
             "professori": [
                 "Arnoldi"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 5,
             "ora": 5
         },
@@ -11582,7 +11582,7 @@
             "professori": [
                 "Pizzaballa"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 5,
             "ora": 6
         },
@@ -11591,7 +11591,7 @@
             "professori": [
                 "Pizzaballa"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 6,
             "ora": 1
         },
@@ -11600,7 +11600,7 @@
             "professori": [
                 "Pizzaballa"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 6,
             "ora": 2
         },
@@ -11618,7 +11618,7 @@
             "professori": [
                 "Caso"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 6,
             "ora": 4
         }
@@ -11928,7 +11928,7 @@
             "professori": [
                 "Alfonsi"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 1,
             "ora": 1
         },
@@ -11937,7 +11937,7 @@
             "professori": [
                 "Posillico"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 1,
             "ora": 2
         },
@@ -11946,7 +11946,7 @@
             "professori": [
                 "Gioco"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 1,
             "ora": 3
         },
@@ -11955,7 +11955,7 @@
             "professori": [
                 "Gioco"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 1,
             "ora": 4
         },
@@ -11964,7 +11964,7 @@
             "professori": [
                 "Ravelli"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 1,
             "ora": 5
         },
@@ -11973,7 +11973,7 @@
             "professori": [
                 "Ravelli"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 1,
             "ora": 6
         },
@@ -11982,7 +11982,7 @@
             "professori": [
                 "Ravelli"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 2,
             "ora": 1
         },
@@ -11991,7 +11991,7 @@
             "professori": [
                 "Posillico"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 2,
             "ora": 2
         },
@@ -12001,7 +12001,7 @@
                 "Masia",
                 "Dimilta"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 2,
             "ora": 3
         },
@@ -12019,7 +12019,7 @@
             "professori": [
                 "Paone"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 2,
             "ora": 5
         },
@@ -12048,7 +12048,7 @@
             "professori": [
                 "Paone"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 3,
             "ora": 3
         },
@@ -12057,7 +12057,7 @@
             "professori": [
                 "Ravelli"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 3,
             "ora": 4
         },
@@ -12086,7 +12086,7 @@
             "professori": [
                 "Ravelli"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 4,
             "ora": 1
         },
@@ -12095,7 +12095,7 @@
             "professori": [
                 "Ravelli"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 4,
             "ora": 2
         },
@@ -12104,7 +12104,7 @@
             "professori": [
                 "Posillico"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 4,
             "ora": 3
         },
@@ -12113,7 +12113,7 @@
             "professori": [
                 "Alfonsi"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 4,
             "ora": 4
         },
@@ -12122,7 +12122,7 @@
             "professori": [
                 "Masia"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 4,
             "ora": 5
         },
@@ -12189,7 +12189,7 @@
             "professori": [
                 "Posillico"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 6,
             "ora": 1
         },
@@ -12198,7 +12198,7 @@
             "professori": [
                 "Robert"
             ],
-            "aula": "M2-3",
+            "aula": "2-2",
             "giorno": 6,
             "ora": 2
         },
@@ -15513,7 +15513,7 @@
             "professori": [
                 "Arici"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 1,
             "ora": 1
         },
@@ -15522,7 +15522,7 @@
             "professori": [
                 "Testardo"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 1,
             "ora": 2
         },
@@ -15531,7 +15531,7 @@
             "professori": [
                 "Pedrali"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 1,
             "ora": 3
         },
@@ -15558,7 +15558,7 @@
             "professori": [
                 "Cale'"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 1,
             "ora": 6
         },
@@ -15614,7 +15614,7 @@
             "professori": [
                 "Testardo"
             ],
-            "aula": "1-94",
+            "aula": "1-5",
             "giorno": 2,
             "ora": 6
         },
@@ -16585,7 +16585,7 @@
                 "Zanetti",
                 "Lo Maglio"
             ],
-            "aula": "M3-5",
+            "aula": "M1-23",
             "giorno": 4,
             "ora": 3
         },
@@ -18820,7 +18820,7 @@
             "professori": [
                 "Principato"
             ],
-            "aula": "I1-2",
+            "aula": "M3-5",
             "giorno": 1,
             "ora": 3
         },
@@ -18829,7 +18829,7 @@
             "professori": [
                 "Moretti"
             ],
-            "aula": "I1-2",
+            "aula": "M3-3",
             "giorno": 1,
             "ora": 4
         },
@@ -18857,7 +18857,7 @@
                 "Principato",
                 "Arcuri"
             ],
-            "aula": "I1-6",
+            "aula": "I2-6",
             "giorno": 2,
             "ora": 1
         },
@@ -18867,7 +18867,7 @@
                 "Principato",
                 "Arcuri"
             ],
-            "aula": "I1-6",
+            "aula": "I2-6",
             "giorno": 2,
             "ora": 2
         },
@@ -19598,7 +19598,7 @@
                 "Testardo",
                 "Grena"
             ],
-            "aula": "I1-13",
+            "aula": "E2-9",
             "giorno": 4,
             "ora": 5
         },
@@ -19608,7 +19608,7 @@
                 "Testardo",
                 "Grena"
             ],
-            "aula": "I1-13",
+            "aula": "E2-9",
             "giorno": 4,
             "ora": 6
         },
@@ -19637,7 +19637,7 @@
             "professori": [
                 "Guaragna"
             ],
-            "aula": "I1-2",
+            "aula": "M2-1",
             "giorno": 5,
             "ora": 3
         },
@@ -19646,7 +19646,7 @@
             "professori": [
                 "Puddu"
             ],
-            "aula": "I1-2",
+            "aula": "M2-1",
             "giorno": 5,
             "ora": 4
         },
@@ -20085,7 +20085,7 @@
             "professori": [
                 "Indelicato"
             ],
-            "aula": "I1-2",
+            "aula": "T2-1",
             "giorno": 2,
             "ora": 4
         },
@@ -20152,7 +20152,7 @@
             "professori": [
                 "Speranza"
             ],
-            "aula": "I1-2",
+            "aula": "T2-1",
             "giorno": 3,
             "ora": 5
         },
@@ -20197,7 +20197,7 @@
             "professori": [
                 "Indelicato"
             ],
-            "aula": "I1-2",
+            "aula": "3-3",
             "giorno": 4,
             "ora": 5
         },
@@ -20517,7 +20517,7 @@
             "professori": [
                 "Redolfi"
             ],
-            "aula": "M2-3",
+            "aula": "M3-3",
             "giorno": 5,
             "ora": 1
         },
@@ -20526,7 +20526,7 @@
             "professori": [
                 "Martini"
             ],
-            "aula": "M2-3",
+            "aula": "M3-3",
             "giorno": 5,
             "ora": 2
         },
@@ -21299,7 +21299,7 @@
             "professori": [
                 "Monaco"
             ],
-            "aula": "M2-3",
+            "aula": "M3-8",
             "giorno": 3,
             "ora": 1
         },
@@ -21308,7 +21308,7 @@
             "professori": [
                 "Baroni"
             ],
-            "aula": "M2-3",
+            "aula": "E3-5",
             "giorno": 3,
             "ora": 2
         },
@@ -21437,7 +21437,7 @@
             "professori": [
                 "Indelicato"
             ],
-            "aula": "M2-3",
+            "aula": "E3-1",
             "giorno": 5,
             "ora": 5
         },
