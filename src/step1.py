@@ -26,7 +26,7 @@ from tika import parser
 
 # Margin of the table
 MARGIN_TOP = 145
-MARGIN_LEFT = 85
+MARGIN_LEFT = 100
 
 # Size of each cell
 CELL_HEIGHT = 110
