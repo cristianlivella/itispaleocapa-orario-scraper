@@ -17423,6 +17423,15 @@
             "ora": 5
         },
         "11": {
+            "materia": "Italiano e",
+            "professori": [
+                "Muzzupappa"
+            ],
+            "aula": "3-17",
+            "giorno": 2,
+            "ora": 6
+        },
+        "12": {
             "materia": "Matematica",
             "professori": [
                 "Fotia"
@@ -17431,7 +17440,7 @@
             "giorno": 3,
             "ora": 1
         },
-        "12": {
+        "13": {
             "materia": "Italiano e",
             "professori": [
                 "Muzzupappa"
@@ -17440,7 +17449,7 @@
             "giorno": 3,
             "ora": 2
         },
-        "13": {
+        "14": {
             "materia": "Italiano e",
             "professori": [
                 "Muzzupappa"
@@ -17448,15 +17457,6 @@
             "aula": "3-17",
             "giorno": 3,
             "ora": 3
-        },
-        "14": {
-            "materia": "Informatica",
-            "professori": [
-                "Rampoldi"
-            ],
-            "aula": "3-17",
-            "giorno": 3,
-            "ora": 4
         },
         "15": {
             "materia": "Informatica",
@@ -17465,9 +17465,18 @@
             ],
             "aula": "3-17",
             "giorno": 3,
-            "ora": 5
+            "ora": 4
         },
         "16": {
+            "materia": "Informatica",
+            "professori": [
+                "Rampoldi"
+            ],
+            "aula": "3-17",
+            "giorno": 3,
+            "ora": 5
+        },
+        "17": {
             "materia": "Sistemi e",
             "professori": [
                 "Mistretta"
@@ -17476,7 +17485,7 @@
             "giorno": 4,
             "ora": 1
         },
-        "17": {
+        "18": {
             "materia": "Inglese",
             "professori": [
                 "Baroni"
@@ -17485,7 +17494,7 @@
             "giorno": 4,
             "ora": 2
         },
-        "18": {
+        "19": {
             "materia": "Tecn. Prg",
             "professori": [
                 "Falzone"
@@ -17494,23 +17503,14 @@
             "giorno": 4,
             "ora": 3
         },
-        "19": {
-            "materia": "Italiano e",
+        "20": {
+            "materia": "Matematica",
             "professori": [
-                "Muzzupappa"
+                "Fotia"
             ],
             "aula": "3-17",
             "giorno": 4,
             "ora": 4
-        },
-        "20": {
-            "materia": "Sc. Motorie",
-            "professori": [
-                "Giambellini"
-            ],
-            "aula": "Pal. Fitness",
-            "giorno": 4,
-            "ora": 5
         },
         "21": {
             "materia": "Sc. Motorie",
@@ -17519,17 +17519,16 @@
             ],
             "aula": "Pal. Fitness",
             "giorno": 4,
-            "ora": 6
+            "ora": 5
         },
         "22": {
-            "materia": "Informatica",
+            "materia": "Sc. Motorie",
             "professori": [
-                "Rampoldi",
-                "Midiri"
+                "Giambellini"
             ],
-            "aula": "T1-12",
-            "giorno": 5,
-            "ora": 1
+            "aula": "Pal. Fitness",
+            "giorno": 4,
+            "ora": 6
         },
         "23": {
             "materia": "Informatica",
@@ -17539,9 +17538,19 @@
             ],
             "aula": "T1-12",
             "giorno": 5,
-            "ora": 2
+            "ora": 1
         },
         "24": {
+            "materia": "Informatica",
+            "professori": [
+                "Rampoldi",
+                "Midiri"
+            ],
+            "aula": "T1-12",
+            "giorno": 5,
+            "ora": 2
+        },
+        "25": {
             "materia": "Italiano e",
             "professori": [
                 "Muzzupappa"
@@ -17550,7 +17559,7 @@
             "giorno": 5,
             "ora": 3
         },
-        "25": {
+        "26": {
             "materia": "Gest. Prg",
             "professori": [
                 "A041-x1"
@@ -17559,7 +17568,7 @@
             "giorno": 5,
             "ora": 4
         },
-        "26": {
+        "27": {
             "materia": "Matematica",
             "professori": [
                 "Fotia"
@@ -17568,7 +17577,7 @@
             "giorno": 5,
             "ora": 5
         },
-        "27": {
+        "28": {
             "materia": "Tecn. Prg",
             "professori": [
                 "Falzone"
@@ -17577,7 +17586,7 @@
             "giorno": 5,
             "ora": 6
         },
-        "28": {
+        "29": {
             "materia": "Italiano e",
             "professori": [
                 "Muzzupappa"
@@ -17586,7 +17595,7 @@
             "giorno": 6,
             "ora": 1
         },
-        "29": {
+        "30": {
             "materia": "Italiano e",
             "professori": [
                 "Muzzupappa"
@@ -17595,7 +17604,7 @@
             "giorno": 6,
             "ora": 2
         },
-        "30": {
+        "31": {
             "materia": "Informatica",
             "professori": [
                 "Rampoldi",
@@ -17605,7 +17614,7 @@
             "giorno": 6,
             "ora": 3
         },
-        "31": {
+        "32": {
             "materia": "Informatica",
             "professori": [
                 "Rampoldi",

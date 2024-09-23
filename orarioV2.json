@@ -22321,6 +22321,17 @@
                 ]
             },
             {
+                "day": 2,
+                "time": 6,
+                "subject": "Italiano e",
+                "teachers_classrooms": [
+                    {
+                        "teacher": "Muzzupappa",
+                        "classroom": "3-17"
+                    }
+                ]
+            },
+            {
                 "day": 3,
                 "time": 1,
                 "subject": "Matematica",
@@ -22411,10 +22422,10 @@
             {
                 "day": 4,
                 "time": 4,
-                "subject": "Italiano e",
+                "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Muzzupappa",
+                        "teacher": "Fotia",
                         "classroom": "3-17"
                     }
                 ]
