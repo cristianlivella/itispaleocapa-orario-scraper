@@ -1,51 +1,12 @@
 [
     {
-        "cognome": "Greco",
-        "omonimi": [
-            {
-                "nome": "Antonio",
-                "ore": 18,
-                "materie": [
-                    "Diritto ed"
-                ]
-            },
-            {
-                "nome": "Anna Maria",
-                "ore": 15,
-                "materie": [
-                    "Sistemi e",
-                    "Tecn. Prg"
-                ]
-            }
-        ]
-    },
-    {
-        "cognome": "Corna",
-        "omonimi": [
-            {
-                "nome": "Cristiano",
-                "ore": 18,
-                "materie": [
-                    "S.I. Fisica"
-                ]
-            },
-            {
-                "nome": "Marina",
-                "ore": 18,
-                "materie": [
-                    "Inglese"
-                ]
-            }
-        ]
-    },
-    {
-        "cognome": "Alborghetti",
+        "cognome": "Albo",
         "omonimi": [
             {
                 "nome": "",
                 "ore": 15,
                 "materie": [
-                    "S.I. Chimica"
+                    "S.I. Chimic"
                 ]
             },
             {
@@ -58,13 +19,13 @@
         ]
     },
     {
-        "cognome": "Richelmi",
+        "cognome": "Rich",
         "omonimi": [
             {
                 "nome": "",
                 "ore": 15,
                 "materie": [
-                    "S.I. Chimica"
+                    "S.I. Chimic"
                 ]
             },
             {
@@ -72,47 +33,6 @@
                 "ore": 4,
                 "materie": [
                     "Chim. Appl"
-                ]
-            }
-        ]
-    },
-    {
-        "cognome": "Mastroianni",
-        "omonimi": [
-            {
-                "nome": "Caterina",
-                "ore": 18,
-                "materie": [
-                    "Matematica"
-                ]
-            },
-            {
-                "nome": "Michele",
-                "ore": 20,
-                "materie": [
-                    "Gest. Prg",
-                    "Informatica",
-                    "Sistemi e",
-                    "Tecn. Prg"
-                ]
-            }
-        ]
-    },
-    {
-        "cognome": "Napolitano",
-        "omonimi": [
-            {
-                "nome": "Pasquale",
-                "ore": 18,
-                "materie": [
-                    "Sc. Motorie"
-                ]
-            },
-            {
-                "nome": "Francesco",
-                "ore": 18,
-                "materie": [
-                    "Italiano e"
                 ]
             }
         ]
@@ -137,7 +57,7 @@
         ]
     },
     {
-        "cognome": "Di Pietro",
+        "cognome": "Dipi",
         "omonimi": [
             {
                 "nome": "",
@@ -150,32 +70,32 @@
                 "nome": "",
                 "ore": 10,
                 "materie": [
-                    "Sistemi"
+                    "Sistemi Aut"
                 ]
             }
         ]
     },
     {
-        "cognome": "Vitali",
+        "cognome": "Vast",
         "omonimi": [
             {
                 "nome": "",
-                "ore": 18,
+                "ore": 3,
                 "materie": [
-                    "Italiano e"
+                    "Sc. e Tecn"
                 ]
             },
             {
                 "nome": "",
-                "ore": 19,
+                "ore": 16,
                 "materie": [
-                    "Sistemi e"
+                    "Sistemi e A"
                 ]
             }
         ]
     },
     {
-        "cognome": "Bravi",
+        "cognome": "Brav",
         "omonimi": [
             {
                 "nome": "",
