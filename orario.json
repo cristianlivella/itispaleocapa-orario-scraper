@@ -31,7 +31,7 @@
         "4": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "A050-x1"
+                "Facc"
             ],
             "aula": "2-6",
             "giorno": 1,
@@ -177,7 +177,7 @@
         "20": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "A050-x1"
+                "Facc"
             ],
             "aula": "2-6",
             "giorno": 4,
@@ -307,7 +307,7 @@
         "2": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "A050-x1"
+                "Facc"
             ],
             "aula": "1-94",
             "giorno": 1,
@@ -406,7 +406,7 @@
         "13": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "A050-x1"
+                "Facc"
             ],
             "aula": "1-94",
             "giorno": 3,
@@ -593,9 +593,9 @@
         "1": {
             "materia": "Matematica",
             "professori": [
-                "Pezz"
+                "Cava"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 1,
             "ora": 1
         },
@@ -604,7 +604,7 @@
             "professori": [
                 "Albo"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 1,
             "ora": 2
         },
@@ -613,7 +613,7 @@
             "professori": [
                 "Grec"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 1,
             "ora": 3
         },
@@ -622,7 +622,7 @@
             "professori": [
                 "Fuma"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 1,
             "ora": 4
         },
@@ -649,9 +649,9 @@
         "7": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "A050-x1"
+                "Facc"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 2,
             "ora": 1
         },
@@ -660,7 +660,7 @@
             "professori": [
                 "Stra"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 2,
             "ora": 2
         },
@@ -669,7 +669,7 @@
             "professori": [
                 "Grec"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 2,
             "ora": 3
         },
@@ -678,7 +678,7 @@
             "professori": [
                 "Alic"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 2,
             "ora": 4
         },
@@ -688,7 +688,7 @@
                 "Gagg",
                 "Bacc"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 2,
             "ora": 5
         },
@@ -716,7 +716,7 @@
             "professori": [
                 "Baro"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 3,
             "ora": 2
         },
@@ -725,7 +725,7 @@
             "professori": [
                 "Pasq"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 3,
             "ora": 3
         },
@@ -734,7 +734,7 @@
             "professori": [
                 "Pasq"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 3,
             "ora": 4
         },
@@ -743,7 +743,7 @@
             "professori": [
                 "Pizz"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 3,
             "ora": 5
         },
@@ -752,16 +752,16 @@
             "professori": [
                 "Alic"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 3,
             "ora": 6
         },
         "19": {
             "materia": "Matematica",
             "professori": [
-                "Pezz"
+                "Cava"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 4,
             "ora": 1
         },
@@ -789,16 +789,16 @@
             "professori": [
                 "Baro"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 4,
             "ora": 4
         },
         "23": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "A050-x1"
+                "Facc"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 4,
             "ora": 5
         },
@@ -807,7 +807,7 @@
             "professori": [
                 "Baro"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 5,
             "ora": 1
         },
@@ -816,7 +816,7 @@
             "professori": [
                 "Albo"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 5,
             "ora": 2
         },
@@ -825,7 +825,7 @@
             "professori": [
                 "Gagg"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 5,
             "ora": 3
         },
@@ -834,16 +834,16 @@
             "professori": [
                 "Gagg"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 5,
             "ora": 4
         },
         "28": {
             "materia": "Matematica",
             "professori": [
-                "Pezz"
+                "Cava"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 5,
             "ora": 5
         },
@@ -852,7 +852,7 @@
             "professori": [
                 "Pasq"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 6,
             "ora": 1
         },
@@ -861,7 +861,7 @@
             "professori": [
                 "Pasq"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 6,
             "ora": 2
         },
@@ -870,16 +870,16 @@
             "professori": [
                 "Pizz"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 6,
             "ora": 3
         },
         "32": {
             "materia": "Matematica",
             "professori": [
-                "Pezz"
+                "Cava"
             ],
-            "aula": "1-8",
+            "aula": "1-14",
             "giorno": 6,
             "ora": 4
         }
@@ -1026,7 +1026,7 @@
         "16": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "A050-x1"
+                "Facc"
             ],
             "aula": "1-92",
             "giorno": 3,
@@ -1145,7 +1145,7 @@
         "29": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "A050-x1"
+                "Facc"
             ],
             "aula": "1-92",
             "giorno": 6,
@@ -1532,7 +1532,7 @@
         "7": {
             "materia": "Tecn. Infor",
             "professori": [
-                "A041-x1",
+                "Burs",
                 "Bald"
             ],
             "aula": "1-32 Dise",
@@ -1542,7 +1542,7 @@
         "8": {
             "materia": "Tecn. Infor",
             "professori": [
-                "A041-x1",
+                "Burs",
                 "Bald"
             ],
             "aula": "1-32 Dise",
@@ -1625,7 +1625,7 @@
         "17": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "A050-x1"
+                "Facc"
             ],
             "aula": "3-10",
             "giorno": 3,
@@ -1653,7 +1653,7 @@
         "20": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "A050-x1"
+                "Facc"
             ],
             "aula": "3-10",
             "giorno": 4,
@@ -1707,7 +1707,7 @@
         "26": {
             "materia": "Tecn. Infor",
             "professori": [
-                "A041-x1"
+                "Burs"
             ],
             "aula": "3-10",
             "giorno": 5,
@@ -2178,7 +2178,7 @@
             "materia": "Tecn. Infor",
             "professori": [
                 "Arno",
-                "B016-x2"
+                "Ligu"
             ],
             "aula": "1-32 Dise",
             "giorno": 3,
@@ -2188,7 +2188,7 @@
             "materia": "Tecn. Infor",
             "professori": [
                 "Arno",
-                "B016-x2"
+                "Ligu"
             ],
             "aula": "1-32 Dise",
             "giorno": 3,
@@ -3275,7 +3275,7 @@
         "4": {
             "materia": "Matematica",
             "professori": [
-                "Pezz"
+                "Cava"
             ],
             "aula": "2-2",
             "giorno": 1,
@@ -3284,7 +3284,7 @@
         "5": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "A050-x1"
+                "Facc"
             ],
             "aula": "2-2",
             "giorno": 1,
@@ -3375,7 +3375,7 @@
         "15": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "A050-x1"
+                "Facc"
             ],
             "aula": "2-2",
             "giorno": 3,
@@ -3402,7 +3402,7 @@
         "18": {
             "materia": "Matematica",
             "professori": [
-                "Pezz"
+                "Cava"
             ],
             "aula": "2-2",
             "giorno": 4,
@@ -3514,7 +3514,7 @@
         "30": {
             "materia": "Matematica",
             "professori": [
-                "Pezz"
+                "Cava"
             ],
             "aula": "2-2",
             "giorno": 6,
@@ -3523,7 +3523,7 @@
         "31": {
             "materia": "Matematica",
             "professori": [
-                "Pezz"
+                "Cava"
             ],
             "aula": "2-2",
             "giorno": 6,
@@ -3580,7 +3580,7 @@
         "5": {
             "materia": "Matematica",
             "professori": [
-                "Pezz"
+                "Cava"
             ],
             "aula": "2-1",
             "giorno": 1,
@@ -3643,7 +3643,7 @@
         "12": {
             "materia": "Matematica",
             "professori": [
-                "Pezz"
+                "Cava"
             ],
             "aula": "2-1",
             "giorno": 3,
@@ -3718,7 +3718,7 @@
         "20": {
             "materia": "Matematica",
             "professori": [
-                "Pezz"
+                "Cava"
             ],
             "aula": "2-1",
             "giorno": 4,
@@ -3800,7 +3800,7 @@
         "29": {
             "materia": "Matematica",
             "professori": [
-                "Pezz"
+                "Cava"
             ],
             "aula": "2-1",
             "giorno": 6,
@@ -3838,7 +3838,7 @@
         "1": {
             "materia": "S.I. Biolog",
             "professori": [
-                "A050-x1"
+                "Facc"
             ],
             "aula": "3-4",
             "giorno": 1,
@@ -4003,7 +4003,7 @@
         "19": {
             "materia": "S.I. Biolog",
             "professori": [
-                "A050-x1"
+                "Facc"
             ],
             "aula": "3-4",
             "giorno": 4,
@@ -4266,7 +4266,7 @@
         "15": {
             "materia": "S.I. Biolog",
             "professori": [
-                "A050-x1"
+                "Facc"
             ],
             "aula": "3-5",
             "giorno": 3,
@@ -4431,7 +4431,7 @@
         "33": {
             "materia": "S.I. Biolog",
             "professori": [
-                "A050-x1"
+                "Facc"
             ],
             "aula": "3-5",
             "giorno": 6,
@@ -6869,7 +6869,7 @@
             "professori": [
                 "Chio"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 1,
             "ora": 2
         },
@@ -6878,7 +6878,7 @@
             "professori": [
                 "Gigl"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 1,
             "ora": 3
         },
@@ -6887,7 +6887,7 @@
             "professori": [
                 "Albo"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 1,
             "ora": 4
         },
@@ -6896,7 +6896,7 @@
             "professori": [
                 "Boni"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 1,
             "ora": 5
         },
@@ -6905,7 +6905,7 @@
             "professori": [
                 "Boni"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 1,
             "ora": 6
         },
@@ -6914,7 +6914,7 @@
             "professori": [
                 "Mast"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 2,
             "ora": 1
         },
@@ -6923,7 +6923,7 @@
             "professori": [
                 "Agon"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 2,
             "ora": 2
         },
@@ -6942,7 +6942,7 @@
             "professori": [
                 "Robe"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 2,
             "ora": 4
         },
@@ -6951,7 +6951,7 @@
             "professori": [
                 "Vite"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 2,
             "ora": 5
         },
@@ -6969,7 +6969,7 @@
             "professori": [
                 "Vite"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 3,
             "ora": 1
         },
@@ -6978,7 +6978,7 @@
             "professori": [
                 "Gres"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 3,
             "ora": 2
         },
@@ -7005,7 +7005,7 @@
             "professori": [
                 "Gigl"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 3,
             "ora": 5
         },
@@ -7014,7 +7014,7 @@
             "professori": [
                 "Vite"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 4,
             "ora": 1
         },
@@ -7023,7 +7023,7 @@
             "professori": [
                 "Chio"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 4,
             "ora": 2
         },
@@ -7032,7 +7032,7 @@
             "professori": [
                 "Mast"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 4,
             "ora": 3
         },
@@ -7041,7 +7041,7 @@
             "professori": [
                 "Boni"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 4,
             "ora": 4
         },
@@ -7069,7 +7069,7 @@
             "professori": [
                 "Albo"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 5,
             "ora": 1
         },
@@ -7078,7 +7078,7 @@
             "professori": [
                 "Agon"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 5,
             "ora": 2
         },
@@ -7087,7 +7087,7 @@
             "professori": [
                 "Vite"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 5,
             "ora": 3
         },
@@ -7096,7 +7096,7 @@
             "professori": [
                 "Vite"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 5,
             "ora": 4
         },
@@ -7105,7 +7105,7 @@
             "professori": [
                 "Gres"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 5,
             "ora": 5
         },
@@ -7114,7 +7114,7 @@
             "professori": [
                 "Mast"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 5,
             "ora": 6
         },
@@ -7123,7 +7123,7 @@
             "professori": [
                 "Chio"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 6,
             "ora": 1
         },
@@ -7132,7 +7132,7 @@
             "professori": [
                 "Mast"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 6,
             "ora": 2
         },
@@ -7141,7 +7141,7 @@
             "professori": [
                 "Dams"
             ],
-            "aula": "1-14",
+            "aula": "1-8",
             "giorno": 6,
             "ora": 3
         },
@@ -8130,7 +8130,7 @@
         "8": {
             "materia": "S.I. Biolog",
             "professori": [
-                "A050-x1"
+                "Facc"
             ],
             "aula": "3-3",
             "giorno": 2,
@@ -8348,7 +8348,7 @@
         "32": {
             "materia": "S.I. Biolog",
             "professori": [
-                "A050-x1"
+                "Facc"
             ],
             "aula": "3-3",
             "giorno": 6,
@@ -8693,7 +8693,7 @@
         "4": {
             "materia": "Italiano e",
             "professori": [
-                "A012-x1"
+                "Barf"
             ],
             "aula": "T2-1",
             "giorno": 1,
@@ -8702,7 +8702,7 @@
         "5": {
             "materia": "Italiano e",
             "professori": [
-                "A012-x1"
+                "Barf"
             ],
             "aula": "T2-1",
             "giorno": 1,
@@ -8730,7 +8730,7 @@
         "8": {
             "materia": "Italiano e",
             "professori": [
-                "A012-x1"
+                "Barf"
             ],
             "aula": "T2-1",
             "giorno": 2,
@@ -8861,7 +8861,7 @@
         "22": {
             "materia": "Italiano e",
             "professori": [
-                "A012-x1"
+                "Barf"
             ],
             "aula": "T2-1",
             "giorno": 4,
@@ -8870,7 +8870,7 @@
         "23": {
             "materia": "Italiano e",
             "professori": [
-                "A012-x1"
+                "Barf"
             ],
             "aula": "T2-1",
             "giorno": 4,
@@ -8944,7 +8944,7 @@
         "31": {
             "materia": "Italiano e",
             "professori": [
-                "A012-x1"
+                "Barf"
             ],
             "aula": "T2-1",
             "giorno": 6,
@@ -9984,7 +9984,7 @@
         "15": {
             "materia": "Informatica",
             "professori": [
-                "A041-x1",
+                "Burs",
                 "Gren"
             ],
             "aula": "I2-13",
@@ -9994,7 +9994,7 @@
         "16": {
             "materia": "Informatica",
             "professori": [
-                "A041-x1",
+                "Burs",
                 "Gren"
             ],
             "aula": "I2-13",
@@ -10004,7 +10004,7 @@
         "17": {
             "materia": "Informatica",
             "professori": [
-                "A041-x1",
+                "Burs",
                 "Gren"
             ],
             "aula": "T1-12",
@@ -10024,7 +10024,7 @@
             "materia": "Sistemi e R",
             "professori": [
                 "Tesc",
-                "B016-x2"
+                "Ligu"
             ],
             "aula": "I2-6",
             "giorno": 4,
@@ -10034,7 +10034,7 @@
             "materia": "Sistemi e R",
             "professori": [
                 "Tesc",
-                "B016-x2"
+                "Ligu"
             ],
             "aula": "I2-6",
             "giorno": 4,
@@ -10062,7 +10062,7 @@
         "23": {
             "materia": "Informatica",
             "professori": [
-                "A041-x1"
+                "Burs"
             ],
             "aula": "3-18",
             "giorno": 5,
@@ -10071,7 +10071,7 @@
         "24": {
             "materia": "Informatica",
             "professori": [
-                "A041-x1"
+                "Burs"
             ],
             "aula": "3-18",
             "giorno": 5,
@@ -10118,7 +10118,7 @@
         "29": {
             "materia": "Informatica",
             "professori": [
-                "A041-x1"
+                "Burs"
             ],
             "aula": "3-18",
             "giorno": 6,
@@ -10174,7 +10174,7 @@
         "3": {
             "materia": "Sistemi e R",
             "professori": [
-                "Mist"
+                "Burg"
             ],
             "aula": "T2-2",
             "giorno": 1,
@@ -10202,7 +10202,7 @@
             "materia": "Tecn. Prg",
             "professori": [
                 "Grea",
-                "B016-x1"
+                "Calo"
             ],
             "aula": "I2-13",
             "giorno": 1,
@@ -10303,7 +10303,7 @@
         "17": {
             "materia": "Sistemi e R",
             "professori": [
-                "Mist"
+                "Burg"
             ],
             "aula": "T2-2",
             "giorno": 3,
@@ -10389,7 +10389,7 @@
                 "Dant",
                 "Arcu"
             ],
-            "aula": "I1-6",
+            "aula": "I2-13",
             "giorno": 5,
             "ora": 3
         },
@@ -10414,7 +10414,7 @@
         "29": {
             "materia": "Sistemi e R",
             "professori": [
-                "Mist",
+                "Burg",
                 "Arcu"
             ],
             "aula": "I2-13",
@@ -10424,7 +10424,7 @@
         "30": {
             "materia": "Sistemi e R",
             "professori": [
-                "Mist",
+                "Burg",
                 "Arcu"
             ],
             "aula": "I2-13",
@@ -10546,7 +10546,7 @@
         "11": {
             "materia": "Sistemi e R",
             "professori": [
-                "A041-x1"
+                "Burs"
             ],
             "aula": "I3-2",
             "giorno": 2,
@@ -10564,7 +10564,7 @@
         "13": {
             "materia": "Sistemi e R",
             "professori": [
-                "A041-x1"
+                "Burs"
             ],
             "aula": "I1-3",
             "giorno": 3,
@@ -10576,7 +10576,7 @@
                 "Masm",
                 "Cama"
             ],
-            "aula": "I2-6",
+            "aula": "I1-6",
             "giorno": 3,
             "ora": 3
         },
@@ -10619,7 +10619,7 @@
         "19": {
             "materia": "Sistemi e R",
             "professori": [
-                "A041-x1",
+                "Burs",
                 "Midi"
             ],
             "aula": "T1-12",
@@ -10629,7 +10629,7 @@
         "20": {
             "materia": "Sistemi e R",
             "professori": [
-                "A041-x1",
+                "Burs",
                 "Midi"
             ],
             "aula": "T1-12",
@@ -10688,7 +10688,7 @@
                 "Masm",
                 "Cama"
             ],
-            "aula": "I2-13",
+            "aula": "I1-6",
             "giorno": 5,
             "ora": 3
         },
@@ -10698,7 +10698,7 @@
                 "Masm",
                 "Cama"
             ],
-            "aula": "I2-13",
+            "aula": "I1-6",
             "giorno": 5,
             "ora": 4
         },
@@ -10790,7 +10790,7 @@
         "5": {
             "materia": "Disegno e P",
             "professori": [
-                "Picco"
+                "Picc"
             ],
             "aula": "M3-4",
             "giorno": 1,
@@ -10799,7 +10799,7 @@
         "6": {
             "materia": "Disegno e P",
             "professori": [
-                "Picco"
+                "Picc"
             ],
             "aula": "M3-4",
             "giorno": 1,
@@ -10891,7 +10891,7 @@
         "16": {
             "materia": "Disegno e P",
             "professori": [
-                "Picco",
+                "Picc",
                 "Carc"
             ],
             "aula": "M3-4",
@@ -10901,7 +10901,7 @@
         "17": {
             "materia": "Disegno e P",
             "professori": [
-                "Picco",
+                "Picc",
                 "Carc"
             ],
             "aula": "M3-4",
@@ -11062,7 +11062,7 @@
             "professori": [
                 "Alfo"
             ],
-            "aula": "1-12",
+            "aula": "I2-13",
             "giorno": 1,
             "ora": 2
         },
@@ -11733,7 +11733,7 @@
         "10": {
             "materia": "Meccanica",
             "professori": [
-                "Picco"
+                "Picc"
             ],
             "aula": "I1-3",
             "giorno": 2,
@@ -11742,7 +11742,7 @@
         "11": {
             "materia": "Meccanica",
             "professori": [
-                "Picco"
+                "Picc"
             ],
             "aula": "I1-3",
             "giorno": 2,
@@ -11814,7 +11814,7 @@
         "19": {
             "materia": "Meccanica",
             "professori": [
-                "Picco",
+                "Picc",
                 "Bacc"
             ],
             "aula": "M1-8",
@@ -11824,7 +11824,7 @@
         "20": {
             "materia": "Meccanica",
             "professori": [
-                "Picco",
+                "Picc",
                 "Bacc"
             ],
             "aula": "M1-8",
@@ -12993,7 +12993,7 @@
             "materia": "Sistemi e R",
             "professori": [
                 "Ramp",
-                "B016-x2"
+                "Ligu"
             ],
             "aula": "I2-6",
             "giorno": 4,
@@ -13003,7 +13003,7 @@
             "materia": "Sistemi e R",
             "professori": [
                 "Ramp",
-                "B016-x2"
+                "Ligu"
             ],
             "aula": "I2-6",
             "giorno": 4,
@@ -13359,7 +13359,7 @@
             "materia": "Sistemi e R",
             "professori": [
                 "Suri",
-                "B016-x2"
+                "Ligu"
             ],
             "aula": "I2-13",
             "giorno": 5,
@@ -13369,7 +13369,7 @@
             "materia": "Sistemi e R",
             "professori": [
                 "Suri",
-                "B016-x2"
+                "Ligu"
             ],
             "aula": "I2-13",
             "giorno": 5,
@@ -13677,7 +13677,7 @@
             "professori": [
                 "Pudd"
             ],
-            "aula": "3-19",
+            "aula": "I1-1",
             "giorno": 5,
             "ora": 5
         },
@@ -13825,7 +13825,7 @@
         "10": {
             "materia": "Sistemi e R",
             "professori": [
-                "Mist"
+                "Burg"
             ],
             "aula": "I2-1",
             "giorno": 2,
@@ -13843,8 +13843,8 @@
         "12": {
             "materia": "Sistemi e R",
             "professori": [
-                "Mist",
-                "B016-x1"
+                "Burg",
+                "Calo"
             ],
             "aula": "I2-6",
             "giorno": 3,
@@ -13853,8 +13853,8 @@
         "13": {
             "materia": "Sistemi e R",
             "professori": [
-                "Mist",
-                "B016-x1"
+                "Burg",
+                "Calo"
             ],
             "aula": "I2-6",
             "giorno": 3,
@@ -13917,7 +13917,7 @@
         "20": {
             "materia": "Sistemi e R",
             "professori": [
-                "Mist"
+                "Burg"
             ],
             "aula": "I2-1",
             "giorno": 4,
@@ -14114,7 +14114,7 @@
             "materia": "Sistemi e R",
             "professori": [
                 "Prin",
-                "B016-x2"
+                "Ligu"
             ],
             "aula": "I2-6",
             "giorno": 2,
@@ -14124,7 +14124,7 @@
             "materia": "Sistemi e R",
             "professori": [
                 "Prin",
-                "B016-x2"
+                "Ligu"
             ],
             "aula": "I2-6",
             "giorno": 2,
@@ -14190,7 +14190,7 @@
             "materia": "Tecn. Prg",
             "professori": [
                 "Tesc",
-                "B016-x2"
+                "Ligu"
             ],
             "aula": "I1-13",
             "giorno": 3,
@@ -14200,7 +14200,7 @@
             "materia": "Tecn. Prg",
             "professori": [
                 "Tesc",
-                "B016-x2"
+                "Ligu"
             ],
             "aula": "I1-13",
             "giorno": 3,
@@ -14390,7 +14390,7 @@
             "materia": "Sistemi e R",
             "professori": [
                 "Prin",
-                "B016-x2"
+                "Ligu"
             ],
             "aula": "I2-6",
             "giorno": 2,
@@ -14400,7 +14400,7 @@
             "materia": "Sistemi e R",
             "professori": [
                 "Prin",
-                "B016-x2"
+                "Ligu"
             ],
             "aula": "I2-6",
             "giorno": 2,
@@ -14765,7 +14765,7 @@
         "15": {
             "materia": "Tecn. Prg",
             "professori": [
-                "A041-x1"
+                "Burs"
             ],
             "aula": "1-5",
             "giorno": 3,
@@ -14775,7 +14775,7 @@
             "materia": "Informatica",
             "professori": [
                 "Bern",
-                "B016-x1"
+                "Calo"
             ],
             "aula": "I1-6",
             "giorno": 3,
@@ -14785,7 +14785,7 @@
             "materia": "Informatica",
             "professori": [
                 "Bern",
-                "B016-x1"
+                "Calo"
             ],
             "aula": "I1-6",
             "giorno": 3,
@@ -14842,7 +14842,7 @@
             "materia": "Informatica",
             "professori": [
                 "Bern",
-                "B016-x1"
+                "Calo"
             ],
             "aula": "I1-6",
             "giorno": 5,
@@ -14916,7 +14916,7 @@
         "31": {
             "materia": "Tecn. Prg",
             "professori": [
-                "A041-x1",
+                "Burs",
                 "Gren"
             ],
             "aula": "I1-6",
@@ -14926,7 +14926,7 @@
         "32": {
             "materia": "Tecn. Prg",
             "professori": [
-                "A041-x1",
+                "Burs",
                 "Gren"
             ],
             "aula": "I1-6",
@@ -15422,7 +15422,7 @@
             "professori": [
                 "Alfo"
             ],
-            "aula": "M2-3",
+            "aula": "E2-9",
             "giorno": 4,
             "ora": 4
         },
@@ -15554,7 +15554,7 @@
         "3": {
             "materia": "Italiano e",
             "professori": [
-                "A012-x1"
+                "Barf"
             ],
             "aula": "M3-1",
             "giorno": 1,
@@ -15609,7 +15609,7 @@
         "9": {
             "materia": "Italiano e",
             "professori": [
-                "A012-x1"
+                "Barf"
             ],
             "aula": "M3-1",
             "giorno": 2,
@@ -15618,7 +15618,7 @@
         "10": {
             "materia": "Italiano e",
             "professori": [
-                "A012-x1"
+                "Barf"
             ],
             "aula": "M3-1",
             "giorno": 2,
@@ -15663,7 +15663,7 @@
         "15": {
             "materia": "Italiano e",
             "professori": [
-                "A012-x1"
+                "Barf"
             ],
             "aula": "M3-1",
             "giorno": 3,
@@ -15672,7 +15672,7 @@
         "16": {
             "materia": "Italiano e",
             "professori": [
-                "A012-x1"
+                "Barf"
             ],
             "aula": "M3-1",
             "giorno": 3,
@@ -15728,7 +15728,7 @@
         "22": {
             "materia": "Italiano e",
             "professori": [
-                "A012-x1"
+                "Barf"
             ],
             "aula": "M3-1",
             "giorno": 4,
@@ -17330,7 +17330,7 @@
             "materia": "Tecn. Prg",
             "professori": [
                 "Falz",
-                "B016-x1"
+                "Calo"
             ],
             "aula": "I2-6",
             "giorno": 1,
@@ -17340,7 +17340,7 @@
             "materia": "Tecn. Prg",
             "professori": [
                 "Falz",
-                "B016-x1"
+                "Calo"
             ],
             "aula": "I2-6",
             "giorno": 1,
@@ -17358,7 +17358,7 @@
         "4": {
             "materia": "Sistemi e R",
             "professori": [
-                "Mist"
+                "Burg"
             ],
             "aula": "3-17",
             "giorno": 1,
@@ -17376,7 +17376,7 @@
         "6": {
             "materia": "Sistemi e R",
             "professori": [
-                "Mist",
+                "Burg",
                 "Midi"
             ],
             "aula": "I2-13",
@@ -17386,7 +17386,7 @@
         "7": {
             "materia": "Sistemi e R",
             "professori": [
-                "Mist",
+                "Burg",
                 "Midi"
             ],
             "aula": "I2-13",
@@ -17396,7 +17396,7 @@
         "8": {
             "materia": "Gest. Prg",
             "professori": [
-                "A041-x1",
+                "Burs",
                 "Midi"
             ],
             "aula": "I2-13",
@@ -17406,7 +17406,7 @@
         "9": {
             "materia": "Gest. Prg",
             "professori": [
-                "A041-x1",
+                "Burs",
                 "Midi"
             ],
             "aula": "I2-13",
@@ -17479,7 +17479,7 @@
         "17": {
             "materia": "Sistemi e R",
             "professori": [
-                "Mist"
+                "Burg"
             ],
             "aula": "3-17",
             "giorno": 4,
@@ -17562,7 +17562,7 @@
         "26": {
             "materia": "Gest. Prg",
             "professori": [
-                "A041-x1"
+                "Burs"
             ],
             "aula": "3-17",
             "giorno": 5,
@@ -17723,7 +17723,7 @@
         "11": {
             "materia": "Gest. Prg",
             "professori": [
-                "Mist",
+                "Burg",
                 "Cama"
             ],
             "aula": "I2-6",
@@ -17733,7 +17733,7 @@
         "12": {
             "materia": "Gest. Prg",
             "professori": [
-                "Mist",
+                "Burg",
                 "Cama"
             ],
             "aula": "I2-6",
@@ -17810,7 +17810,7 @@
         "20": {
             "materia": "Gest. Prg",
             "professori": [
-                "Mist"
+                "Burg"
             ],
             "aula": "4-3",
             "giorno": 4,
@@ -18114,7 +18114,7 @@
             "materia": "Gest. Prg",
             "professori": [
                 "Masm",
-                "B016-x1"
+                "Calo"
             ],
             "aula": "I1-13",
             "giorno": 4,
@@ -18124,7 +18124,7 @@
             "materia": "Gest. Prg",
             "professori": [
                 "Masm",
-                "B016-x1"
+                "Calo"
             ],
             "aula": "I1-13",
             "giorno": 4,
@@ -18266,7 +18266,7 @@
             "materia": "Informatica",
             "professori": [
                 "Gual",
-                "B016-x2"
+                "Ligu"
             ],
             "aula": "I1-6",
             "giorno": 1,
@@ -18276,7 +18276,7 @@
             "materia": "Informatica",
             "professori": [
                 "Gual",
-                "B016-x2"
+                "Ligu"
             ],
             "aula": "I1-6",
             "giorno": 1,
@@ -18322,7 +18322,7 @@
             "materia": "Informatica",
             "professori": [
                 "Gual",
-                "B016-x2"
+                "Ligu"
             ],
             "aula": "I1-6",
             "giorno": 2,
@@ -18332,7 +18332,7 @@
             "materia": "Informatica",
             "professori": [
                 "Gual",
-                "B016-x2"
+                "Ligu"
             ],
             "aula": "I1-6",
             "giorno": 2,
@@ -18359,8 +18359,8 @@
         "15": {
             "materia": "Gest. Prg",
             "professori": [
-                "Mist",
-                "B016-x1"
+                "Burg",
+                "Calo"
             ],
             "aula": "I1-13",
             "giorno": 3,
@@ -18369,8 +18369,8 @@
         "16": {
             "materia": "Gest. Prg",
             "professori": [
-                "Mist",
-                "B016-x1"
+                "Burg",
+                "Calo"
             ],
             "aula": "I1-13",
             "giorno": 3,
@@ -18509,7 +18509,7 @@
         "31": {
             "materia": "Gest. Prg",
             "professori": [
-                "Mist"
+                "Burg"
             ],
             "aula": "I3-2",
             "giorno": 6,
@@ -18538,7 +18538,7 @@
         "2": {
             "materia": "Italiano e",
             "professori": [
-                "A012-x1"
+                "Barf"
             ],
             "aula": "I3-3",
             "giorno": 1,
@@ -18594,7 +18594,7 @@
         "8": {
             "materia": "Italiano e",
             "professori": [
-                "A012-x1"
+                "Barf"
             ],
             "aula": "I3-3",
             "giorno": 2,
@@ -18641,7 +18641,7 @@
         "13": {
             "materia": "Italiano e",
             "professori": [
-                "A012-x1"
+                "Barf"
             ],
             "aula": "I3-3",
             "giorno": 3,
@@ -18650,7 +18650,7 @@
         "14": {
             "materia": "Italiano e",
             "professori": [
-                "A012-x1"
+                "Barf"
             ],
             "aula": "I3-3",
             "giorno": 3,
@@ -18791,7 +18791,7 @@
         "29": {
             "materia": "Italiano e",
             "professori": [
-                "A012-x1"
+                "Barf"
             ],
             "aula": "I3-3",
             "giorno": 6,
@@ -18800,7 +18800,7 @@
         "30": {
             "materia": "Italiano e",
             "professori": [
-                "A012-x1"
+                "Barf"
             ],
             "aula": "I3-3",
             "giorno": 6,
@@ -18848,7 +18848,7 @@
             "materia": "Informatica",
             "professori": [
                 "Tesc",
-                "B016-x1"
+                "Calo"
             ],
             "aula": "I2-13",
             "giorno": 1,
@@ -18858,7 +18858,7 @@
             "materia": "Informatica",
             "professori": [
                 "Tesc",
-                "B016-x1"
+                "Calo"
             ],
             "aula": "I2-13",
             "giorno": 1,
@@ -18987,7 +18987,7 @@
             "materia": "Informatica",
             "professori": [
                 "Tesc",
-                "B016-x1"
+                "Calo"
             ],
             "aula": "I2-13",
             "giorno": 4,
@@ -18997,7 +18997,7 @@
             "materia": "Informatica",
             "professori": [
                 "Tesc",
-                "B016-x1"
+                "Calo"
             ],
             "aula": "I2-13",
             "giorno": 4,
@@ -19108,7 +19108,7 @@
             "materia": "Tecn. Prg",
             "professori": [
                 "Crob",
-                "B016-x1"
+                "Calo"
             ],
             "aula": "I1-13",
             "giorno": 6,
@@ -19118,7 +19118,7 @@
             "materia": "Tecn. Prg",
             "professori": [
                 "Crob",
-                "B016-x1"
+                "Calo"
             ],
             "aula": "I1-13",
             "giorno": 6,
@@ -19129,7 +19129,7 @@
         "1": {
             "materia": "Disegno e P",
             "professori": [
-                "Picco"
+                "Picc"
             ],
             "aula": "M3-4",
             "giorno": 1,
@@ -19138,7 +19138,7 @@
         "2": {
             "materia": "Disegno e P",
             "professori": [
-                "Picco"
+                "Picc"
             ],
             "aula": "M3-4",
             "giorno": 1,
@@ -19325,7 +19325,7 @@
         "22": {
             "materia": "Disegno e P",
             "professori": [
-                "Picco",
+                "Picc",
                 "Bacc"
             ],
             "aula": "M3-4",
@@ -19335,7 +19335,7 @@
         "23": {
             "materia": "Disegno e P",
             "professori": [
-                "Picco",
+                "Picc",
                 "Bacc"
             ],
             "aula": "M3-4",
@@ -19447,7 +19447,7 @@
         "3": {
             "materia": "Sistemi e A",
             "professori": [
-                "Picco"
+                "Picc"
             ],
             "aula": "M3-8",
             "giorno": 1,
@@ -19541,7 +19541,7 @@
         "13": {
             "materia": "Sistemi e A",
             "professori": [
-                "Picco",
+                "Picc",
                 "Vita"
             ],
             "aula": "E1-7",
@@ -19551,7 +19551,7 @@
         "14": {
             "materia": "Sistemi e A",
             "professori": [
-                "Picco",
+                "Picc",
                 "Vita"
             ],
             "aula": "E1-7",
@@ -19589,7 +19589,7 @@
         "18": {
             "materia": "Sistemi e A",
             "professori": [
-                "Picco",
+                "Picc",
                 "Vita"
             ],
             "aula": "E1-7",
@@ -20529,7 +20529,7 @@
             "professori": [
                 "Alfo"
             ],
-            "aula": "1-91",
+            "aula": "M3-4",
             "giorno": 5,
             "ora": 1
         },
