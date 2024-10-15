@@ -36,13 +36,13 @@ jobs:
         env:
           PRIVATE_KEY_BASE64: ${{ secrets.PRIVATE_KEY_BASE64 }}
         run: |
-          gpg --output config/teachers.gpg.txt --decrypt config/teachers.txt
+          gpg --output config/teachers.txt --decrypt config/teachers.txt.gpg
 
       - name: Decode hardcoded_abbreviations.txt.gpg
         env:
           PRIVATE_KEY_BASE64: ${{ secrets.PRIVATE_KEY_BASE64 }}
         run: |
-          gpg --output config/hardcoded_abbreviations.gpg.txt --decrypt config/hardcoded_abbreviations.txt
+          gpg --output config/hardcoded_abbreviations.txt --decrypt config/hardcoded_abbreviations.txt.gpg
 
       - name: Configure git
         run: |
