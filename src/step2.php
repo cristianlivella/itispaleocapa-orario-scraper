@@ -156,8 +156,8 @@ while ($line < $lineCount) {
             }
 
             // perform some clean
-            $classroom = str_replace('Lab. Terr. Occup.', 'LTO', $timetable[$line]);
-            $classroom = str_replace([' Aula Disegno 2', ' Aula Disegno', 'Aula ', 'Aula'], '', $classroom);
+            $classroom = str_replace(['Lab. Terr. Occup.', 'Lab. Terr. Occ'], 'LTO', $timetable[$line]);
+            $classroom = str_replace([' Aula Disegno 2', ' Aula Disegno', 'Aula ', 'Aula', ' Diseg',' Dise', ], '', $classroom);
             if (stripos($classroom, 'Lab') !== false || stripos($classroom, ' Ex ') !== false) {
                 $classroom = explode(' ', $classroom)[0];
             }

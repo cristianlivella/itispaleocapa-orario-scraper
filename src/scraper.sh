@@ -58,6 +58,13 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
+echo 'Starting step3'
+php step3.php
+
+echo 'Encrypt abbreviations'
+gpg --trust-model always --output abbreviations_matches.json.gpg --encrypt --recipient itispaleocapa-orario-scraper@cristianlivella.com abbreviations_matches.json
+rm abbreviations_matches.json 
+
 echo 'Saving new PDF hash'
 echo $new_hash > ../hashes/orario.pdf.sha512
 
@@ -74,6 +81,7 @@ echo 'Moving files to root...'
 mv orario.json ../orario.json
 mv orarioV2.json ../orarioV2.json
 mv orario_bgschoolbot.json ../orario_bgschoolbot.json
+mv abbreviations_matches.json.gpg ../abbreviations_matches.json.gpg
 mv omonimi.json ../config/omonimi.json
 
 if [ "$GITHUB_ACTIONS" == "true" ]; then
