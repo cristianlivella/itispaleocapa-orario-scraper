@@ -1523,7 +1523,7 @@
         "6": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Rusg"
             ],
             "aula": "3-10",
             "giorno": 1,
@@ -1580,7 +1580,7 @@
         "12": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Rusg"
             ],
             "aula": "3-10",
             "giorno": 3,
@@ -1589,7 +1589,7 @@
         "13": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Rusg"
             ],
             "aula": "3-10",
             "giorno": 3,
@@ -1698,7 +1698,7 @@
         "25": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Rusg"
             ],
             "aula": "3-10",
             "giorno": 5,
@@ -2676,7 +2676,7 @@
         "3": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Rusg"
             ],
             "aula": "4-12",
             "giorno": 1,
@@ -2685,7 +2685,7 @@
         "4": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Rusg"
             ],
             "aula": "4-12",
             "giorno": 1,
@@ -2777,7 +2777,7 @@
         "14": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Rusg"
             ],
             "aula": "4-12",
             "giorno": 3,
@@ -2897,7 +2897,7 @@
         "27": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Rusg"
             ],
             "aula": "4-12",
             "giorno": 5,
@@ -4577,7 +4577,7 @@
         "16": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Rusg"
             ],
             "aula": "3-6",
             "giorno": 3,
@@ -4651,7 +4651,7 @@
         "24": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Rusg"
             ],
             "aula": "3-6",
             "giorno": 5,
@@ -4724,7 +4724,7 @@
         "32": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Rusg"
             ],
             "aula": "3-6",
             "giorno": 6,
@@ -4733,7 +4733,7 @@
         "33": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Rusg"
             ],
             "aula": "3-6",
             "giorno": 6,
@@ -7949,7 +7949,7 @@
                 "Scer",
                 "Carc"
             ],
-            "aula": "1-96",
+            "aula": "E2-9",
             "giorno": 4,
             "ora": 4
         },
@@ -8370,7 +8370,7 @@
             "professori": [
                 "Posi"
             ],
-            "aula": "4-2",
+            "aula": "E1-10",
             "giorno": 1,
             "ora": 1
         },
@@ -8408,7 +8408,7 @@
             "professori": [
                 "Chit"
             ],
-            "aula": "4-2",
+            "aula": "E2-9",
             "giorno": 1,
             "ora": 5
         },
@@ -8446,7 +8446,7 @@
             "professori": [
                 "Posi"
             ],
-            "aula": "4-2",
+            "aula": "E1-10",
             "giorno": 2,
             "ora": 4
         },
@@ -9608,7 +9608,7 @@
         "6": {
             "materia": "Inglese",
             "professori": [
-                "Pedr"
+                "Marm"
             ],
             "aula": "I1-1",
             "giorno": 1,
@@ -9680,7 +9680,7 @@
         "14": {
             "materia": "Inglese",
             "professori": [
-                "Pedr"
+                "Marm"
             ],
             "aula": "I1-1",
             "giorno": 3,
@@ -9708,7 +9708,7 @@
         "17": {
             "materia": "Inglese",
             "professori": [
-                "Pedr"
+                "Marm"
             ],
             "aula": "I1-1",
             "giorno": 4,
@@ -10770,7 +10770,7 @@
         "3": {
             "materia": "Tecn",
             "professori": [
-                "A042-x4",
+                "Eust",
                 "Bacc"
             ],
             "aula": "M1-23",
@@ -10780,7 +10780,7 @@
         "4": {
             "materia": "Tecn",
             "professori": [
-                "A042-x4",
+                "Eust",
                 "Bacc"
             ],
             "aula": "M1-23",
@@ -10911,7 +10911,7 @@
         "18": {
             "materia": "Tecn. Mecca",
             "professori": [
-                "A042-x4"
+                "Eust"
             ],
             "aula": "M3-3",
             "giorno": 4,
@@ -11019,7 +11019,7 @@
         "30": {
             "materia": "Tecn",
             "professori": [
-                "A042-x4",
+                "Eust",
                 "Bacc"
             ],
             "aula": "M3-3",
@@ -11713,7 +11713,7 @@
         "8": {
             "materia": "Disegno e P",
             "professori": [
-                "A042-x4",
+                "Eust",
                 "Bacc"
             ],
             "aula": "M2-7",
@@ -11723,7 +11723,7 @@
         "9": {
             "materia": "Disegno e P",
             "professori": [
-                "A042-x4",
+                "Eust",
                 "Bacc"
             ],
             "aula": "M2-7",
@@ -11751,7 +11751,7 @@
         "12": {
             "materia": "Disegno e P",
             "professori": [
-                "A042-x4"
+                "Eust"
             ],
             "aula": "M2-7",
             "giorno": 3,
@@ -11760,7 +11760,7 @@
         "13": {
             "materia": "Disegno e P",
             "professori": [
-                "A042-x4"
+                "Eust"
             ],
             "aula": "M2-7",
             "giorno": 3,
@@ -13461,7 +13461,7 @@
         "3": {
             "materia": "Inglese",
             "professori": [
-                "Pedr"
+                "Marm"
             ],
             "aula": "3-19",
             "giorno": 1,
@@ -13581,7 +13581,7 @@
         "16": {
             "materia": "Inglese",
             "professori": [
-                "Pedr"
+                "Marm"
             ],
             "aula": "3-19",
             "giorno": 3,
@@ -13599,7 +13599,7 @@
         "18": {
             "materia": "Inglese",
             "professori": [
-                "Pedr"
+                "Marm"
             ],
             "aula": "3-19",
             "giorno": 4,
@@ -14938,7 +14938,7 @@
         "1": {
             "materia": "Tecn",
             "professori": [
-                "A042-x4",
+                "Eust",
                 "Dimi"
             ],
             "aula": "T3-7",
@@ -14948,7 +14948,7 @@
         "2": {
             "materia": "Tecn. Mecca",
             "professori": [
-                "A042-x4"
+                "Eust"
             ],
             "aula": "T3-7",
             "giorno": 1,
@@ -15023,7 +15023,7 @@
             "professori": [
                 "Pizc"
             ],
-            "aula": "M2-1",
+            "aula": "T3-7",
             "giorno": 2,
             "ora": 5
         },
@@ -15102,7 +15102,7 @@
         "19": {
             "materia": "Tecn",
             "professori": [
-                "A042-x4",
+                "Eust",
                 "Dimi"
             ],
             "aula": "M1-23",
@@ -15112,7 +15112,7 @@
         "20": {
             "materia": "Tecn",
             "professori": [
-                "A042-x4",
+                "Eust",
                 "Dimi"
             ],
             "aula": "M1-23",
@@ -15267,7 +15267,7 @@
             "professori": [
                 "Alfo"
             ],
-            "aula": "M2-3",
+            "aula": "M3-4",
             "giorno": 1,
             "ora": 4
         },
@@ -15422,7 +15422,7 @@
             "professori": [
                 "Alfo"
             ],
-            "aula": "E2-9",
+            "aula": "M2-3",
             "giorno": 4,
             "ora": 4
         },
@@ -15572,7 +15572,7 @@
         "5": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Rusg"
             ],
             "aula": "M3-1",
             "giorno": 1,
@@ -15591,7 +15591,7 @@
         "7": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Rusg"
             ],
             "aula": "M3-1",
             "giorno": 2,
@@ -15600,7 +15600,7 @@
         "8": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Rusg"
             ],
             "aula": "M3-1",
             "giorno": 2,
@@ -15764,7 +15764,7 @@
         "26": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Rusg"
             ],
             "aula": "M3-1",
             "giorno": 5,
@@ -18829,7 +18829,7 @@
         "1": {
             "materia": "Inglese",
             "professori": [
-                "Pedr"
+                "Marm"
             ],
             "aula": "I3-13",
             "giorno": 1,
@@ -18838,7 +18838,7 @@
         "2": {
             "materia": "Inglese",
             "professori": [
-                "Pedr"
+                "Marm"
             ],
             "aula": "I3-13",
             "giorno": 1,
@@ -18968,7 +18968,7 @@
         "16": {
             "materia": "Inglese",
             "professori": [
-                "Pedr"
+                "Marm"
             ],
             "aula": "I3-13",
             "giorno": 3,
@@ -19174,7 +19174,7 @@
         "6": {
             "materia": "Sistemi e A",
             "professori": [
-                "A042-x4",
+                "Eust",
                 "Vita"
             ],
             "aula": "E1-7",
@@ -19260,7 +19260,7 @@
         "15": {
             "materia": "Sistemi e A",
             "professori": [
-                "A042-x4",
+                "Eust",
                 "Vita"
             ],
             "aula": "E1-7",
@@ -19270,7 +19270,7 @@
         "16": {
             "materia": "Sistemi e A",
             "professori": [
-                "A042-x4",
+                "Eust",
                 "Vita"
             ],
             "aula": "E1-7",
@@ -19307,7 +19307,7 @@
         "20": {
             "materia": "Sistemi e A",
             "professori": [
-                "A042-x4"
+                "Eust"
             ],
             "aula": "M2-1",
             "giorno": 4,

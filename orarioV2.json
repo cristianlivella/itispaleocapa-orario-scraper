@@ -1936,7 +1936,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A026-x1",
+                        "teacher": "Rusg",
                         "classroom": "3-10"
                     }
                 ]
@@ -2014,7 +2014,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A026-x1",
+                        "teacher": "Rusg",
                         "classroom": "3-10"
                     }
                 ]
@@ -2025,7 +2025,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A026-x1",
+                        "teacher": "Rusg",
                         "classroom": "3-10"
                     }
                 ]
@@ -2161,7 +2161,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A026-x1",
+                        "teacher": "Rusg",
                         "classroom": "3-10"
                     }
                 ]
@@ -3399,7 +3399,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A026-x1",
+                        "teacher": "Rusg",
                         "classroom": "4-12"
                     }
                 ]
@@ -3410,7 +3410,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A026-x1",
+                        "teacher": "Rusg",
                         "classroom": "4-12"
                     }
                 ]
@@ -3528,7 +3528,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A026-x1",
+                        "teacher": "Rusg",
                         "classroom": "4-12"
                     }
                 ]
@@ -3683,7 +3683,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A026-x1",
+                        "teacher": "Rusg",
                         "classroom": "4-12"
                     }
                 ]
@@ -5792,7 +5792,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A026-x1",
+                        "teacher": "Rusg",
                         "classroom": "3-6"
                     }
                 ]
@@ -5888,7 +5888,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A026-x1",
+                        "teacher": "Rusg",
                         "classroom": "3-6"
                     }
                 ]
@@ -5980,7 +5980,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A026-x1",
+                        "teacher": "Rusg",
                         "classroom": "3-6"
                     }
                 ]
@@ -5991,7 +5991,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A026-x1",
+                        "teacher": "Rusg",
                         "classroom": "3-6"
                     }
                 ]
@@ -10003,11 +10003,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Scer",
-                        "classroom": "1-96"
+                        "classroom": "E2-9"
                     },
                     {
                         "teacher": "Carc",
-                        "classroom": "1-96"
+                        "classroom": "E2-9"
                     }
                 ]
             },
@@ -10529,7 +10529,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Posi",
-                        "classroom": "4-2"
+                        "classroom": "E1-10"
                     }
                 ]
             },
@@ -10581,7 +10581,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Chit",
-                        "classroom": "4-2"
+                        "classroom": "E2-9"
                     }
                 ]
             },
@@ -10633,7 +10633,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Posi",
-                        "classroom": "4-2"
+                        "classroom": "E1-10"
                     }
                 ]
             },
@@ -12139,7 +12139,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Pedr",
+                        "teacher": "Marm",
                         "classroom": "I1-1"
                     }
                 ]
@@ -12227,7 +12227,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Pedr",
+                        "teacher": "Marm",
                         "classroom": "I1-1"
                     }
                 ]
@@ -12264,7 +12264,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Pedr",
+                        "teacher": "Marm",
                         "classroom": "I1-1"
                     }
                 ]
@@ -13638,7 +13638,7 @@
                 "subject": "Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x4",
+                        "teacher": "Eust",
                         "classroom": "M1-23"
                     },
                     {
@@ -13653,7 +13653,7 @@
                 "subject": "Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x4",
+                        "teacher": "Eust",
                         "classroom": "M1-23"
                     },
                     {
@@ -13827,7 +13827,7 @@
                 "subject": "Tecn. Mecca",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x4",
+                        "teacher": "Eust",
                         "classroom": "M3-3"
                     }
                 ]
@@ -13959,7 +13959,7 @@
                 "subject": "Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x4",
+                        "teacher": "Eust",
                         "classroom": "M3-3"
                     },
                     {
@@ -14867,7 +14867,7 @@
                 "subject": "Disegno e P",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x4",
+                        "teacher": "Eust",
                         "classroom": "M2-7"
                     },
                     {
@@ -14882,7 +14882,7 @@
                 "subject": "Disegno e P",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x4",
+                        "teacher": "Eust",
                         "classroom": "M2-7"
                     },
                     {
@@ -14919,7 +14919,7 @@
                 "subject": "Disegno e P",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x4",
+                        "teacher": "Eust",
                         "classroom": "M2-7"
                     }
                 ]
@@ -14930,7 +14930,7 @@
                 "subject": "Disegno e P",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x4",
+                        "teacher": "Eust",
                         "classroom": "M2-7"
                     }
                 ]
@@ -17148,7 +17148,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Pedr",
+                        "teacher": "Marm",
                         "classroom": "3-19"
                     }
                 ]
@@ -17303,7 +17303,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Pedr",
+                        "teacher": "Marm",
                         "classroom": "3-19"
                     }
                 ]
@@ -17325,7 +17325,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Pedr",
+                        "teacher": "Marm",
                         "classroom": "3-19"
                     }
                 ]
@@ -19076,7 +19076,7 @@
                 "subject": "Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x4",
+                        "teacher": "Eust",
                         "classroom": "T3-7"
                     },
                     {
@@ -19091,7 +19091,7 @@
                 "subject": "Tecn. Mecca",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x4",
+                        "teacher": "Eust",
                         "classroom": "T3-7"
                     }
                 ]
@@ -19184,7 +19184,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Pizc",
-                        "classroom": "M2-1"
+                        "classroom": "T3-7"
                     }
                 ]
             },
@@ -19282,7 +19282,7 @@
                 "subject": "Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x4",
+                        "teacher": "Eust",
                         "classroom": "M1-23"
                     },
                     {
@@ -19297,7 +19297,7 @@
                 "subject": "Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x4",
+                        "teacher": "Eust",
                         "classroom": "M1-23"
                     },
                     {
@@ -19504,7 +19504,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Alfo",
-                        "classroom": "M2-3"
+                        "classroom": "M3-4"
                     }
                 ]
             },
@@ -19699,7 +19699,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Alfo",
-                        "classroom": "E2-9"
+                        "classroom": "M2-3"
                     }
                 ]
             },
@@ -19900,7 +19900,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A026-x1",
+                        "teacher": "Rusg",
                         "classroom": "M3-1"
                     }
                 ]
@@ -19926,7 +19926,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A026-x1",
+                        "teacher": "Rusg",
                         "classroom": "M3-1"
                     }
                 ]
@@ -19937,7 +19937,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A026-x1",
+                        "teacher": "Rusg",
                         "classroom": "M3-1"
                     }
                 ]
@@ -20143,7 +20143,7 @@
                 "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A026-x1",
+                        "teacher": "Rusg",
                         "classroom": "M3-1"
                     }
                 ]
@@ -24162,7 +24162,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Pedr",
+                        "teacher": "Marm",
                         "classroom": "I3-13"
                     }
                 ]
@@ -24173,7 +24173,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Pedr",
+                        "teacher": "Marm",
                         "classroom": "I3-13"
                     }
                 ]
@@ -24343,7 +24343,7 @@
                 "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Pedr",
+                        "teacher": "Marm",
                         "classroom": "I3-13"
                     }
                 ]
@@ -24611,7 +24611,7 @@
                 "subject": "Sistemi e A",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x4",
+                        "teacher": "Eust",
                         "classroom": "E1-7"
                     },
                     {
@@ -24730,7 +24730,7 @@
                 "subject": "Sistemi e A",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x4",
+                        "teacher": "Eust",
                         "classroom": "E1-7"
                     },
                     {
@@ -24745,7 +24745,7 @@
                 "subject": "Sistemi e A",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x4",
+                        "teacher": "Eust",
                         "classroom": "E1-7"
                     },
                     {
@@ -24793,7 +24793,7 @@
                 "subject": "Sistemi e A",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A042-x4",
+                        "teacher": "Eust",
                         "classroom": "M2-1"
                     }
                 ]
