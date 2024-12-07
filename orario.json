@@ -31,7 +31,7 @@
         "4": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "Facc"
+                "Cagn"
             ],
             "aula": "2-6",
             "giorno": 1,
@@ -177,7 +177,7 @@
         "20": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "Facc"
+                "Cagn"
             ],
             "aula": "2-6",
             "giorno": 4,
@@ -307,7 +307,7 @@
         "2": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "Facc"
+                "Cagn"
             ],
             "aula": "1-94",
             "giorno": 1,
@@ -406,7 +406,7 @@
         "13": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "Facc"
+                "Cagn"
             ],
             "aula": "1-94",
             "giorno": 3,
@@ -649,7 +649,7 @@
         "7": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "Facc"
+                "Cagn"
             ],
             "aula": "1-14",
             "giorno": 2,
@@ -796,7 +796,7 @@
         "23": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "Facc"
+                "Cagn"
             ],
             "aula": "1-14",
             "giorno": 4,
@@ -1026,7 +1026,7 @@
         "16": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "Facc"
+                "Cagn"
             ],
             "aula": "1-92",
             "giorno": 3,
@@ -1145,7 +1145,7 @@
         "29": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "Facc"
+                "Cagn"
             ],
             "aula": "1-92",
             "giorno": 6,
@@ -1625,7 +1625,7 @@
         "17": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "Facc"
+                "Cagn"
             ],
             "aula": "3-10",
             "giorno": 3,
@@ -1653,7 +1653,7 @@
         "20": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "Facc"
+                "Cagn"
             ],
             "aula": "3-10",
             "giorno": 4,
@@ -3284,7 +3284,7 @@
         "5": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "Facc"
+                "Cagn"
             ],
             "aula": "2-2",
             "giorno": 1,
@@ -3375,7 +3375,7 @@
         "15": {
             "materia": "S.I. Sc. d",
             "professori": [
-                "Facc"
+                "Cagn"
             ],
             "aula": "2-2",
             "giorno": 3,
@@ -3838,7 +3838,7 @@
         "1": {
             "materia": "S.I. Biolog",
             "professori": [
-                "Facc"
+                "Cagn"
             ],
             "aula": "3-4",
             "giorno": 1,
@@ -4003,7 +4003,7 @@
         "19": {
             "materia": "S.I. Biolog",
             "professori": [
-                "Facc"
+                "Cagn"
             ],
             "aula": "3-4",
             "giorno": 4,
@@ -4266,7 +4266,7 @@
         "15": {
             "materia": "S.I. Biolog",
             "professori": [
-                "Facc"
+                "Cagn"
             ],
             "aula": "3-5",
             "giorno": 3,
@@ -4431,7 +4431,7 @@
         "33": {
             "materia": "S.I. Biolog",
             "professori": [
-                "Facc"
+                "Cagn"
             ],
             "aula": "3-5",
             "giorno": 6,
@@ -4589,7 +4589,7 @@
                 "Alic",
                 "Auro"
             ],
-            "aula": "1-15",
+            "aula": "1-11",
             "giorno": 3,
             "ora": 5
         },
@@ -8130,7 +8130,7 @@
         "8": {
             "materia": "S.I. Biolog",
             "professori": [
-                "Facc"
+                "Cagn"
             ],
             "aula": "3-3",
             "giorno": 2,
@@ -8232,7 +8232,7 @@
                 "Alic",
                 "Auro"
             ],
-            "aula": "1-15",
+            "aula": "1-11",
             "giorno": 4,
             "ora": 1
         },
@@ -8348,7 +8348,7 @@
         "32": {
             "materia": "S.I. Biolog",
             "professori": [
-                "Facc"
+                "Cagn"
             ],
             "aula": "3-3",
             "giorno": 6,
@@ -15823,7 +15823,7 @@
             "professori": [
                 "Boni"
             ],
-            "aula": "M2-7",
+            "aula": "M3-4",
             "giorno": 6,
             "ora": 4
         }
@@ -20620,7 +20620,7 @@
             "professori": [
                 "Ster"
             ],
-            "aula": "1-91",
+            "aula": "M2-7",
             "giorno": 6,
             "ora": 4
         }

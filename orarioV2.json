@@ -48,7 +48,7 @@
                 "subject": "S.I. Sc. d",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Facc",
+                        "teacher": "Cagn",
                         "classroom": "2-6"
                     }
                 ]
@@ -232,7 +232,7 @@
                 "subject": "S.I. Sc. d",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Facc",
+                        "teacher": "Cagn",
                         "classroom": "2-6"
                     }
                 ]
@@ -396,7 +396,7 @@
                 "subject": "S.I. Sc. d",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Facc",
+                        "teacher": "Cagn",
                         "classroom": "1-94"
                     }
                 ]
@@ -517,7 +517,7 @@
                 "subject": "S.I. Sc. d",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Facc",
+                        "teacher": "Cagn",
                         "classroom": "1-94"
                     }
                 ]
@@ -833,7 +833,7 @@
                 "subject": "S.I. Sc. d",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Facc",
+                        "teacher": "Cagn",
                         "classroom": "1-14"
                     }
                 ]
@@ -1021,7 +1021,7 @@
                 "subject": "S.I. Sc. d",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Facc",
+                        "teacher": "Cagn",
                         "classroom": "1-14"
                     }
                 ]
@@ -1310,7 +1310,7 @@
                 "subject": "S.I. Sc. d",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Facc",
+                        "teacher": "Cagn",
                         "classroom": "1-92"
                     }
                 ]
@@ -1461,7 +1461,7 @@
                 "subject": "S.I. Sc. d",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Facc",
+                        "teacher": "Cagn",
                         "classroom": "1-92"
                     }
                 ]
@@ -2069,7 +2069,7 @@
                 "subject": "S.I. Sc. d",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Facc",
+                        "teacher": "Cagn",
                         "classroom": "3-10"
                     }
                 ]
@@ -2106,7 +2106,7 @@
                 "subject": "S.I. Sc. d",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Facc",
+                        "teacher": "Cagn",
                         "classroom": "3-10"
                     }
                 ]
@@ -4169,7 +4169,7 @@
                 "subject": "S.I. Sc. d",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Facc",
+                        "teacher": "Cagn",
                         "classroom": "2-2"
                     }
                 ]
@@ -4283,7 +4283,7 @@
                 "subject": "S.I. Sc. d",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Facc",
+                        "teacher": "Cagn",
                         "classroom": "2-2"
                     }
                 ]
@@ -4873,7 +4873,7 @@
                 "subject": "S.I. Biolog",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Facc",
+                        "teacher": "Cagn",
                         "classroom": "3-4"
                     }
                 ]
@@ -5083,7 +5083,7 @@
                 "subject": "S.I. Biolog",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Facc",
+                        "teacher": "Cagn",
                         "classroom": "3-4"
                     }
                 ]
@@ -5404,7 +5404,7 @@
                 "subject": "S.I. Biolog",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Facc",
+                        "teacher": "Cagn",
                         "classroom": "3-5"
                     }
                 ]
@@ -5614,7 +5614,7 @@
                 "subject": "S.I. Biolog",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Facc",
+                        "teacher": "Cagn",
                         "classroom": "3-5"
                     }
                 ]
@@ -5804,11 +5804,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Alic",
-                        "classroom": "1-15"
+                        "classroom": "1-11"
                     },
                     {
                         "teacher": "Auro",
-                        "classroom": "1-15"
+                        "classroom": "1-11"
                     }
                 ]
             },
@@ -10232,7 +10232,7 @@
                 "subject": "S.I. Biolog",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Facc",
+                        "teacher": "Cagn",
                         "classroom": "3-3"
                     }
                 ]
@@ -10354,11 +10354,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Alic",
-                        "classroom": "1-15"
+                        "classroom": "1-11"
                     },
                     {
                         "teacher": "Auro",
-                        "classroom": "1-15"
+                        "classroom": "1-11"
                     }
                 ]
             },
@@ -10504,7 +10504,7 @@
                 "subject": "S.I. Biolog",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Facc",
+                        "teacher": "Cagn",
                         "classroom": "3-3"
                     }
                 ]
@@ -20222,7 +20222,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Boni",
-                        "classroom": "M2-7"
+                        "classroom": "M3-4"
                     }
                 ]
             }
@@ -26514,7 +26514,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Ster",
-                        "classroom": "1-91"
+                        "classroom": "M2-7"
                     }
                 ]
             }
