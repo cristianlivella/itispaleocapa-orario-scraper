@@ -5,8 +5,8 @@ html=$(wget --header "Cookie: pasw_law_cookie=yes" -qO - https://www.itispaleoca
 name_prefix="1 – "
 name=$(echo "$html" | grep -o -P '(?<=\<h2 class\="posttitle"\>).*(?=\<\/h2\>)' | php -r 'while(($line=fgets(STDIN)) !== FALSE) echo html_entity_decode($line, ENT_QUOTES|ENT_HTML401);')
 name=${name#"$name_prefix"}
-pdf_url=$(echo $(echo "$html" | grep -o -P 'src="https:\/\/www\.itispaleocapa\.edu\.it[\/]{0,1}\?url=(\K.*\.pdf)') | sed 's@+@ @g;s@%@\\x@g' | xargs -0 printf "%b")
 
+pdf_url=$(echo "$html" | grep -oP 'href="(https:\/\/www\.itispaleocapa\.edu\.it[^"]*)" class="pdfemb-viewer"' | sed -E 's/href="([^"]*)".*/\1/')
 wget -qO 'orario.pdf' $pdf_url
 
 if [ $? -ne 0 ]; then
