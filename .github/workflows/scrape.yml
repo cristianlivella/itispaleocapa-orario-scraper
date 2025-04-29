@@ -20,6 +20,11 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+
       - name: Retrieve the private key and decode it to a file
         env:
           PRIVATE_KEY_BASE64: ${{ secrets.PRIVATE_KEY_BASE64 }}
