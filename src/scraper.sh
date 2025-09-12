@@ -6,8 +6,7 @@ name_prefix="1 – "
 name=$(echo "$html" | grep -o -P '(?<=\<h2 class\="posttitle"\>).*(?=\<\/h2\>)' | php -r 'while(($line=fgets(STDIN)) !== FALSE) echo html_entity_decode($line, ENT_QUOTES|ENT_HTML401);')
 name=${name#"$name_prefix"}
 
-pdf_url=$(echo "$html" | grep -oP 'href="(https:\/\/www\.itispaleocapa\.edu\.it[^"]*)" class="pdfemb-viewer"' | sed -E 's/href="([^"]*)".*/\1/')
-pdf_url="https://www.itispaleocapa.edu.it/wp-content/uploads/2017/01/Paleocapa-CLASSI-20250909.pdf"
+pdf_url=$(grep -oP '(?<=href=")https://www\.itispaleocapa\.edu\.it/orario-classi/\?download=\d+' <<<"$html")
 wget -qO 'orario.pdf' $pdf_url
 
 if [ $? -ne 0 ]; then
