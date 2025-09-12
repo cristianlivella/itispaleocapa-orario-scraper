@@ -7,6 +7,7 @@ name=$(echo "$html" | grep -o -P '(?<=\<h2 class\="posttitle"\>).*(?=\<\/h2\>)' 
 name=${name#"$name_prefix"}
 
 pdf_url=$(echo "$html" | grep -oP 'href="(https:\/\/www\.itispaleocapa\.edu\.it[^"]*)" class="pdfemb-viewer"' | sed -E 's/href="([^"]*)".*/\1/')
+pdf_url="https://www.itispaleocapa.edu.it/wp-content/uploads/2017/01/Paleocapa-CLASSI-20250909.pdf"
 wget -qO 'orario.pdf' $pdf_url
 
 if [ $? -ne 0 ]; then
