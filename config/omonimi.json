@@ -1,44 +1,25 @@
 [
     {
-        "cognome": "Albo",
+        "cognome": "Muzz",
         "omonimi": [
             {
                 "nome": "",
-                "ore": 15,
+                "ore": 2,
                 "materie": [
-                    "S.I. Chimic"
+                    "Storia"
                 ]
             },
             {
                 "nome": "",
-                "ore": 4,
+                "ore": 18,
                 "materie": [
-                    "Chim. Appl"
+                    "Italiano e"
                 ]
             }
         ]
     },
     {
-        "cognome": "Rich",
-        "omonimi": [
-            {
-                "nome": "",
-                "ore": 15,
-                "materie": [
-                    "S.I. Chimic"
-                ]
-            },
-            {
-                "nome": "",
-                "ore": 4,
-                "materie": [
-                    "Chim. Appl"
-                ]
-            }
-        ]
-    },
-    {
-        "cognome": "Bono",
+        "cognome": "Geno",
         "omonimi": [
             {
                 "nome": "",
@@ -57,59 +38,43 @@
         ]
     },
     {
-        "cognome": "Dipi",
+        "cognome": "Masi",
         "omonimi": [
             {
                 "nome": "",
-                "ore": 9,
+                "ore": 8,
                 "materie": [
+                    "Meccanica",
                     "Sc. e Tecn"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 11,
+                "materie": [
+                    "Disegno e P",
+                    "Tecn",
+                    "Tecn. Mecca"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Farr",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 11,
+                "materie": [
+                    "Sc. e Tecn",
+                    "Sistemi e A"
                 ]
             },
             {
                 "nome": "",
                 "ore": 10,
                 "materie": [
-                    "Sistemi Aut"
-                ]
-            }
-        ]
-    },
-    {
-        "cognome": "Vast",
-        "omonimi": [
-            {
-                "nome": "",
-                "ore": 3,
-                "materie": [
-                    "Sc. e Tecn"
-                ]
-            },
-            {
-                "nome": "",
-                "ore": 16,
-                "materie": [
-                    "Sistemi e A"
-                ]
-            }
-        ]
-    },
-    {
-        "cognome": "Brav",
-        "omonimi": [
-            {
-                "nome": "",
-                "ore": 7,
-                "materie": [
-                    "Chim. Appl"
-                ]
-            },
-            {
-                "nome": "",
-                "ore": 13,
-                "materie": [
-                    "Ideaz. Prg",
-                    "Tecn. Mat"
+                    "Disegno e P"
                 ]
             }
         ]
