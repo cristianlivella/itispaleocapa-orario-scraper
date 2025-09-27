@@ -133,7 +133,7 @@
                         "classroom": "1-11"
                     },
                     {
-                        "teacher": "B003-x1",
+                        "teacher": "Dima",
                         "classroom": "1-11"
                     }
                 ]
@@ -189,17 +189,6 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Zamm",
-                        "classroom": "1-14"
-                    }
-                ]
-            },
-            {
-                "day": 3,
-                "time": 6,
-                "subject": "S.I. Chimic",
-                "teachers_classrooms": [
-                    {
-                        "teacher": "Albo",
                         "classroom": "1-14"
                     }
                 ]
@@ -264,6 +253,17 @@
                     {
                         "teacher": "Mili",
                         "classroom": "1-90"
+                    }
+                ]
+            },
+            {
+                "day": 4,
+                "time": 6,
+                "subject": "S.I. Chimic",
+                "teachers_classrooms": [
+                    {
+                        "teacher": "Albo",
+                        "classroom": "1-14"
                     }
                 ]
             },
@@ -760,7 +760,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Alic",
-                        "classroom": "1-91"
+                        "classroom": "1-92"
                     }
                 ]
             },
@@ -771,7 +771,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Baro",
-                        "classroom": "1-91"
+                        "classroom": "1-92"
                     }
                 ]
             },
@@ -782,7 +782,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Napf",
-                        "classroom": "1-91"
+                        "classroom": "1-92"
                     }
                 ]
             },
@@ -793,7 +793,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Napf",
-                        "classroom": "1-91"
+                        "classroom": "1-92"
                     }
                 ]
             },
@@ -804,7 +804,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Grec",
-                        "classroom": "1-91"
+                        "classroom": "1-92"
                     }
                 ]
             },
@@ -815,7 +815,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Pezz",
-                        "classroom": "1-91"
+                        "classroom": "1-92"
                     }
                 ]
             },
@@ -1130,10 +1130,10 @@
             {
                 "day": 1,
                 "time": 1,
-                "subject": "Matematica",
+                "subject": "Religione",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Schi",
+                        "teacher": "Bren",
                         "classroom": "1-94"
                     }
                 ]
@@ -1185,10 +1185,10 @@
             {
                 "day": 2,
                 "time": 1,
-                "subject": "Religione",
+                "subject": "Matematica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Bren",
+                        "teacher": "Schi",
                         "classroom": "1-94"
                     }
                 ]
@@ -1365,12 +1365,12 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x4",
-                        "classroom": "2-8"
+                        "teacher": "Bezz",
+                        "classroom": "1-32"
                     },
                     {
                         "teacher": "Calo",
-                        "classroom": "2-8"
+                        "classroom": "1-32"
                     }
                 ]
             },
@@ -1380,12 +1380,12 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x4",
-                        "classroom": "2-8"
+                        "teacher": "Bezz",
+                        "classroom": "1-32"
                     },
                     {
                         "teacher": "Calo",
-                        "classroom": "2-8"
+                        "classroom": "1-32"
                     }
                 ]
             },
@@ -1428,7 +1428,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x4",
+                        "teacher": "Bezz",
                         "classroom": "1-94"
                     }
                 ]
@@ -2087,7 +2087,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x1",
+                        "teacher": "Lica",
                         "classroom": "1-32"
                     },
                     {
@@ -2102,7 +2102,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x1",
+                        "teacher": "Lica",
                         "classroom": "1-32"
                     },
                     {
@@ -2209,7 +2209,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x1",
+                        "teacher": "Lica",
                         "classroom": "3-16"
                     }
                 ]
@@ -2277,7 +2277,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x4",
+                        "teacher": "Bezz",
                         "classroom": "3-17"
                     }
                 ]
@@ -2391,7 +2391,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x4",
+                        "teacher": "Bezz",
                         "classroom": "1-90"
                     },
                     {
@@ -2406,7 +2406,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x4",
+                        "teacher": "Bezz",
                         "classroom": "1-90"
                     },
                     {
@@ -2805,7 +2805,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x4",
+                        "teacher": "Bezz",
                         "classroom": "3-18"
                     }
                 ]
@@ -2923,7 +2923,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x4",
+                        "teacher": "Bezz",
                         "classroom": "1-32"
                     },
                     {
@@ -2938,7 +2938,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x4",
+                        "teacher": "Bezz",
                         "classroom": "1-32"
                     },
                     {
@@ -3777,7 +3777,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x1",
+                        "teacher": "Lica",
                         "classroom": "1-90"
                     },
                     {
@@ -3792,7 +3792,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x1",
+                        "teacher": "Lica",
                         "classroom": "1-90"
                     },
                     {
@@ -3954,7 +3954,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x1",
+                        "teacher": "Lica",
                         "classroom": "3-12"
                     }
                 ]
@@ -4136,7 +4136,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x1",
+                        "teacher": "Lica",
                         "classroom": "3-11"
                     }
                 ]
@@ -4272,7 +4272,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x1",
+                        "teacher": "Lica",
                         "classroom": "1-90"
                     },
                     {
@@ -4287,7 +4287,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x1",
+                        "teacher": "Lica",
                         "classroom": "1-90"
                     },
                     {
@@ -4591,7 +4591,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Dali",
                         "classroom": "1-32"
                     },
                     {
@@ -4606,7 +4606,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Dali",
                         "classroom": "1-32"
                     },
                     {
@@ -4691,7 +4691,7 @@
                 "subject": "Tecn. Infor",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Dali",
                         "classroom": "3-10"
                     }
                 ]
@@ -4699,10 +4699,10 @@
             {
                 "day": 4,
                 "time": 1,
-                "subject": "S.I. Chimic",
+                "subject": "Italiano e",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Albo",
+                        "teacher": "Muzz",
                         "classroom": "3-10"
                     }
                 ]
@@ -4721,10 +4721,10 @@
             {
                 "day": 4,
                 "time": 3,
-                "subject": "Inglese",
+                "subject": "S.I. Chimic",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Mazl",
+                        "teacher": "Albo",
                         "classroom": "3-10"
                     }
                 ]
@@ -4813,10 +4813,10 @@
             {
                 "day": 5,
                 "time": 6,
-                "subject": "Italiano e",
+                "subject": "Inglese",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Muzz",
+                        "teacher": "Mazl",
                         "classroom": "3-10"
                     }
                 ]
@@ -4962,11 +4962,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Espi",
-                        "classroom": "3-3"
+                        "classroom": "1-90"
                     },
                     {
                         "teacher": "Bacc",
-                        "classroom": "3-3"
+                        "classroom": "1-90"
                     }
                 ]
             },
@@ -5145,7 +5145,7 @@
                         "classroom": "1-11"
                     },
                     {
-                        "teacher": "B003-x1",
+                        "teacher": "Dima",
                         "classroom": "1-11"
                     }
                 ]
@@ -5910,7 +5910,7 @@
                         "classroom": "1-15"
                     },
                     {
-                        "teacher": "B003-x1",
+                        "teacher": "Dima",
                         "classroom": "1-15"
                     }
                 ]
@@ -6005,7 +6005,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Muzz",
-                        "classroom": "1-92"
+                        "classroom": "1-91"
                     }
                 ]
             },
@@ -6016,7 +6016,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Muzz",
-                        "classroom": "1-92"
+                        "classroom": "1-91"
                     }
                 ]
             },
@@ -6027,7 +6027,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Dami",
-                        "classroom": "1-92"
+                        "classroom": "1-91"
                     }
                 ]
             },
@@ -6038,7 +6038,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Gigv",
-                        "classroom": "1-92"
+                        "classroom": "1-91"
                     }
                 ]
             },
@@ -6048,8 +6048,8 @@
                 "subject": "Sc. e Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x4",
-                        "classroom": "1-92"
+                        "teacher": "Bezz",
+                        "classroom": "1-91"
                     }
                 ]
             },
@@ -6060,7 +6060,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Frat",
-                        "classroom": "1-92"
+                        "classroom": "1-91"
                     }
                 ]
             },
@@ -6217,7 +6217,7 @@
                 "subject": "Sc. e Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x4",
+                        "teacher": "Bezz",
                         "classroom": "2-8"
                     }
                 ]
@@ -6228,7 +6228,7 @@
                 "subject": "Sc. e Tecn",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x4",
+                        "teacher": "Bezz",
                         "classroom": "2-8"
                     }
                 ]
@@ -6854,7 +6854,7 @@
                         "classroom": "1-11"
                     },
                     {
-                        "teacher": "B003-x1",
+                        "teacher": "Dima",
                         "classroom": "1-11"
                     }
                 ]
@@ -6943,10 +6943,10 @@
             {
                 "day": 3,
                 "time": 5,
-                "subject": "Diritto ed",
+                "subject": "Italiano e",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Sara",
+                        "teacher": "Marc",
                         "classroom": "3-7"
                     }
                 ]
@@ -7097,10 +7097,10 @@
             {
                 "day": 6,
                 "time": 2,
-                "subject": "Italiano e",
+                "subject": "Diritto ed",
                 "teachers_classrooms": [
                     {
-                        "teacher": "Marc",
+                        "teacher": "Sara",
                         "classroom": "3-7"
                     }
                 ]
@@ -7375,7 +7375,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Aiel",
-                        "classroom": "1-32"
+                        "classroom": "2-8"
                     }
                 ]
             },
@@ -7386,7 +7386,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Aiel",
-                        "classroom": "1-32"
+                        "classroom": "2-8"
                     }
                 ]
             },
@@ -7597,7 +7597,7 @@
                         "classroom": "1-15"
                     },
                     {
-                        "teacher": "B003-x1",
+                        "teacher": "Dima",
                         "classroom": "1-15"
                     }
                 ]
@@ -7968,6 +7968,10 @@
                     {
                         "teacher": "Vava",
                         "classroom": "1-32"
+                    },
+                    {
+                        "teacher": "Perl",
+                        "classroom": "1-32"
                     }
                 ]
             },
@@ -7992,7 +7996,7 @@
                         "classroom": "1-15"
                     },
                     {
-                        "teacher": "B003-x1",
+                        "teacher": "Dima",
                         "classroom": "1-15"
                     }
                 ]
@@ -8107,11 +8111,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Vava",
-                        "classroom": "M2-7"
-                    },
-                    {
-                        "teacher": "Perl",
-                        "classroom": "M2-7"
+                        "classroom": "3-19"
                     }
                 ]
             },
@@ -9138,7 +9138,7 @@
                         "classroom": "1-15"
                     },
                     {
-                        "teacher": "B003-x1",
+                        "teacher": "Dima",
                         "classroom": "1-15"
                     }
                 ]
@@ -9650,7 +9650,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Dipi",
-                        "classroom": "E2-2"
+                        "classroom": "E2-1"
                     }
                 ]
             },
@@ -9661,7 +9661,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Russ",
-                        "classroom": "E2-2"
+                        "classroom": "E2-1"
                     }
                 ]
             },
@@ -9965,11 +9965,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Bolo",
-                        "classroom": "E1-7"
+                        "classroom": "LTO"
                     },
                     {
                         "teacher": "Magg",
-                        "classroom": "E1-7"
+                        "classroom": "LTO"
                     }
                 ]
             },
@@ -9980,11 +9980,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Bolo",
-                        "classroom": "E1-7"
+                        "classroom": "LTO"
                     },
                     {
                         "teacher": "Magg",
-                        "classroom": "E1-7"
+                        "classroom": "LTO"
                     }
                 ]
             },
@@ -10313,11 +10313,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Tasc",
-                        "classroom": "E3-8"
+                        "classroom": "E1-7"
                     },
                     {
                         "teacher": "Dott",
-                        "classroom": "E3-8"
+                        "classroom": "E1-7"
                     }
                 ]
             },
@@ -10350,7 +10350,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Geno",
-                        "classroom": "2-7"
+                        "classroom": "E2-7"
                     }
                 ]
             },
@@ -10673,7 +10673,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Dali",
                         "classroom": "I1-1"
                     }
                 ]
@@ -10836,7 +10836,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Dali",
                         "classroom": "I1-1"
                     }
                 ]
@@ -10891,7 +10891,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Dali",
                         "classroom": "I1-13"
                     },
                     {
@@ -10974,7 +10974,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x4",
+                        "teacher": "Bezz",
                         "classroom": "I2-13"
                     },
                     {
@@ -11111,7 +11111,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x4",
+                        "teacher": "Bezz",
                         "classroom": "I1-2"
                     }
                 ]
@@ -11314,7 +11314,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x4",
+                        "teacher": "Bezz",
                         "classroom": "I1-2"
                     }
                 ]
@@ -11327,7 +11327,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x1",
+                        "teacher": "Lica",
                         "classroom": "4-11"
                     }
                 ]
@@ -11443,10 +11443,6 @@
                     {
                         "teacher": "Mazz",
                         "classroom": "I2-13"
-                    },
-                    {
-                        "teacher": "Togn",
-                        "classroom": "I2-13"
                     }
                 ]
             },
@@ -11523,7 +11519,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Mazz",
-                        "classroom": "4-11"
+                        "classroom": "I1-6"
+                    },
+                    {
+                        "teacher": "Togn",
+                        "classroom": "I1-6"
                     }
                 ]
             },
@@ -11533,7 +11533,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x1",
+                        "teacher": "Lica",
                         "classroom": "1-32"
                     },
                     {
@@ -11700,7 +11700,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x1",
+                        "teacher": "Lica",
                         "classroom": "4-11"
                     }
                 ]
@@ -12132,7 +12132,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Dali",
                         "classroom": "2-1"
                     }
                 ]
@@ -12154,7 +12154,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Dali",
                         "classroom": "I2-13"
                     },
                     {
@@ -12272,7 +12272,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Dali",
                         "classroom": "I2-2"
                     }
                 ]
@@ -12379,7 +12379,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Dali",
                         "classroom": "I1-6"
                     },
                     {
@@ -12394,7 +12394,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Dali",
                         "classroom": "I1-6"
                     },
                     {
@@ -12442,7 +12442,7 @@
                 "subject": "Informatica",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Dali",
                         "classroom": "2-2"
                     }
                 ]
@@ -14171,7 +14171,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Bono",
-                        "classroom": "E2-7"
+                        "classroom": "E2-9"
                     },
                     {
                         "teacher": "Salo",
@@ -14186,7 +14186,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Bono",
-                        "classroom": "E2-7"
+                        "classroom": "E2-9"
                     },
                     {
                         "teacher": "Salo",
@@ -14396,7 +14396,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Bono",
-                        "classroom": "E2-7"
+                        "classroom": "E2-9"
                     },
                     {
                         "teacher": "Salo",
@@ -14411,7 +14411,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Bono",
-                        "classroom": "E2-7"
+                        "classroom": "E2-9"
                     },
                     {
                         "teacher": "Salo",
@@ -14606,17 +14606,6 @@
                     {
                         "teacher": "Casm",
                         "classroom": "E3-8"
-                    }
-                ]
-            },
-            {
-                "day": 3,
-                "time": 6,
-                "subject": "Sistemi Aut",
-                "teachers_classrooms": [
-                    {
-                        "teacher": "Tasc",
-                        "classroom": "E2-2"
                     }
                 ]
             },
@@ -15207,7 +15196,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Dali",
                         "classroom": "I3-6"
                     }
                 ]
@@ -15521,7 +15510,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Dali",
                         "classroom": "I3-6"
                     },
                     {
@@ -15536,7 +15525,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Dali",
                         "classroom": "I3-6"
                     },
                     {
@@ -16002,7 +15991,7 @@
                         "classroom": "I2-6"
                     },
                     {
-                        "teacher": "Gaff",
+                        "teacher": "Cama",
                         "classroom": "I2-6"
                     }
                 ]
@@ -16017,7 +16006,7 @@
                         "classroom": "I2-6"
                     },
                     {
-                        "teacher": "Gaff",
+                        "teacher": "Cama",
                         "classroom": "I2-6"
                     }
                 ]
@@ -16039,7 +16028,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x1",
+                        "teacher": "Lica",
                         "classroom": "I2-3"
                     }
                 ]
@@ -16113,7 +16102,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x1",
+                        "teacher": "Lica",
                         "classroom": "I1-13"
                     },
                     {
@@ -16128,7 +16117,7 @@
                 "subject": "Tecn. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x1",
+                        "teacher": "Lica",
                         "classroom": "I1-13"
                     },
                     {
@@ -18371,7 +18360,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Imbe",
-                        "classroom": "I1-3"
+                        "classroom": "M2-4"
                     }
                 ]
             },
@@ -18806,7 +18795,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Guar",
-                        "classroom": "E3-2"
+                        "classroom": "1-90"
                     }
                 ]
             },
@@ -18872,7 +18861,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Bono",
-                        "classroom": "E2-7"
+                        "classroom": "E2-9"
                     },
                     {
                         "teacher": "Salo",
@@ -18887,7 +18876,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Bono",
-                        "classroom": "E2-7"
+                        "classroom": "E2-9"
                     },
                     {
                         "teacher": "Salo",
@@ -19042,7 +19031,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Bono",
-                        "classroom": "E2-7"
+                        "classroom": "E2-9"
                     },
                     {
                         "teacher": "Salo",
@@ -19057,7 +19046,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Bono",
-                        "classroom": "E2-7"
+                        "classroom": "E2-9"
                     },
                     {
                         "teacher": "Salo",
@@ -19153,6 +19142,17 @@
                     {
                         "teacher": "Magg",
                         "classroom": "E3-8"
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "time": 1,
+                "subject": "Elettrot. e",
+                "teachers_classrooms": [
+                    {
+                        "teacher": "Cast",
+                        "classroom": "E3-5"
                     }
                 ]
             },
@@ -19326,7 +19326,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Cagl",
-                        "classroom": "E3-5"
+                        "classroom": "E2-2"
                     }
                 ]
             },
@@ -19337,7 +19337,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Cagl",
-                        "classroom": "E3-5"
+                        "classroom": "E2-2"
                     }
                 ]
             },
@@ -19427,17 +19427,6 @@
                 ]
             },
             {
-                "day": 5,
-                "time": 6,
-                "subject": "Elettrot. e",
-                "teachers_classrooms": [
-                    {
-                        "teacher": "Cast",
-                        "classroom": "E3-5"
-                    }
-                ]
-            },
-            {
                 "day": 6,
                 "time": 1,
                 "subject": "Sc. Motorie",
@@ -19485,7 +19474,59 @@
         "5ECa": [
             {
                 "day": 1,
-                "time": 1,
+                "time": 2,
+                "subject": "Tecn. Prog",
+                "teachers_classrooms": [
+                    {
+                        "teacher": "Geno",
+                        "classroom": "E2-7"
+                    },
+                    {
+                        "teacher": "Magg",
+                        "classroom": "E2-7"
+                    }
+                ]
+            },
+            {
+                "day": 1,
+                "time": 3,
+                "subject": "Tecn. Prog",
+                "teachers_classrooms": [
+                    {
+                        "teacher": "Geno",
+                        "classroom": "E2-7"
+                    },
+                    {
+                        "teacher": "Magg",
+                        "classroom": "E2-7"
+                    }
+                ]
+            },
+            {
+                "day": 1,
+                "time": 4,
+                "subject": "Italiano e",
+                "teachers_classrooms": [
+                    {
+                        "teacher": "Fogl",
+                        "classroom": "E3-6"
+                    }
+                ]
+            },
+            {
+                "day": 1,
+                "time": 5,
+                "subject": "Sistemi Aut",
+                "teachers_classrooms": [
+                    {
+                        "teacher": "Bolo",
+                        "classroom": "LTO"
+                    }
+                ]
+            },
+            {
+                "day": 1,
+                "time": 6,
                 "subject": "Religione",
                 "teachers_classrooms": [
                     {
@@ -19495,58 +19536,6 @@
                 ]
             },
             {
-                "day": 1,
-                "time": 2,
-                "subject": "Tecn. Prog",
-                "teachers_classrooms": [
-                    {
-                        "teacher": "Geno",
-                        "classroom": "E2-7"
-                    },
-                    {
-                        "teacher": "Magg",
-                        "classroom": "E2-7"
-                    }
-                ]
-            },
-            {
-                "day": 1,
-                "time": 3,
-                "subject": "Tecn. Prog",
-                "teachers_classrooms": [
-                    {
-                        "teacher": "Geno",
-                        "classroom": "E2-7"
-                    },
-                    {
-                        "teacher": "Magg",
-                        "classroom": "E2-7"
-                    }
-                ]
-            },
-            {
-                "day": 1,
-                "time": 4,
-                "subject": "Italiano e",
-                "teachers_classrooms": [
-                    {
-                        "teacher": "Fogl",
-                        "classroom": "E3-6"
-                    }
-                ]
-            },
-            {
-                "day": 1,
-                "time": 5,
-                "subject": "Sistemi Aut",
-                "teachers_classrooms": [
-                    {
-                        "teacher": "Bolo",
-                        "classroom": "LTO"
-                    }
-                ]
-            },
-            {
                 "day": 2,
                 "time": 1,
                 "subject": "Elettrot. e",
@@ -19871,7 +19860,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Guar",
-                        "classroom": "E3-6"
+                        "classroom": "1-90"
                     }
                 ]
             }
@@ -20013,11 +20002,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Ramp",
-                        "classroom": "I2-6"
+                        "classroom": "I2-13"
                     },
                     {
-                        "teacher": "Cama",
-                        "classroom": "I2-6"
+                        "teacher": "Gaff",
+                        "classroom": "I2-13"
                     }
                 ]
             },
@@ -20028,11 +20017,11 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Ramp",
-                        "classroom": "I2-6"
+                        "classroom": "I2-13"
                     },
                     {
-                        "teacher": "Cama",
-                        "classroom": "I2-6"
+                        "teacher": "Gaff",
+                        "classroom": "I2-13"
                     }
                 ]
             },
@@ -20046,7 +20035,7 @@
                         "classroom": "I2-13"
                     },
                     {
-                        "teacher": "Gaff",
+                        "teacher": "Cama",
                         "classroom": "I2-13"
                     }
                 ]
@@ -20061,7 +20050,7 @@
                         "classroom": "I2-13"
                     },
                     {
-                        "teacher": "Gaff",
+                        "teacher": "Cama",
                         "classroom": "I2-13"
                     }
                 ]
@@ -20288,11 +20277,11 @@
                 "subject": "Gest. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Dali",
                         "classroom": "I2-13"
                     },
                     {
-                        "teacher": "Cama",
+                        "teacher": "Gaff",
                         "classroom": "I2-13"
                     }
                 ]
@@ -20303,11 +20292,11 @@
                 "subject": "Gest. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Dali",
                         "classroom": "I2-13"
                     },
                     {
-                        "teacher": "Cama",
+                        "teacher": "Gaff",
                         "classroom": "I2-13"
                     }
                 ]
@@ -20351,7 +20340,7 @@
                 "subject": "Gest. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x3",
+                        "teacher": "Dali",
                         "classroom": "T2-2"
                     }
                 ]
@@ -21610,7 +21599,7 @@
                 "subject": "Gest. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x4",
+                        "teacher": "Bezz",
                         "classroom": "I3-3"
                     }
                 ]
@@ -21717,7 +21706,7 @@
                 "subject": "Gest. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x4",
+                        "teacher": "Bezz",
                         "classroom": "I1-6"
                     },
                     {
@@ -21732,7 +21721,7 @@
                 "subject": "Gest. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x4",
+                        "teacher": "Bezz",
                         "classroom": "I1-6"
                     },
                     {
@@ -21930,7 +21919,7 @@
                 "subject": "Gest. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x1",
+                        "teacher": "Lica",
                         "classroom": "I1-13"
                     },
                     {
@@ -21945,7 +21934,7 @@
                 "subject": "Gest. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x1",
+                        "teacher": "Lica",
                         "classroom": "I1-13"
                     },
                     {
@@ -22204,7 +22193,7 @@
                 "subject": "Gest. Prg",
                 "teachers_classrooms": [
                     {
-                        "teacher": "A041-x1",
+                        "teacher": "Lica",
                         "classroom": "4-2"
                     }
                 ]
@@ -23835,7 +23824,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Imbe",
-                        "classroom": "E3-5"
+                        "classroom": "E1-7"
                     }
                 ]
             },
@@ -24065,7 +24054,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Masi",
-                        "classroom": "E2-1"
+                        "classroom": "E3-5"
                     }
                 ]
             },
@@ -24076,7 +24065,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Masi",
-                        "classroom": "E2-1"
+                        "classroom": "E3-5"
                     }
                 ]
             },
@@ -24098,7 +24087,7 @@
                 "teachers_classrooms": [
                     {
                         "teacher": "Imbe",
-                        "classroom": "E3-6"
+                        "classroom": "M2-4"
                     }
                 ]
             },
