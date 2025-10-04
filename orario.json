@@ -979,7 +979,7 @@
         "11": {
             "materia": "S.I. Fisica",
             "professori": [
-                "A020-x1",
+                "Trus",
                 "Quat"
             ],
             "aula": "1-15",
@@ -999,7 +999,7 @@
         "13": {
             "materia": "S.I. Fisica",
             "professori": [
-                "A020-x1"
+                "Trus"
             ],
             "aula": "1-94",
             "giorno": 3,
@@ -1163,7 +1163,7 @@
         "31": {
             "materia": "S.I. Fisica",
             "professori": [
-                "A020-x1"
+                "Trus"
             ],
             "aula": "1-94",
             "giorno": 6,
@@ -2095,7 +2095,7 @@
         "4": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "3-18",
             "giorno": 1,
@@ -2158,7 +2158,7 @@
         "11": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "3-18",
             "giorno": 2,
@@ -2268,7 +2268,7 @@
         "23": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "3-18",
             "giorno": 5,
@@ -2277,7 +2277,7 @@
         "24": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "3-18",
             "giorno": 5,
@@ -3321,7 +3321,7 @@
             "materia": "S.I. Fisica",
             "professori": [
                 "Quat",
-                "A020-x1"
+                "Trus"
             ],
             "aula": "1-11",
             "giorno": 2,
@@ -3348,7 +3348,7 @@
         "12": {
             "materia": "S.I. Fisica",
             "professori": [
-                "A020-x1"
+                "Trus"
             ],
             "aula": "3-11",
             "giorno": 3,
@@ -3505,7 +3505,7 @@
         "29": {
             "materia": "S.I. Fisica",
             "professori": [
-                "A020-x1"
+                "Trus"
             ],
             "aula": "3-11",
             "giorno": 6,
@@ -3580,7 +3580,7 @@
         "5": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "3-10",
             "giorno": 1,
@@ -3636,7 +3636,7 @@
         "11": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "3-10",
             "giorno": 2,
@@ -3654,7 +3654,7 @@
         "13": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "3-10",
             "giorno": 3,
@@ -3818,7 +3818,7 @@
         "31": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "3-10",
             "giorno": 6,
@@ -5668,7 +5668,7 @@
         "3": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "3-8",
             "giorno": 1,
@@ -5714,7 +5714,7 @@
         "8": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "3-8",
             "giorno": 2,
@@ -5887,7 +5887,7 @@
         "27": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "3-8",
             "giorno": 5,
@@ -5914,7 +5914,7 @@
         "30": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "3-8",
             "giorno": 6,
@@ -7251,7 +7251,7 @@
         "11": {
             "materia": "S.I. Fisica",
             "professori": [
-                "A020-x1",
+                "Trus",
                 "Dima"
             ],
             "aula": "1-15",
@@ -7289,7 +7289,7 @@
         "15": {
             "materia": "S.I. Fisica",
             "professori": [
-                "A020-x1"
+                "Trus"
             ],
             "aula": "2-1",
             "giorno": 3,
@@ -7451,7 +7451,7 @@
         "33": {
             "materia": "S.I. Fisica",
             "professori": [
-                "A020-x1"
+                "Trus"
             ],
             "aula": "2-1",
             "giorno": 6,
@@ -7816,7 +7816,7 @@
         "7": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "2-6",
             "giorno": 2,
@@ -7890,7 +7890,7 @@
         "15": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "2-6",
             "giorno": 3,
@@ -8011,7 +8011,7 @@
         "28": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "2-6",
             "giorno": 5,
@@ -8047,7 +8047,7 @@
         "32": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "2-6",
             "giorno": 6,
@@ -9109,7 +9109,7 @@
                 "Mazz",
                 "Togn"
             ],
-            "aula": "I1-6",
+            "aula": "1-32",
             "giorno": 4,
             "ora": 1
         },
@@ -11484,6 +11484,15 @@
             "ora": 5
         },
         "17": {
+            "materia": "Sistemi Aut",
+            "professori": [
+                "Tasc"
+            ],
+            "aula": "E2-2",
+            "giorno": 3,
+            "ora": 6
+        },
+        "18": {
             "materia": "Italiano e",
             "professori": [
                 "Bizi"
@@ -11492,7 +11501,7 @@
             "giorno": 4,
             "ora": 1
         },
-        "18": {
+        "19": {
             "materia": "Tecn. Prog",
             "professori": [
                 "Cagl"
@@ -11500,16 +11509,6 @@
             "aula": "E2-2",
             "giorno": 4,
             "ora": 2
-        },
-        "19": {
-            "materia": "Elettrot. e",
-            "professori": [
-                "Cast",
-                "Casm"
-            ],
-            "aula": "E3-8",
-            "giorno": 4,
-            "ora": 3
         },
         "20": {
             "materia": "Elettrot. e",
@@ -11519,9 +11518,19 @@
             ],
             "aula": "E3-8",
             "giorno": 4,
-            "ora": 4
+            "ora": 3
         },
         "21": {
+            "materia": "Elettrot. e",
+            "professori": [
+                "Cast",
+                "Casm"
+            ],
+            "aula": "E3-8",
+            "giorno": 4,
+            "ora": 4
+        },
+        "22": {
             "materia": "Matematica",
             "professori": [
                 "Digi"
@@ -11530,7 +11539,7 @@
             "giorno": 4,
             "ora": 5
         },
-        "22": {
+        "23": {
             "materia": "Italiano e",
             "professori": [
                 "Bizi"
@@ -11539,7 +11548,7 @@
             "giorno": 5,
             "ora": 1
         },
-        "23": {
+        "24": {
             "materia": "Inglese",
             "professori": [
                 "Mari"
@@ -11548,7 +11557,7 @@
             "giorno": 5,
             "ora": 2
         },
-        "24": {
+        "25": {
             "materia": "Elettrot. e",
             "professori": [
                 "Cast"
@@ -11557,7 +11566,7 @@
             "giorno": 5,
             "ora": 3
         },
-        "25": {
+        "26": {
             "materia": "Matematica",
             "professori": [
                 "Digi"
@@ -11565,16 +11574,6 @@
             "aula": "E2-2",
             "giorno": 5,
             "ora": 4
-        },
-        "26": {
-            "materia": "Sistemi Aut",
-            "professori": [
-                "Tasc",
-                "Magg"
-            ],
-            "aula": "E3-8",
-            "giorno": 5,
-            "ora": 5
         },
         "27": {
             "materia": "Sistemi Aut",
@@ -11584,9 +11583,19 @@
             ],
             "aula": "E3-8",
             "giorno": 5,
-            "ora": 6
+            "ora": 5
         },
         "28": {
+            "materia": "Sistemi Aut",
+            "professori": [
+                "Tasc",
+                "Magg"
+            ],
+            "aula": "E3-8",
+            "giorno": 5,
+            "ora": 6
+        },
+        "29": {
             "materia": "Matematica",
             "professori": [
                 "Digi"
@@ -11595,7 +11604,7 @@
             "giorno": 6,
             "ora": 1
         },
-        "29": {
+        "30": {
             "materia": "Italiano e",
             "professori": [
                 "Bizi"
@@ -11604,7 +11613,7 @@
             "giorno": 6,
             "ora": 2
         },
-        "30": {
+        "31": {
             "materia": "Tecn. Prog",
             "professori": [
                 "Cagl",
@@ -11614,7 +11623,7 @@
             "giorno": 6,
             "ora": 3
         },
-        "31": {
+        "32": {
             "materia": "Tecn. Prog",
             "professori": [
                 "Cagl",
@@ -15246,7 +15255,7 @@
             "professori": [
                 "Bolo"
             ],
-            "aula": "LTO",
+            "aula": "E3-6",
             "giorno": 1,
             "ora": 5
         },
@@ -15330,7 +15339,7 @@
             "professori": [
                 "Bolo"
             ],
-            "aula": "LTO",
+            "aula": "E3-6",
             "giorno": 3,
             "ora": 2
         },
@@ -16789,7 +16798,7 @@
         "9": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "I3-3",
             "giorno": 2,
@@ -16825,7 +16834,7 @@
         "13": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "I3-3",
             "giorno": 3,
@@ -16986,7 +16995,7 @@
         "30": {
             "materia": "Matematica",
             "professori": [
-                "A026-x1"
+                "Corv"
             ],
             "aula": "I3-3",
             "giorno": 6,
@@ -18631,7 +18640,7 @@
             "professori": [
                 "Masi"
             ],
-            "aula": "E3-6",
+            "aula": "E3-1",
             "giorno": 3,
             "ora": 2
         },
