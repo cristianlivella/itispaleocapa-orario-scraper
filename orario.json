@@ -575,7 +575,7 @@
                 "Corc",
                 "Quat"
             ],
-            "aula": "1-15",
+            "aula": "1-11",
             "giorno": 6,
             "ora": 3
         },
@@ -649,7 +649,7 @@
             "professori": [
                 "Baro"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 2,
             "ora": 1
         },
@@ -658,7 +658,7 @@
             "professori": [
                 "Alic"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 2,
             "ora": 2
         },
@@ -668,7 +668,7 @@
                 "Gagg",
                 "Carc"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 2,
             "ora": 3
         },
@@ -686,7 +686,7 @@
             "professori": [
                 "Gagn"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 2,
             "ora": 5
         },
@@ -695,7 +695,7 @@
             "professori": [
                 "Arno"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 2,
             "ora": 6
         },
@@ -704,7 +704,7 @@
             "professori": [
                 "Grec"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 3,
             "ora": 1
         },
@@ -713,7 +713,7 @@
             "professori": [
                 "Napf"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 3,
             "ora": 2
         },
@@ -742,7 +742,7 @@
             "professori": [
                 "Pezz"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 3,
             "ora": 5
         },
@@ -751,7 +751,7 @@
             "professori": [
                 "Baro"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 4,
             "ora": 1
         },
@@ -760,7 +760,7 @@
             "professori": [
                 "Pezz"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 4,
             "ora": 2
         },
@@ -769,7 +769,7 @@
             "professori": [
                 "Muzz"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 4,
             "ora": 3
         },
@@ -778,7 +778,7 @@
             "professori": [
                 "Aver"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 4,
             "ora": 4
         },
@@ -787,7 +787,7 @@
             "professori": [
                 "Gagg"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 4,
             "ora": 5
         },
@@ -796,7 +796,7 @@
             "professori": [
                 "Gagg"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 4,
             "ora": 6
         },
@@ -805,7 +805,7 @@
             "professori": [
                 "Napf"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 5,
             "ora": 1
         },
@@ -823,7 +823,7 @@
             "professori": [
                 "Muzz"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 5,
             "ora": 3
         },
@@ -852,7 +852,7 @@
             "professori": [
                 "Aver"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 6,
             "ora": 1
         },
@@ -861,7 +861,7 @@
             "professori": [
                 "Fuma"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 6,
             "ora": 2
         },
@@ -870,7 +870,7 @@
             "professori": [
                 "Pezz"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 6,
             "ora": 3
         },
@@ -879,7 +879,7 @@
             "professori": [
                 "Gagn"
             ],
-            "aula": "1-91",
+            "aula": "1-92",
             "giorno": 6,
             "ora": 4
         }
@@ -1288,7 +1288,7 @@
                 "Dami",
                 "Quat"
             ],
-            "aula": "1-15",
+            "aula": "1-11",
             "giorno": 3,
             "ora": 1
         },
@@ -1830,7 +1830,7 @@
                 "Dami",
                 "Quat"
             ],
-            "aula": "1-15",
+            "aula": "1-11",
             "giorno": 2,
             "ora": 1
         },
@@ -2559,7 +2559,7 @@
                 "Corc",
                 "Quat"
             ],
-            "aula": "1-15",
+            "aula": "1-11",
             "giorno": 4,
             "ora": 5
         },
@@ -3250,7 +3250,7 @@
             "professori": [
                 "Pezz"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 1,
             "ora": 1
         },
@@ -3259,7 +3259,7 @@
             "professori": [
                 "Lica"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 1,
             "ora": 2
         },
@@ -3268,7 +3268,7 @@
             "professori": [
                 "Gigl"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 1,
             "ora": 3
         },
@@ -3277,7 +3277,7 @@
             "professori": [
                 "Barb"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 1,
             "ora": 4
         },
@@ -3286,7 +3286,7 @@
             "professori": [
                 "Barb"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 1,
             "ora": 5
         },
@@ -3295,7 +3295,7 @@
             "professori": [
                 "Pezz"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 2,
             "ora": 1
         },
@@ -3304,7 +3304,7 @@
             "professori": [
                 "Agon"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 2,
             "ora": 2
         },
@@ -3332,7 +3332,7 @@
             "professori": [
                 "Cose"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 2,
             "ora": 5
         },
@@ -3341,7 +3341,7 @@
             "professori": [
                 "Tars"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 2,
             "ora": 6
         },
@@ -3350,7 +3350,7 @@
             "professori": [
                 "Trus"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 3,
             "ora": 1
         },
@@ -3359,7 +3359,7 @@
             "professori": [
                 "Pezz"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 3,
             "ora": 2
         },
@@ -3388,7 +3388,7 @@
             "professori": [
                 "Cata"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 3,
             "ora": 5
         },
@@ -3397,7 +3397,7 @@
             "professori": [
                 "Bren"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 3,
             "ora": 6
         },
@@ -3406,7 +3406,7 @@
             "professori": [
                 "Cose"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 4,
             "ora": 1
         },
@@ -3434,7 +3434,7 @@
             "professori": [
                 "Gigl"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 4,
             "ora": 4
         },
@@ -3443,7 +3443,7 @@
             "professori": [
                 "Tars"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 4,
             "ora": 5
         },
@@ -3453,7 +3453,7 @@
                 "Barb",
                 "Vita"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 4,
             "ora": 6
         },
@@ -3462,7 +3462,7 @@
             "professori": [
                 "Tars"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 5,
             "ora": 1
         },
@@ -3471,7 +3471,7 @@
             "professori": [
                 "Tars"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 5,
             "ora": 2
         },
@@ -3480,7 +3480,7 @@
             "professori": [
                 "Cose"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 5,
             "ora": 3
         },
@@ -3489,7 +3489,7 @@
             "professori": [
                 "Agon"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 5,
             "ora": 4
         },
@@ -3498,7 +3498,7 @@
             "professori": [
                 "Cata"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 5,
             "ora": 5
         },
@@ -3507,7 +3507,7 @@
             "professori": [
                 "Trus"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 6,
             "ora": 1
         },
@@ -3516,7 +3516,7 @@
             "professori": [
                 "Tars"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 6,
             "ora": 2
         },
@@ -3525,7 +3525,7 @@
             "professori": [
                 "Tars"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 6,
             "ora": 3
         },
@@ -3534,7 +3534,7 @@
             "professori": [
                 "Pezz"
             ],
-            "aula": "3-11",
+            "aula": "2-1",
             "giorno": 6,
             "ora": 4
         }
@@ -4809,7 +4809,7 @@
             "professori": [
                 "Muzz"
             ],
-            "aula": "1-92",
+            "aula": "1-91",
             "giorno": 2,
             "ora": 2
         },
@@ -4818,7 +4818,7 @@
             "professori": [
                 "Muzz"
             ],
-            "aula": "1-92",
+            "aula": "1-91",
             "giorno": 2,
             "ora": 3
         },
@@ -4827,7 +4827,7 @@
             "professori": [
                 "Marr"
             ],
-            "aula": "1-92",
+            "aula": "1-91",
             "giorno": 2,
             "ora": 4
         },
@@ -4836,7 +4836,7 @@
             "professori": [
                 "Grec"
             ],
-            "aula": "1-92",
+            "aula": "1-91",
             "giorno": 2,
             "ora": 5
         },
@@ -4863,7 +4863,7 @@
             "professori": [
                 "Marr"
             ],
-            "aula": "1-92",
+            "aula": "1-91",
             "giorno": 3,
             "ora": 3
         },
@@ -4872,7 +4872,7 @@
             "professori": [
                 "Muzz"
             ],
-            "aula": "1-92",
+            "aula": "1-91",
             "giorno": 3,
             "ora": 4
         },
@@ -4891,7 +4891,7 @@
             "professori": [
                 "Gigv"
             ],
-            "aula": "1-92",
+            "aula": "1-91",
             "giorno": 3,
             "ora": 6
         },
@@ -4900,7 +4900,7 @@
             "professori": [
                 "Ness"
             ],
-            "aula": "1-92",
+            "aula": "1-91",
             "giorno": 4,
             "ora": 1
         },
@@ -4909,7 +4909,7 @@
             "professori": [
                 "Marr"
             ],
-            "aula": "1-92",
+            "aula": "1-91",
             "giorno": 4,
             "ora": 2
         },
@@ -4936,7 +4936,7 @@
             "professori": [
                 "Gigv"
             ],
-            "aula": "1-92",
+            "aula": "1-91",
             "giorno": 4,
             "ora": 5
         },
@@ -4945,7 +4945,7 @@
             "professori": [
                 "Muzz"
             ],
-            "aula": "1-92",
+            "aula": "1-91",
             "giorno": 4,
             "ora": 6
         },
@@ -4954,7 +4954,7 @@
             "professori": [
                 "Dami"
             ],
-            "aula": "1-92",
+            "aula": "1-91",
             "giorno": 5,
             "ora": 1
         },
@@ -4982,7 +4982,7 @@
             "professori": [
                 "Cata"
             ],
-            "aula": "1-92",
+            "aula": "1-91",
             "giorno": 5,
             "ora": 4
         },
@@ -4991,7 +4991,7 @@
             "professori": [
                 "Grec"
             ],
-            "aula": "1-92",
+            "aula": "1-91",
             "giorno": 5,
             "ora": 5
         },
@@ -5010,7 +5010,7 @@
             "professori": [
                 "Ness"
             ],
-            "aula": "1-92",
+            "aula": "1-91",
             "giorno": 6,
             "ora": 1
         },
@@ -5019,7 +5019,7 @@
             "professori": [
                 "Cata"
             ],
-            "aula": "1-92",
+            "aula": "1-91",
             "giorno": 6,
             "ora": 2
         },
@@ -5028,7 +5028,7 @@
             "professori": [
                 "Gigv"
             ],
-            "aula": "1-92",
+            "aula": "1-91",
             "giorno": 6,
             "ora": 3
         },
@@ -5037,7 +5037,7 @@
             "professori": [
                 "Ness"
             ],
-            "aula": "1-92",
+            "aula": "1-91",
             "giorno": 6,
             "ora": 4
         }
@@ -5762,7 +5762,7 @@
                 "Dami",
                 "Quat"
             ],
-            "aula": "1-15",
+            "aula": "1-11",
             "giorno": 3,
             "ora": 2
         },
@@ -7162,7 +7162,7 @@
             "professori": [
                 "Gagn"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 1,
             "ora": 1
         },
@@ -7171,7 +7171,7 @@
             "professori": [
                 "Posi"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 1,
             "ora": 2
         },
@@ -7199,7 +7199,7 @@
             "professori": [
                 "Mann"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 1,
             "ora": 5
         },
@@ -7208,7 +7208,7 @@
             "professori": [
                 "Corm"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 1,
             "ora": 6
         },
@@ -7217,7 +7217,7 @@
             "professori": [
                 "Mann"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 2,
             "ora": 1
         },
@@ -7226,7 +7226,7 @@
             "professori": [
                 "Posi"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 2,
             "ora": 2
         },
@@ -7273,7 +7273,7 @@
             "professori": [
                 "Agon"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 3,
             "ora": 1
         },
@@ -7282,7 +7282,7 @@
             "professori": [
                 "Cata"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 3,
             "ora": 2
         },
@@ -7291,7 +7291,7 @@
             "professori": [
                 "Trus"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 3,
             "ora": 3
         },
@@ -7300,7 +7300,7 @@
             "professori": [
                 "Bren"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 3,
             "ora": 4
         },
@@ -7309,7 +7309,7 @@
             "professori": [
                 "Mann"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 3,
             "ora": 5
         },
@@ -7318,7 +7318,7 @@
             "professori": [
                 "Mann"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 3,
             "ora": 6
         },
@@ -7327,7 +7327,7 @@
             "professori": [
                 "Corm"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 4,
             "ora": 1
         },
@@ -7336,7 +7336,7 @@
             "professori": [
                 "Posi"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 4,
             "ora": 2
         },
@@ -7345,7 +7345,7 @@
             "professori": [
                 "Gagn"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 4,
             "ora": 3
         },
@@ -7354,7 +7354,7 @@
             "professori": [
                 "Mann"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 4,
             "ora": 4
         },
@@ -7363,7 +7363,7 @@
             "professori": [
                 "Cata"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 4,
             "ora": 5
         },
@@ -7390,7 +7390,7 @@
             "professori": [
                 "Mann"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 5,
             "ora": 3
         },
@@ -7408,7 +7408,7 @@
             "professori": [
                 "Farr"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 5,
             "ora": 5
         },
@@ -7417,7 +7417,7 @@
             "professori": [
                 "Posi"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 5,
             "ora": 6
         },
@@ -7426,7 +7426,7 @@
             "professori": [
                 "Gagn"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 6,
             "ora": 1
         },
@@ -7435,7 +7435,7 @@
             "professori": [
                 "Agon"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 6,
             "ora": 2
         },
@@ -7444,7 +7444,7 @@
             "professori": [
                 "Corm"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 6,
             "ora": 3
         },
@@ -7453,7 +7453,7 @@
             "professori": [
                 "Trus"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 6,
             "ora": 4
         }
@@ -9568,7 +9568,7 @@
             "professori": [
                 "Crip"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 1,
             "ora": 3
         },
@@ -9577,7 +9577,7 @@
             "professori": [
                 "Dali"
             ],
-            "aula": "2-1",
+            "aula": "3-11",
             "giorno": 1,
             "ora": 4
         },
@@ -17067,15 +17067,6 @@
             "ora": 5
         },
         "6": {
-            "materia": "Sistemi e R",
-            "professori": [
-                "Prin"
-            ],
-            "aula": "I2-13",
-            "giorno": 1,
-            "ora": 6
-        },
-        "7": {
             "materia": "Italiano e",
             "professori": [
                 "Espo"
@@ -17083,6 +17074,16 @@
             "aula": "4-2",
             "giorno": 2,
             "ora": 1
+        },
+        "7": {
+            "materia": "Gest. Prg",
+            "professori": [
+                "Lica",
+                "Gaff"
+            ],
+            "aula": "I1-13",
+            "giorno": 2,
+            "ora": 2
         },
         "8": {
             "materia": "Gest. Prg",
@@ -17092,19 +17093,9 @@
             ],
             "aula": "I1-13",
             "giorno": 2,
-            "ora": 2
-        },
-        "9": {
-            "materia": "Gest. Prg",
-            "professori": [
-                "Lica",
-                "Gaff"
-            ],
-            "aula": "I1-13",
-            "giorno": 2,
             "ora": 3
         },
-        "10": {
+        "9": {
             "materia": "Sistemi e R",
             "professori": [
                 "Prin"
@@ -17113,7 +17104,7 @@
             "giorno": 2,
             "ora": 4
         },
-        "11": {
+        "10": {
             "materia": "Informatica",
             "professori": [
                 "Crob"
@@ -17122,7 +17113,7 @@
             "giorno": 2,
             "ora": 5
         },
-        "12": {
+        "11": {
             "materia": "Italiano e",
             "professori": [
                 "Espo"
@@ -17131,7 +17122,7 @@
             "giorno": 3,
             "ora": 1
         },
-        "13": {
+        "12": {
             "materia": "Italiano e",
             "professori": [
                 "Espo"
@@ -17139,6 +17130,16 @@
             "aula": "4-2",
             "giorno": 3,
             "ora": 2
+        },
+        "13": {
+            "materia": "Informatica",
+            "professori": [
+                "Crob",
+                "Midi"
+            ],
+            "aula": "I1-6",
+            "giorno": 3,
+            "ora": 3
         },
         "14": {
             "materia": "Informatica",
@@ -17148,17 +17149,17 @@
             ],
             "aula": "I1-6",
             "giorno": 3,
-            "ora": 3
+            "ora": 4
         },
         "15": {
-            "materia": "Informatica",
+            "materia": "Tecn. Prg",
             "professori": [
-                "Crob",
-                "Midi"
+                "Dant",
+                "Gaff"
             ],
-            "aula": "I1-6",
+            "aula": "I2-6",
             "giorno": 3,
-            "ora": 4
+            "ora": 5
         },
         "16": {
             "materia": "Tecn. Prg",
@@ -17168,19 +17169,9 @@
             ],
             "aula": "I2-6",
             "giorno": 3,
-            "ora": 5
-        },
-        "17": {
-            "materia": "Tecn. Prg",
-            "professori": [
-                "Dant",
-                "Gaff"
-            ],
-            "aula": "I2-6",
-            "giorno": 3,
             "ora": 6
         },
-        "18": {
+        "17": {
             "materia": "Italiano e",
             "professori": [
                 "Espo"
@@ -17189,7 +17180,7 @@
             "giorno": 4,
             "ora": 1
         },
-        "19": {
+        "18": {
             "materia": "Italiano e",
             "professori": [
                 "Espo"
@@ -17198,7 +17189,7 @@
             "giorno": 4,
             "ora": 2
         },
-        "20": {
+        "19": {
             "materia": "Tecn. Prg",
             "professori": [
                 "Dant"
@@ -17207,7 +17198,7 @@
             "giorno": 4,
             "ora": 3
         },
-        "21": {
+        "20": {
             "materia": "Inglese",
             "professori": [
                 "Corm"
@@ -17216,7 +17207,7 @@
             "giorno": 4,
             "ora": 4
         },
-        "22": {
+        "21": {
             "materia": "Matematica",
             "professori": [
                 "Valt"
@@ -17224,6 +17215,15 @@
             "aula": "4-2",
             "giorno": 4,
             "ora": 5
+        },
+        "22": {
+            "materia": "Sistemi e R",
+            "professori": [
+                "Prin"
+            ],
+            "aula": "I2-13",
+            "giorno": 4,
+            "ora": 6
         },
         "23": {
             "materia": "Sistemi e R",
