@@ -115,6 +115,14 @@ while ($line < $lineCount) {
                 $teachersFound = true;
                 $checkForClassroom = true;
                 $line--;
+            } elseif (count($tempTimetable[$class][$time]['teachers_classrooms'] ?? []) > 0 && preg_match('/[a-z]/', $timetable[$line]) && !preg_match(REGEX_CLASSE_DI_CONCORSO, $timetable[$line])) {
+                // FIX FOR BAD FORMATTED PDFs (lesson without teacher right after another lesson, see "Tutor Rondi" subject, class 1IC, version 10/10/2026)
+                // teacher abbreviations are uppercase, so this line is the subject of the next lesson:
+                // close the current lesson and parse this line again as a subject
+                $subjectFound = false;
+                $teachersFound = false;
+                $time++;
+                continue;
             } elseif ((strpos($timetable[$line], '-') === false) || preg_match(REGEX_CLASSE_DI_CONCORSO, $timetable[$line])) {
                 // if the current line doesn't contain hyphen, or if it matches the "classe di concorso" regex, then it's a teacher
                 if (!in_array($timetable[$line], $teachersList)) {

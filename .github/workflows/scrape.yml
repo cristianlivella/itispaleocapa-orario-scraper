@@ -13,17 +13,19 @@ on:
 jobs:
   scrape:
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+    # Pinned to 24.04: ubuntu-latest moved to 26.04, and the pinned Python requirements
+    # (e.g. Pillow 8.4.0) only work with Python 3.10
+    runs-on: ubuntu-24.04
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v5
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
-          python-version: "3.10.17"
+          python-version: "3.10"
 
       - name: Retrieve the private key and decode it to a file
         env:

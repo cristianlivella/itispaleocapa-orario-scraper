@@ -46,7 +46,7 @@ $teacherFullNames = explode(PHP_EOL, file_get_contents(realpath(__DIR__) . '/../
 
 $finalMatches = [];
 
-$orarioV2 = json_decode(file_get_contents('../orarioV2.json'), true);
+$orarioV2 = json_decode(file_get_contents('orarioV2.json'), true);
 
 // extrac the list of abbriavations from the current timetable
 foreach ($orarioV2['timetable'] as $class => $classTimetable) {
