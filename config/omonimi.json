@@ -1,36 +1,62 @@
 [
     {
-        "cognome": "Muzz",
+        "cognome": "Casm",
         "omonimi": [
             {
                 "nome": "",
-                "ore": 2,
+                "ore": 4,
                 "materie": [
-                    "Storia"
+                    "Fond. Elt"
                 ]
             },
             {
                 "nome": "",
-                "ore": 18,
+                "ore": 15,
                 "materie": [
-                    "Italiano e"
+                    "Elettrot. e"
                 ]
             }
         ]
     },
     {
-        "cognome": "Geno",
+        "cognome": "Salo",
         "omonimi": [
             {
                 "nome": "",
-                "ore": 3,
+                "ore": 11,
                 "materie": [
-                    "Sc. e Tecn"
+                    "Tecn. Prog"
                 ]
             },
             {
                 "nome": "",
-                "ore": 16,
+                "ore": 4,
+                "materie": [
+                    "Sistemi Aut"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 5,
+                "materie": [
+                    "Elettrot. e"
+                ]
+            }
+        ]
+    },
+    {
+        "cognome": "Magg",
+        "omonimi": [
+            {
+                "nome": "",
+                "ore": 10,
+                "materie": [
+                    "Sistemi Aut"
+                ]
+            },
+            {
+                "nome": "",
+                "ore": 11,
                 "materie": [
                     "Tecn. Prog"
                 ]
@@ -38,43 +64,27 @@
         ]
     },
     {
-        "cognome": "Masi",
+        "cognome": "Dott",
         "omonimi": [
             {
                 "nome": "",
-                "ore": 8,
+                "ore": 9,
                 "materie": [
-                    "Meccanica",
-                    "Sc. e Tecn"
+                    "Sistemi Aut"
                 ]
             },
             {
                 "nome": "",
                 "ore": 11,
                 "materie": [
-                    "Disegno e P",
-                    "Tecn",
-                    "Tecn. Mecca"
-                ]
-            }
-        ]
-    },
-    {
-        "cognome": "Farr",
-        "omonimi": [
-            {
-                "nome": "",
-                "ore": 11,
-                "materie": [
-                    "Sc. e Tecn",
-                    "Sistemi e A"
+                    "Tecn. Prog"
                 ]
             },
             {
                 "nome": "",
-                "ore": 10,
+                "ore": 2,
                 "materie": [
-                    "Disegno e P"
+                    "Elettrot. e"
                 ]
             }
         ]
